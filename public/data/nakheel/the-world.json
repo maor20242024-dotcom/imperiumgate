@@ -1,0 +1,231 @@
+{
+  "slug": "The_World_island",
+  "id": "nakheel-The_World_island",
+  "projectName": {
+    "ar": "جزر العالم",
+    "en": "The World"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "وجهة عالمية رائدة. جزر العالم هي أرخبيل تم تخطيطه ليعكس قارات العالم. مجموعة من الجزر الاصطناعية التي تشكل تعبيراً فريداً عن التفرد، وهي حديثة في تصميمها ولكنها خالدة في جاذبيتها. يشغل هذا التطوير المبتكر مكاناً يفوق الخيال — مجموعة من الجزر الخاصة حيث يمكن العثور على فرصة غير مسبوقة نادرة تقريباً مثل الطموح المطلوب لتصورها. أضاف هذا الأرخبيل الاصطناعي الرائع ما يقرب من 232 كيلومتراً من الواجهة البحرية لساحل دبي ويوفر فرصاً فريدة لتطوير مشاريع ترفيهية وسكنية حصرية. جزر العالم مُخطط لها بإتقان لتبدو كخريطة العالم. تضم هذه الوجهة الساحلية 260 جزيرة اصطناعية مجمعة في سبع مجموعات تمثل قارات مختلفة. كل جزيرة سميت على اسم دول ومدن ومناطق. أبحر إلى قلب أوروبا أو استرخِ على شواطئ لبنان. أياً كان ما تختاره، الرمال والسماء والبحر لك في جزر العالم. جزر العالم هو أحد أكثر مشاريع نخيل إلهاماً وطموحاً.",
+    "en": "A Groundbreaking Global Destination The World Islands are an archipelago master-planned to mirror the world's continents. A collection of man-made islands that form a singular expression of exclusivity, they are modern in design yet timeless in appeal. This innovative development occupies a place beyond imagination—a collection of private islands where an unprecedented opportunity can be found that is almost as rare as the ambition required to envision it. This remarkable artificial archipelago has added nearly 232 kilometres of beachfront to Dubai’s coastline and offers unique opportunities for the development of exclusive leisure and residential projects."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Private Beaches"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Beach Clubs"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Entertainment Venues"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Hotels & Resorts"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants & Cafés"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Club"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Wellness Facilities"
+      },
+      "description": {
+        "ar": "مركز صحي متكامل يوفر خدمات العافية والاسترخاء",
+        "en": "An integrated wellness center providing health and relaxation services"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Luxury Marinas"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    }
+  ],
+  "area": {
+    "ar": "null",
+    "en": "null"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x480.jpg?sfvrsn=27e259f4_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x4802.jpg?sfvrsn=74d5e2c9_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x4803.jpg?sfvrsn=289fcc54_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x4804.jpg?sfvrsn=3c599d71_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islandsb59c8bbb-db48-405f-9a0c-3e9bbe66cabf.jpg?sfvrsn=91a7683e_1",
+  "latitude": 25.2205602,
+  "launchDate": "null",
+  "location": {
+    "ar": "جزر العالم هي أرخبيل يقع في الخليج العربي، ويعكس قارات العالم. إنها مجموعة من الجزر الاصطناعية قبالة ساحل دبي.",
+    "en": "The World Islands are an archipelago located in the Arabian Gulf, mirroring the world's continents. They are a collection of man-made islands off the coast of Dubai."
+  },
+  "longitude": 55.1218846,
+  "mapDescription": {
+    "ar": "جزر العالم",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Anantara World Islands Dubai",
+        "ar": "Anantara World Islands Dubai"
+      }
+    },
+    {
+      "name": {
+        "en": "The Heart of Europe",
+        "ar": "The Heart of Europe"
+      }
+    },
+    {
+      "name": {
+        "en": "The Island",
+        "ar": "The Island"
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-collections/theworld",
+  "projectStatus": {
+    "ar": "null",
+    "en": "null"
+  },
+  "propertyTypes": [
+    {
+      "en": "Islands",
+      "ar": "جزر"
+    },
+    {
+      "en": "Villas",
+      "ar": "فلل"
+    },
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Townhouses",
+      "ar": "تاون هاوس"
+    },
+    {
+      "en": "Penthouses",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/property-detail/the-world-islands.mp4?sfvrsn=fbc08792_1",
+  "views": [
+    {
+      "en": "Sea View",
+      "ar": "إطلالة بحرية"
+    },
+    {
+      "en": "City View",
+      "ar": "إطلالة على المدينة"
+    }
+  ],
+  "projectID": "the-world",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "The World offers premium living experience with exceptional amenities and strategic location in null.",
+    "ar": "تقدم جزر العالم تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في null."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "The World: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in null"
+    },
+    "ar": {
+      "title": "جزر العالم: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في null"
+    }
+  },
+  "insights": {
+    "en": "The World represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic null location.",
+    "ar": "تمثل جزر العالم فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في null."
+  }
+}

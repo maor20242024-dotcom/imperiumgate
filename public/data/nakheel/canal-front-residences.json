@@ -1,0 +1,222 @@
+{
+  "slug": "Canal_Front_Residences",
+  "id": "nakheel-Canal_Front_Residences",
+  "projectName": {
+    "ar": "قناة فرونت ريزيدنسز",
+    "en": "Canal Front Residences"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استمتع بالمناظر الخلابة وتناول الطعام النابض بالحياة في قناة فرونت ريزيدنسز، منزلك المثالي على قناة دبي المائية مع أفضل المرافق الترفيهية. يقع المشروع على قناة دبي المائية، على بعد دقائق فقط من البحر، وستكون شقتك في قناة فرونت ريزيدنسز بلمسات نهائية عالية الجودة. استمتع بالمناظر الخلابة من شرفتك الفسيحة وجرب مجموعة من مرافق تناول الطعام والترفيه والاستجمام داخل هذا الحي النابض بالحياة.",
+    "en": "Located at Dubai Water Canal, just minutes from the sea, your apartment at Canal Front Residences will be finished to the highest standards. Admire the scenic views from your spacious balcony and experience a host of dining, leisure and recreation facilities within this vibrant neighbourhood."
+  },
+  "3D_TourLink": "https://my.matterport.com/show/?m=JkG1B45H32Z",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Boardwalk"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": "1, 2, and 3 bedrooms",
+  "brand": "Nakheel",
+  "brochurePdfLink": "/docs/nakheelcorporatelibraries/default-document-library/dubai-canal-front---brochure.pdf?sfvrsn=394d97ff_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q4 2024",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-outdoor.jpg?sfvrsn=49ebbfcc_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-main.jpg?sfvrsn=d4d0d0da_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-green.jpg?sfvrsn=e0ea3e0f_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-bridge.jpg?sfvrsn=8fdf7221_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-unit.jpg?sfvrsn=995f2860_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-unitf44e8e07-a9db-4edf-97da-033aa9f052e4.jpg?sfvrsn=f17998be_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-1-and-2-park.jpg?sfvrsn=be06417_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-3-and-4.jpg?sfvrsn=587d9d5_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-3-and-466cbb9e6-d007-4214-8897-c7a77a44e516.jpg?sfvrsn=5d51f915_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-3-and-4d29c7738-b777-4e85-a383-8114c243653d.jpg?sfvrsn=dcd03f2_1",
+    "/images/nakheelcorporatelibraries/construction-updates/canal-front-residence---building-3-and-4a8e14533-c6ca-4dea-ba46-73134bbb7113.jpg?sfvrsn=2b0595e9_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/spotlight/cf7-and-cf83.jpg?sfvrsn=4ad7828b_3",
+  "latitude": 25.1870517,
+  "launchDate": "30 Jun 2022",
+  "location": {
+    "ar": "قناة فرونت ريزيدنسز، قناة دبي المائية، على بعد دقائق من البحر، حي نابض بالحياة.",
+    "en": "Dubai Water Canal"
+  },
+  "longitude": 55.2452192,
+  "mapDescription": {
+    "ar": "مساكن واجهة القناة",
+    "en": "Canal Front Residences"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Downtown",
+        "ar": "معلم"
+      },
+      "distance": {
+        "en": "5 min",
+        "ar": "غير متوفر"
+      },
+      "name": {
+        "en": "Dubai Downtown",
+        "ar": "Dubai Downtown"
+      }
+    },
+    {
+      "category": {
+        "en": "Beach",
+        "ar": "شاطئ"
+      },
+      "distance": {
+        "en": "5 min",
+        "ar": "غير متوفر"
+      },
+      "name": {
+        "en": "Jumeirah Beach",
+        "ar": "شاطئ جميرا"
+      }
+    },
+    {
+      "category": {
+        "en": "Business Bay",
+        "ar": "معلم"
+      },
+      "distance": {
+        "en": "7 min",
+        "ar": "غير متوفر"
+      },
+      "name": {
+        "en": "Business Bay",
+        "ar": "الخليج التجاري"
+      }
+    },
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": "محطة"
+      },
+      "distance": {
+        "en": "4 Min away",
+        "ar": "غير متوفر"
+      },
+      "name": {
+        "en": "nearest Metro station",
+        "ar": "nearest Metro station"
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": "مركز تسوق"
+      },
+      "distance": {
+        "en": "10 min",
+        "ar": "غير متوفر"
+      },
+      "name": {
+        "en": "Dubai Mall",
+        "ar": "دبي مول"
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://www.nakheel.com/en/latest-handovers/canal-front-residences",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/projects/canal-front-residences.mp4?sfvrsn=9e68b061_1",
+  "views": [
+    {
+      "en": "Scenic views",
+      "ar": ""
+    }
+  ],
+  "projectID": "canal-front-residences",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "Canal Front Residences offers premium living experience with exceptional amenities and strategic location in .",
+    "ar": "تقدم قناة فرونت ريزيدنسز تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في ."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Canal Front Residences: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in "
+    },
+    "ar": {
+      "title": "قناة فرونت ريزيدنسز: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في "
+    }
+  },
+  "insights": {
+    "en": "Canal Front Residences represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic  location.",
+    "ar": "تمثل قناة فرونت ريزيدنسز فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في ."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "projectName": {
+    "en": "Address Residences Zabeel",
+    "ar": ""
+  },
+  "projectID": "address-residence-zabeel",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "en": "Signature residences with panoramic views",
+    "ar": ""
+  },
+  "3D_TourLink": null,
+  "amenities": [],
+  "area": {
+    "ar": "دبي",
+    "en": ""
+  },
+  "bedrooms": [],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": null,
+  "contact": {
+    "phone": null,
+    "whatsapp": null
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait-320x415.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait-320x415.jpg",
+  "latitude": 0,
+  "launchDate": null,
+  "location": {
+    "ar": "دبي",
+    "en": ""
+  },
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/our-communities/address-residence-zabeel/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectCategory": "Building",
+  "summary": {
+    "en": "Address Residences Zabeel offers premium living experience with exceptional amenities and strategic location in .",
+    "ar": "تقدم  تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في دبي."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Address Residences Zabeel: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in "
+    },
+    "ar": {
+      "title": ": تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في دبي"
+    }
+  },
+  "insights": {
+    "en": "Address Residences Zabeel represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic  location.",
+    "ar": "تمثل  فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في دبي."
+  }
+}

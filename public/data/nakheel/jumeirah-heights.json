@@ -1,0 +1,258 @@
+{
+  "slug": "Jumeirah_Heights",
+  "id": "nakheel-Jumeirah_Heights",
+  "projectName": {
+    "ar": "جميرا هايتس",
+    "en": "Jumeirah Heights"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استكشف جميرا هايتس من نخيل، حيث تقدم منازل عصرية مع إطلالات خلابة على البحيرة. اكتشف النوافذ البانورامية والشرفات والمطابخ المجهزة. تتكون جميرا هايتس من مجموعتين، الشرقية والغربية، وتضم ستة مبانٍ سكنية منخفضة الارتفاع مع إطلالات خلابة على البحيرة. يضم كل مسكن في جميرا هايتس نوافذ بانورامية وشرفة وحمامًا ومطبخًا مجهزًا وخزانة مدمجة. تجمع جميرا هايتس بشكل مثالي بين التصميمات الداخلية الحديثة والمرافق الترفيهية وإطلالات البحيرة الرائعة لخلق المنزل المثالي.",
+    "en": "Explore Nakheel's Jumeirah Heights, offering contemporary homes with breathtaking lake views. Discover panoramic windows, balconies, fitted kitchens. Jumeirah Heights comprises two clusters namely East and West, consisting of six low rise apartment buildings with breathtaking lake views. Each residence at Jumeirah Heights features panoramic windows, a balcony, a bathroom, a fitted kitchen, and a built-in closet. Jumeirah Heights perfectly combines modern interiors, recreational amenities, and spectacular lake views to create the perfect home."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Barbecue Area"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dog Parks"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Recycling Stations"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging Track"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    }
+  ],
+  "area": {
+    "ar": "null",
+    "en": "null"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/jumeirah-heights.pdf?sfvrsn=4a1bc515_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480be30ee655-ba50-4e90-b365-522756cfc0c4.jpg?sfvrsn=4cee6d20_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480ae11bebaa-61c3-4c28-80d3-93c5203b0150.jpg?sfvrsn=e79cbdc6_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480a.jpg?sfvrsn=e803fd6b_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480b.jpg?sfvrsn=a7c763fe_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480be30ee655-ba50-4e90-b365-522756cfc0c4.jpg?sfvrsn=4cee6d20_3",
+  "latitude": 25.065570501945555,
+  "launchDate": "null",
+  "location": {
+    "ar": "يقع جميرا هايتس على بعد 4 دقائق من جزر الجميرا و10 دقائق من محطة مترو مركز دبي للسلع المتعددة، مما يوفر سهولة الوصول إلى المراكز الرئيسية في دبي.",
+    "en": "Jumeirah Heights, offering contemporary homes with breathtaking lake views, conveniently located near Jumeirah Islands, DMCC Metro Station, Ibn Battuta Mall, Palm Jumeirah, Downtown Dubai, and Dubai International Airport."
+  },
+  "longitude": 55.14493291103744,
+  "mapDescription": {
+    "ar": "null",
+    "en": "Jumeirah Heights"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "destination",
+        "ar": "معلم"
+      },
+      "distance": {
+        "en": "4 minutes from Jumeirah Islands",
+        "ar": "4 دقيقة"
+      },
+      "name": {
+        "en": "Jumeirah Islands",
+        "ar": "Jumeirah Islands"
+      }
+    },
+    {
+      "category": {
+        "en": "metro",
+        "ar": "معلم"
+      },
+      "distance": {
+        "en": "10 minutes from DMCC Metro Station",
+        "ar": "10 دقيقة"
+      },
+      "name": {
+        "en": "DMCC Metro Station",
+        "ar": "DMCC Metro Station"
+      }
+    },
+    {
+      "category": {
+        "en": "shopping_mall",
+        "ar": "مركز تسوق"
+      },
+      "distance": {
+        "en": "14 minutes from Ibn Battuta Mall",
+        "ar": "14 دقيقة"
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": "Ibn Battuta Mall"
+      }
+    },
+    {
+      "category": {
+        "en": "landmark",
+        "ar": "معلم"
+      },
+      "distance": {
+        "en": "18 minutes from Palm Jumeirah",
+        "ar": "18 دقيقة"
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "نخلة جميرا"
+      }
+    },
+    {
+      "category": {
+        "en": "downtown",
+        "ar": "معلم"
+      },
+      "distance": {
+        "en": "23 minutes from Downtown Dubai",
+        "ar": "23 دقيقة"
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": "وسط مدينة دبي"
+      }
+    },
+    {
+      "category": {
+        "en": "airport",
+        "ar": "مطار"
+      },
+      "distance": {
+        "en": "30 minutes from Dubai International Airport",
+        "ar": "30 دقيقة"
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": "مطار دبي الدولي"
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirah-heights",
+  "projectStatus": {
+    "ar": "مكتمل",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/jumeirah-heights.mp4?sfvrsn=493c9cd7_1",
+  "views": [
+    {
+      "en": "Lake views",
+      "ar": ""
+    }
+  ],
+  "projectID": "jumeirah-heights",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "Jumeirah Heights offers premium living experience with exceptional amenities and strategic location in null.",
+    "ar": "تقدم جميرا هايتس تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في null."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Jumeirah Heights: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in null"
+    },
+    "ar": {
+      "title": "جميرا هايتس: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في null"
+    }
+  },
+  "insights": {
+    "en": "Jumeirah Heights represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic null location.",
+    "ar": "تمثل جميرا هايتس فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في null."
+  }
+}
