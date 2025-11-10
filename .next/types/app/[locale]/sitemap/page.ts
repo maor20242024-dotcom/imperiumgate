@@ -1,4 +1,4 @@
-// File: /workspaces/imgv3/app/[locale]/sitemap/page.tsx
+// File: /home/runner/work/imgv3/imgv3/app/[locale]/sitemap/page.tsx
 import * as entry from '../../../../../app/[locale]/sitemap/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

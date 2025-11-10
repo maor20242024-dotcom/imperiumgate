@@ -236,7 +236,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/workspaces/imgv3",
+    "outputFileTracingRoot": "/home/runner/work/imgv3/imgv3",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -429,11 +429,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "/workspaces/imgv3"
+      "root": "/home/runner/work/imgv3/imgv3"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/workspaces/imgv3",
+  "appDir": "/home/runner/work/imgv3/imgv3",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",

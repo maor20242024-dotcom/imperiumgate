@@ -2,10 +2,10 @@
   "version": 1,
   "functions": {
     "/api/admin/upload": {},
+    "/api/proxy/file": {},
     "/api/public-data/[developer]/communities/[community]": {},
     "/api/public-data/[developer]/communities": {},
     "/api/public-data/[developer]": {},
-    "/api/proxy/file": {},
     "/_middleware": {
       "runtime": "nodejs",
       "matchers": [
