@@ -1,0 +1,74 @@
+{
+  "name": {
+    "en": "Rixos Hotel & Resorts",
+    "ar": "Rixos Hotel & Resorts"
+  },
+  "slug": "Rixos_Hotel_&_Resorts",
+  "developer": "Nakheel",
+  "description": {
+    "en": "Rixos Hotel & Resorts is a new waterfront development that offers a resort lifestyle in a curated and relaxed setting on Dubai Islands, with a 700 metre beach that residents have direct access to. All residences are designed for maximum privacy and offer the best views and natural light through full-height windows. The residences will be comprised of one, two and three bedroom apartments with spacious overhanging terraces creating shade, four bedroom duplexes with private pools, beach houses including their own gardens and terraces and ten luxury villas. The three bedroom apartments and villas will offer indoor and outdoor living space and include private pools. All residences boast marine views, including sunset views over the sea. Rixos Hotel & Resorts features mid rise contemporary architecture with a resort look and feel. Rixos Hotel & Resorts is the first luxury hotel and residential offering on Dubai Islands.",
+    "ar": "Rixos Hotel & Resorts is a new waterfront development that offers a resort lifestyle in a curated and relaxed setting on Dubai Islands, with a 700 metre beach that residents have direct access to. All residences are designed for maximum privacy and offer the best views and natural light through full-height windows. The residences will be comprised of one, two and three bedroom apartments with spacious overhanging terraces creating shade, four bedroom duplexes with private pools, beach houses including their own gardens and terraces and ten luxury villas. The three bedroom apartments and villas will offer indoor and outdoor living space and include private pools. All residences boast marine views, including sunset views over the sea. Rixos Hotel & Resorts features mid rise contemporary architecture with a resort look and feel. Rixos Hotel & Resorts is the first luxury hotel and residential offering on Dubai Islands."
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/rixos-hotels-residences-dubai-islands.jpg?sfvrsn=9ca1b5a8_5",
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/rixos.mp4?sfvrsn=91f955b6_1",
+  "media": {
+    "gallery": "",
+    "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/rixos-hotels-residences-dubai-islands.jpg?sfvrsn=9ca1b5a8_5",
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        "/docs/nakheelcorporatelibraries/nakheel-project-document/rixos-dubai-islands-hotels-residences.pdf?sfvrsn=d706c608_4"
+      ],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [
+      "/videos/nakheelcorporatelibraries/projects/rixos.mp4?sfvrsn=91f955b6_1"
+    ],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "developerID": "nakheel",
+  "location": {
+    "country": {
+      "ar": "",
+      "en": ""
+    },
+    "city": {
+      "ar": "",
+      "en": ""
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "poiDistances": {}
+  },
+  "auto_translated": true,
+  "id": "Rixos_Hotel_&_Resorts",
+  "projectName": {
+    "en": "Rixos Hotel & Resorts",
+    "ar": "Rixos Hotel & Resorts"
+  }
+}

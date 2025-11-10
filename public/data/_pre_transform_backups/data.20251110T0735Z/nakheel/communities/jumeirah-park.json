@@ -1,0 +1,48 @@
+{
+  "communityID": "jumeirah-park",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "جميرا بارك",
+    "en": "Jumeirah Park"
+  },
+  "description": {
+    "ar": "مجتمع فلل عائلي.",
+    "en": "A family villa community."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "jumeirah-park",
+      "name": {
+        "ar": "جميرا بارك",
+        "en": "Jumeirah Park"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:48:01.360834",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "jumeirah-park"
+}

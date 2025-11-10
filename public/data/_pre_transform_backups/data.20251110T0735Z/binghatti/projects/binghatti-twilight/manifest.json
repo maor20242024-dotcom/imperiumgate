@@ -1,0 +1,39 @@
+{
+  "images": [
+    "https://binghattiweb.imgix.net/twilight-hero-banner.webp?auto=format,compress&q=60&w=1400",
+    "https://binghattiweb.imgix.net/twilight-amenties-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-amenties-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-bedroom-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-bedroom-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-3.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-4.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-living-room-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-living-room-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-living-room-3.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-lobby-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-lobby-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-lobby-3.webp?auto=format,compress&w=960",
+    "https://binghattiweb.imgix.net/floor-plan-test.png?auto=format,compress",
+    "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/binghatti-twilight-3.webp",
+    "https://binghattiweb.imgix.net/binghatti-twilight-11.webp",
+    "https://binghattiweb.imgix.net/twilight-footer.webp?auto=format,compress"
+  ],
+  "videos": [],
+  "pdfs": [
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-brochure.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-project-facts.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-floor-plans.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-location.pdf"
+  ],
+  "iframes": [
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115554.4861775229!2d55.21706659286809!3d25.166854353886798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69cbe987368d%3A0x29d0ae84c05d3d36!2sBinghatti%20Aquarise!5e0!3m2!1sen!2sae!4v1746546106639!5m2!1sen!2sae",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97120.67104669008!2d55.26042354208453!3d25.22787891405451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d302dfcf30b%3A0x6b7433ff87dc72a2!2sBinghatti%20Twilight!5e0!3m2!1sen!2sae!4v1749568000340!5m2!1sen!2sae",
+    "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+  ]
+}

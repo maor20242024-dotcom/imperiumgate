@@ -1,0 +1,161 @@
+{
+  "slug": "marina-views-at-rashid-yachts-marina",
+  "id": "387318",
+  "developer": "إعمار العقارية",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "مرسى راشد لليخوت",
+    "en": "Rashid Yachts Marina"
+  },
+  "location": {
+    "ar": "مرسى راشد لليخوت",
+    "en": "Rashid Yachts Marina"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "مارينا فيوز",
+    "en": "Marina Views"
+  },
+  "summary": {
+    "ar": "انغمس في عالم من الهدوء والأناقة داخل مجتمع نابض بالحيوية في مشروع سكنيّ حصري يطلّ مباشرة على ميناء اليخوت الفاخرة. اختر منزل أحلامك وسط واحة من الراحة والفخامة.",
+    "en": "Immerse yourself in a world of tranquility and elegance within a vibrant community in an exclusive residential project overlooking the luxury yacht marina. Choose your dream home in an oasis of comfort and luxury."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "مارينا فيوز",
+      "subtitle": "مرسى راشد لليخوت"
+    },
+    "en": {
+      "title": "Marina Views",
+      "subtitle": "Rashid Yachts Marina"
+    }
+  },
+  "description": {
+    "ar": "انغمس في عالم من الهدوء والأناقة داخل مجتمع نابض بالحيوية في مشروع سكنيّ حصري يطلّ مباشرة على ميناء اليخوت الفاخرة. اختر منزل أحلامك وسط واحة من الراحة والفخامة. تواصل معنا لمزيد من المعلومات.",
+    "en": "Immerse yourself in a world of tranquility and elegance within a vibrant community in an exclusive residential project overlooking the luxury yacht marina. Choose your dream home in an oasis of comfort and luxury. Contact us for more information."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [
+    {
+      "ar": "إطلالة على المارينا",
+      "en": "Marina View"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/HERO_1620X832_1.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/HERO_1620X832_2.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/marina-views-at-rashid-yachts-marina",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "مارينا فيوز | مرسى راشد لليخوت | إعمار العقارية ش.م.ع",
+    "description": "انغمس في عالم من الهدوء والأناقة داخل مجتمع نابض بالحيوية في مشروع سكنيّ حصري يطلّ مباشرة على ميناء اليخوت الفاخرة. اختر منزل أحلامك وسط واحة من الراحة والفخامة. تواصل معنا لمزيد من المعلومات.",
+    "canonical": "https://properties.emaar.com/ar/properties/marina-views-at-rashid-yachts-marina/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/HERO_1620X832_2.jpg",
+    "modified_time": "2024-08-20T13:52:21+00:00",
+    "fetchedAt": "2025-11-09T13:34:33.702Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/BROCHURE_IMG_300X210.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/FEATURES_1200X655_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/FEATURES_1200X655_5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_EXT_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_EXT_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_EXT_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_EXT_4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_EXT_5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_INT_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_INT_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_INT_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/PRO_INT_4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_440X570.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_4.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2024/07/FEATURES_1200X655_2.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2024/07/FEATURES_1200X655_5.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2024/07/MARINA_VIEWS_RYM_BROCHURE-1.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

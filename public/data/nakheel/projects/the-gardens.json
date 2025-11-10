@@ -1,0 +1,134 @@
+{
+  "projectID": "the-gardens",
+  "developerID": "nakheel",
+  "slug": "the-gardens",
+  "projectName": {
+    "ar": "ذا جاردنز",
+    "en": "The Gardens"
+  },
+  "description": {
+    "ar": "وصف غير متوفر",
+    "en": "Description not available"
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "pricing": {},
+  "media": {
+    "heroImage": "",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "developer": "nakheel",
+  "community": "the-gardens",
+  "communityName": {
+    "en": "The-Gardens",
+    "ar": "The-Gardens"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:01.359252",
+  "lastUpdated": "2025-11-01T18:48:01.359254",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "mapDescription": {
+    "en": "",
+    "ar": ""
+  },
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "mapPointsOfInterest": [],
+  "propertyTypes": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "goldenVisaEligible": false,
+  "sellable": false,
+  "latitude": null,
+  "longitude": null,
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "The-Gardens",
+    "ar": "The-Gardens"
+  },
+  "auto_translated": false,
+  "id": "the-gardens"
+}

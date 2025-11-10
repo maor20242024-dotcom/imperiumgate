@@ -1,0 +1,137 @@
+{
+  "slug": "address-residences-dubai-opera",
+  "id": "11592",
+  "developer": "Emaar Properties",
+  "brand": "Address Residences",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "وسط مدينة دبي",
+    "en": "Downtown Dubai"
+  },
+  "location": {
+    "ar": "دبي أوبرا",
+    "en": "Dubai Opera"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": null,
+  "mapPointsOfInterest": [],
+  "projectCategory": "Residential",
+  "projectName": {
+    "ar": "العنوان رزيدنسز دبي أوبرا",
+    "en": "Address Residences Dubai Opera"
+  },
+  "summary": {
+    "ar": "تمتع بمستوى من الرفاهية المطلقة في العنوان رزيدنسز دبي أوبرا. استمتع بأكثر الإطلالات الخلابة على معالم وسط مدينة دبي المذهلة من مسكنك. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Enjoy absolute luxury at Address Residences Dubai Opera. Take in the most stunning views of Downtown Dubai's incredible landmarks from your residence. Visit our website to learn more."
+  },
+  "heroCopy": null,
+  "description": {
+    "ar": "تمتع بمستوى من الرفاهية المطلقة في العنوان رزيدنسز دبي أوبرا. استمتع بأكثر الإطلالات الخلابة على معالم وسط مدينة دبي المذهلة من مسكنك. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Enjoy absolute luxury at Address Residences Dubai Opera. Take in the most stunning views of Downtown Dubai's incredible landmarks from your residence. Visit our website to learn more."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق فندقية",
+      "en": "Hotel Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": null,
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": null,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2020-06-23T07:59:47+00:00",
+  "projectStatus": null,
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": null,
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": null,
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/address-residences-dubai-opera/",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "العنوان رزيدنسز دبي أوبرا | شقق فندقية في العنوان دبي أوبرا | إعمار العقارية",
+    "description": "تمتع بمستوى من الرفاهية المطلقة في العنوان رزيدنسز دبي أوبرا. استمتع بأكثر الإطلالات الخلابة على معالم وسط مدينة دبي المذهلة من مسكنك. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "keywords": null,
+    "canonical": "https://properties.emaar.com/ar/properties/address-residences-dubai-opera/",
+    "og_title": "العنوان رزيدنسز دبي أوبرا | شقق فندقية في العنوان دبي أوبرا | إعمار العقارية",
+    "og_description": "تمتع بمستوى من الرفاهية المطلقة في العنوان رزيدنسز دبي أوبرا. استمتع بأكثر الإطلالات الخلابة على معالم وسط مدينة دبي المذهلة من مسكنك. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@emaardubai",
+    "twitter_image": null,
+    "url_en": "https://properties.emaar.com/en/properties/address-residences-dubai-opera/",
+    "url_ar": "https://properties.emaar.com/ar/properties/address-residences-dubai-opera/",
+    "url_ru": "https://properties.emaar.com/ru/properties/address-residences-dubai-opera/",
+    "fetchedAt": "2025-11-09T10:29:43.031Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/POV02-G.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_EXTERIOR.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_BEDROOM.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_BATHROOM.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_DINING.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_POOL.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DOWNTOWN_DUBAI_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_BEDROOM.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_BATHROOM.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_DINING.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_POOL.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

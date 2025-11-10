@@ -1,0 +1,152 @@
+{
+  "slug": "the-farm-gardens",
+  "id": "283293",
+  "developer": "إعمار العقارية",
+  "brand": "Emaar Properties",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "ذا فالي",
+    "en": "The Valley"
+  },
+  "location": {
+    "ar": "ذا فالي",
+    "en": "The Valley"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "جاردن فيلاّز",
+    "en": "The Farm Gardens"
+  },
+  "summary": {
+    "ar": "تعرّف على جاردن فيلاّز في ذا فالي من إعمار العقارية وتمتع بمجمعات سكنية انيقة وفاخرة مع عائلتك. احصل على تجربة من الرفاهية المطلقة معنا.",
+    "en": "Discover The Farm Gardens in The Valley by Emaar Properties and enjoy elegant and luxurious residential complexes with your family. Get an experience of absolute luxury with us."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "جاردن فيلاّز",
+      "subtitle": "ذا فالي | إعمار العقارية"
+    },
+    "en": {
+      "title": "The Farm Gardens",
+      "subtitle": "The Valley | Emaar Properties"
+    }
+  },
+  "description": {
+    "ar": "تعرّف على جاردن فيلاّز في ذا فالي من إعمار العقارية وتمتع بمجمعات سكنية انيقة وفاخرة مع عائلتك. احصل على تجربة من الرفاهية المطلقة معنا. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Discover The Farm Gardens in The Valley by Emaar Properties and enjoy elegant and luxurious residential complexes with your family. Get an experience of absolute luxury with us. Visit our website to learn more."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فيلا",
+      "en": "Villa"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/01_HERO_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/01_HERO_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/the-farm-gardens",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "جاردن فيلاّز| ذا فالي | إعمار العقارية",
+    "description": "تعرّف على جاردن فيلاّز في ذا فالي من إعمار العقارية وتمتع بمجمعات سكنية انيقة وفاخرة مع عائلتك. احصل على تجربة من الرفاهية المطلقة معنا. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "canonical": "https://properties.emaar.com/ar/properties/the-farm-gardens/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T14:02:40.649Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/01_HERO_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/02_HIGHLIGHT_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/05_STYLE_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/07_LIFESTYLE1_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/04_AMENITY_FARM-GARDENS_THE_VALLEY_WEBSITE-e1670923031102.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_09.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/the-valley-logo.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/12/02_HIGHLIGHT_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/12/05_STYLE_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/12/07_LIFESTYLE1_FARM-GARDENS_THE_VALLEY_WEBSITE.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2022/12/FARM_GARDENS_THE_VALLEY_BROCHURE_EN.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "communityID": "nad-al-sheba-villas",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "فلل ند الشبا",
+    "en": "Nad Al Sheba Villas"
+  },
+  "description": {
+    "ar": "فلل فاخرة في ند الشبا.",
+    "en": "Luxury villas in Nad Al Sheba."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "nad-al-sheba-villas",
+      "name": {
+        "ar": "فلل ند الشبا",
+        "en": "Nad Al Sheba Villas"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:48:01.385210",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "nad-al-sheba-villas"
+}

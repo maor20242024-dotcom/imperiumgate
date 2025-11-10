@@ -1,0 +1,153 @@
+{
+  "projectID": "portofino",
+  "contact": {
+    "phone": "+971556628972",
+    "whatsapp": "+971556628972"
+  },
+  "description": {
+    "ar": "by DAMAC in Dubai, United Arab Emirates",
+    "en": "by DAMAC in Dubai, United Arab Emirates"
+  },
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "summary": {
+    "ar": "",
+    "en": ""
+  },
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "heroCopy": {
+    "title": {
+      "ar": "",
+      "en": ""
+    },
+    "subtitle": {
+      "ar": "",
+      "en": ""
+    },
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "views": [],
+  "amenities": [],
+  "highlights": [],
+  "mapPointsOfInterest": [],
+  "buildings": [],
+  "units": [],
+  "priceAED": {},
+  "areaSizeSqft": {},
+  "projectPageLink": null,
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "slug": "portofino",
+  "brand": "",
+  "projectCategory": "",
+  "developerID": "damac",
+  "developer": "damac",
+  "community": "damac-lagoons",
+  "communityName": {
+    "en": "Damac-Lagoons",
+    "ar": "Damac-Lagoons"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:01.362145",
+  "lastUpdated": "2025-11-01T18:48:01.362146",
+  "media": {
+    "3D_TourLink": null,
+    "gallery": [],
+    "heroImage": "",
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectName": {
+    "en": "Portofino",
+    "ar": "Portofino"
+  },
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "goldenVisaEligible": false,
+  "sellable": false,
+  "latitude": null,
+  "longitude": null,
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Portofino",
+    "ar": "Portofino"
+  },
+  "auto_translated": true,
+  "id": "portofino",
+  "fromCommunity": "damac-lagoons"
+}

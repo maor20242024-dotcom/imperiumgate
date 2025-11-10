@@ -1,0 +1,42 @@
+{
+  "app": {
+    "[project]/app/[locale]/contact/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ],
+    "[project]/app/[locale]/developers/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ],
+    "[project]/app/[locale]/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ],
+    "[project]/app/[locale]/privacy/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ],
+    "[project]/app/[locale]/projects/[developer]/[slug]/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ],
+    "[project]/app/[locale]/projects/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ],
+    "[project]/app/[locale]/terms/page": [
+      "static/media/Inter-s.p.3f736a69.ttf",
+      "static/media/Amiri-s.p.6292ddb4.ttf",
+      "static/media/Tajawal-s.p.2804bcce.ttf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

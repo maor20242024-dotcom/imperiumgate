@@ -1,0 +1,243 @@
+{
+  "slug": "damac-district",
+  "id": "damac-damac-district",
+  "projectName": {
+    "ar": "داماك ديستريكت",
+    "en": "DAMAC District"
+  },
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "description": {
+    "ar": "امتلك شقتك أو مكتبك في داماك ديستريكت في داماك هيلز نقداً أو بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ عوائد واعدة ✓ مشاريع فاخرة قيد الإنشاء في دبي للبيع ✓ خطط سداد مرنة وميسرة.",
+    "en": "Own your apartment or office in DAMAC District at DAMAC Hills with cash or cryptocurrency and get a residency visa in the UAE ✓ Promising returns ✓ Luxury off-plan projects in Dubai for sale ✓ Flexible and easy payment plans."
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "قنوات مياه هامسة",
+        "en": "Whispering water channels"
+      },
+      "description": {
+        "ar": "مشهد متكامل ترسمه الجداول الصافية والمسبح العضوي، وتستمتع فيه بسباحة هادئة وتحيا أوقات الصفاء التي تحلم بها.",
+        "en": "A complete scene painted by clear streams and an organic pool, where you can enjoy a calm swim and live the moments of serenity you dream of."
+      }
+    },
+    {
+      "name": {
+        "ar": "كلاود لاونج",
+        "en": "Cloud Lounge"
+      },
+      "description": {
+        "ar": "تجوّل بين حدائق النخيل نحو واحة هادئة، حيث اليوغا والمياه الصافية وصالة الاسترخاء تعيد لروحك حيويتها.",
+        "en": "Wander through palm gardens towards a tranquil oasis, where yoga, clear waters, and a relaxation lounge restore your spirit."
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية ومختبر تدريب بالذكاء الاصطناعي",
+        "en": "Gym & AI Training Lab"
+      },
+      "description": {
+        "ar": "اختبر التحدي في صالة رياضية متطورة، تقدم لك تدريبات بتقنيات الذكاء الاصطناعي، مع متابعة لحظية مصممة خصيصاً لأهدافك.",
+        "en": "Experience the challenge in a state-of-the-art gym, offering AI-powered training with real-time tracking tailored to your goals."
+      }
+    },
+    {
+      "name": {
+        "ar": "أجنحة خاصة لتناول الطعام",
+        "en": "Private Dining Pods"
+      },
+      "description": {
+        "ar": "عِش تجربة حصرية مع كل وجبة ضمن جناحك الخاص.هنا تلتقي الخصوصية مع جمال الطبيعة وهدوئها.",
+        "en": "Live an exclusive experience with every meal within your private pod. Here, privacy meets the beauty and tranquility of nature."
+      }
+    },
+    {
+      "name": {
+        "ar": "صن ست بار",
+        "en": "Sunset Bar"
+      },
+      "description": {
+        "ar": "تحت سماء الغروب الذهبية ووسط المياه الصافية والمشروبات المميزة، ستنعم هنا بتجربة مثالية على حافة المسبح",
+        "en": "Under the golden sunset sky, amidst clear waters and distinctive drinks, you will enjoy a perfect poolside experience here."
+      }
+    },
+    {
+      "name": {
+        "ar": "ملاعب بادل",
+        "en": "Padel Courts"
+      },
+      "description": {
+        "ar": "طوّر أداءك في رياضة البادل ضمن ملاعب استثنائية تجتمع فيها متعة التحدي وروح المجتمع السكني.",
+        "en": "Enhance your padel performance on exceptional courts where the joy of challenge meets the spirit of the residential community."
+      }
+    },
+    {
+      "name": {
+        "ar": "ترمب إنترناشيونال غولف كلوب",
+        "en": "Trump International Golf Club"
+      },
+      "description": {
+        "ar": "في قلب ملعب الغولف وعلى مساحة تمتد على 30,000 قدم مربعة، يضم الكلوب هاوس الفاخر مسبح انفينيتي ومطاعم راقية ومرافق عالمية المستوى.",
+        "en": "At the heart of the golf course, spanning 30,000 sq ft, the luxurious clubhouse features an infinity pool, fine dining restaurants, and world-class facilities."
+      }
+    },
+    {
+      "name": {
+        "ar": "مساحات عمل خارجية",
+        "en": "Outdoor Workspaces"
+      },
+      "description": {
+        "ar": "أطلق إبداعاتك في مساحات خارجية هادئة، حيث تمنحك الأجنحة المرنة ومشاهد الحدائق توازناً جديداً بين حياتك الخاصة والعملية.",
+        "en": "Unleash your creativity in serene outdoor spaces, where flexible pods and garden views provide a new balance between your personal and professional life."
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك هيلز",
+    "en": "DAMAC Hills"
+  },
+  "bedrooms": [
+    1,
+    2
+  ],
+  "brand": "DAMAC Properties",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2029-08-31",
+  "goldenVisaEligible": true,
+  "latitude": 0,
+  "launchDate": "September 2025",
+  "location": {
+    "ar": "في قلب داماك هيلز",
+    "en": "In the heart of DAMAC Hills",
+    "country": {
+      "ar": "",
+      "en": ""
+    },
+    "city": {
+      "ar": "",
+      "en": ""
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "متصل بأرجاء دبي",
+    "en": "Connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 783,
+  "maxAreaSqmt": 72,
+  "maxPriceAED": 6800000,
+  "minAreaSqft": 627,
+  "minAreaSqmt": 58,
+  "minPriceAED": 1100000,
+  "paymentPlan": {
+    "ar": "60/40",
+    "en": "60/40 payment plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/communities/damac-hills-community/projects/damac-district/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Office",
+      "ar": "مكتب"
+    }
+  ],
+  "sellable": true,
+  "views": "Panoramic views of the Trump International Golf Club, lush fairways, tranquil water features, and Akoya Park.",
+  "projectID": "damac-damac-district",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "DAMAC District offers premium living experience with exceptional amenities and strategic location in DAMAC Hills.",
+    "ar": "تقدم داماك ديستريكت تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في داماك هيلز."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "DAMAC District: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in DAMAC Hills"
+    },
+    "ar": {
+      "title": "داماك ديستريكت: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في داماك هيلز"
+    }
+  },
+  "insights": {
+    "en": "DAMAC District represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic DAMAC Hills location.",
+    "ar": "تمثل داماك ديستريكت فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في داماك هيلز."
+  },
+  "developerID": "damac",
+  "highlights": [],
+  "media": {
+    "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg",
+    "brochurePdfLink": "",
+    "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/7L26f6kb2Qal9fSKADSvLj/65b95779cd9c2477e4fda22a9a5ff01d/DP.com_DAMAC_DISTRICT_LAUNCH_16X9_EN.mp4",
+    "galleryImages": [
+      {
+        "src": "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg"
+      },
+      {
+        "src": "https://images.ctfassets.net/zoq5l15g49wj/2WYFPvfaZlypmgWfmYqfcH/c4d8dfc4d74917c498665cfef366026b/DAMAC_District-Homepage_Hero_16x9.jpg"
+      }
+    ],
+    "3D_TourLink": null,
+    "gallery": [
+      "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/2WYFPvfaZlypmgWfmYqfcH/c4d8dfc4d74917c498665cfef366026b/DAMAC_District-Homepage_Hero_16x9.jpg"
+    ],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg",
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/7L26f6kb2Qal9fSKADSvLj/65b95779cd9c2477e4fda22a9a5ff01d/DP.com_DAMAC_DISTRICT_LAUNCH_16X9_EN.mp4",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [
+      "https://videos.ctfassets.net/zoq5l15g49wj/7L26f6kb2Qal9fSKADSvLj/65b95779cd9c2477e4fda22a9a5ff01d/DP.com_DAMAC_DISTRICT_LAUNCH_16X9_EN.mp4"
+    ],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "name": {
+    "ar": "",
+    "en": ""
+  },
+  "auto_translated": true,
+  "developer": "damac"
+}

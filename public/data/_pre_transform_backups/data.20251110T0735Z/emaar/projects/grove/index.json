@@ -1,0 +1,154 @@
+{
+  "slug": "grove",
+  "id": "136506",
+  "developer": "Emaar Properties",
+  "brand": "Emaar Properties",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "كريك هاربور",
+    "en": "Creek Harbour"
+  },
+  "location": {
+    "ar": null,
+    "en": null
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "Residential",
+  "projectName": {
+    "ar": "غروف",
+    "en": "Grove"
+  },
+  "summary": {
+    "ar": "تعرّف على غروف خور دبي في كريك هاربور واستمتع بشقه فاخرة مطلة على البحر, مرافق متميزة وأماكن ترفيهية رائعة. قم بزيارتنا عبر الإنترنت لمزيد من المعلومات.",
+    "en": "Discover Grove at Dubai Creek Harbour and enjoy luxurious apartments with sea views, excellent facilities, and wonderful entertainment. Visit us online for more information."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "غروف خور دبي",
+      "subtitle": "شقق فاخرة مطلة على البحر، مرافق متميزة وأماكن ترفيهية رائعة."
+    },
+    "en": {
+      "title": "Grove Dubai Creek",
+      "subtitle": "Luxurious apartments with sea views, excellent facilities, and wonderful entertainment."
+    }
+  },
+  "description": {
+    "ar": "تعرّف على غروف خور دبي في كريك هاربور واستمتع بشقه فاخرة مطلة على البحر, مرافق متميزة وأماكن ترفيهية رائعة. قم بزيارتنا عبر الإنترنت لمزيد من المعلومات.",
+    "en": "Discover Grove at Dubai Creek Harbour and enjoy luxurious apartments with sea views, excellent facilities, and wonderful entertainment. Visit us online for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2021-12-13",
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [
+    {
+      "ar": "مطلة على البحر",
+      "en": "Sea Views"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": true,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/grove",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "fetchedAt": "2025-11-09T10:13:04.196Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-hero-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-highlight-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-unit-type-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-lifestyle-01-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-lifestyle-02-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-lifestyle-03-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/12/dchg-amenities-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2021/12/dchg-highlight-image.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/12/dchg-unit-type-image.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/12/dchg-lifestyle-01-image.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/12/dchg-lifestyle-02-image.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/12/dchg-lifestyle-03-image.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/12/dchg-amenities-image.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2021/12/GROVE_CREEK_BEACH_BROCHURE_EN.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

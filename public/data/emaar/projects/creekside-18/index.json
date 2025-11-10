@@ -1,0 +1,151 @@
+{
+  "slug": "creekside-18",
+  "id": "12265",
+  "developer": "إعمار العقارية",
+  "brand": "Emaar Properties",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "location": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "residential",
+  "projectName": {
+    "ar": "كريك سايد 18",
+    "en": "Creekside 18"
+  },
+  "summary": {
+    "ar": "تمتع بشقق سكنية فاخرة في برجان كريك سايد 18 واكتشف حياة الرفاهية وسط مدينة دبي الساحرة",
+    "en": "Enjoy luxurious residential apartments in the twin towers of Creekside 18 and discover a life of luxury in the heart of Dubai"
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "كريك سايد 18",
+      "subtitle": "شقق كريك سايد 18"
+    },
+    "en": {
+      "title": "Creekside 18",
+      "subtitle": "Creekside 18 Apartments"
+    }
+  },
+  "description": {
+    "ar": "تمتع بشقق سكنية فاخرة في برجان كريك سايد 18 واكتشف حياة الرفاهية وسط مدينة دبي الساحرة. تعرّف على مزيد من التصاميم والمساحات المختلفة واقطن في أرقى المجمعات.",
+    "en": "Enjoy luxurious residential apartments in the twin towers of Creekside 18 and discover a life of luxury in the heart of Dubai. Explore more designs and different spaces and live in the finest complexes."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق سكنية",
+      "en": "Residential Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/1620x385_B.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/creekside-18",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "كريك سايد 18 | شقق كريك سايد 18 | إعمار العقارية",
+    "description": "تمتع بشقق سكنية فاخرة في برجان كريك سايد 18 واكتشف حياة الرفاهية وسط مدينة دبي الساحرة. تعرّف على مزيد من التصاميم والمساحات المختلفة واقطن في أرقى المجمعات. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "canonical": "https://properties.emaar.com/ar/properties/creekside-18/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T12:02:46.948Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/1620x385_A.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/1620x385_B.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/1620x385_C.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/1200x655.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/1200x655-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/680x680-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/1620x385_B.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/1620x385_C.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/1200x655.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/1200x655-1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/680x680-1.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

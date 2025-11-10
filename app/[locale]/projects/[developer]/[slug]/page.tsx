@@ -10,8 +10,8 @@ import ProjectHero from '@/components/project/ProjectHero';
 import ProjectNotFound from '@/components/project/ProjectNotFound';
 import RelatedCarousel from '@/components/project/RelatedCarousel';
 import SectionNav from '@/components/project/SectionNav';
-import ProjectLocationMap from '@/components/project/ProjectLocationMap';
-import Tour3D from '@/components/project/Tour3D';
+import ProjectLocationMapWrapper from '@/components/project/ProjectLocationMapWrapper';
+import PropVRFrame from '@/components/PropVRFrame';
 import VideoBlock from '@/components/project/VideoBlock';
 import ROICalculator from '@/components/ui/ROICalculator';
 import { deriveProjectLatLon } from '@/lib/geo';
@@ -105,7 +105,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
 
       {has3D && (
         <div id="tour3d" className="max-w-6xl mx-auto px-6 py-16">
-          <Tour3D url={project['3D_TourLink']!} />
+          <PropVRFrame url={project['3D_TourLink']!} />
         </div>
       )}
 
@@ -130,7 +130,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
             }
           </p>
         </div>
-        <ProjectLocationMap
+        <ProjectLocationMapWrapper
           latitude={lat ?? undefined}
           longitude={lon ?? undefined}
           title={translateText(project.projectName, locale) || project.slug}

@@ -1,0 +1,203 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-starlight",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Al Jaddaf"
+  },
+  "location": {
+    "ar": null,
+    "en": "Al Jaddaf"
+  },
+  "latitude": 25.154547395696422,
+  "longitude": 55.25565008072508,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": null,
+    "en": "Binghatti Starlight"
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Live amidst celestial-inspired architecture at Binghatti Starlight. Offering studios to 2-bedroom apartments with waterfront views in Al Jaddaf."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "payment plan with convenient options as follows:"
+  },
+  "minAreaSqft": 415,
+  "maxAreaSqft": 1190,
+  "minAreaSqmt": 39,
+  "maxAreaSqmt": 111,
+  "minPriceAED": 850000,
+  "maxPriceAED": null,
+  "deliveryDate": "Q1 2026",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=pHr9s-qKRl0",
+  "heroImage": "https://binghattiweb.imgix.net/starlight_gym.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/starlight_gym.jpg",
+    "https://binghattiweb.imgix.net/starlight_swimming_pool.jpg",
+    "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-starlight-1.webp",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/starlight_footer_horizontal.jpg"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Fitness Center"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Landscaped Spaces"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Family-friendly Areas"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "Celestial-inspired architecture"
+    },
+    {
+      "ar": null,
+      "en": "Waterfront views"
+    },
+    {
+      "ar": null,
+      "en": "Contemporary apartments"
+    },
+    {
+      "ar": null,
+      "en": "Convenient access to major roads, shopping, and city landmarks"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-starlight",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:18:16.781Z",
+    "title": "Binghatti Starlight Al Jaddaf – Studio to 2 Bedroom Apartments",
+    "description": "Live amidst celestial-inspired architecture at Binghatti Starlight. Offering studios to 2-bedroom apartments with waterfront views in Al Jaddaf.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-starlight"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/starlight_gym.jpg",
+      "https://binghattiweb.imgix.net/starlight_swimming_pool.jpg",
+      "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/binghatti-starlight-1.webp",
+      "https://binghattiweb.imgix.net/bedroom-img.webp",
+      "https://binghattiweb.imgix.net/starlight_footer_horizontal.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-brochure.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-project-facts.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-floor-plans.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-location.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d175554.92657423322!2d55.276806446720016!3d25.084120412574222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ffda5c9b53d%3A0xa20f6de57fba29f0!2sBinghatti%20Hills!5e0!3m2!1sen!2sae!4v1744899314157!5m2!1sen!2sae",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80145.83225769894!2d55.25565008072508!3d25.154547395696422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d006fd317e3%3A0x3309795d25b57164!2sBinghatti%20Starlight!5e0!3m2!1sen!2sae!4v1745579953440!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/pHr9s-qKRl0?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  }
+}

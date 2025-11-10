@@ -1,0 +1,201 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-moonlight",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Al Jaddaf"
+  },
+  "location": {
+    "ar": null,
+    "en": "Al Jaddaf"
+  },
+  "latitude": 25.21461704154827,
+  "longitude": 55.300446032242164,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": null,
+    "en": "Binghatti Moonlight"
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "1, 2 & 3 BR apartments for sale in Binghatti Moonlight, Al Jaddaf. A premium residential project offering modern living in a prime family-friendly location."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "payment plan:"
+  },
+  "minAreaSqft": 602,
+  "maxAreaSqft": 934,
+  "minAreaSqmt": 56,
+  "maxAreaSqmt": 87,
+  "minPriceAED": 1429999,
+  "maxPriceAED": null,
+  "deliveryDate": "Q2 2026",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
+  "heroImage": "https://binghattiweb.imgix.net/binghatti-moonlight-amenities-1.webp",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/binghatti-moonlight-amenities-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-amenties-2.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-one-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-two-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-three-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-2.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-3.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-11.webp",
+    "https://binghattiweb.imgix.net/binghatti-moonlight-footer.webp"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Fitness Facilities"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Landscaped Outdoor Areas"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Family-friendly Spaces"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "Contemporary apartments designed for modern living"
+    },
+    {
+      "ar": null,
+      "en": "Prime family-friendly location"
+    },
+    {
+      "ar": null,
+      "en": "Convenient access to major roads, shopping destinations, and city landmarks"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-moonlight",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:12:20.970Z",
+    "title": "Binghatti Moonlight Al Jaddaf – 1 to 3BR Apartments",
+    "description": "1, 2 & 3 BR apartments for sale in Binghatti Moonlight, Al Jaddaf. A premium residential project offering modern living in a prime family-friendly location.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-moonlight"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/binghatti-moonlight-amenities-1.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-amenties-2.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-one-bedroom-layout.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-two-bedroom-layout.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-three-bedroom-layout.webp",
+      "https://binghattiweb.imgix.net/bedroom-img.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-2.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-3.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-11.webp",
+      "https://binghattiweb.imgix.net/binghatti-moonlight-footer.webp"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-brochure.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-facts.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-floor-plans.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-location.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115554.4861775229!2d55.21706659286809!3d25.166854353886798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69cbe987368d%3A0x29d0ae84c05d3d36!2sBinghatti%20Aquarise!5e0!3m2!1sen!2sae!4v1746546106639!5m2!1sen!2sae",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60797.40332343646!2d55.300446032242164!3d25.21461704154827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d00585c1b31%3A0xb2848627425a45a3!2sBinghatti%20Moonlight!5e0!3m2!1sen!2sae!4v1751962613927!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  }
+}

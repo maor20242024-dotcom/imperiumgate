@@ -1,0 +1,161 @@
+{
+  "slug": "address-grand-downtown-dubai",
+  "id": "401181",
+  "developer": "Emaar Properties",
+  "brand": "Address",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "وسط المدينة",
+    "en": "Downtown"
+  },
+  "location": {
+    "ar": "وسط مدينة دبي",
+    "en": "Downtown Dubai"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "Residential",
+  "projectName": {
+    "ar": "العنوان جراند وسط المدينة",
+    "en": "Address Grand Downtown"
+  },
+  "summary": {
+    "ar": "اكتشف العنوان جراند وسط المدينة، الذي يقدم الترف والفخامة بمفهوم جديد، ويمزج الضيافة الشهيرة لعلامة العنوان بروعة التصميم. تفضّل بزيارة موقعنا الإلكتروني لمزيدٍ من المعلومات.",
+    "en": "Discover Address Grand Downtown, which offers a new concept of luxury and opulence, blending the renowned hospitality of The Address brand with magnificent design. Visit our website for more information."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "العنوان جراند وسط المدينة",
+      "subtitle": "وسط مدينة دبي"
+    },
+    "en": {
+      "title": "Address Grand Downtown",
+      "subtitle": "Downtown Dubai"
+    }
+  },
+  "description": {
+    "ar": "اكتشف العنوان جراند وسط المدينة، الذي يقدم الترف والفخامة بمفهوم جديد، ويمزج الضيافة الشهيرة لعلامة العنوان بروعة التصميم. تفضّل بزيارة موقعنا الإلكتروني لمزيدٍ من المعلومات.",
+    "en": "Discover Address Grand Downtown, which offers a new concept of luxury and opulence, blending the renowned hospitality of The Address brand with magnificent design. Visit our website for more information."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2025-03-10",
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_2-1.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_2-1.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/address-grand-downtown-dubai",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": {
+      "ar": "العنوان جراند وسط المدينة | وسط مدينة دبي | إعمار العقارية",
+      "en": "Address Grand Downtown | Downtown Dubai | Emaar Properties"
+    },
+    "description": {
+      "ar": "اكتشف العنوان جراند وسط المدينة، الذي يقدم الترف والفخامة بمفهوم جديد، ويمزج الضيافة الشهيرة لعلامة العنوان بروعة التصميم. تفضّل بزيارة موقعنا الإلكتروني لمزيدٍ من المعلومات.",
+      "en": "Discover Address Grand Downtown, which offers a new concept of luxury and opulence, blending the renowned hospitality of The Address brand with magnificent design. Visit our website for more information."
+    },
+    "fetchedAt": "2025-11-09T10:28:12.029Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/BROCHURE_IMG_300X210-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_4-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_5-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_4-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_6.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Spring2x-2-1.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/dubai-mall.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/dubai-mall-outer.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/dubai-fountain.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/dubai-opera.jpeg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_4.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_5.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2025/03/The-Address-Grand-Downtown.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

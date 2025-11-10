@@ -1,0 +1,350 @@
+{
+  "projectName": {
+    "en": "The S",
+    "ar": "The S"
+  },
+  "description": {
+    "en": "Sobha S tower is a signature residence on Sheikh Zayed Road with luxury 4 & 5 bedroom apartments and has stunning views of the sea and golf course. Enquire Now! The S Tower is an exclusive dream project where every facet of the tower encapsulates high-end style and sophistication. Every specification of the room is carefully crafted with premium materials and is oriented towards gorgeous views of the sea, golf course and the skyline.",
+    "ar": "Sobha S tower is a signature residence on Sheikh Zayed Road with luxury 4 & 5 bedroom apartments and has stunning views of the sea and golf course. Enquire Now! The S Tower is an exclusive dream project where every facet of the tower encapsulates high-end style and sophistication. Every specification of the room is carefully crafted with premium materials and is oriented towards gorgeous views of the sea, golf course and the skyline."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Gym",
+        "ar": ""
+      },
+      "description": {
+        "en": "Gym",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "INFINITY POOL",
+        "ar": ""
+      },
+      "description": {
+        "en": "INFINITY POOL",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Children's Daycare Centre",
+        "ar": ""
+      },
+      "description": {
+        "en": "Children's Daycare Centre",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "OUTDOOR CINEMA",
+        "ar": ""
+      },
+      "description": {
+        "en": "OUTDOOR CINEMA",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE S CAFE",
+        "ar": ""
+      },
+      "description": {
+        "en": "THE S CAFE",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "LIBRARY AND LOUNGE AREA",
+        "ar": ""
+      },
+      "description": {
+        "en": "LIBRARY AND LOUNGE AREA",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "jacuzzi",
+        "ar": ""
+      },
+      "description": {
+        "en": "jacuzzi",
+        "ar": ""
+      }
+    }
+  ],
+  "bedrooms": [
+    4,
+    5
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "latitude": 25.1016017,
+  "location": {
+    "en": "Sheikh Zayed Road",
+    "ar": "شارع الشيخ زايد",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": ""
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.1682986,
+  "mapDescription": {
+    "en": "Vibrant Living, Nearby Essentials",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
+      },
+      "distance": {
+        "en": "10 km",
+        "ar": "10 km"
+      },
+      "category": {
+        "en": "Schools",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": "DUBAI INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "en": "22 km",
+        "ar": "22 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": "THE DUBAI MALL"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "en": "9 km",
+        "ar": "9 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    }
+  ],
+  "minPriceAED": 82690000,
+  "projectID": "52",
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/the-s/",
+  "propertyTypes": [
+    {
+      "en": "Penthouses",
+      "ar": "Penthouses"
+    },
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    "sea",
+    "golf course",
+    "skyline"
+  ],
+  "slug": "the-s",
+  "developer": "sobha",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.723496",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/2025-02/1440x619.jpg",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015282.jpg.webp?itok=BGio6T5z"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015284.jpg.webp?itok=-IswLWlI"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015286.jpg.webp?itok=qd9XdmkM"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015289.jpg.webp?itok=pf63Kq5d"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015248.jpg.webp?itok=dCAudiE4"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249.jpg.webp?itok=UiN_9vGm"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250.jpg.webp?itok=DGY3Loai"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271.jpg.webp?itok=5dlYVZS-"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_0.jpg.webp?itok=fjdK959n"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_0.jpg.webp?itok=TWMSs89o"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_0.jpg.webp?itok=OyomuXNu"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015383_0.jpg.webp?itok=6tVTLXeY"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015385_0.jpg.webp?itok=-ifWnRJ5"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015384_0.jpg.webp?itok=n4YN9eXt"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/28.%20The%20S%20Tower%20-%205%20Dec%202023.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 82690000,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "goldenVisaEligible": false,
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "The S",
+    "ar": "السين"
+  },
+  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/the-s/",
+  "community": "the-s",
+  "communityName": {
+    "en": "The S",
+    "ar": "ذا إس"
+  },
+  "auto_translated": true,
+  "id": "the-s",
+  "fromCommunity": "jumeirah-lake-towers"
+}

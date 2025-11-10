@@ -1,0 +1,47 @@
+{
+  "communityID": "jumeirah-islands",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "جزر جميرا",
+    "en": "Jumeirah Islands"
+  },
+  "description": {
+    "ar": "فلل على جزر صناعية.",
+    "en": "Villas on man-made islands."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "jumeirah-islands",
+      "name": {
+        "ar": "جزر جميرا",
+        "en": "Jumeirah Islands"
+      }
+    }
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "jumeirah-islands",
+  "developer": "nakheel"
+}
