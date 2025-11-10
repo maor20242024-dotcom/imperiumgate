@@ -1,4 +1,4 @@
-// File: /workspaces/imgv3/app/api/ai/analyze/route.ts
+// File: /home/runner/work/imgv3/imgv3/app/api/ai/analyze/route.ts
 import * as entry from '../../../../../../app/api/ai/analyze/route.js'
 import type { NextRequest } from 'next/server.js'
 

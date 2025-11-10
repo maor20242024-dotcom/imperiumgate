@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/[locale]/tajawal_d8b1dc5c.module.css"],"sourcesContent":["@font-face {\n    \n    font-family: 'tajawal';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../../public/fonts/Tajawal.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'tajawal Fallback';\n    src: local(\"Arial\");\n    ascent-override: 68.09%;\ndescent-override: 37.80%;\nline-gap-override: 21.18%;\nsize-adjust: 94.43%;\n\n}\n\n.className {\n    font-family: 'tajawal', 'tajawal Fallback';\n    \n}\n.variable {\n    --font-tajawal: 'tajawal', 'tajawal Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAQA;;;;;;;;;AAUA;;;;AAIA"}}]
-}

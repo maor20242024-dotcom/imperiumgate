@@ -65,8 +65,7 @@ export default function Error({
             <RefreshCw className="w-5 h-5 mr-2" />
             {isArabic ? 'إعادة المحاولة' : 'Try Again'}
           </LuxuryButton>
-          
-          <Link href={stringRoutes.home(locale)}>
+          <Link href={require('@/lib/routes').routes.home(locale)}>
             <LuxuryButton 
               variant="outline" 
               size="lg"

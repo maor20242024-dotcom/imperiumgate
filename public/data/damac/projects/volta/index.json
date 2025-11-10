@@ -1,15 +1,18 @@
 {
+  "developer": "damac",
   "developer-id": "damac",
   "community-id": null,
   "slug": "volta",
+  "projectName": "Volta",
+  "title": "Volta",
   "project-name": {
     "en": {
-      "ar": "",
-      "en": ""
+      "ar": "فولتا",
+      "en": "Volta"
     },
     "ar": {
-      "ar": "",
-      "en": ""
+      "ar": "فولتا",
+      "en": "Volta"
     }
   },
   "description": {

@@ -13,7 +13,7 @@ export default async function ComparePage({ params }: { params: Promise<{ locale
         <h1 className="text-3xl font-extrabold text-gold-grad">
           {locale === 'ar' ? 'المقارنة' : 'Comparison'}
         </h1>
-        <CompareClient allProjects={all} />
+        <CompareClient />
       </div>
     </div>
   );

@@ -1,0 +1,49 @@
+Scanning damac...
+Scanning emaar...
+Scanning nakheel...
+Scanning sobha...
+Scanning binghatti...
+{
+  "timestamp": "2025-11-10T08:32:28.440Z",
+  "errors": [],
+  "warnings": [
+    {
+      "file": "damac/projects/damac-islands/index.json",
+      "type": "missing_title",
+      "message": "Missing projectName/title"
+    },
+    {
+      "file": "damac/projects/damac-islands/index.json",
+      "type": "missing_developer",
+      "message": "Missing developer field"
+    },
+    {
+      "file": "damac/projects/volta/index.json",
+      "type": "missing_title",
+      "message": "Missing projectName/title"
+    },
+    {
+      "file": "damac/projects/volta/index.json",
+      "type": "missing_developer",
+      "message": "Missing developer field"
+    }
+  ],
+  "stats": {
+    "totalProjects": 406,
+    "validProjects": 404,
+    "invalidProjects": 2,
+    "missingTitle": 2,
+    "missingSlug": 0,
+    "missingDeveloper": 2,
+    "invalidJson": 0
+  }
+}
+
+=== SUMMARY ===
+Total Projects: 406
+Valid Projects: 404
+Invalid Projects: 2
+Missing Title: 2
+Missing Slug: 0
+Missing Developer: 2
+Invalid JSON: 0

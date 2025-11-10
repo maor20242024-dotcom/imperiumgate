@@ -106,5 +106,9 @@ const nextConfig = {
   
   // Compression and optimization
   compress: true,
+  
+  // Turbopack configuration (Next.js 16 default)
+  // Enable empty turbopack config to silence warnings
+  turbopack: {},
 };
 export default nextConfig;

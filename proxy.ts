@@ -87,9 +87,15 @@ export function proxy(req: NextRequest) {
 
   // Generate a per-request nonce and set a strict CSP
   const nonce = randomBytes(16).toString('base64');
+  
+  // In development mode, allow 'unsafe-eval' for Next.js HMR and Turbopack
+  // In production, this is removed for strict security
+  const isDevelopment = process.env.NODE_ENV === 'development';
+  const evalPolicy = isDevelopment ? " 'unsafe-eval'" : '';
+  
   const cspHeader = `
     default-src 'self';
-    script-src 'self' 'nonce-${nonce}' https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms https://scripts.clarity.ms https://unpkg.com https://cdn.jsdelivr.net https://cdn.aframe.io https://api.propvr.tech https://my.matterport.com https://static.matterport.com https://cdn.pannellum.org https://ajax.googleapis.com https://www.youtube.com https://player.vimeo.com;
+    script-src 'self' 'nonce-${nonce}'${evalPolicy} https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms https://scripts.clarity.ms https://unpkg.com https://cdn.jsdelivr.net https://cdn.aframe.io https://api.propvr.tech https://my.matterport.com https://static.matterport.com https://cdn.pannellum.org https://ajax.googleapis.com https://www.youtube.com https://player.vimeo.com;
     style-src 'self' 'unsafe-inline' https://unpkg.com https://cdn.jsdelivr.net https://fonts.googleapis.com;
     img-src 'self' data: blob: https: https://images.ctfassets.net https://assets.ctfassets.net https://videos.ctfassets.net https://downloads.ctfassets.net https://cdn.properties.emaar.com https://properties.emaar.com https://sobharealty.com https://www.sobharealty.com https://www.nakheel.com https://nakheel-aut.sitefinity.cloud https://prod-cdn.damacproperties.com https://storage.googleapis.com https://i.ytimg.com https://res.cloudinary.com https://www.google-analytics.com https://*.google.com https://*.google.co.in https://*.clarity.ms;
     font-src 'self' data: https://fonts.gstatic.com;

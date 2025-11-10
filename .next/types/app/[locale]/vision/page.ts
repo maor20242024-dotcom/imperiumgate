@@ -1,4 +1,4 @@
-// File: /workspaces/imgv3/app/[locale]/vision/page.tsx
+// File: /home/runner/work/imgv3/imgv3/app/[locale]/vision/page.tsx
 import * as entry from '../../../../../app/[locale]/vision/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
