@@ -5,13 +5,13 @@
   "/api/revalidate/route": "/api/revalidate",
   "/api/admin/upload/route": "/api/admin/upload",
   "/api/ai/analyze/route": "/api/ai/analyze",
-  "/api/ai/concierge/route": "/api/ai/concierge",
   "/api/dubai/projects/route": "/api/dubai/projects",
   "/api/proxy/file/route": "/api/proxy/file",
+  "/api/ai/concierge/route": "/api/ai/concierge",
   "/admin/maps/page": "/admin/maps",
+  "/[locale]/admin/page": "/[locale]/admin",
   "/[locale]/about/page": "/[locale]/about",
   "/[locale]/ai/map/page": "/[locale]/ai/map",
-  "/[locale]/admin/page": "/[locale]/admin",
   "/[locale]/ai/page": "/[locale]/ai",
   "/[locale]/compare/page": "/[locale]/compare",
   "/[locale]/contact/page": "/[locale]/contact",
@@ -22,8 +22,8 @@
   "/[locale]/sitemap/page": "/[locale]/sitemap",
   "/[locale]/terms/page": "/[locale]/terms",
   "/[locale]/vision/page": "/[locale]/vision",
-  "/[locale]/developers/page": "/[locale]/developers",
   "/[locale]/projects/[developer]/page": "/[locale]/projects/[developer]",
-  "/[locale]/projects/[developer]/[slug]/page": "/[locale]/projects/[developer]/[slug]",
-  "/[locale]/projects/page": "/[locale]/projects"
+  "/[locale]/developers/page": "/[locale]/developers",
+  "/[locale]/projects/page": "/[locale]/projects",
+  "/[locale]/projects/[developer]/[slug]/page": "/[locale]/projects/[developer]/[slug]"
 }
