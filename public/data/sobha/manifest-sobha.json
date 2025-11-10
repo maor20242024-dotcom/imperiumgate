@@ -1,0 +1,4910 @@
+{
+  "meta": {
+    "generated_at": "2025-11-06T23:57:48.978097Z",
+    "path_style": "domain_relative",
+    "trailing_slash": true,
+    "notes": "Types are heuristics; refine per developer if needed."
+  },
+  "developer": "sobha",
+  "domain": "https://sobharealty.com",
+  "items": [
+    {
+      "line": 4,
+      "label": "│   └── Sobha SkyParks (شوبا سكاي باركس)",
+      "path": "/our-communities/business-bay/sobha-skyparks/",
+      "segments": [
+        "our-communities",
+        "business-bay",
+        "sobha-skyparks"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/business-bay/sobha-skyparks/"
+    },
+    {
+      "line": 5,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/business-bay/sobha-skyparks/apartments/",
+      "segments": [
+        "our-communities",
+        "business-bay",
+        "sobha-skyparks",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/business-bay/sobha-skyparks/apartments/"
+    },
+    {
+      "line": 6,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/business-bay/sobha-skyparks/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "business-bay",
+        "sobha-skyparks",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/business-bay/sobha-skyparks/apartments/1-bedroom/"
+    },
+    {
+      "line": 7,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/business-bay/sobha-skyparks/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "business-bay",
+        "sobha-skyparks",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/business-bay/sobha-skyparks/apartments/2-bedroom/"
+    },
+    {
+      "line": 8,
+      "label": "│           └── 3BR (3 غرف)",
+      "path": "/our-communities/business-bay/sobha-skyparks/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "business-bay",
+        "sobha-skyparks",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/business-bay/sobha-skyparks/apartments/3-bedroom/"
+    },
+    {
+      "line": 11,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/"
+    },
+    {
+      "line": 12,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 13,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 14,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 15,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 16,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 17,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "310-riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/310-riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 19,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/"
+    },
+    {
+      "line": 20,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 21,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 22,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 23,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 24,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 25,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "320-riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/320-riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 27,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/"
+    },
+    {
+      "line": 28,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 29,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 30,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 31,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 32,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 33,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "330-riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/330-riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 35,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/"
+    },
+    {
+      "line": 36,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 37,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 38,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 39,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 40,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 41,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "340-riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/340-riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 43,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/"
+    },
+    {
+      "line": 44,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 45,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 46,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 47,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 48,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 49,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "350-riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/350-riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 51,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/"
+    },
+    {
+      "line": 52,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 53,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 54,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 55,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 56,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 57,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "360-riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/360-riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 59,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/"
+    },
+    {
+      "line": 60,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 61,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 62,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 63,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 64,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 65,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/aquamarine-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "aquamarine-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/aquamarine-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 67,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/"
+    },
+    {
+      "line": 68,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 69,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 70,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 71,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 72,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 73,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayfront-marina-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayfront-marina-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 75,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/"
+    },
+    {
+      "line": 76,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 77,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 78,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 79,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 80,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 81,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "bayside-marina-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/bayside-marina-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 83,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/"
+    },
+    {
+      "line": 84,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 85,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 86,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 87,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 88,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 89,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "canalside-marina-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/canalside-marina-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 91,
+      "label": "│   │   └── Villas (فلل)",
+      "path": "/our-communities/delphine-beach-residences/coral-beach-villas/villas/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "coral-beach-villas",
+        "villas"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/coral-beach-villas/villas/"
+    },
+    {
+      "line": 92,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/coral-beach-villas/villas/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "coral-beach-villas",
+        "villas",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/coral-beach-villas/villas/2-bedroom/"
+    },
+    {
+      "line": 93,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/coral-beach-villas/villas/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "coral-beach-villas",
+        "villas",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/coral-beach-villas/villas/3-bedroom/"
+    },
+    {
+      "line": 94,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/coral-beach-villas/villas/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "coral-beach-villas",
+        "villas",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/coral-beach-villas/villas/4-bedroom/"
+    },
+    {
+      "line": 96,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/"
+    },
+    {
+      "line": 97,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 98,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 99,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 100,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 101,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 102,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "delphine-beach-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/delphine-beach-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 104,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/"
+    },
+    {
+      "line": 105,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 106,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 107,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 108,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 109,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 110,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/florine-beach-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "florine-beach-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/florine-beach-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 112,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/"
+    },
+    {
+      "line": 113,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 114,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 115,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 116,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 117,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 118,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pearlside-marina-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pearlside-marina-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 120,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/"
+    },
+    {
+      "line": 121,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 122,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 123,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 124,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 125,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 126,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pierside-marina-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pierside-marina-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 128,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/"
+    },
+    {
+      "line": 129,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 130,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 131,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 132,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 133,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 134,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "pristine-beach-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/pristine-beach-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 136,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/"
+    },
+    {
+      "line": 137,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/1-bedroom/"
+    },
+    {
+      "line": 138,
+      "label": "│           ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 139,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/2-bedroom/"
+    },
+    {
+      "line": 140,
+      "label": "│           ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 141,
+      "label": "│           ├── 3BR (3 غرف)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/3-bedroom/"
+    },
+    {
+      "line": 142,
+      "label": "│           └── 4BR (4 غرف)",
+      "path": "/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "delphine-beach-residences",
+        "yachtside-marina-residences",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/delphine-beach-residences/yachtside-marina-residences/apartments/4-bedroom/"
+    },
+    {
+      "line": 144,
+      "label": "│   └── Sobha SeaHaven (شوبا سي هافن)",
+      "path": "/our-communities/dubai-harbour/sobha-seahaven/",
+      "segments": [
+        "our-communities",
+        "dubai-harbour",
+        "sobha-seahaven"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/dubai-harbour/sobha-seahaven/"
+    },
+    {
+      "line": 145,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/dubai-harbour/sobha-seahaven/apartments/",
+      "segments": [
+        "our-communities",
+        "dubai-harbour",
+        "sobha-seahaven",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/dubai-harbour/sobha-seahaven/apartments/"
+    },
+    {
+      "line": 146,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/dubai-harbour/sobha-seahaven/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "dubai-harbour",
+        "sobha-seahaven",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/dubai-harbour/sobha-seahaven/apartments/1-bedroom/"
+    },
+    {
+      "line": 147,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/dubai-harbour/sobha-seahaven/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "dubai-harbour",
+        "sobha-seahaven",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/dubai-harbour/sobha-seahaven/apartments/2-bedroom/"
+    },
+    {
+      "line": 148,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/dubai-harbour/sobha-seahaven/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "dubai-harbour",
+        "sobha-seahaven",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/dubai-harbour/sobha-seahaven/apartments/3-bedroom/"
+    },
+    {
+      "line": 149,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/dubai-harbour/sobha-seahaven/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "dubai-harbour",
+        "sobha-seahaven",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/dubai-harbour/sobha-seahaven/apartments/4-bedroom/"
+    },
+    {
+      "line": 151,
+      "label": "│   └── Sobha Verde (شوبا فيردي)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/"
+    },
+    {
+      "line": 152,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/apartments/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/apartments/"
+    },
+    {
+      "line": 153,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/apartments/1-bedroom/"
+    },
+    {
+      "line": 154,
+      "label": "│           ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 155,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/apartments/2-bedroom/"
+    },
+    {
+      "line": 156,
+      "label": "│           ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 157,
+      "label": "│           └── 3BR (3 غرف)",
+      "path": "/our-communities/jumeirah-lake-towers/sobha-verde/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "jumeirah-lake-towers",
+        "sobha-verde",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/jumeirah-lake-towers/sobha-verde/apartments/3-bedroom/"
+    },
+    {
+      "line": 158,
+      "label": "├── meydan (ميدان)",
+      "path": "/our-communities/meydan/",
+      "segments": [
+        "our-communities",
+        "meydan"
+      ],
+      "type": "community",
+      "confidence": "high",
+      "full_url": "https://sobharealty.com/our-communities/meydan/"
+    },
+    {
+      "line": 159,
+      "label": "│   └── Sobha One (شوبا وان)",
+      "path": "/our-communities/meydan/sobha-one/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/"
+    },
+    {
+      "line": 160,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/meydan/sobha-one/apartments/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/"
+    },
+    {
+      "line": 161,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/meydan/sobha-one/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/1-bedroom/"
+    },
+    {
+      "line": 162,
+      "label": "│           ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/meydan/sobha-one/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 163,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/meydan/sobha-one/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/2-bedroom/"
+    },
+    {
+      "line": 164,
+      "label": "│           ├── 3BR (3 غرف)",
+      "path": "/our-communities/meydan/sobha-one/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/3-bedroom/"
+    },
+    {
+      "line": 165,
+      "label": "│           ├── 4BR (4 غرف)",
+      "path": "/our-communities/meydan/sobha-one/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/4-bedroom/"
+    },
+    {
+      "line": 166,
+      "label": "│           └── Duplexes (دوبلكس)",
+      "path": "/our-communities/meydan/sobha-one/apartments/duplexes/",
+      "segments": [
+        "our-communities",
+        "meydan",
+        "sobha-one",
+        "apartments",
+        "duplexes"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/meydan/sobha-one/apartments/duplexes/"
+    },
+    {
+      "line": 168,
+      "label": "│   ├── Sobha Hartland (شوبا هارتلاند)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/"
+    },
+    {
+      "line": 169,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/"
+    },
+    {
+      "line": 170,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/1-bedroom/"
+    },
+    {
+      "line": 171,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 172,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/2-bedroom/"
+    },
+    {
+      "line": 173,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 174,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/3-bedroom/"
+    },
+    {
+      "line": 175,
+      "label": "│   │       ├── 3.5BR (3.5 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/3.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "3.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/3.5-bedroom/"
+    },
+    {
+      "line": 176,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland/apartments/4-bedroom/"
+    },
+    {
+      "line": 177,
+      "label": "│   ├── Sobha Hartland II (شوبا هارتلاند 2)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/"
+    },
+    {
+      "line": 179,
+      "label": "│   │   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/"
+    },
+    {
+      "line": 180,
+      "label": "│   │   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/1-bedroom/"
+    },
+    {
+      "line": 181,
+      "label": "│   │   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 182,
+      "label": "│   │   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/2-bedroom/"
+    },
+    {
+      "line": 183,
+      "label": "│   │   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 184,
+      "label": "│   │   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/3-bedroom/"
+    },
+    {
+      "line": 185,
+      "label": "│   │   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "riverside-crescent",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/riverside-crescent/apartments/4-bedroom/"
+    },
+    {
+      "line": 186,
+      "label": "│   │   ├── Skyscape (سكاي سكيب)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "skyscape"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/"
+    },
+    {
+      "line": 187,
+      "label": "│   │   │   ├── Aura (أورا)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/aura/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "aura"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/aura/"
+    },
+    {
+      "line": 188,
+      "label": "│   │   │   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/aura/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "aura",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/aura/apartments/"
+    },
+    {
+      "line": 189,
+      "label": "│   │   │   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/aura/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashid-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "aura",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashid-city/sobha-hartland-ii/skyscape/aura/apartments/1-bedroom/"
+    },
+    {
+      "line": 190,
+      "label": "│   │   │   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/aura/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "aura",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/aura/apartments/2-bedroom/"
+    },
+    {
+      "line": 191,
+      "label": "│   │   │   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/aura/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "aura",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/aura/apartments/3-bedroom/"
+    },
+    {
+      "line": 192,
+      "label": "│   │   │   ├── Altius (ألتيوس)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "altius"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/"
+    },
+    {
+      "line": 193,
+      "label": "│   │   │   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "altius",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/"
+    },
+    {
+      "line": 194,
+      "label": "│   │   │   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "altius",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/2-bedroom/"
+    },
+    {
+      "line": 195,
+      "label": "│   │   │   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "altius",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/3-bedroom/"
+    },
+    {
+      "line": 196,
+      "label": "│   │   │   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "altius",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/altius/apartments/4-bedroom/"
+    },
+    {
+      "line": 197,
+      "label": "│   │   │   └── Avenue (أفينيو)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "avenue"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/"
+    },
+    {
+      "line": 198,
+      "label": "│   │   │       └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "avenue",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/"
+    },
+    {
+      "line": 199,
+      "label": "│   │   │           ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "avenue",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 200,
+      "label": "│   │   │           ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "avenue",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 201,
+      "label": "│   │   │           └── 3.5BR (3.5 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/3.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyscape",
+        "avenue",
+        "apartments",
+        "3.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyscape/avenue/apartments/3.5-bedroom/"
+    },
+    {
+      "line": 202,
+      "label": "│   │   └── Skyvue (سكاي فيو)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyvue"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/"
+    },
+    {
+      "line": 203,
+      "label": "│   │       └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyvue",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/"
+    },
+    {
+      "line": 204,
+      "label": "│   │           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyvue",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/1-bedroom/"
+    },
+    {
+      "line": 205,
+      "label": "│   │           ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyvue",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/2-bedroom/"
+    },
+    {
+      "line": 206,
+      "label": "│   │           ├── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyvue",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/3-bedroom/"
+    },
+    {
+      "line": 207,
+      "label": "│   │           └── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-hartland-ii",
+        "skyvue",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-hartland-ii/skyvue/apartments/4-bedroom/"
+    },
+    {
+      "line": 208,
+      "label": "│   ├── Sobha One (شوبا وان)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/"
+    },
+    {
+      "line": 209,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/"
+    },
+    {
+      "line": 210,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/1-bedroom/"
+    },
+    {
+      "line": 211,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 212,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/2-bedroom/"
+    },
+    {
+      "line": 213,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/3-bedroom/"
+    },
+    {
+      "line": 214,
+      "label": "│   │       ├── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/4-bedroom/"
+    },
+    {
+      "line": 215,
+      "label": "│   │       └── Duplexes (دوبلكس)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/duplexes/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-one",
+        "apartments",
+        "duplexes"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-one/apartments/duplexes/"
+    },
+    {
+      "line": 216,
+      "label": "│   ├── Sobha Seahaven (شوبا سي هافن)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-seahaven/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-seahaven"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-seahaven/"
+    },
+    {
+      "line": 217,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-seahaven",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/"
+    },
+    {
+      "line": 218,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-seahaven",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/1-bedroom/"
+    },
+    {
+      "line": 219,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-seahaven",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/2-bedroom/"
+    },
+    {
+      "line": 220,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-seahaven",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/3-bedroom/"
+    },
+    {
+      "line": 221,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-seahaven",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-seahaven/apartments/4-bedroom/"
+    },
+    {
+      "line": 222,
+      "label": "│   ├── Sobha S (ذا إس)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-s-tower/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-s-tower"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-s-tower/"
+    },
+    {
+      "line": 223,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-s-tower/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-s-tower",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-s-tower/apartments/"
+    },
+    {
+      "line": 224,
+      "label": "│   │       ├── 4BR (4 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-s-tower/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-s-tower",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-s-tower/apartments/4-bedroom/"
+    },
+    {
+      "line": 225,
+      "label": "│   │       └── 5BR (5 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-s-tower/apartments/5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-s-tower",
+        "apartments",
+        "5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-s-tower/apartments/5-bedroom/"
+    },
+    {
+      "line": 226,
+      "label": "│   ├── Sobha Solis (شوبا سوليس)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-solis/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-solis"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-solis/"
+    },
+    {
+      "line": 227,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-solis",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/"
+    },
+    {
+      "line": 228,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-solis",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/1-bedroom/"
+    },
+    {
+      "line": 229,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-solis",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 230,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-solis",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/2-bedroom/"
+    },
+    {
+      "line": 231,
+      "label": "│   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-solis",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-solis/apartments/3-bedroom/"
+    },
+    {
+      "line": 232,
+      "label": "│   ├── Sobha Orbis (شوبا أوربيس)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-orbis/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-orbis"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-orbis/"
+    },
+    {
+      "line": 233,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-orbis",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/"
+    },
+    {
+      "line": 234,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-orbis",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/1-bedroom/"
+    },
+    {
+      "line": 235,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-orbis",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 236,
+      "label": "│   │       └── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-orbis",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-orbis/apartments/2-bedroom/"
+    },
+    {
+      "line": 237,
+      "label": "│   ├── Sobha Reserve (شوبا ريزيرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-reserve/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-reserve"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-reserve/"
+    },
+    {
+      "line": 238,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-reserve/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-reserve",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-reserve/apartments/"
+    },
+    {
+      "line": 239,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-reserve/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-reserve",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-reserve/apartments/1-bedroom/"
+    },
+    {
+      "line": 240,
+      "label": "│   │       └── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-reserve/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-reserve",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-reserve/apartments/2-bedroom/"
+    },
+    {
+      "line": 241,
+      "label": "│   ├── Sobha Elwood (شوبا إل وود)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-elwood/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-elwood"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-elwood/"
+    },
+    {
+      "line": 242,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-elwood/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-elwood",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-elwood/apartments/"
+    },
+    {
+      "line": 243,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-elwood/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-elwood",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-elwood/apartments/2-bedroom/"
+    },
+    {
+      "line": 244,
+      "label": "│   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-elwood/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-elwood",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-elwood/apartments/3-bedroom/"
+    },
+    {
+      "line": 245,
+      "label": "│   ├── Sobha Central (شوبا سنترال)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-central/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-central"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-central/"
+    },
+    {
+      "line": 246,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-central/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-central",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-central/apartments/"
+    },
+    {
+      "line": 247,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-central/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-central",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-central/apartments/1-bedroom/"
+    },
+    {
+      "line": 248,
+      "label": "│   │       └── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-central/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-central",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-central/apartments/2-bedroom/"
+    },
+    {
+      "line": 249,
+      "label": "│   ├── Sobha Privy Collection (شوبا بريفي كوليكشن)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-privy-collection"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/"
+    },
+    {
+      "line": 250,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-privy-collection",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/"
+    },
+    {
+      "line": 251,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-privy-collection",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/1-bedroom/"
+    },
+    {
+      "line": 252,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-privy-collection",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 253,
+      "label": "│   │       └── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-privy-collection",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-privy-collection/apartments/2-bedroom/"
+    },
+    {
+      "line": 254,
+      "label": "│   ├── Sobha Coraline (شوبا كورالين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-coraline/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-coraline"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-coraline/"
+    },
+    {
+      "line": 255,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-coraline",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/"
+    },
+    {
+      "line": 256,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-coraline",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/1-bedroom/"
+    },
+    {
+      "line": 257,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-coraline",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 258,
+      "label": "│   │       └── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-coraline",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-coraline/apartments/2-bedroom/"
+    },
+    {
+      "line": 259,
+      "label": "│   ├── Sobha Selene (شوبا سيلين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-selene/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-selene"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-selene/"
+    },
+    {
+      "line": 260,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-selene",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/"
+    },
+    {
+      "line": 261,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-selene",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/1-bedroom/"
+    },
+    {
+      "line": 262,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-selene",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 263,
+      "label": "│   │       └── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-selene",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-selene/apartments/2-bedroom/"
+    },
+    {
+      "line": 264,
+      "label": "│   └── Sobha Waves Opulence (شوبا ويفز أوبولنس)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-waves-opulence"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/"
+    },
+    {
+      "line": 265,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-waves-opulence",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/"
+    },
+    {
+      "line": 266,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-waves-opulence",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/1-bedroom/"
+    },
+    {
+      "line": 267,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-waves-opulence",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/2-bedroom/"
+    },
+    {
+      "line": 268,
+      "label": "│           └── 3BR (3 غرف)",
+      "path": "/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "mohammed-bin-rashd-city",
+        "sobha-waves-opulence",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/mohammed-bin-rashd-city/sobha-waves-opulence/apartments/3-bedroom/"
+    },
+    {
+      "line": 270,
+      "label": "│   └── Sobha Verde (شوبا فيردي)",
+      "path": "/our-communities/motor-city/sobha-verde/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/"
+    },
+    {
+      "line": 271,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/motor-city/sobha-verde/apartments/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/apartments/"
+    },
+    {
+      "line": 272,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/motor-city/sobha-verde/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/apartments/1-bedroom/"
+    },
+    {
+      "line": 273,
+      "label": "│           ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/motor-city/sobha-verde/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 274,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/motor-city/sobha-verde/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/apartments/2-bedroom/"
+    },
+    {
+      "line": 275,
+      "label": "│           ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/motor-city/sobha-verde/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 276,
+      "label": "│           └── 3BR (3 غرف)",
+      "path": "/our-communities/motor-city/sobha-verde/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "motor-city",
+        "sobha-verde",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/motor-city/sobha-verde/apartments/3-bedroom/"
+    },
+    {
+      "line": 279,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-central/the-tranquil/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-tranquil",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-tranquil/apartments/"
+    },
+    {
+      "line": 280,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-central/the-tranquil/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-tranquil",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-tranquil/apartments/1-bedroom/"
+    },
+    {
+      "line": 281,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-central/the-tranquil/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-tranquil",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-tranquil/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 282,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-central/the-tranquil/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-tranquil",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-tranquil/apartments/2-bedroom/"
+    },
+    {
+      "line": 283,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-central/the-tranquil/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-tranquil",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-tranquil/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 284,
+      "label": "│   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-central/the-tranquil/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-tranquil",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-tranquil/apartments/3-bedroom/"
+    },
+    {
+      "line": 286,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-central/the-serene/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-serene",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-serene/apartments/"
+    },
+    {
+      "line": 287,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-central/the-serene/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-serene",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-serene/apartments/1-bedroom/"
+    },
+    {
+      "line": 288,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-central/the-serene/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-serene",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-serene/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 289,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-central/the-serene/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-serene",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-serene/apartments/2-bedroom/"
+    },
+    {
+      "line": 290,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-central/the-serene/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-serene",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-serene/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 291,
+      "label": "│   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-central/the-serene/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-serene",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-serene/apartments/3-bedroom/"
+    },
+    {
+      "line": 293,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-central/the-eden/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-eden",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-eden/apartments/"
+    },
+    {
+      "line": 294,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-central/the-eden/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-eden",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-eden/apartments/1-bedroom/"
+    },
+    {
+      "line": 295,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-central/the-eden/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-eden",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-eden/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 296,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-central/the-eden/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-eden",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-eden/apartments/2-bedroom/"
+    },
+    {
+      "line": 297,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-central/the-eden/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-eden",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-eden/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 298,
+      "label": "│   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-central/the-eden/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-eden",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-eden/apartments/3-bedroom/"
+    },
+    {
+      "line": 300,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-central/the-horizon/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-horizon",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-horizon/apartments/"
+    },
+    {
+      "line": 301,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-central/the-horizon/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-horizon",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-horizon/apartments/1-bedroom/"
+    },
+    {
+      "line": 302,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-central/the-horizon/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-horizon",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-horizon/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 303,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-central/the-horizon/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-horizon",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-horizon/apartments/2-bedroom/"
+    },
+    {
+      "line": 304,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-central/the-horizon/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-horizon",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-horizon/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 305,
+      "label": "│   │       └── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-central/the-horizon/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "the-horizon",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/the-horizon/apartments/3-bedroom/"
+    },
+    {
+      "line": 306,
+      "label": "│   └── Sobha Central (شوبا سنترال)",
+      "path": "/our-communities/sobha-central/sobha-central/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "sobha-central"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/sobha-central/"
+    },
+    {
+      "line": 307,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/sobha-central/sobha-central/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "sobha-central",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/sobha-central/apartments/"
+    },
+    {
+      "line": 308,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-central/sobha-central/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "sobha-central",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/sobha-central/apartments/1-bedroom/"
+    },
+    {
+      "line": 309,
+      "label": "│           └── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-central/sobha-central/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-central",
+        "sobha-central",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-central/sobha-central/apartments/2-bedroom/"
+    },
+    {
+      "line": 311,
+      "label": "│   └── Sobha Coraline (شوبا كورالين)",
+      "path": "/our-communities/sobha-coraline/sobha-coraline/",
+      "segments": [
+        "our-communities",
+        "sobha-coraline",
+        "sobha-coraline"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-coraline/sobha-coraline/"
+    },
+    {
+      "line": 312,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/sobha-coraline/sobha-coraline/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-coraline",
+        "sobha-coraline",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-coraline/sobha-coraline/apartments/"
+    },
+    {
+      "line": 313,
+      "label": "│           ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-coraline/sobha-coraline/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-coraline",
+        "sobha-coraline",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-coraline/sobha-coraline/apartments/1-bedroom/"
+    },
+    {
+      "line": 314,
+      "label": "│           ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-coraline/sobha-coraline/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-coraline",
+        "sobha-coraline",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-coraline/sobha-coraline/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 315,
+      "label": "│           └── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-coraline/sobha-coraline/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-coraline",
+        "sobha-coraline",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-coraline/sobha-coraline/apartments/2-bedroom/"
+    },
+    {
+      "line": 317,
+      "label": "│   └── Sobha Elwood (شوبا إل وود)",
+      "path": "/our-communities/sobha-elwood/sobha-elwood/",
+      "segments": [
+        "our-communities",
+        "sobha-elwood",
+        "sobha-elwood"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-elwood/sobha-elwood/"
+    },
+    {
+      "line": 318,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/our-communities/sobha-elwood/sobha-elwood/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-elwood",
+        "sobha-elwood",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-elwood/sobha-elwood/apartments/"
+    },
+    {
+      "line": 319,
+      "label": "│           ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-elwood/sobha-elwood/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-elwood",
+        "sobha-elwood",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-elwood/sobha-elwood/apartments/2-bedroom/"
+    },
+    {
+      "line": 320,
+      "label": "│           └── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-elwood/sobha-elwood/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-elwood",
+        "sobha-elwood",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-elwood/sobha-elwood/apartments/3-bedroom/"
+    },
+    {
+      "line": 322,
+      "label": "│   ├── Sobha One (شوبا وان)",
+      "path": "/our-communities/sobha-hartland/sobha-one/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/"
+    },
+    {
+      "line": 323,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/"
+    },
+    {
+      "line": 324,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/1-bedroom/"
+    },
+    {
+      "line": 325,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 326,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/2-bedroom/"
+    },
+    {
+      "line": 327,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/3-bedroom/"
+    },
+    {
+      "line": 328,
+      "label": "│   │       ├── 4BR (4 غرف)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/4-bedroom/"
+    },
+    {
+      "line": 329,
+      "label": "│   │       └── Duplexes (دوبلكس)",
+      "path": "/our-communities/sobha-hartland/sobha-one/apartments/duplexes/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "sobha-one",
+        "apartments",
+        "duplexes"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/sobha-one/apartments/duplexes/"
+    },
+    {
+      "line": 331,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/"
+    },
+    {
+      "line": 332,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/1-bedroom/"
+    },
+    {
+      "line": 333,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 334,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/2-bedroom/"
+    },
+    {
+      "line": 335,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 336,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/3-bedroom/"
+    },
+    {
+      "line": 337,
+      "label": "│   │       ├── 3.5BR (3.5 غرف)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/3.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "3.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/3.5-bedroom/"
+    },
+    {
+      "line": 338,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/sobha-hartland/crest-grande/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "crest-grande",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/crest-grande/apartments/4-bedroom/"
+    },
+    {
+      "line": 340,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/"
+    },
+    {
+      "line": 341,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/1-bedroom/"
+    },
+    {
+      "line": 342,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 343,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/2-bedroom/"
+    },
+    {
+      "line": 344,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 345,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/3-bedroom/"
+    },
+    {
+      "line": 346,
+      "label": "│   │       ├── 3.5BR (3.5 غرف)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/3.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "3.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/3.5-bedroom/"
+    },
+    {
+      "line": 347,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/sobha-hartland/creek-vistas/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "creek-vistas",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/creek-vistas/apartments/4-bedroom/"
+    },
+    {
+      "line": 349,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/"
+    },
+    {
+      "line": 350,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/1-bedroom/"
+    },
+    {
+      "line": 351,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 352,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/2-bedroom/"
+    },
+    {
+      "line": 353,
+      "label": "│   │       ├── 2.5BR (2.5 غرف)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/2.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "2.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/2.5-bedroom/"
+    },
+    {
+      "line": 354,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/3-bedroom/"
+    },
+    {
+      "line": 355,
+      "label": "│   │       ├── 3.5BR (3.5 غرف)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/3.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "3.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/3.5-bedroom/"
+    },
+    {
+      "line": 356,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/sobha-hartland/one-park-avenue/apartments/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "one-park-avenue",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/one-park-avenue/apartments/4-bedroom/"
+    },
+    {
+      "line": 358,
+      "label": "│   │   └── Villas (فلل)",
+      "path": "/our-communities/sobha-hartland/hartland-quad-homes/villas/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-quad-homes",
+        "villas"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-quad-homes/villas/"
+    },
+    {
+      "line": 359,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-hartland/hartland-quad-homes/villas/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-quad-homes",
+        "villas",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-quad-homes/villas/2-bedroom/"
+    },
+    {
+      "line": 360,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-hartland/hartland-quad-homes/villas/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-quad-homes",
+        "villas",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-quad-homes/villas/3-bedroom/"
+    },
+    {
+      "line": 361,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/sobha-hartland/hartland-quad-homes/villas/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-quad-homes",
+        "villas",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-quad-homes/villas/4-bedroom/"
+    },
+    {
+      "line": 363,
+      "label": "│   │   └── Villas (فلل)",
+      "path": "/our-communities/sobha-hartland/hartland-waterfront-villas/villas/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-waterfront-villas",
+        "villas"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-waterfront-villas/villas/"
+    },
+    {
+      "line": 364,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/sobha-hartland/hartland-waterfront-villas/villas/2-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-waterfront-villas",
+        "villas",
+        "2-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-waterfront-villas/villas/2-bedroom/"
+    },
+    {
+      "line": 365,
+      "label": "│   │       ├── 3BR (3 غرف)",
+      "path": "/our-communities/sobha-hartland/hartland-waterfront-villas/villas/3-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-waterfront-villas",
+        "villas",
+        "3-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-waterfront-villas/villas/3-bedroom/"
+    },
+    {
+      "line": 366,
+      "label": "│   │       └── 4BR (4 غرف)",
+      "path": "/our-communities/sobha-hartland/hartland-waterfront-villas/villas/4-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-waterfront-villas",
+        "villas",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-waterfront-villas/villas/4-bedroom/"
+    },
+    {
+      "line": 368,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/our-communities/sobha-hartland/hartland-greens-apartment/apartments/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-greens-apartment",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-greens-apartment/apartments/"
+    },
+    {
+      "line": 369,
+      "label": "│   │       ├── 1BR (غرفة نوم واحدة)",
+      "path": "/our-communities/sobha-hartland/hartland-greens-apartment/apartments/1-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-greens-apartment",
+        "apartments",
+        "1-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-greens-apartment/apartments/1-bedroom/"
+    },
+    {
+      "line": 370,
+      "label": "│   │       ├── 1.5BR (1.5 غرفة)",
+      "path": "/our-communities/sobha-hartland/hartland-greens-apartment/apartments/1.5-bedroom/",
+      "segments": [
+        "our-communities",
+        "sobha-hartland",
+        "hartland-greens-apartment",
+        "apartments",
+        "1.5-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://sobharealty.com/our-communities/sobha-hartland/hartland-greens-apartment/apartments/1.5-bedroom/"
+    },
+    {
+      "line": 371,
+      "label": "│   │       ├── 2BR (غرفتين)",
+      "path": "/our-communities/so/",
+      "segments": [
+        "our-communities",
+        "so"
+      ],
+      "type": "community",
+      "confidence": "high",
+      "full_url": "https://sobharealty.com/our-communities/so/"
+    }
+  ],
+  "stats": {
+    "project": 329,
+    "community": 2
+  },
+  "count": 331
+}

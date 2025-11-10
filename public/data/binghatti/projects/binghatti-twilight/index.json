@@ -1,0 +1,224 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-twilight",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": null,
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Al Jaddaf"
+  },
+  "location": {
+    "ar": null,
+    "en": "Al Jaddaf"
+  },
+  "latitude": 25.22787891405451,
+  "longitude": 55.26042354208453,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": null,
+    "en": "Binghatti Twilight"
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Binghatti Twilight in Dubai — Luxury residences with premium amenities and Convenient payment structure. Explore prices, floor plans, and availability."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "payment plan structure is:"
+  },
+  "minAreaSqft": 574,
+  "maxAreaSqft": 876,
+  "minAreaSqmt": 53,
+  "maxAreaSqmt": 81,
+  "minPriceAED": 1299000,
+  "maxPriceAED": null,
+  "deliveryDate": "Q1 2026",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
+  "heroImage": "https://binghattiweb.imgix.net/twilight-hero-banner.webp?auto=format,compress&q=60&w=1400",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/twilight-hero-banner.webp?auto=format,compress&q=60&w=1400",
+    "https://binghattiweb.imgix.net/twilight-amenties-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-amenties-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-bedroom-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-bedroom-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-3.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-exterior-4.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-living-room-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-living-room-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-living-room-3.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-lobby-1.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-lobby-2.webp?auto=format,compress",
+    "https://binghattiweb.imgix.net/twilight-lobby-3.webp?auto=format,compress&w=960",
+    "https://binghattiweb.imgix.net/floor-plan-test.png?auto=format,compress",
+    "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg?auto=format,compress",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg?auto=format,compress"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Fitness Center"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Landscaped Areas"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Family-friendly Spaces"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "Contemporary apartments designed for modern living"
+    },
+    {
+      "ar": null,
+      "en": "Convenient access to major roads, shopping, and city landmarks"
+    },
+    {
+      "ar": null,
+      "en": "Multiple residential floors with dedicated parking and amenity levels"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-twilight",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:18:58.841Z",
+    "title": "Binghatti Twilight – 1, 2, & 3 BR Apartments in Al Jaddaf",
+    "description": "Binghatti Twilight in Dubai — Luxury residences with premium amenities and Convenient payment structure. Explore prices, floor plans, and availability.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-twilight"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/twilight-hero-banner.webp?auto=format,compress&q=60&w=1400",
+      "https://binghattiweb.imgix.net/twilight-amenties-2.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-amenties-1.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-bedroom-1.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-bedroom-2.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-exterior-1.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-exterior-2.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-exterior-3.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-exterior-4.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-living-room-1.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-living-room-2.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-living-room-3.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-lobby-1.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-lobby-2.webp?auto=format,compress",
+      "https://binghattiweb.imgix.net/twilight-lobby-3.webp?auto=format,compress&w=960",
+      "https://binghattiweb.imgix.net/floor-plan-test.png?auto=format,compress",
+      "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg?auto=format,compress",
+      "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg?auto=format,compress",
+      "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg?auto=format,compress",
+      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg?auto=format,compress",
+      "https://binghattiweb.imgix.net/binghatti-twilight-3.webp",
+      "https://binghattiweb.imgix.net/binghatti-twilight-11.webp",
+      "https://binghattiweb.imgix.net/twilight-footer.webp?auto=format,compress"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-brochure.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-project-facts.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-floor-plans.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-location.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115554.4861775229!2d55.21706659286809!3d25.166854353886798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69cbe987368d%3A0x29d0ae84c05d3d36!2sBinghatti%20Aquarise!5e0!3m2!1sen!2sae!4v1746546106639!5m2!1sen!2sae",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97120.67104669008!2d55.26042354208453!3d25.22787891405451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d302dfcf30b%3A0x6b7433ff87dc72a2!2sBinghatti%20Twilight!5e0!3m2!1sen!2sae!4v1749568000340!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "provider": "nakheel",
+  "generatedAt": "2025-11-07T02:10:10.748Z",
+  "communities": [
+    {
+      "slug": "al-furjan",
+      "name": {
+        "ar": "الفرجان",
+        "en": "Al Furjan"
+      }
+    },
+    {
+      "slug": "azure-residences",
+      "name": {
+        "ar": "أزور ريزيدنسز",
+        "en": "Azure Residences"
+      }
+    },
+    {
+      "slug": "badrah",
+      "name": {
+        "ar": "بدرة",
+        "en": "Badrah"
+      }
+    },
+    {
+      "slug": "discovery-gardens",
+      "name": {
+        "ar": "ديسكفري جاردنز",
+        "en": "Discovery Gardens"
+      }
+    },
+    {
+      "slug": "dubai-islands",
+      "name": {
+        "ar": "جزر دبي",
+        "en": "Dubai Islands"
+      }
+    },
+    {
+      "slug": "garden-apartments",
+      "name": {
+        "ar": "جاردن أبارتمنتس",
+        "en": "Garden Apartments"
+      }
+    },
+    {
+      "slug": "garden-view-apartments",
+      "name": {
+        "ar": "جاردن فيو أبارتمنتس",
+        "en": "Garden View Apartments"
+      }
+    },
+    {
+      "slug": "garden-view-villas",
+      "name": {
+        "ar": "جاردن فيو فلل",
+        "en": "Garden View Villas"
+      }
+    },
+    {
+      "slug": "golden-mile",
+      "name": {
+        "ar": "جولدن مايل",
+        "en": "Golden Mile"
+      }
+    },
+    {
+      "slug": "international-city",
+      "name": {
+        "ar": "إنترناشونال سيتي",
+        "en": "International City"
+      }
+    },
+    {
+      "slug": "jebel-ali-village",
+      "name": {
+        "ar": "قرية جبل علي",
+        "en": "Jebel Ali Village"
+      }
+    },
+    {
+      "slug": "jumeirah-heights",
+      "name": {
+        "ar": "جميرا هايتس",
+        "en": "Jumeirah Heights"
+      }
+    },
+    {
+      "slug": "jumeirah-islands",
+      "name": {
+        "ar": "جزر جميرا",
+        "en": "Jumeirah Islands"
+      }
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name": {
+        "ar": "أبراج بحيرات جميرا",
+        "en": "Jumeirah Lake Towers"
+      }
+    },
+    {
+      "slug": "jumeirah-park",
+      "name": {
+        "ar": "جميرا بارك",
+        "en": "Jumeirah Park"
+      }
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": {
+        "ar": "جميرا فيليج سيركل",
+        "en": "Jumeirah Village Circle"
+      }
+    },
+    {
+      "slug": "jumeirah-village-triangle",
+      "name": {
+        "ar": "جميرا فيليج تريانغل",
+        "en": "Jumeirah Village Triangle"
+      }
+    },
+    {
+      "slug": "marina-residences",
+      "name": {
+        "ar": "مارينا ريزيدنسز",
+        "en": "Marina Residences"
+      }
+    },
+    {
+      "slug": "mohammed-bin-rashid-city",
+      "name": {
+        "ar": "مدينة محمد بن راشد",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "nad-al-sheba-villas",
+      "name": {
+        "ar": "فلل ند الشبا",
+        "en": "Nad Al Sheba Villas"
+      }
+    },
+    {
+      "slug": "palm-jebel-ali",
+      "name": {
+        "ar": "نخلة جبل علي",
+        "en": "Palm Jebel Ali"
+      }
+    },
+    {
+      "slug": "palm-jumeirah",
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "palm-views",
+      "name": {
+        "ar": "بالم فيوز",
+        "en": "Palm Views"
+      }
+    },
+    {
+      "slug": "palma-residences",
+      "name": {
+        "ar": "بالما ريزيدنسز",
+        "en": "Palma Residences"
+      }
+    },
+    {
+      "slug": "the-gardens",
+      "name": {
+        "ar": "ذا جاردنز",
+        "en": "The Gardens"
+      }
+    },
+    {
+      "slug": "the-world",
+      "name": {
+        "ar": "العالم",
+        "en": "The World"
+      }
+    },
+    {
+      "slug": "veneto",
+      "name": {
+        "ar": "فينيتو",
+        "en": "Veneto"
+      }
+    },
+    {
+      "slug": "warsan-village",
+      "name": {
+        "ar": "وارسان فيليج",
+        "en": "Warsan Village"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "slug": "Bay_Villas,_Dubai_Islands",
+      "name": {
+        "ar": "فلل باي، جزر دبي",
+        "en": "Bay Villas, Dubai Islands"
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "District_One_Naya_Residences",
+      "name": {
+        "ar": "District One Naya Residences",
+        "en": "District One Naya Residences"
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "Lagoon_Views",
+      "name": {
+        "ar": "Lagoon Views",
+        "en": "Lagoon Views"
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "Rixos_Hotel_&_Residences",
+      "name": {
+        "ar": "Rixos Hotel & Residences",
+        "en": "Rixos Hotel & Residences"
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "Rixos_Hotel_&_Resorts",
+      "name": {
+        "ar": "Rixos Hotel & Resorts",
+        "en": "Rixos Hotel & Resorts"
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "The_World_island",
+      "name": {
+        "ar": "",
+        "en": ""
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "al-furjan",
+      "name": null,
+      "community": "al-furjan",
+      "status": null
+    },
+    {
+      "slug": "azure-residences",
+      "name": null,
+      "community": "azure-residences",
+      "status": null
+    },
+    {
+      "slug": "badrah",
+      "name": null,
+      "community": "badrah",
+      "status": null
+    },
+    {
+      "slug": "bay-grove-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "bay-villas-dubai-islands",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "bay-villas",
+      "name": null,
+      "community": "dubai-islands",
+      "status": null
+    },
+    {
+      "slug": "canal-front-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "club-vista-mare",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "como-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "discovery-gardens",
+      "name": null,
+      "community": "discovery-gardens",
+      "status": null
+    },
+    {
+      "slug": "district-one-naya-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "district-one-west",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "district-one",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "dragon-city",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "dragon-mart",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "dubai-islands",
+      "name": null,
+      "community": "dubai-islands",
+      "status": null
+    },
+    {
+      "slug": "garden-apartments",
+      "name": null,
+      "community": "garden-apartments",
+      "status": null
+    },
+    {
+      "slug": "garden-view-apartments",
+      "name": null,
+      "community": "garden-view-apartments",
+      "status": null
+    },
+    {
+      "slug": "garden-view-villas",
+      "name": null,
+      "community": "garden-view-villas",
+      "status": null
+    },
+    {
+      "slug": "golden-mile",
+      "name": null,
+      "community": "golden-mile",
+      "status": null
+    },
+    {
+      "slug": "ibis",
+      "name": null,
+      "community": "jumeirah-village-circle",
+      "status": null
+    },
+    {
+      "slug": "ibn-battuta-mall",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "international-city",
+      "name": null,
+      "community": "international-city",
+      "status": null
+    },
+    {
+      "slug": "jebel-ali-gardens",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "jebel-ali-village",
+      "name": null,
+      "community": "jebel-ali-village",
+      "status": null
+    },
+    {
+      "slug": "jumeirah-heights",
+      "name": null,
+      "community": "jumeirah-heights",
+      "status": null
+    },
+    {
+      "slug": "jumeirah-islands",
+      "name": null,
+      "community": "jumeirah-islands",
+      "status": null
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name": null,
+      "community": "jumeirah-lake-towers",
+      "status": null
+    },
+    {
+      "slug": "jumeirah-park",
+      "name": null,
+      "community": "jumeirah-park",
+      "status": null
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": null,
+      "community": "jumeirah-village-circle",
+      "status": null
+    },
+    {
+      "slug": "jumeirah-village-triangle",
+      "name": null,
+      "community": "jumeirah-village-triangle",
+      "status": null
+    },
+    {
+      "slug": "lagoon-views",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "marina-residences",
+      "name": null,
+      "community": "marina-residences",
+      "status": null
+    },
+    {
+      "slug": "masakin-al-furjan",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "meydan",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "murooj-al-furjan",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "nad-al-sheba-gardens",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "nad-al-sheba-villas",
+      "name": null,
+      "community": "nad-al-sheba-villas",
+      "status": null
+    },
+    {
+      "slug": "naya-phase-2",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "naya-phase-3",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "palm-beach-towers",
+      "name": null,
+      "community": "palm-jumeirah",
+      "status": null
+    },
+    {
+      "slug": "palm-central-private-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "palm-jebel-ali",
+      "name": null,
+      "community": "palm-jebel-ali",
+      "status": null
+    },
+    {
+      "slug": "palm-jumeirah",
+      "name": null,
+      "community": "palm-jumeirah",
+      "status": null
+    },
+    {
+      "slug": "palm-views",
+      "name": null,
+      "community": "palm-views",
+      "status": null
+    },
+    {
+      "slug": "palma-residences",
+      "name": null,
+      "community": "palma-residences",
+      "status": null
+    },
+    {
+      "slug": "paradise-one",
+      "name": null,
+      "community": "jumeirah-village-triangle",
+      "status": null
+    },
+    {
+      "slug": "rixos-at-dubai-islands",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "rixos-beach-residences-phase-2",
+      "name": null,
+      "community": "dubai-islands",
+      "status": null
+    },
+    {
+      "slug": "rixos-hotel-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "rixos-hotel-resorts",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "seaview-residences",
+      "name": null,
+      "community": "palm-jumeirah",
+      "status": null
+    },
+    {
+      "slug": "shoreline-apartments",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-beach-collection-villas",
+      "name": null,
+      "community": "palm-jebel-ali",
+      "status": null
+    },
+    {
+      "slug": "the-coral-collection-villas",
+      "name": null,
+      "community": "palm-jebel-ali",
+      "status": null
+    },
+    {
+      "slug": "the-gardens",
+      "name": null,
+      "community": "the-gardens",
+      "status": null
+    },
+    {
+      "slug": "the-palm-tower",
+      "name": null,
+      "community": "palm-jumeirah",
+      "status": null
+    },
+    {
+      "slug": "the-pointe",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-world-island",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-world-islands",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-world",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "tilal-al-furjan",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "veneto",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "village-homes",
+      "name": null,
+      "community": "jebel-ali-village",
+      "status": null
+    },
+    {
+      "slug": "warsan-village",
+      "name": null,
+      "community": "warsan-village",
+      "status": null
+    }
+  ]
+}

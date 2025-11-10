@@ -1,0 +1,72 @@
+{
+  "name": {
+    "en": "Lagoon Views",
+    "ar": "Lagoon Views"
+  },
+  "slug": "Lagoon_Views",
+  "developer": "Nakheel",
+  "description": {
+    "en": "Lagoon Views is located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. The extravagant interiors of the homes, sweeping lagoon vistas, unparalleled amenities and excellent connectivity provide a serene lifestyle while being close to the heart of the city. Revel in the joy of living amidst lush greenery and sweeping parklands every day.",
+    "ar": "Lagoon Views is located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. The extravagant interiors of the homes, sweeping lagoon vistas, unparalleled amenities and excellent connectivity provide a serene lifestyle while being close to the heart of the city. Revel in the joy of living amidst lush greenery and sweeping parklands every day."
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/lagoon_views_banner.jpg?sfvrsn=e71812cf_1",
+  "videoLink": "",
+  "media": {
+    "gallery": [
+      "/images/nakheelcorporatelibraries/construction-updates/gallery-1-lagoon-view.jpg?sfvrsn=a61ef76d_1",
+      "/images/nakheelcorporatelibraries/construction-updates/gallery-2-lagoon-view.jpg?sfvrsn=7b64de31_1",
+      "/images/nakheelcorporatelibraries/construction-updates/gallery-3---lagoon-views.jpg?sfvrsn=df8a439b_1",
+      "/images/nakheelcorporatelibraries/construction-updates/gallery-4---lagoon-views-ground.jpg?sfvrsn=4fb74d03_1"
+    ],
+    "heroImage": "/images/nakheelcorporatelibraries/construction-updates/gallery-1-lagoon-view.jpg?sfvrsn=a61ef76d_1",
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        "/docs/nakheelcorporatelibraries/default-document-library/lagoon-views-at-district-one-brochure.pdf?sfvrsn=b8dc3156_1"
+      ],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "developerID": "nakheel",
+  "location": {
+    "country": {
+      "ar": "",
+      "en": ""
+    },
+    "city": {
+      "ar": "",
+      "en": ""
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "poiDistances": {}
+  },
+  "auto_translated": true
+}

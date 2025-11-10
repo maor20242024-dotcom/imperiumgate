@@ -83,7 +83,9 @@ export default function SectionNav({ project, locale = 'ar' }: SectionNavProps) 
       });
     }
 
-    setAvailableSections(sections);
+    // Deduplicate by hash to avoid duplicate keys if multiple elements share the same id
+    const deduped = Array.from(new Map(sections.map(s => [s.hash, s])).values());
+    setAvailableSections(deduped);
   }, [isRtl]);
 
   const handleClick = (hash: string) => {
@@ -123,9 +125,9 @@ export default function SectionNav({ project, locale = 'ar' }: SectionNavProps) 
 
   return (
     <div className="section-nav">
-      {availableSections.map((item) => (
+      {availableSections.map((item, idx) => (
         <LuxuryButton
-          key={item.hash}
+          key={`${item.hash}-${idx}`}
           variant="outline"
           size="sm"
           onClick={() => handleClick(item.hash)}

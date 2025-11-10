@@ -161,7 +161,7 @@ def process_directory(directory):
 def main():
     """الدالة الرئيسية"""
     directories = [
-        "public/data/damas",
+        "public/data/damac",
         "public/data/emaar", 
         "public/data/nakheel",
         "public/data/sobha"

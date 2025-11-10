@@ -43,6 +43,9 @@ export function proxy(req: NextRequest) {
   // تخطّي الملفات العامة و Next internals و الـ API
   if (
     pathname.startsWith('/_next') ||
+    pathname.startsWith('/__nextjs') ||
+    pathname === '/__nextjs_launch-editor' ||
+    pathname === '/__nextjs_devtools_config' ||
     pathname.startsWith('/api') ||
     pathname.startsWith('/static') ||
     PUBLIC_FILE.test(pathname) ||
@@ -89,13 +92,13 @@ export function proxy(req: NextRequest) {
   const nonce = randomBytes(16).toString('base64');
   const cspHeader = `
     default-src 'self';
-    script-src 'self' 'nonce-${nonce}' https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms https://scripts.clarity.ms https://unpkg.com https://cdn.jsdelivr.net https://cdn.aframe.io https://api.propvr.tech https://my.matterport.com https://static.matterport.com https://cdn.pannellum.org https://ajax.googleapis.com https://www.youtube.com https://player.vimeo.com;
+    script-src 'self' 'nonce-${nonce}' https://www.googletagmanager.com https://www.google-analytics.com https://www.clarity.ms https://scripts.clarity.ms https://unpkg.com https://cdn.jsdelivr.net https://ajax.googleapis.com https://player.vimeo.com;
     style-src 'self' 'unsafe-inline' https://unpkg.com https://cdn.jsdelivr.net https://fonts.googleapis.com;
-    img-src 'self' data: blob: https: https://images.ctfassets.net https://assets.ctfassets.net https://videos.ctfassets.net https://downloads.ctfassets.net https://cdn.properties.emaar.com https://properties.emaar.com https://sobharealty.com https://www.sobharealty.com https://www.nakheel.com https://nakheel-aut.sitefinity.cloud https://prod-cdn.damacproperties.com https://storage.googleapis.com https://i.ytimg.com https://res.cloudinary.com https://www.google-analytics.com https://*.google.com https://*.google.co.in https://*.clarity.ms;
+    img-src 'self' data: blob: https://images.ctfassets.net https://assets.ctfassets.net https://videos.ctfassets.net https://downloads.ctfassets.net https://cdn.properties.emaar.com https://properties.emaar.com https://sobharealty.com https://www.sobharealty.com https://www.nakheel.com https://nakheel-aut.sitefinity.cloud https://prod-cdn.damacproperties.com https://storage.googleapis.com https://i.ytimg.com https://res.cloudinary.com https://www.google-analytics.com https://www.clarity.ms;
     font-src 'self' data: https://fonts.gstatic.com;
-    connect-src 'self' https://aframe.io https://www.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.clarity.ms https://api.propvr.tech https://storagecdn.propvr.tech https://cdn.propvr.tech https://propvr-in-31420.appspot.com https://firebasestorage.googleapis.com https://storagecdn.propvr.ai https://my.matterport.com https://static.matterport.com;
-    media-src 'self' blob: https: https://videos.ctfassets.net https://assets.ctfassets.net https://www.youtube.com https://player.vimeo.com;
-    frame-src 'self' https://www.youtube.com https://player.vimeo.com https://my.matterport.com https://www.google.com https://maps.google.com https://view.propvr.tech;
+    connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://googletagmanager.com https://www.clarity.ms https://view.propvr.tech https://storagecdn.propvr.tech https://cdn.propvr.tech https://firebasestorage.googleapis.com https://my.matterport.com https://static.matterport.com;
+    media-src 'self' blob: https: https://videos.ctfassets.net https://assets.ctfassets.net https://player.vimeo.com;
+    frame-src 'self' https://player.vimeo.com https://my.matterport.com https://view.propvr.tech;
     child-src 'self' blob:;
     worker-src 'self' blob:;
     object-src 'none';

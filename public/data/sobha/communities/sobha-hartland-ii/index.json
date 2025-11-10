@@ -1,0 +1,37 @@
+{
+  "provider": "sobha",
+  "community": "sobha-hartland-ii",
+  "generatedAt": "2025-11-07T02:10:10.978Z",
+  "projects": [
+    {
+      "slug": "aura",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "avenue",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "skyscape-aura",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "sobha-hartland-ii",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "waves",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

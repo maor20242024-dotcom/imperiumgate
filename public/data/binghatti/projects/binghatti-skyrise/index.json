@@ -1,0 +1,187 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-skyrise",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": null,
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Business Bay"
+  },
+  "location": {
+    "ar": null,
+    "en": "Business Bay"
+  },
+  "latitude": 25.127398658663875,
+  "longitude": 55.210575159267094,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": null,
+    "en": "Binghatti Skyrise"
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Binghatti Skyrise is an architectural masterpiece consisting of three 48 story towers with distinctive diamond-shaped crowns, aiming to redefine luxury living in the heart of Business Bay. It is for those who discern the exceptional, as each unit in the project has its own magical charm and unique features that cater to different preferences and lifestyles."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "20% deposit on booking, 50% during the construction phase, 30% upon completion"
+  },
+  "minAreaSqft": 829,
+  "maxAreaSqft": 829,
+  "minAreaSqmt": 77,
+  "maxAreaSqmt": 77,
+  "minPriceAED": 1050000,
+  "maxPriceAED": null,
+  "deliveryDate": "Q4 2026",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
+  "heroImage": "https://binghattiweb.imgix.net/skyrise_swimming_pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/skyrise_swimming_pool.jpg",
+    "https://binghattiweb.imgix.net/skyrise_outdoor_sitting_area.jpg",
+    "https://binghattiweb.imgix.net/skyrise_two_d_layout_studio.jpg",
+    "https://binghattiweb.imgix.net/skyrise_layout_one_bedroom.jpg",
+    "https://binghattiweb.imgix.net/skyrise_layout_two_bedroom.jpg",
+    "https://binghattiweb.imgix.net/skyrise_layout_three_bedroom.jpg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/skyrise_footer_horizontal.jpg"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Spa"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Infinity Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "Prime Location: Strategically located in the heart of Business Bay, minutes away from well known landmarks like Burj Khalifa and Dubai Mall"
+    },
+    {
+      "ar": null,
+      "en": "Architectural Design: Features unique diamond shaped crowns, making them easily recognizable landmarks"
+    },
+    {
+      "ar": null,
+      "en": "Flexible Payment Plans: An Attractive payment structure with only 20% down payment required"
+    },
+    {
+      "ar": null,
+      "en": "Three 48-story towers with distinctive diamond-shaped crowns"
+    },
+    {
+      "ar": null,
+      "en": "Excellent connectivity to Dubai's key districts: Downtown and Burj Khalifa, The Dubai Mall, Dubai Opera, Dubai Canal, Dubai Financial Centre, Dubai Design District"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-skyrise",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:17:26.206Z",
+    "title": "Binghatti Skyrise Business Bay – Studio to 3 Bedroom Apartments",
+    "description": "Discover Binghatti Skyrise where city pulse meets serenity. Offering 1, 2, and 3-bedroom apartments starting from AED 975K. Redefines luxury living in Dubai.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-skyrise"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/skyrise_swimming_pool.jpg",
+      "https://binghattiweb.imgix.net/skyrise_outdoor_sitting_area.jpg",
+      "https://binghattiweb.imgix.net/skyrise_two_d_layout_studio.jpg",
+      "https://binghattiweb.imgix.net/skyrise_layout_one_bedroom.jpg",
+      "https://binghattiweb.imgix.net/skyrise_layout_two_bedroom.jpg",
+      "https://binghattiweb.imgix.net/skyrise_layout_three_bedroom.jpg",
+      "https://binghattiweb.imgix.net/bedroom-img.webp",
+      "https://binghattiweb.imgix.net/skyrise_footer_horizontal.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-brochure.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-project-facts.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-floorplans.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-location.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d175554.92657423322!2d55.276806446720016!3d25.084120412574222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ffda5c9b53d%3A0xa20f6de57fba29f0!2sBinghatti%20Hills!5e0!3m2!1sen!2sae!4v1744899314157!5m2!1sen!2sae",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77897.11024758981!2d55.16380721750471!3d25.040152199566688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6d003f42a47f%3A0x3e5b317d651a9a4!2sBinghatti%20Elite!5e0!3m2!1sen!2sae!4v1745573335507!5m2!1sen!2sae",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68938.54156632972!2d55.210575159267094!3d25.127398658663875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69005edfb86d%3A0xac716db8130d8d12!2sBinghatti%20Skyrise!5e0!3m2!1sen!2sae!4v1745582832612!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  }
+}

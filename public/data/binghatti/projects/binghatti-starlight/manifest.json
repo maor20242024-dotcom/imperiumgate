@@ -1,0 +1,25 @@
+{
+  "images": [
+    "https://binghattiweb.imgix.net/starlight_gym.jpg",
+    "https://binghattiweb.imgix.net/starlight_swimming_pool.jpg",
+    "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-starlight-1.webp",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/starlight_footer_horizontal.jpg"
+  ],
+  "videos": [],
+  "pdfs": [
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-brochure.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-project-facts.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-floor-plans.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-starlight-assets/binghatti-starlight-location.pdf"
+  ],
+  "iframes": [
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d175554.92657423322!2d55.276806446720016!3d25.084120412574222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ffda5c9b53d%3A0xa20f6de57fba29f0!2sBinghatti%20Hills!5e0!3m2!1sen!2sae!4v1744899314157!5m2!1sen!2sae",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80145.83225769894!2d55.25565008072508!3d25.154547395696422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d006fd317e3%3A0x3309795d25b57164!2sBinghatti%20Starlight!5e0!3m2!1sen!2sae!4v1745579953440!5m2!1sen!2sae",
+    "https://www.youtube.com/embed/pHr9s-qKRl0?controls=0&rel=0&autoplay=0&enablejsapi=1"
+  ]
+}

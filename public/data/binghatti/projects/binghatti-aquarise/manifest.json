@@ -1,0 +1,29 @@
+{
+  "images": [
+    "https://binghattiweb.imgix.net/aquarise-horizontal.webp",
+    "https://binghattiweb.imgix.net/uae_dirham_symbol-2.webp",
+    "https://binghattiweb.imgix.net/aquarise-swimming-pool.webp",
+    "https://binghattiweb.imgix.net/aquarise-swimming-pool.webp?auto=format,compress&q=70&w=1024&h=720",
+    "https://binghattiweb.imgix.net/aquarise-artificial-beach.webp",
+    "https://binghattiweb.imgix.net/aquarise-artificial-beach.webp?auto=format,compress&q=70&w=1024&h=720",
+    "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-aquarise-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-aquarise-2.webp",
+    "https://binghattiweb.imgix.net/binghatti-aquarise-3.webp",
+    "https://binghattiweb.imgix.net/aquarise-footer-horizontal.webp"
+  ],
+  "videos": [],
+  "pdfs": [
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-brochure.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-facts.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-floor-plans.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-location.pdf"
+  ],
+  "iframes": [
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.804720777657!2d55.2737765!3d25.1760708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69007339d6cd%3A0x30d49df804322c3!2sBinghatti%20Aquarise!5e0!3m2!1sen!2sae!4v1754381848396!5m2!1sen!2sae",
+    "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+  ]
+}

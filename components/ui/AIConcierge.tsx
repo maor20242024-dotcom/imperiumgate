@@ -289,7 +289,7 @@ export default function AIConcierge({ locale = 'en' }: Props) {
                       {message.projectCards && message.projectCards.length > 0 && (
                         <div className="mt-3 space-y-2">
                           {message.projectCards.map((project, index) => (
-                            <div key={index} className="bg-black/60 rounded-lg p-3 border border-yellow-400/20">
+                            <div key={project.slug || `${project.title}-${index}`} className="bg-black/60 rounded-lg p-3 border border-yellow-400/20">
                               <h4 className="font-semibold text-yellow-400 text-sm">{project.title}</h4>
                               <p className="text-xs text-white/80">{project.developer} • {project.location}</p>
                               <p className="text-sm font-bold text-white mt-1">{project.price}</p>
@@ -309,7 +309,7 @@ export default function AIConcierge({ locale = 'en' }: Props) {
                         <div className="mt-3 flex flex-wrap gap-2">
                           {message.suggestions.map((suggestion, index) => (
                             <LuxuryButton
-                              key={index}
+                              key={suggestion || index}
                               variant="outline"
                               size="sm"
                               onClick={() => handleSendMessage(suggestion)}

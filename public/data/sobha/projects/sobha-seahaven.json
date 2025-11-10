@@ -1,0 +1,551 @@
+{
+  "slug": "sobha-seahaven",
+  "id": "sobha-sobha-seahaven",
+  "projectName": {
+    "en": "Sobha SeaHaven",
+    "ar": "صبحة سيهافن"
+  },
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "description": {
+    "ar": "صبحة سي هيفن وجهة فاخرة تطل على البحر في ميناء دبي، وتضم شققًا فائقة الفخامة بغرفة نوم واحدة إلى أربع غرف نوم. بفضل المرافق الحصرية والمناظر الطبيعية الخضراء المورقة، تعد ملاذًا للفخامة والسكينة والجمال. يقع صبحة سي هيفن في قلب بوابة بحرية، مما يسهل الرسو وتجربة الوجهات الأكثر تميزًا. يوفر إطلالات خلابة على معالم دبي المحبوبة، بما في ذلك عين دبي، نخلة جميرا، ميناء دبي، أفق المارينا، وبرج العرب.",
+    "en": "Sobha SeaHaven is a premium sea-facing destination at Dubai Harbour with ultra-luxury 1–4-bedroom apartments. With exclusive amenities and lush landscaping, it is a retreat of luxury, peace, and beauty. Sobha SeaHaven is situated at the hub of a maritime gateway, making it easier to drop anchor and experience the most exclusive destinations. It offers stunning views of Dubai's beloved landmarks, including Ain Dubai, Palm Jumeirah, Dubai Harbour, Marina Skyline, and Burj Al Arab."
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح ترفيهي لا متناهي يطل على الميناء",
+        "en": "infinity leisure pool overlooking the harbour"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    },
+    {
+      "name": {
+        "ar": "مساحة تجزئة",
+        "en": "RETAIL SPACE"
+      },
+      "description": {
+        "ar": "مركز صحي متكامل يوفر خدمات العافية والاسترخاء",
+        "en": "An integrated wellness center providing health and relaxation services"
+      }
+    },
+    {
+      "name": {
+        "ar": "مرسى ويخت",
+        "en": "Marina & Yacht"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "نادي صحي مع ساونا وبخار",
+        "en": "Health club with Sauna & steam"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "مقهى مع منطقة لتناول الطعام",
+        "en": "Café with Dining area"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة ألعاب رياضية داخلية وخارجية",
+        "en": "INDOOR & OUTDOOR GYM"
+      },
+      "description": {
+        "ar": "مركز لياقة بدنية مجهز بأحدث الأجهزة الرياضية",
+        "en": "A fitness center equipped with the latest sports equipment"
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة يوغا",
+        "en": "YOGA ZONE"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "غرفة ألعاب داخلية",
+        "en": "Indoor Game Room"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة عائلية مع منطقة للشواء",
+        "en": "Family Zone with barbecue area"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "منصة المسبح وأسرّة التشمس",
+        "en": "Pool Deck & Day Beds"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    },
+    {
+      "name": {
+        "ar": "سينما داخلية وخارجية",
+        "en": "Indoor & outdoor Cinema"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "en": "infinity leisure pool",
+        "ar": ""
+      },
+      "description": {
+        "en": "infinity leisure pool overlooking the harbour",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "RETAIL SPACE",
+        "ar": ""
+      },
+      "description": {
+        "en": "retail sPace",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Marina & Yacht",
+        "ar": "مرسى ويخوت"
+      },
+      "description": {
+        "en": "Marina & Yacht",
+        "ar": "مرسى ويخوت"
+      }
+    },
+    {
+      "name": {
+        "en": "Health club with Sauna & steam",
+        "ar": ""
+      },
+      "description": {
+        "en": "Health club with Sauna & steam",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Café with Dining area",
+        "ar": ""
+      },
+      "description": {
+        "en": "Café with Dining area",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "INDOOR & OUTDOOR GYM",
+        "ar": ""
+      },
+      "description": {
+        "en": "INDOOR & OUTDOOR GYM",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "YOGA ZONE",
+        "ar": ""
+      },
+      "description": {
+        "en": "YOGA ZONE",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Indoor Game Room",
+        "ar": ""
+      },
+      "description": {
+        "en": "Indoor Game Room",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Family Zone with barbecue area",
+        "ar": ""
+      },
+      "description": {
+        "en": "Family Zone with barbecue area",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Pool Deck & Day Beds",
+        "ar": ""
+      },
+      "description": {
+        "en": "Pool Deck & Day Beds",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Indoor & outdoor Cinema",
+        "ar": ""
+      },
+      "description": {
+        "en": "Indoor & outdoor Cinema",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "ميناء دبي",
+    "en": "Dubai Harbour"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Sobha Realty",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": "December 2026",
+  "goldenVisaEligible": false,
+  "latitude": 25.0888,
+  "launchDate": "December 5, 2022",
+  "location": {
+    "ar": "دبي هاربر",
+    "en": "Dubai Harbour",
+    "country": {
+      "en": "UAE",
+      "ar": "الإمارات"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "en": "Dubai Harbour",
+      "ar": "ميناء دبي"
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.1408,
+  "mapDescription": {
+    "ar": "",
+    "en": "Sobha SeaHaven is a premium sea-facing destination at Dubai Harbour, offering ultra-luxury 1–4-bedroom apartments with panoramic views of the Arabian Gulf, Palm Jumeirah, Ain Dubai, and Burj Al Arab. It is located near Dubai International Marine Club."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "CLOSE TO TWO INTERNATIONAL AIRPORTS",
+        "ar": "CLOSE TO TWO INTERNATIONAL AIRPORTS"
+      },
+      "distance": {
+        "en": "34 km",
+        "ar": "34 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "RETAIL MALL",
+        "ar": "RETAIL MALL"
+      },
+      "distance": {
+        "en": "30 km",
+        "ar": "30 km"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "FINE RESTAURANTS",
+        "ar": "FINE RESTAURANTS"
+      },
+      "distance": {
+        "en": "28 km",
+        "ar": "28 km"
+      },
+      "category": {
+        "en": "Dining",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "INTERNATIONAL CRUISE TERMINAL",
+        "ar": "INTERNATIONAL CRUISE TERMINAL"
+      },
+      "distance": {
+        "en": "38 km",
+        "ar": "38 km"
+      },
+      "category": {
+        "en": "Terminal",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE AIN DUBAI",
+        "ar": "THE AIN DUBAI"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PUBLIC BEACHES",
+        "ar": "PUBLIC BEACHES"
+      },
+      "distance": {
+        "en": "7 km",
+        "ar": "7 km"
+      },
+      "category": {
+        "en": "Beach",
+        "ar": "شاطئ"
+      }
+    },
+    {
+      "name": {
+        "en": "LEISURE AND ENTERTAINMENT",
+        "ar": "LEISURE AND ENTERTAINMENT"
+      },
+      "distance": {
+        "en": "21 km",
+        "ar": "21 km"
+      },
+      "category": {
+        "en": "Entertainment",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "MARINA AND HARBOUR",
+        "ar": "MARINA AND HARBOUR"
+      },
+      "distance": {
+        "en": "7 km",
+        "ar": "7 km"
+      },
+      "category": {
+        "en": "Marina",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 2458,
+  "maxAreaSqmt": 228,
+  "maxPriceAED": 158590000,
+  "minAreaSqft": 860,
+  "minAreaSqmt": 79,
+  "minPriceAED": 4600000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "80% during construction, 20% on handover (20% down payment)"
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-seahaven/",
+  "projectStatus": {
+    "ar": "Under Construction",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقة"
+    },
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    {
+      "en": "Palm Jumeirah",
+      "ar": "نخلة جميرا"
+    },
+    {
+      "en": "Dubai Harbour",
+      "ar": "ميناء دبي"
+    },
+    {
+      "en": "Marina Skyline",
+      "ar": "أفق المارينا"
+    },
+    {
+      "en": "Ain Dubai",
+      "ar": "عين دبي"
+    },
+    {
+      "en": "Burj Al Arab",
+      "ar": "برج العرب"
+    },
+    "Palm Jumeirah",
+    "Dubai Harbour",
+    "Marina Skyline",
+    "Ain Dubai",
+    "Burj Al Arab"
+  ],
+  "projectID": "sobha-sobha-seahaven",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "Sobha SeaHaven offers premium living experience with exceptional amenities and strategic location in Dubai Harbour.",
+    "ar": "تقدم صبحة سيهافن تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في ميناء دبي."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Sobha SeaHaven: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in Dubai Harbour"
+    },
+    "ar": {
+      "title": "صبحة سيهافن: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في ميناء دبي"
+    }
+  },
+  "insights": {
+    "en": "Sobha SeaHaven represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic Dubai Harbour location.",
+    "ar": "تمثل صبحة سيهافن فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في ميناء دبي."
+  },
+  "developerID": "sobha",
+  "highlights": [],
+  "developer": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T05:21:40.717052",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Seaheaven.jpg.webp?itok=ndbfrUWS",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327.jpg.webp?itok=3c4f981W"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_2.jpg.webp?itok=8jkuf3dB"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015316.jpg.webp?itok=dK7G8HnG"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_2.jpg.webp?itok=IjVPFIjA"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_1.jpg.webp?itok=Dvd62mDE"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310.jpg.webp?itok=Q7jDNUm4"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312.jpg.webp?itok=XQCUp5B5"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314.jpg.webp?itok=-k_8Vz59"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/seahaven-opp-doc.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 4600000,
+    "maxPriceAED": 158590000,
+    "currency": "AED"
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Sobha SeaHaven",
+    "ar": "صبحة سيهافن"
+  },
+  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-seahaven/",
+  "community": "sobha-seahaven",
+  "communityName": {
+    "en": "Sobha SeaHaven",
+    "ar": "شوبا سي هافن"
+  },
+  "auto_translated": true,
+  "fromCommunity": "dubai-harbour"
+}

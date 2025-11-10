@@ -1,0 +1,183 @@
+{
+  "projectID": "kiara-at-damac-hills",
+  "developerID": "damac",
+  "slug": "kiara-at-damac-hills",
+  "projectName": {
+    "ar": "كيارا في داماك هيلز",
+    "en": "Kiara at DAMAC Hills"
+  },
+  "description": {
+    "ar": "كيارا في داماك هيلز. استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة.",
+    "en": "Kiara at DAMAC Hills. Invest in real estate with cryptocurrencies and get a residency visa in the UAE ✓ Luxury off-plan projects in Dubai with high returns ✓ Flexible and easy payment plans."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "داماك هيلز",
+      "en": "DAMAC Hills"
+    },
+    "lat": null,
+    "lng": null,
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 540000,
+    "maxPriceAED": 2199000,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5NKzeIGVvXpl9CkJbZ1hfk/1cf2195f3ac046aa2cdbbd07af0a9d66/kiara-at-damac-hills-hero-image-mobile.jpg",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "توجد خطط متعددة، وإحدى الخطط الشائعة هي: دفعة أولى 20% + 4% ضريبة دائرة الأراضي والأملاك؛ 7.5% كل 3 أشهر (السنة الأولى)؛ 10% كل 3 أشهر (السنة الثانية)؛ 2.5% كل 3 أشهر (السنة الثالثة). وهناك خطة شائعة أخرى هي دفعة أولى 14%، تليها دفعات ربع سنوية بنسب 7.5% و10% و5%. تتضمن بعض العروض خطة سداد لمدة 5 سنوات بدفعة أولى 20% و80% بعد التسليم خلال 36 شهرًا.",
+    "en": "Multiple plans exist, one common plan is: 20% Down Payment + 4% DLD; 7.5% every 3 months (first Year); 10% every 3 months (Second Year); 2.5% every 3 months (Third Year). Another common plan is 14% Down Payment, then quarterly payments of 7.5%, 10%, and 5%. Some offers include a 5-year payment plan with 20% down payment and 80% post-handover within 36 months."
+  },
+  "completionDate": "",
+  "deliveryDate": "Ready (Reported completion dates range from 2019 to Jan 2021)",
+  "launchDate": "November 26, 2018",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "area": {
+    "ar": "داماك هيلز",
+    "en": "DAMAC Hills"
+  },
+  "bedrooms": [
+    "Studio",
+    "1 Bedroom",
+    "2 Bedrooms",
+    "3 Bedrooms"
+  ],
+  "brand": "داماك العقارية",
+  "developer": "damac",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Studios",
+      "ar": "استوديوهات"
+    }
+  ],
+  "views": [
+    {
+      "en": "Golf Course Views",
+      "ar": "إطلالات على ملعب الجولف"
+    },
+    {
+      "en": "Trump International Golf Club Dubai Views",
+      "ar": "مناظر نادي ترامب الدولي للجولف دبي"
+    },
+    {
+      "en": "Surrounding Greenery",
+      "ar": "الخضرة المحيطة"
+    }
+  ],
+  "summary": {
+    "en": "Kiara at DAMAC Hills offers premium living experience with exceptional amenities and strategic location in DAMAC Hills.",
+    "ar": "تقدم كيارا في داماك هيلز تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في داماك هيلز."
+  },
+  "insights": {
+    "en": "Kiara at DAMAC Hills represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic DAMAC Hills location.",
+    "ar": "تمثل كيارا في داماك هيلز فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في داماك هيلز."
+  },
+  "highlights": [],
+  "goldenVisaEligible": true,
+  "sellable": true,
+  "latitude": 25.019696,
+  "longitude": 55.24528,
+  "mapDescription": {
+    "ar": "تقع كيارا في مجتمع داماك هيلز الخلاب في منطقة دبي لاند الشهيرة بدبي، مقابل نادي ترامب الدولي للجولف مباشرة.",
+    "en": "Kiara is located in the picturesque community of Damac Hills in the popular area of Dubailand, Dubai, directly opposite the Trump International Golf Club."
+  },
+  "mapPointsOfInterest": [],
+  "minAreaSqft": 387,
+  "maxAreaSqft": 1950,
+  "minAreaSqmt": 35,
+  "maxAreaSqmt": 181,
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/kiara-at-damac-hills/",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "id": "damac-damac-hills",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "maxPriceAED": 2199000,
+  "minPriceAED": 540000,
+  "projectCategory": "Community",
+  "heroCopy": {
+    "en": {
+      "title": "Kiara at DAMAC Hills: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in DAMAC Hills"
+    },
+    "ar": {
+      "title": "كيارا في داماك هيلز: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في داماك هيلز"
+    }
+  },
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5NKzeIGVvXpl9CkJbZ1hfk/1cf2195f3ac046aa2cdbbd07af0a9d66/kiara-at-damac-hills-hero-image-mobile.jpg",
+  "videoLink": "https://www.youtube.com/embed/PNfYupqPT1U (3 Bedroom Apartment Walkthrough - Kiara at DAMAC Hills)",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [
+      "https://www.youtube.com/embed/PNfYupqPT1U (3 Bedroom Apartment Walkthrough - Kiara at DAMAC Hills)"
+    ],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "name": {
+    "ar": "",
+    "en": ""
+  },
+  "auto_translated": true,
+  "aliases": [
+    "damac-hills"
+  ],
+  "related_projects": [
+    "kiara-at-damac-hills"
+  ],
+  "phases": [],
+  "meta": {},
+  "fromCommunity": "damac-hills"
+}

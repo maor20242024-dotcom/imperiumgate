@@ -5,13 +5,15 @@ import { useFavorites } from '@/lib/favorites';
 import { formatAED, formatArea, formatBedrooms } from '@/lib/format';
 import { useLocale } from '@/lib/i18n-client';
 import { t, tx } from '@/lib/i18n-utils';
-import { stringRoutes } from '@/lib/routes';
+import { buildHref } from '@/lib/routes';
 import type { Project } from '@/lib/types';
-import { motion } from 'framer-motion';
+import { I18N, distanceKm, estimateMinutes, formatDistancePhrase } from '@/lib/i18n/index';
+import { motion, type MotionProps } from 'framer-motion';
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Route } from 'next';
 import { useState } from 'react';
+import type { MapPOI } from '@/lib/types';
 
 type Props = { project: Project };
 
@@ -67,25 +69,55 @@ export default function ProjectCard({ project }: Props) {
   // Safe bedrooms formatting
   const bedrooms = project?.bedrooms ? formatBedrooms(project.bedrooms, locale) : null;
 
+  // Compute POI phrases (top 3) using I18N helpers when possible
+  const poiPhrases: string[] = (() => {
+    const pois = Array.isArray(project?.mapPointsOfInterest) ? project.mapPointsOfInterest.slice(0, 3) : [];
+    const projCoords =
+      typeof project?.latitude === 'number' && typeof project?.longitude === 'number'
+        ? { lat: project.latitude as number, lon: project.longitude as number }
+        : null;
+    return pois
+      .map((poi: any) => {
+        const nm = (typeof poi?.name === 'string' ? poi.name : (poi?.name?.[locale] || poi?.name?.en || '')) as string;
+        let km = 0;
+        if (poi?.coordinates && typeof poi.coordinates.lat === 'number' && typeof poi.coordinates.lon === 'number' && projCoords) {
+          km = distanceKm(projCoords, { lat: poi.coordinates.lat, lon: poi.coordinates.lon });
+        } else if (typeof poi?.distance === 'string') {
+          const m = poi.distance.match(/([0-9]+(?:\.[0-9]+)?)\s*km/i);
+          km = m ? parseFloat(m[1]) : 0;
+        } else if (typeof poi?.distance?.en === 'string' || typeof poi?.distance?.ar === 'string') {
+          const dStr = (poi.distance[locale] || poi.distance.en || '').toString();
+          const m = dStr.match(/([0-9]+(?:\.[0-9]+)?)\s*km/i);
+          km = m ? parseFloat(m[1]) : 0;
+        }
+        const minutes = estimateMinutes(km, 'urban');
+        return formatDistancePhrase(locale as any, Math.max(0, km), Math.max(1, minutes), nm);
+      })
+      .filter(Boolean);
+  })();
+
   const loc = (locale || 'ar').toString();
   const rawSlug =
     (project?.slug && String(project.slug).trim()) ||
     (t(project?.projectName, locale)?.toString().trim().toLowerCase()
       .replace(/\s+/g, '-').replace(/[^a-z0-9\-]+/g, '') ?? '');
   const slug = rawSlug;
-  const devSeg = (project?.developer && String(project.developer).trim()) || '';
-  const USE_DEVELOPER_SEGMENT = true; // ← عندكم: /[locale]/projects/[developer]/[slug]
-
-  const href = slug
-    ? (USE_DEVELOPER_SEGMENT && devSeg
-        ? (stringRoutes.projectShow(loc, encodeURIComponent(devSeg), encodeURIComponent(slug)) as Route)
-        : (`/${loc}/projects/${encodeURIComponent(slug)}` as Route))
-    : (stringRoutes.projectsIndex(loc) as Route);
+  // Robust developer segment handling: accept string or object { slug }
+  const devSlug = (() => {
+    const d = project?.developer as any;
+    if (typeof d === 'string') return d.trim();
+    if (d && typeof d.slug === 'string') return d.slug.trim();
+    return 'emaar';
+  })();
+  const hrefStr = slug
+    ? buildHref(loc as any, { type: 'project', developer: devSlug, slug })
+    : `/${loc}/projects`;
+  const href = hrefStr as Route;
 
   // Debug logging
   if (process.env.NODE_ENV !== 'production') {
     // eslint-disable-next-line no-console
-    console.debug('ProjectCard href =>', href, { devSeg, slug, USE_DEVELOPER_SEGMENT });
+    console.debug('ProjectCard href =>', hrefStr, { devSlug, slug });
   }
 
   const favorites = useFavorites();
@@ -185,6 +217,14 @@ export default function ProjectCard({ project }: Props) {
               {String(t(project.summary, locale) || t(project.description, locale) || '').slice(0, 140)}
             </p>
           </Link>
+          {/* POI distance phrases */}
+          {poiPhrases.length > 0 && (
+            <ul className={`mt-3 space-y-1 text-[11px] text-gray-400 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`}>
+              {poiPhrases.map((p, idx) => (
+                <li key={idx}>• {p}</li>
+              ))}
+            </ul>
+          )}
         </div>
 
         <div>

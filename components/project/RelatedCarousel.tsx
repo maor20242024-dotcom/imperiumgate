@@ -4,6 +4,8 @@ import LazyImage from '@/components/ui/LazyImage';
 import { formatAED, formatArea } from '@/lib/format';
 import { Project } from '@/lib/types';
 import Link from 'next/link';
+import type { Route } from 'next';
+import { buildHref } from '@/lib/routes';
 import { useEffect, useState } from 'react';
 
 interface RelatedCarouselProps {
@@ -106,13 +108,13 @@ export default function RelatedCarousel({
           {/* Carousel Container */}
           <div className="overflow-hidden rounded-2xl">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {visibleProjects.map((project) => (
+              {visibleProjects.map((project, index) => (
                 <div 
-                  key={project.id || project.slug}
+                  key={`${project.id || `${project.developer || 'dev'}-${project.slug || 'unknown'}`}-${index}`}
                   className="flex-shrink-0"
                 >
                   <Link 
-                    href={`/${locale}/projects/${project.developer}/${project.slug}`}
+                    href={buildHref(locale as any, { type: 'project', developer: String(project.developer || '').trim(), slug: String(project.slug || '').trim() }) as Route}
                     className="block group h-full"
                   >
                     <div className="glass-panel overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-gold h-full flex flex-col">

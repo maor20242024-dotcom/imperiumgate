@@ -206,6 +206,8 @@ function readJSONFile(filePath: string): any[] {
 
 function loadFromDeveloperDir(developerDir: string, developerName: string): Project[] {
   const results: Project[] = [];
+  const SKIP_SUBDIRS = new Set(['emarfull', '_raw', '_reports', 'logs', 'quarantine', 'archive', 'emarmasf']);
+  const SKIP_TOP_JSON = new Set(['provider_profile.json', 'manifest_emaar.json', 'index.json', 'projects_index.json', 'policies.json']);
   
   try {
     const entries = fs.readdirSync(developerDir, { withFileTypes: true });
@@ -213,6 +215,8 @@ function loadFromDeveloperDir(developerDir: string, developerName: string): Proj
     for (const entry of entries) {
       try {
         if (entry.isFile() && entry.name.endsWith('.json')) {
+          // Skip company-level or non-project JSON files at the developer root
+          if (SKIP_TOP_JSON.has(entry.name)) continue;
           const filePath = path.join(developerDir, entry.name);
           const items = readJSONFile(filePath);
           
@@ -224,6 +228,8 @@ function loadFromDeveloperDir(developerDir: string, developerName: string): Proj
           });
           
         } else if (entry.isDirectory()) {
+          // Skip raw and non-UI directories to avoid duplicates
+          if (SKIP_SUBDIRS.has(entry.name)) continue;
           const subdir = path.join(developerDir, entry.name);
           const canonical = path.join(subdir, `${entry.name}.json`);
           let items: any[] = [];
@@ -286,6 +292,8 @@ export async function loadAllProjects(): Promise<Project[]> {
       const developerName = d.name;
       // Skip non-developer directories
       if (['node_modules', '.git', '.next', '.DS_Store'].includes(developerName)) continue;
+      // Ignore backup or hidden providers (underscore-prefixed)
+      if (developerName.startsWith('_')) continue;
       
       const developerDir = path.join(dataRoot, developerName);
       
@@ -318,6 +326,24 @@ export async function loadAllProjects(): Promise<Project[]> {
 }
 
 export async function getProjectBySlug(dev: string, slug: string): Promise<Project | undefined> {
+  // Try to load the project from the file system directly for full data (including units.json)
+  const projectDir = path.join(process.cwd(), 'public', 'data', dev, 'projects', slug);
+  const indexPath = path.join(projectDir, 'index.json');
+  const unitsPath = path.join(projectDir, 'units.json');
+  if (fs.existsSync(indexPath)) {
+    try {
+      const project: Project = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+      if (fs.existsSync(unitsPath)) {
+        const units = JSON.parse(fs.readFileSync(unitsPath, 'utf-8'));
+        project.units = units;
+      }
+      return project;
+    } catch (e) {
+      console.warn('Failed to load project or units.json:', e);
+      return undefined;
+    }
+  }
+  // fallback to cache/legacy
   const all = await loadAllProjects();
   return all.find(p => (p.developer === dev) && (p.slug === slug));
 }

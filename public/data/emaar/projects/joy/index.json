@@ -1,0 +1,195 @@
+{
+  "slug": "joy",
+  "id": "13399",
+  "developer": {
+    "ar": "إعمار العقارية",
+    "en": "Emaar Properties"
+  },
+  "brand": {
+    "ar": "إعمار العقارية",
+    "en": "Emaar Properties"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "المرابع العربية 3",
+    "en": "Arabian Ranches 3"
+  },
+  "location": {
+    "ar": "المرابع العربية 3",
+    "en": "Arabian Ranches 3"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "residential community",
+  "projectName": {
+    "ar": "جوي",
+    "en": "Joy"
+  },
+  "summary": {
+    "ar": "تعرّف على جوي في المرابع العربية 3 حيث السكن الفاخر لك ولعائلتك. تمتع بمرافق ممتازة، مجتمع راقٍ وغيرها من المزايا. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Discover Joy at Arabian Ranches III. Live a luxurious life with your family. Enjoy excellent facilities, a sophisticated community & more. Visit our website to learn more."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "جوي",
+      "subtitle": "المرابع العربية 3"
+    },
+    "en": {
+      "title": "Joy",
+      "subtitle": "Arabian Ranches 3"
+    }
+  },
+  "description": {
+    "ar": "تعرّف على جوي في المرابع العربية 3 حيث السكن الفاخر لك ولعائلتك. تمتع بمرافق ممتازة، مجتمع راقٍ وغيرها من المزايا. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Discover Joy at Arabian Ranches III. Live a luxurious life with your family. Enjoy excellent facilities, a sophisticated community & more. Visit our website to learn more."
+  },
+  "propertyTypes": [
+    {
+      "ar": "تاون هاوس 3 و 4 غرف نوم",
+      "en": "3 & 4 Bedroom Townhouses"
+    }
+  ],
+  "bedrooms": [
+    3,
+    4
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2020-03-30",
+  "projectStatus": {
+    "ar": "جاهز قريباً",
+    "en": "Ready Soon"
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI21_04_EDIT.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": true,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/joy",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "جوي | المرابع العربية 3 | إعمار العقارية",
+    "description": "تعرّف على جوي في المرابع العربية 3 حيث السكن الفاخر لك ولعائلتك. تمتع بمرافق ممتازة، مجتمع راقٍ وغيرها من المزايا. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "keywords": null,
+    "canonical_url": "https://properties.emaar.com/ar/properties/joy/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "جوي | المرابع العربية 3 | إعمار العقارية",
+    "og_description": "تعرّف على جوي في المرابع العربية 3 حيث السكن الفاخر لك ولعائلتك. تمتع بمرافق ممتازة، مجتمع راقٍ وغيرها من المزايا. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "og_url": "https://properties.emaar.com/ar/properties/joy/",
+    "og_site_name": "إعمار العقارية",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "og_image_width": 1920,
+    "og_image_height": 1080,
+    "og_image_type": "image/jpeg",
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@emaardubai",
+    "twitter_label1": "وقت القراءة المُقدّر",
+    "twitter_data1": "1 دقيقة",
+    "alternate_hreflangs": [
+      {
+        "hreflang": "en",
+        "href": "https://properties.emaar.com/en/properties/joy/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://properties.emaar.com/ar/properties/joy/"
+      },
+      {
+        "hreflang": "ru",
+        "href": "https://properties.emaar.com/ru/properties/joy/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://properties.emaar.com/en/properties/joy/"
+      }
+    ],
+    "fetchedAt": "2025-11-09T10:14:15.245Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI21_04_EDIT.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/V-4-Bedroom.RGB_color-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/V4-Living-A-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI22_03.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI21_04_NO_PPL.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/V3.Kitchen-A-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI22_03_NO_PPL.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI20_05-final-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI02_08a.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ARABIAN_RANCHES_3_EN-1.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR3_JOY_2000x1125.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-joy-en.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

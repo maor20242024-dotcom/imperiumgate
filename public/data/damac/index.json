@@ -1,0 +1,314 @@
+{
+  "provider": "damac",
+  "generatedAt": "2025-11-07T02:10:10.704Z",
+  "communities": [
+    {
+      "slug": "akoya-oxygen",
+      "name": {
+        "ar": "أكويا أوكسجين",
+        "en": "Akoya Oxygen"
+      }
+    },
+    {
+      "slug": "aykon-city",
+      "name": {
+        "ar": "أيكون سيتي",
+        "en": "Aykon City"
+      }
+    },
+    {
+      "slug": "business-bay",
+      "name": {
+        "ar": "الخليج التجاري",
+        "en": "Business Bay"
+      }
+    },
+    {
+      "slug": "damac-bay",
+      "name": {
+        "ar": "داماك باي",
+        "en": "DAMAC Bay"
+      }
+    },
+    {
+      "slug": "damac-hills-2",
+      "name": {
+        "ar": "داماك هيلز 2",
+        "en": "DAMAC Hills 2"
+      }
+    },
+    {
+      "slug": "damac-hills",
+      "name": {
+        "ar": "داماك هيلز",
+        "en": "DAMAC Hills"
+      }
+    },
+    {
+      "slug": "damac-islands",
+      "name": {
+        "ar": "داماك آيلاندز",
+        "en": "DAMAC Islands"
+      }
+    },
+    {
+      "slug": "damac-lagoons",
+      "name": {
+        "ar": "داماك لاجونز",
+        "en": "DAMAC Lagoons"
+      }
+    },
+    {
+      "slug": "damac-riverside",
+      "name": {
+        "ar": "داماك ريفرسايد",
+        "en": "DAMAC Riverside"
+      }
+    },
+    {
+      "slug": "dubai-harbour",
+      "name": {
+        "en": "Dubai Harbour",
+        "ar": "ميناء دبي"
+      }
+    },
+    {
+      "slug": "dubai-marina",
+      "name": {
+        "ar": "دبي مارينا",
+        "en": "Dubai Marina"
+      }
+    },
+    {
+      "slug": "dubai-maritime-city",
+      "name": {
+        "ar": "مدينة دبي البحرية",
+        "en": "Dubai Maritime City"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "slug": "aykon-city",
+      "name": null,
+      "community": "aykon-city",
+      "status": null
+    },
+    {
+      "slug": "canal-crown",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "chelsea-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "chic-tower",
+      "name": null,
+      "community": "business-bay",
+      "status": null
+    },
+    {
+      "slug": "costa-brava",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "couture-by-cavalli",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-bay-by-cavalli",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-casa",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-district",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-heights",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-islands",
+      "name": {
+        "ar": "",
+        "en": ""
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    },
+    {
+      "slug": "damac-majestine",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-residenze",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-riverside",
+      "name": null,
+      "community": "damac-riverside",
+      "status": null
+    },
+    {
+      "slug": "damac-seacrest",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-sun-city",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-towers-by-paramount-hotels-and-resorts",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "damac-volta",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "duo-villas",
+      "name": null,
+      "community": "damac-riverside",
+      "status": null
+    },
+    {
+      "slug": "elo-2",
+      "name": null,
+      "community": "damac-hills-2",
+      "status": null
+    },
+    {
+      "slug": "elo-3",
+      "name": null,
+      "community": "damac-hills-2",
+      "status": null
+    },
+    {
+      "slug": "evergreens",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "fiora",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "golf-gate-2",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "kiara-at-damac-hills",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "malta",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "mykonos",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "nice",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "portofino",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "riverside-views-marine-3",
+      "name": null,
+      "community": "damac-riverside",
+      "status": null
+    },
+    {
+      "slug": "safa-two",
+      "name": null,
+      "community": "business-bay",
+      "status": null
+    },
+    {
+      "slug": "santorini",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "venice",
+      "name": null,
+      "community": "damac-lagoons",
+      "status": null
+    },
+    {
+      "slug": "vera-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "volta",
+      "name": {
+        "ar": "",
+        "en": ""
+      },
+      "community": null,
+      "status": {
+        "en": null,
+        "ar": null
+      }
+    }
+  ]
+}

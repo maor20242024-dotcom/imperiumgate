@@ -1,0 +1,49 @@
+{
+  "provider": "damac",
+  "community": "damac-lagoons",
+  "generatedAt": "2025-11-07T02:10:10.728Z",
+  "projects": [
+    {
+      "slug": "costa-brava",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "malta",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "mykonos",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "nice",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "portofino",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "santorini",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "venice",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

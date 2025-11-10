@@ -1,0 +1,19 @@
+{
+  "provider": "nakheel",
+  "community": "jumeirah-village-triangle",
+  "generatedAt": "2025-11-07T02:10:10.837Z",
+  "projects": [
+    {
+      "slug": "jumeirah-village-triangle",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "paradise-one",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

@@ -9,7 +9,7 @@ export default function Gallery({ images, title }:{ images:string[]; title:strin
   const proxied = images.map(u=> directAccess(u));
   return (<>
     <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
-      {proxied.slice(0,6).map((src,i)=>(<button key={i} onClick={()=>{ setCurr(i); setOpen(true); }} className="relative group"><img src={src} alt={`${title}-${i}`} className="h-44 w-full object-cover rounded-lg border border-gold/20 group-hover:opacity-90"/></button>))}
+      {proxied.slice(0,6).map((src,i)=>(<button key={src || `${title}-${i}`} onClick={()=>{ setCurr(i); setOpen(true); }} className="relative group"><img src={src} alt={`${title}-${i}`} className="h-44 w-full object-cover rounded-lg border border-gold/20 group-hover:opacity-90"/></button>))}
     </div>
     {open && (<div className="fixed inset-0 z-[1000] bg-black/90 flex items-center justify-center">
       <LuxuryButton 

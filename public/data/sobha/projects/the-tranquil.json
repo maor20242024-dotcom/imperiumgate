@@ -1,0 +1,328 @@
+{
+  "slug": "the-tranquil",
+  "id": "sobha-the-tranquil",
+  "projectName": {
+    "en": "The Tranquil",
+    "ar": "الهادئ"
+  },
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "description": {
+    "ar": "يقع \"ذا ترانكويل\" في قلب \"شوبا سنترال\"، ويعيد تعريف مفهوم الحياة الحضرية العصرية بأجواء من الهدوء والتوازن. يوفر خيارات من المساكن المكونة من غرفة نوم واحدة وغرفتي نوم، وتتميز المنازل بتصميمات واسعة ونوافذ تمتد من الأرض إلى السقف. يربط هذا البرج بسلاسة المعالم الشهيرة مثل وسط مدينة دبي، ومارينا دبي، ومركز دبي المالي العالمي، ونخلة جميرا، ويعد شارع الشيخ زايد حيث لا يتوقف تدفق طاقة المدينة أبدًا. في مستوى المنصة، تخلق حديقة حضرية مورقة بيئة نابضة بالحياة لمرافق نمط حياة راقٍ. يجمع \"ذا ترانكويل\" بين الراحة والرقي، ويضم متاجر بوتيك، ومساحات تركز على العافية، ومساحات خضراء واسعة، ومناطق ترفيهية. إنه أكثر من مجرد مجموعة من المساكن، إنه مجتمع متكامل مصمم لتقديم الراحة وسهولة الوصول وطريقة حياة راقية حقًا.",
+    "en": "Nestled in the heart of Sobha Central, The Tranquil redefines modern urban living with an ambience of calm and balance. Offering a choice of 1- and 2-bedroom residences, homes feature generous layouts and floor-to-ceiling windows. This tower seamlessly connects the iconic landmarks such as Downtown Dubai, Dubai Marina, DIFC, and the Palm Jebel Ali, and SZR is where the city’s energy never stops flowing.At the podium level, a lush urban park creates a vibrant setting for elevated lifestyle amenities.Blending convenience with sophistication, The Tranquil brings together boutique retail, wellness-focused spaces, expansive greenery, and leisure zones. More than a collection of residences, it is a complete community designed to offer comfort, accessibility, and a truly refined way of life."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "LEISURE POOL",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "CALISTHENIC GYM",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "OUTDOOR CINEMA",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "FAMILY BBQ & GATHERING SPACE",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PICNIC LAWN",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "KIDS PLAY AREA",
+        "ar": "منطقة لعب للأطفال"
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "Sobha Central"
+  },
+  "bedrooms": [
+    1,
+    2
+  ],
+  "brand": "Sobha Realty",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "https://api.whatsapp.com/send?phone=97180076242&text=Hi Sobha Team, I am interested in your luxury properties. Can you please provide more details?"
+  },
+  "deliveryDate": null,
+  "goldenVisaEligible": false,
+  "latitude": 25.06124736,
+  "launchDate": null,
+  "location": {
+    "ar": "شوبا سنترال، طريق الشيخ زايد",
+    "en": "Sobha Central, Sheikh Zayed Road",
+    "country": {
+      "en": "UAE",
+      "ar": "الإمارات"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "en": "Sobha Central",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.13311024,
+  "mapDescription": {
+    "ar": "",
+    "en": "Interactive map displaying project location and nearby points of interest like metro station, airport, and marina."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "The Tranquil",
+        "ar": "The Tranquil"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Project Location",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "JEBEL ALI METRO STATION",
+        "ar": "محطة مترو جبل علي"
+      },
+      "distance": {
+        "en": "2 km",
+        "ar": "2 km"
+      },
+      "category": {
+        "en": "Transportation",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DXB INTERNATIONAL AIRPORT",
+        "ar": "DXB INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "en": "29 km",
+        "ar": "29 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI MARINA",
+        "ar": "DUBAI MARINA"
+      },
+      "distance": {
+        "en": "13 km",
+        "ar": "13 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    }
+  ],
+  "maxAreaSqft": 871,
+  "maxAreaSqmt": 80,
+  "maxPriceAED": 2670000,
+  "minAreaSqft": 495,
+  "minAreaSqmt": 46,
+  "minPriceAED": 1850000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/the-tranquil/",
+  "projectStatus": {
+    "ar": "على الخارطة",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقة"
+    },
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [],
+  "projectID": "sobha-the-tranquil",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "The Tranquil offers premium living experience with exceptional amenities and strategic location in .",
+    "ar": "تقدم الهادئ تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في ."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "The Tranquil: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in"
+    },
+    "ar": {
+      "title": "الهادئ: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في"
+    }
+  },
+  "insights": {
+    "en": "The Tranquil represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic  location.",
+    "ar": "تمثل الهادئ فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في ."
+  },
+  "developerID": "sobha",
+  "highlights": [],
+  "developer": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T05:21:40.718746",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Banner%201020x1080.jpg.webp?itok=g0GyCMh2",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2091.jpg.webp?itok=t5GyOiGK"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2053.jpg.webp?itok=MSBR-zEG"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2090.jpg.webp?itok=Wou8tZMS"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2052.jpg.webp?itok=-Qc6IM0w"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2098.jpg.webp?itok=hibvqxTK"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2060.jpg.webp?itok=Oe_lRf-Z"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2089.jpg.webp?itok=qSgSGFVh"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2051.jpg.webp?itok=N5gcusLg"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2088.jpg.webp?itok=xUYD0en2"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2050.jpg.webp?itok=uFmJUGUT"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Listing%20372x274%20%E2%80%93%2050.jpg.webp?itok=8jwhA4Me"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Listing%20372x274%20%E2%80%93%2051.jpg.webp?itok=S_73xiaa"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Listing%20372x274%20%E2%80%93%2052.jpg.webp?itok=-n3WtECg"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Listing%20372x274%20%E2%80%93%2049.jpg.webp?itok=tK7ktXnG"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Listing%20372x274%20%E2%80%93%2048.jpg.webp?itok=479k_Ofq"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-09/The%20Tranquil%20at%20Sobha%20Central%20%281%29.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 1850000,
+    "maxPriceAED": null,
+    "currency": "AED"
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "The Tranquil",
+    "ar": "الهادئ"
+  },
+  "sourceUrl": "https://sobharealty.com/properties-in-dubai/the-tranquil/",
+  "community": "sobha-central",
+  "communityName": {
+    "en": "Sobha Central",
+    "ar": "شوبا سنترال"
+  },
+  "auto_translated": true,
+  "fromCommunity": "sobha-hartland-ii"
+}

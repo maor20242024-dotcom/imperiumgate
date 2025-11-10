@@ -145,11 +145,12 @@ html {
 }
 
 /* Optimize animations for better performance */
-*,
-*::before,
-*::after {
+/* Global will-change removed to avoid unnecessary GPU layers; scope to animated elements only */
+/*
+*, *::before, *::after {
   will-change: auto;
 }
+*/
 
 /* Optimize images for better performance */
 img {
@@ -326,28 +327,30 @@ h3 {
 }
 
 /* Luxury Map Tooltips */
+.leaflet-popup .luxury-tooltip,
 .luxury-tooltip {
-  background: rgba(0, 0, 0, 0.9) !important;
-  border: 1px solid rgba(245, 217, 122, 0.3) !important;
-  border-radius: 8px !important;
-  color: #f5d97a !important;
-  font-weight: 600 !important;
-  padding: 8px 12px !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 15px rgba(245, 217, 122, 0.2) !important;
-  backdrop-filter: blur(10px) !important;
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(245, 217, 122, 0.3);
+  border-radius: 8px;
+  color: #f5d97a;
+  font-weight: 600;
+  padding: 8px 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 15px rgba(245, 217, 122, 0.2);
+  backdrop-filter: blur(10px);
 }
 
 .luxury-tooltip::before {
   border-top-color: rgba(0, 0, 0, 0.9) !important;
 }
 
+.leaflet-popup .poi-tooltip,
 .poi-tooltip {
-  background: rgba(107, 114, 128, 0.9) !important;
-  border: 1px solid rgba(156, 163, 175, 0.3) !important;
-  border-radius: 6px !important;
-  color: #f3f4f6 !important;
-  font-size: 12px !important;
-  padding: 6px 10px !important;
+  background: rgba(107, 114, 128, 0.9);
+  border: 1px solid rgba(156, 163, 175, 0.3);
+  border-radius: 6px;
+  color: #f3f4f6;
+  font-size: 12px;
+  padding: 6px 10px;
 }
 
 /* Custom Marker Styles */

@@ -1,0 +1,19 @@
+{
+  "provider": "nakheel",
+  "community": "jumeirah-village-circle",
+  "generatedAt": "2025-11-07T02:10:10.832Z",
+  "projects": [
+    {
+      "slug": "ibis",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

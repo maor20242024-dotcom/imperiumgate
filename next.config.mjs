@@ -34,7 +34,6 @@ const nextConfig = {
       { protocol: 'https', hostname: 'videos.ctfassets.net' },
       { protocol: 'https', hostname: 'assets.ctfassets.net' },
       { protocol: 'https', hostname: 'zoq5l15g49wj.cdn.contentful.com' },
-      { protocol: 'https', hostname: 'maps.googleapis.com' },
       // Developer and CDN domains for new data files
       { protocol: 'https', hostname: 'cdn.properties.emaar.com' },
       { protocol: 'https', hostname: 'properties.emaar.com' },
@@ -46,15 +45,10 @@ const nextConfig = {
       { protocol: 'https', hostname: 'res.cloudinary.com' },
       { protocol: 'https', hostname: 'storage.googleapis.com' },
       { protocol: 'https', hostname: 'i.ytimg.com' },
-      // External APIs for 3D tours
-      { protocol: 'https', hostname: 'aframe.io' },
-      { protocol: 'https', hostname: 'cdn.aframe.io' },
-      { protocol: 'https', hostname: 'api.propvr.tech' },
+
       { protocol: 'https', hostname: 'storagecdn.propvr.tech' },
       { protocol: 'https', hostname: 'cdn.propvr.tech' },
-      { protocol: 'https', hostname: 'propvr-in-31420.appspot.com' },
       { protocol: 'https', hostname: 'firebasestorage.googleapis.com' },
-      { protocol: 'https', hostname: 'storagecdn.propvr.ai' },
       { protocol: 'https', hostname: 'my.matterport.com' },
       { protocol: 'https', hostname: 'static.matterport.com' },
       { protocol: 'https', hostname: 'cdn.pannellum.org' },

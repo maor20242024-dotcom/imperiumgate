@@ -1,0 +1,272 @@
+{
+  "projectName": {
+    "en": "Verde by Sobha",
+    "ar": "Verde by Sobha"
+  },
+  "description": {
+    "en": "Rising high in Jumeirah Lake Towers, Verde by Sobha is a 66-storeyed masterpiece blending luxury and community living. This premier residential tower places you at the heart of vibrant business parks, upscale dining, high-end shopping, and serene green spaces—all within reach. With 1–3-bedroom apartments offering sweeping views of Jumeirah Islands, Emirates Hills, and the Emirates Golf Course, Verde by Sobha offers an elevated lifestyle where the pulse of the city meets the peace of nature. Discover a new standard of living in one of Dubai’s tallest residential towers.",
+    "ar": "Rising high in Jumeirah Lake Towers, Verde by Sobha is a 66-storeyed masterpiece blending luxury and community living. This premier residential tower places you at the heart of vibrant business parks, upscale dining, high-end shopping, and serene green spaces—all within reach. With 1–3-bedroom apartments offering sweeping views of Jumeirah Islands, Emirates Hills, and the Emirates Golf Course, Verde by Sobha offers an elevated lifestyle where the pulse of the city meets the peace of nature. Discover a new standard of living in one of Dubai’s tallest residential towers."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Live",
+        "ar": ""
+      },
+      "description": {
+        "en": "Verde by Sobha offers a unique blend of elegance and tranquillity, promising residents a life surrounded by luxury and serenity.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dine-in",
+        "ar": ""
+      },
+      "description": {
+        "en": "Whether you crave international cuisine, artisanal coffee, or casual bites, JLT offers a variety of dining options just moments away.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Entertainment",
+        "ar": ""
+      },
+      "description": {
+        "en": "JLT is known for its bustling social scene, with plenty of activities and spots to unwind, relax, and explore.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Leisure and Relaxation Facilities",
+        "ar": ""
+      },
+      "description": {
+        "en": "A beautiful swimming pool, yoga spaces, and outdoor sitting areas provide serene spots to unwind.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Health and Wellness",
+        "ar": ""
+      },
+      "description": {
+        "en": "Verde by Sobha offers a state-of-the-art gymnasium and jogging trails, ensuring residents have access to top-tier facilities that support their fitness and well-being.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Recreational Spaces",
+        "ar": ""
+      },
+      "description": {
+        "en": "Parks, kids' play areas, and spaces for outdoor activities make it a family-friendly environment.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Lifestyle and Convenience",
+        "ar": ""
+      },
+      "description": {
+        "en": "Dining outlets, retail shops, and easy access to shopping malls ensure that all your lifestyle needs are met.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Community Features",
+        "ar": ""
+      },
+      "description": {
+        "en": "A community hall and green surroundings create a welcoming neighbourhood feel, complemented by stunning views of the Emirates Golf Course and Jumeirah Island.",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "Jumeirah Lake Towers",
+    "ar": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": null,
+  "goldenVisaEligible": false,
+  "latitude": 25.0768,
+  "launchDate": null,
+  "location": {
+    "en": "Jumeirah Lake Towers (JLT)",
+    "ar": "Jumeirah Lake Towers (JLT)",
+    "country": {
+      "en": "UAE",
+      "ar": ""
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "Jumeirah Lake Towers",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.1328,
+  "mapDescription": {
+    "en": "Right in the Centre of Dubai",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 56593,
+  "maxAreaSqmt": 5257,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectID": "389",
+  "projectPageLink": "https://sobharealty.com/our-communities/verde-sobha/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    "Jumeirah Islands",
+    "Emirates Hills",
+    "Emirates Golf Course"
+  ],
+  "slug": "verde-by-sobha",
+  "developer": "sobha",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.717736",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/1440x651_0.jpg.webp?itok=Cyh1BK5w",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Desktop_0.jpg.webp?itok=tpjzernd"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mobile_1.jpg.webp?itok=aALC7udl"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/First.jpg.webp?itok=CTySt9U3"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Third.jpg.webp?itok=lTq-ZM-U"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Second.jpg.webp?itok=R9vSMwpM"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Fourth.jpg.webp?itok=F7L1_uOB"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_2.jpg.webp?itok=R2neJdQo"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_4.jpg.webp?itok=qGJ31aM-"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertainment_1.jpg.webp?itok=YEBEnBNq"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/null",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Verde by Sobha",
+    "ar": "فيردي باي شوبا"
+  },
+  "community": "verde-by-sobha",
+  "communityName": {
+    "en": "Verde by Sobha",
+    "ar": "فيردي باي شوبا"
+  },
+  "auto_translated": true,
+  "id": "verde-by-sobha",
+  "fromCommunity": "jumeirah-lake-towers"
+}

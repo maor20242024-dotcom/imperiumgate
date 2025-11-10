@@ -1,0 +1,152 @@
+{
+  "slug": "selvara-grand-polo-club-and-resort",
+  "id": "418741",
+  "developer": "إعمار العقارية",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": null
+  },
+  "location": {
+    "ar": "جراند بولو كلوب آند ريزورت",
+    "en": "Grand Polo Club and Resort"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "سيلفارا",
+    "en": "Selvara"
+  },
+  "summary": {
+    "ar": "نقدّم لك سيلفارا في جراند بولو كلوب آند ريزورت، وهو مجمّع تابع لإعمار حيث يلتقي التصميم الأنيق بالحياة المريحة المستوحاة من الفروسية.",
+    "en": "Selvara at Grand Polo Club and Resort, an Emaar community where elegant design meets comfortable living inspired by equestrian life."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "سيلفارا",
+      "subtitle": "جراند بولو كلوب آند ريزورت"
+    },
+    "en": {
+      "title": "Selvara",
+      "subtitle": "Grand Polo Club and Resort"
+    }
+  },
+  "description": {
+    "ar": "نقدّم لك سيلفارا في جراند بولو كلوب آند ريزورت، وهو مجمّع تابع لإعمار حيث يلتقي التصميم الأنيق بالحياة المريحة المستوحاة من الفروسية.",
+    "en": "Selvara at Grand Polo Club and Resort, an Emaar community where elegant design meets comfortable living inspired by equestrian life."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/HERO_1620X832_1-3.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/Untitled-3.jpeg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/selvara-grand-polo-club-and-resort/",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "سيلفارا | جراند بولو كلوب آند ريزورت | إعمار العقارية",
+    "description": "نقدّم لك سيلفارا في جراند بولو كلوب آند ريزورت، وهو مجمّع تابع لإعمار حيث يلتقي التصميم الأنيق بالحياة المريحة المستوحاة من الفروسية.",
+    "canonical": "https://properties.emaar.com/ar/properties/selvara-grand-polo-club-and-resort/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/HERO_1620X832_1-3.jpg",
+    "modified_time": "2025-07-15T09:10:59+00:00",
+    "fetchedAt": "2025-11-09T13:25:17.072Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/BROCHURE_IMG_300X210-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/FEATURES_1200X655_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/FEATURES_1200X655_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/PRO_EXT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/PRO_EXT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/PRO_EXT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/PRO_INT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/06/PRO_INT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_4-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_3-1.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2025/06/FEATURES_1200X655_1-1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2025/06/FEATURES_1200X655_2-1.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2025/06/SELVARA_GP_BROCHURE-1.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

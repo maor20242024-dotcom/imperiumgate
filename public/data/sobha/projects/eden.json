@@ -1,0 +1,37 @@
+{
+  "developer-id": "sobha",
+  "community-id": "the-valley",
+  "slug": "eden",
+  "project-name": {
+    "en": {
+      "ar": "عدن",
+      "en": "The Eden"
+    },
+    "ar": {
+      "ar": "عدن",
+      "en": "The Eden"
+    }
+  },
+  "description": {
+    "en": {
+      "ar": "تحليق فوق دبي مع إطلالات بانورامية خلابة على أفق المدينة ووصول سلس إلى المرافق العالمية. يقع \"ذا إيدن\" في قلب مجمع \"سُبحا سنترال\"، ويقدم أسلوب حياة حضريًا راقيًا حيث تلتقي الطبيعة بأفق المدينة. يضم شققًا من غرفة نوم واحدة وغرفتي نوم، وقد تم تصميم كل وحدة سكنية لالتقاط إطلالات لا تنقطع على أفق دبي والمنصة ذات المناظر الطبيعية الخلابة أدناه، مما يجلب الهدوء والوضوح إلى الحياة اليومية. يتمتع \"ذا إيدن\" بموقع استراتيجي ضمن المخطط الرئيسي لـ \"سُبحا سنترال\"، ويوفر للسكان اتصالًا داخليًا سلسًا بالمجتمع الأوسع من خلال ردهات مصاعد متكاملة بذكاء. يربط هذا الوصول المباشر والمحمي من العوامل الجوية السكان بمركز تسوق متكامل، وسينما متعددة الشاشات، وصالة رياضية حديثة، وقاعة صلاة كبرى، وعيادة طبية، وسوبر ماركت، ومجموعة من المرافق الحيوية الأخرى المصممة لتعزيز الحياة اليومية براحة لا مثيل لها.",
+      "en": "Soaring above Dubai with unobstructed skyline views and seamless access to world-class amenities. Rising at the heart of the Sobha Central cluster, The Eden offers a refined urban lifestyle where nature and skyline converge. Featuring 1 and 2-bedroom apartments, each residence is designed to capture uninterrupted views of Dubai’s skyline and the beautifully landscaped podium below bringing calm and clarity to everyday living. Strategically positioned within the Sobha Central masterplan, The Eden offers residents seamless internal connectivity to the wider community through intelligently integrated lift lobbies. This direct, weather-protected access links residents to a full-scale shopping mall, multiplex cinema, state-of-the-art gym, grand prayer hall, medical clinic, supermarket, and a host of other essential lifestyle amenities all designed to enhance everyday living with unmatched convenience."
+    },
+    "ar": {
+      "ar": "تحليق فوق دبي مع إطلالات بانورامية خلابة على أفق المدينة ووصول سلس إلى المرافق العالمية. يقع \"ذا إيدن\" في قلب مجمع \"سُبحا سنترال\"، ويقدم أسلوب حياة حضريًا راقيًا حيث تلتقي الطبيعة بأفق المدينة. يضم شققًا من غرفة نوم واحدة وغرفتي نوم، وقد تم تصميم كل وحدة سكنية لالتقاط إطلالات لا تنقطع على أفق دبي والمنصة ذات المناظر الطبيعية الخلابة أدناه، مما يجلب الهدوء والوضوح إلى الحياة اليومية. يتمتع \"ذا إيدن\" بموقع استراتيجي ضمن المخطط الرئيسي لـ \"سُبحا سنترال\"، ويوفر للسكان اتصالًا داخليًا سلسًا بالمجتمع الأوسع من خلال ردهات مصاعد متكاملة بذكاء. يربط هذا الوصول المباشر والمحمي من العوامل الجوية السكان بمركز تسوق متكامل، وسينما متعددة الشاشات، وصالة رياضية حديثة، وقاعة صلاة كبرى، وعيادة طبية، وسوبر ماركت، ومجموعة من المرافق الحيوية الأخرى المصممة لتعزيز الحياة اليومية براحة لا مثيل لها.",
+      "en": "Soaring above Dubai with unobstructed skyline views and seamless access to world-class amenities. Rising at the heart of the Sobha Central cluster, The Eden offers a refined urban lifestyle where nature and skyline converge. Featuring 1 and 2-bedroom apartments, each residence is designed to capture uninterrupted views of Dubai’s skyline and the beautifully landscaped podium below bringing calm and clarity to everyday living. Strategically positioned within the Sobha Central masterplan, The Eden offers residents seamless internal connectivity to the wider community through intelligently integrated lift lobbies. This direct, weather-protected access links residents to a full-scale shopping mall, multiplex cinema, state-of-the-art gym, grand prayer hall, medical clinic, supermarket, and a host of other essential lifestyle amenities all designed to enhance everyday living with unmatched convenience."
+    }
+  },
+  "project-status": {
+    "en": "active",
+    "ar": "active"
+  },
+  "media": {
+    "hero-image": null
+  },
+  "pricing": {
+    "min-price-aed": null,
+    "max-price-aed": null
+  },
+  "property-types": null
+}

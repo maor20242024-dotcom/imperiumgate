@@ -1,0 +1,264 @@
+{
+  "projectID": "dubai-islands",
+  "developerID": "nakheel",
+  "slug": "dubai-islands",
+  "projectName": {
+    "ar": "Dubai Islands",
+    "en": "Dubai Islands"
+  },
+  "description": {
+    "ar": "جزر دبي تربط خمس جزر حيث يلتقي العيش على الواجهة البحرية بالروعة العربية. تعيد هذه الوجهة تعريف أفق دبي، وهي مهيأة لتكون تحفة فنية بأكثر من 60 كيلومترًا من الواجهة البحرية وأكثر من 20 كيلومترًا من الشواطئ، بما في ذلك شاطئ حاصل على شهادة العلم الأزرق، وحوالي كيلومترين من الحدائق والمساحات المفتوحة وملاعب الجولف الفاخرة المطلة على الخليج العربي.",
+    "en": "Dubai Islands connect five islands where waterfront living meets Arabian splendour. Redefining the horizon of Dubai, this destination is set to be a masterpiece with over 60 kilometres of waterfront and over 20 kilometres of beaches, including a Blue Flag-certified beach, almost two kilometres of parks, open spaces and premium golf courses overlooking the Arabian Gulf."
+  },
+  "location": {
+    "country": {
+      "ar": "",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "",
+    "galleryImages": [
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/main-dubai-islands-01.jpg"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/main-dubai-islands-0217eaed95-3700-4cd4-ae39-f7e4130d8163.jpg"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/dubai-islands2.jpg"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/dubai-islands3.jpg"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/dubai-islands4.jpg"
+      }
+    ],
+    "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/property-detail/dubai-islands.mp4",
+    "3D_TourLink": "https://www.nakheel.com/A specific 3D tour link for the entire \"Dubai Islands\" master project by Nakheel was not found in the search results. However, general virtual tours and 360-degree videos of Dubai's artificial islands are available.",
+    "brochurePdfLink": "https://www.nakheel.com/Several project-specific brochures are available for developments within Dubai Islands. A general \"Nakheel Dubai Islands E-brochure\" is available, and specific brochures exist for projects like \"Dubai Islands Plots\", \"Bay Villas Dubai Islands\", and \"Flora Isle at Dubai Islands\".",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Beaches",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Entertainment Hubs",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Golf Courses",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Hotels & Resorts",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Parks",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Restaurants & Cafés",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Shopping Centres",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Souk Al Marfa",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Wellness Facilities",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  ],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "brand": "Nakheel",
+  "id": "dubai-islands",
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": {
+    "apartments": "Studio to 5+ bedrooms",
+    "townhouses": "3 to 5 bedrooms",
+    "villas": "3 to 8+ bedrooms"
+  },
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "The overall Dubai Islands master development is expected to be completed by the late 2030s. However, several individual projects within Dubai Islands have earlier estimated handover dates, with some as early as Q4 2025 for projects like Haven Living and Beach Walk, and others extending to Q2 2028 for projects like Bay Grove Residences Phase 4. Common handover dates for many projects fall in Q4 2026, including Beach Residences, Rixos Dubai Islands Hotel & Residences, Bonds Avenue Residences, Ocean Tower, Haven Bay, and Sea View Residence. Bay Villas are expected by Q2 2027, and Rena and Wellington Ocean by Q4 2027.",
+  "goldenVisaEligible": false,
+  "launchDate": "",
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "projectPageLink": null,
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [],
+  "sellable": false,
+  "views": [],
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "highlights": [],
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "latitude": 0,
+  "projectCategory": "Community",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "https://www.nakheel.com/null",
+  "name": {
+    "en": "Bay Grove Residences",
+    "ar": "مساكن باي غروف"
+  },
+  "developer": "Nakheel",
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/bay-grove-residences9617b604-2d85-4253-aa5a-de2e2c356486.jpg?sfvrsn=e0931b5b_1",
+  "auto_translated": false,
+  "community": "dubai-islands",
+  "communityName": {
+    "ar": "جزر دبي",
+    "en": "Dubai Islands"
+  }
+}

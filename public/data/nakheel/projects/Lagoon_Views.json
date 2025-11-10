@@ -1,0 +1,37 @@
+{
+  "developer-id": "nakheel",
+  "community-id": null,
+  "slug": "Lagoon_Views",
+  "project-name": {
+    "en": {
+      "ar": "Lagoon Views",
+      "en": "Lagoon Views"
+    },
+    "ar": {
+      "ar": "Lagoon Views",
+      "en": "Lagoon Views"
+    }
+  },
+  "description": {
+    "en": {
+      "ar": "Lagoon Views is located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. The extravagant interiors of the homes, sweeping lagoon vistas, unparalleled amenities and excellent connectivity provide a serene lifestyle while being close to the heart of the city. Revel in the joy of living amidst lush greenery and sweeping parklands every day.",
+      "en": "Lagoon Views is located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. The extravagant interiors of the homes, sweeping lagoon vistas, unparalleled amenities and excellent connectivity provide a serene lifestyle while being close to the heart of the city. Revel in the joy of living amidst lush greenery and sweeping parklands every day."
+    },
+    "ar": {
+      "ar": "Lagoon Views is located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. The extravagant interiors of the homes, sweeping lagoon vistas, unparalleled amenities and excellent connectivity provide a serene lifestyle while being close to the heart of the city. Revel in the joy of living amidst lush greenery and sweeping parklands every day.",
+      "en": "Lagoon Views is located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. The extravagant interiors of the homes, sweeping lagoon vistas, unparalleled amenities and excellent connectivity provide a serene lifestyle while being close to the heart of the city. Revel in the joy of living amidst lush greenery and sweeping parklands every day."
+    }
+  },
+  "project-status": {
+    "en": null,
+    "ar": null
+  },
+  "media": {
+    "hero-image": null
+  },
+  "pricing": {
+    "min-price-aed": null,
+    "max-price-aed": null
+  },
+  "property-types": null
+}

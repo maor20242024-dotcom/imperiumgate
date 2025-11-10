@@ -1,0 +1,708 @@
+{
+  "slug": "vera-residences",
+  "id": "damac-vera-residences",
+  "projectName": {
+    "ar": "فيرا ريزيدنسز",
+    "en": "Vera Residences"
+  },
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "description": {
+    "ar": "وسط مجتمع سكني ينبض بالحياة في قلب دبي، يتألق فيرا ريزيدنسز بتصاميمه الأنيقة ووحداته الفاخرة ومرافقه عالمية المستوى. يضم البرج مجموعة من الشقق التي تتنوع بين استوديو وشقق من غرفة وغرفتي نوم، تتمتع جميعها بإطلالات آسرة على قناة دبي المائية وموقع قريب من منطقة البرج التي تحتضن أكبر مول وأطول برج في العالم، بالإضافة إلى نوافير راقصة ذات شهرة عالمية. يتناغم كل ذلك مع ممرات وارفة وجنائن خضراء تمتد على أطراف القناة المائية، ما يمنح جميع سكان المشروع أسلوب حياة تجتمع فيه التجارب العصرية مع حياة السكينة والهدوء.",
+    "en": "Amidst a vibrant residential community in the heart of Dubai, Vera Residences shines with its elegant designs, luxurious units, and world-class facilities. The tower features a collection of apartments ranging from studios to one and two-bedroom units, all enjoying captivating views of the Dubai Water Canal and a prime location near the Burj area, home to the world's largest mall and tallest tower, as well as globally renowned dancing fountains. All this harmonizes with lush walkways and green gardens extending along the canal, offering all residents a lifestyle that combines modern experiences with tranquility and serenity."
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح يمكن التحكم بدرجة حرارته",
+        "en": "Temperature-controlled Swimming Pool"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة ألعاب رياضية حديثة",
+        "en": "State-of-the-art Gymnasium"
+      },
+      "description": {
+        "ar": "مركز لياقة بدنية مجهز بأحدث الأجهزة الرياضية",
+        "en": "A fitness center equipped with the latest sports equipment"
+      }
+    },
+    {
+      "name": {
+        "ar": "غرف ساونا وبخار",
+        "en": "Sauna and Steam Rooms"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة لعب الأطفال",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    },
+    {
+      "name": {
+        "ar": "حدائق منسقة",
+        "en": "Landscaped Gardens"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "خدمات أمن وكونسيرج على مدار الساعة",
+        "en": "24/7 Security and Concierge Services"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    }
+  ],
+  "area": {
+    "ar": "الخليج التجاري",
+    "en": "Business Bay"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "brand": "DAMAC",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2022-06-30",
+  "goldenVisaEligible": true,
+  "latitude": 25.187136,
+  "launchDate": "2014-11-04",
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "الخليج التجاري",
+      "en": "Business Bay"
+    },
+    "lat": null,
+    "lng": null,
+    "poiDistances": {}
+  },
+  "longitude": 55.282669,
+  "mapDescription": {
+    "ar": "متصل بأرجاء دبي",
+    "en": "Connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": "مطار دبي الدولي"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "South View School Dubai",
+        "ar": "مدرسة ساوث فيو دبي"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "IMG Worlds of Adventure",
+        "ar": "عالم آي إم جي للمغامرات"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Expo 2020",
+        "ar": "إكسبو 2020"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Sports City",
+        "ar": "مدينة دبي الرياضية"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "GEMS Metropole School - Al Waha",
+        "ar": "مدرسة جيمس متروبول - الواحة"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Mall of the Emirates",
+        "ar": "مول الإمارات"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Butterfly Garden",
+        "ar": "حديقة دبي للفراشات"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Radisson Dubai DAMAC Hills",
+        "ar": "رادیسون دبي داماك هيلز"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DAMAC Hills Mall",
+        "ar": "مول داماك هيلز"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Jumeirah Golf Estates Club House",
+        "ar": "نادي جميرا للجولف والكونتري كلوب"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Autodrome",
+        "ar": "حلبة دبي أوتودروم"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Miracle Garden",
+        "ar": "حديقة المعجزات"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina",
+        "ar": "دبي مارينا"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Burj Khalifa",
+        "ar": "برج خليفة"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Mediclinic Parkview Hospital",
+        "ar": "مستشفى ميديكلينيك باركفيو"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Trump International Golf Club",
+        "ar": "نادي ترامب الدولي للغولف"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Safa Community School",
+        "ar": "مدرسة الصفا المجتمعية"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Global Village",
+        "ar": "القرية العالمية"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Polo & Equestrian Club",
+        "ar": "نادي دبي للبولو والفروسية"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum Airport",
+        "ar": "مطار آل مكتوم"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Jebel Ali School",
+        "ar": "مدرسة جبل علي"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "NMC Royal Hospital",
+        "ar": "مستشفى إن إم سي رويال"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Jumeirah Beach",
+        "ar": "شاطئ جميرا"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Bowling Center",
+        "ar": "مركز دبي للبولينج"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Sky Views Observatory",
+        "ar": "مرصد سكاي فيوز"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Financial Centre",
+        "ar": "مركز دبي المالي العالمي"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Zabeel Palace",
+        "ar": "قصر زعبيل"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall",
+        "ar": "دبي مول"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Ras Al Khor Wildlife Sanctuary",
+        "ar": "محمية رأس الخور للحياة البرية"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Deira Clocktower",
+        "ar": "برج ساعة ديرة"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Emirates Hospital",
+        "ar": "مستشفى الإمارات"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Al Fahidi Historical Neighbourhood",
+        "ar": "حي الفهيدي التاريخي"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 905,
+  "maxAreaSqmt": 84,
+  "maxPriceAED": 2118000,
+  "minAreaSqft": 905,
+  "minAreaSqmt": 84,
+  "minPriceAED": 2118000,
+  "paymentPlan": {
+    "ar": "خطة سداد مرنة",
+    "en": "Flexible Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/vera-residences/",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    {
+      "en": "Premium View",
+      "ar": "إطلالة مميزة"
+    },
+    {
+      "en": "Water View",
+      "ar": "إطلالة مائية"
+    }
+  ],
+  "summary": {
+    "en": "Vera Residences offers elegant studios and 1-2 bedroom apartments in Business Bay, Dubai, with captivating views of the Dubai Water Canal. Enjoy a serene lifestyle amidst lush green spaces, close to the city's major attractions and world-class facilities.",
+    "ar": "يقدم فيرا ريزيدنسز استوديوهات وشققًا أنيقة من غرفة وغرفتي نوم في الخليج التجاري بدبي، مع إطلالات آسرة على قناة دبي المائية. استمتع بأسلوب حياة هادئ وسط المساحات الخضراء المورقة، بالقرب من مناطق الجذب الرئيسية في المدينة والمرافق عالمية المستوى."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Vera Residences: Elegant Living in Dubai's Vibrant Heart",
+      "subtitle": "Luxury Apartments with Canal Views in Business Bay"
+    },
+    "ar": {
+      "title": "فيرا ريزيدنسز: عيش أنيق في قلب دبي النابض بالحياة",
+      "subtitle": "شقق فاخرة بإطلالات على القناة في الخليج التجاري"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Prime location in Business Bay with direct access to Dubai Water Canal.",
+      "ar": "موقع متميز في الخليج التجاري مع وصول مباشر إلى قناة دبي المائية."
+    },
+    {
+      "en": "Studios and 1-2 bedroom apartments with elegant designs and world-class amenities.",
+      "ar": "استوديوهات وشقق من غرفة وغرفتي نوم بتصاميم أنيقة ووسائل راحة عالمية المستوى."
+    },
+    {
+      "en": "Proximity to Burj Khalifa, Dubai Mall, and other major attractions.",
+      "ar": "قرب من برج خليفة ودبي مول ومناطق الجذب الرئيسية الأخرى."
+    }
+  ],
+  "insights": {
+    "en": "Vera Residences offers a solid investment opportunity in Business Bay, appealing to both residents and investors seeking modern luxury apartments with excellent connectivity and high rental yield potential due to its prime location and amenities.",
+    "ar": "يقدم فيرا ريزيدنسز فرصة استثمارية قوية في الخليج التجاري، يجذب كل من السكان والمستثمرين الذين يبحثون عن شقق فاخرة حديثة مع اتصال ممتاز وإمكانات عالية للعائد الإيجاري بسبب موقعه المتميز ووسائل الراحة."
+  },
+  "projectID": "damac-vera-residences",
+  "projectCategory": "Building",
+  "developerID": "damac",
+  "media": {
+    "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/8C3foJbzVocIKqMtsZun2/0a8e46822ad52ac0d1d8cc5023a18277/vera-residences-hero-image-mobile.jpg",
+    "gallery": [
+      "https://images.ctfassets.net/zoq5l15g49wj/7eSBvS2uBW8OBwCBYkdeht/30c85b7ce8498fe08ada9f214de34e48/Vera_Residences-01.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/36WfnhOAm81UqUJiw3bC8E/3a1710f99fc889481676605264e31dd6/Vera_Residences-02.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/1dIeFI3tTXhhqODkH4IGfk/325e3bd03dd03deedab86bdf0ad5ddef/Vera_Residences-03.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/4S1bCRk56WQvxwGhJ192cu/cd5823ca9bb80b99790224f7be9856b2/Vera_Residences-04.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/6s750L93KEiskxaJydBb3J/7872444fa95ce2e02e36b8b6e3ec9cc6/Vera_Residences-05.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/7GhH5pYK5hZHEEO3D1f8yM/5c5004c2dbd7760f2aa3a0bba7861ac5/Vera_Residences-06.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/7qhVD5DmjIIJ9OyrFBv0gI/7f64297aeb500b11ab5a54420e5d4b1d/Vera_Residences-07.jpg"
+    ],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/8C3foJbzVocIKqMtsZun2/0a8e46822ad52ac0d1d8cc5023a18277/vera-residences-hero-image-mobile.jpg",
+  "videoLink": "https://www.youtube.com/watch?v=J_jQ7j0S8aA",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [
+      "https://www.youtube.com/watch?v=J_jQ7j0S8aA"
+    ],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "name": {
+    "ar": "",
+    "en": ""
+  },
+  "auto_translated": true,
+  "aliases": [
+    "damac-vera-residences"
+  ],
+  "related_projects": [
+    "vera-residences"
+  ],
+  "phases": [],
+  "meta": {},
+  "developer": "damac",
+  "fromCommunity": "business-bay"
+}

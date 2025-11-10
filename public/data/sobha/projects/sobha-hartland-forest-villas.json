@@ -1,0 +1,304 @@
+{
+  "projectName": {
+    "en": "Sobha Hartland Forest Villas",
+    "ar": "Sobha Hartland Forest Villas"
+  },
+  "description": {
+    "en": "Become one with nature in your very own forest villa located right in the centre of Dubai. Experience privacy like never before in Sobha Hartland’s most exclusive development, while immersed in a spellbinding forest scenery. With a host of modern-day luxuries there for the taking, this gated community represents the perfect blend of the natural and the contemporary.",
+    "ar": "Become one with nature in your very own forest villa located right in the centre of Dubai. Experience privacy like never before in Sobha Hartland’s most exclusive development, while immersed in a spellbinding forest scenery. With a host of modern-day luxuries there for the taking, this gated community represents the perfect blend of the natural and the contemporary."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Customisable facades",
+        "ar": ""
+      },
+      "description": {
+        "en": "Customisable facades",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Private Swimming Pool",
+        "ar": ""
+      },
+      "description": {
+        "en": "Private Swimming Pool",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Ultra Luxe Features",
+        "ar": ""
+      },
+      "description": {
+        "en": "Ultra Luxe Features",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "300 Species of Trees & Plants",
+        "ar": ""
+      },
+      "description": {
+        "en": "300 Species of Trees & Plants",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Cycling Track",
+        "ar": ""
+      },
+      "description": {
+        "en": "Cycling Track",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Sports Arena",
+        "ar": ""
+      },
+      "description": {
+        "en": "Sports Arena",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "Mohammed Bin Rashid City",
+    "ar": ""
+  },
+  "bedrooms": [
+    4,
+    5
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": null,
+  "goldenVisaEligible": false,
+  "latitude": 25.1764146,
+  "launchDate": null,
+  "location": {
+    "en": "Mohammed Bin Rashid City, Dubai",
+    "ar": "Mohammed Bin Rashid City, Dubai",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": ""
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "Mohammed Bin Rashid City",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.3073117,
+  "mapDescription": {
+    "en": "Vibrant Living, Nearby Essentials",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
+      },
+      "distance": {
+        "en": "3 km",
+        "ar": "3 km"
+      },
+      "category": {
+        "en": "Schools",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": "DUBAI INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": "THE DUBAI MALL"
+      },
+      "distance": {
+        "en": "13 km",
+        "ar": "13 km"
+      },
+      "category": {
+        "en": "Mall",
+        "ar": "مول"
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
+      },
+      "distance": {
+        "en": "16 km",
+        "ar": "16 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "en": "29 km",
+        "ar": "29 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    }
+  ],
+  "maxAreaSqft": 9581,
+  "maxAreaSqmt": 890,
+  "maxPriceAED": 15000000,
+  "minAreaSqft": 6153,
+  "minAreaSqmt": 571,
+  "minPriceAED": 10000000,
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectID": "64",
+  "projectPageLink": "https://sobharealty.com/villas-for-sale-in-dubai/forest-villas/",
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": "Villa"
+    }
+  ],
+  "sellable": true,
+  "views": [],
+  "slug": "sobha-hartland-forest-villas",
+  "developer": "sobha",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.754254",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Hartland%20forest%20villas.jpg",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_12.jpg.webp?itok=9VP2dK2a"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_11.jpg.webp?itok=PONJUYKT"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_13.jpg.webp?itok=GjvSgP3b"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015395_2.jpg.webp?itok=qkUaJydb"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015397.jpg.webp?itok=FmJEmFzy"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015396.jpg.webp?itok=Jris2aLW"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/forest-villas-master-brochure_1.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 10000000,
+    "maxPriceAED": 15000000,
+    "currency": "AED"
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Sobha Hartland Forest Villas",
+    "ar": "Sobha Hartland Forest Villas"
+  },
+  "auto_translated": true,
+  "id": "sobha-hartland-forest-villas",
+  "fromCommunity": "sobha-hartland"
+}

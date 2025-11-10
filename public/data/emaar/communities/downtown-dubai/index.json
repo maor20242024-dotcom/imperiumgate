@@ -1,0 +1,277 @@
+{
+  "slug": "downtown-dubai",
+  "id": null,
+  "developer": "Emaar Properties",
+  "brand": "Emaar",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "وسط مدينة دبي",
+    "en": "Downtown Dubai"
+  },
+  "location": {
+    "ar": "وسط مدينة دبي، بين شارع الشيخ زايد وطريق المركز المالي",
+    "en": "Downtown Dubai, located between Sheikh Zayed Road and Financial Centre Road"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": null,
+  "mapPointsOfInterest": [
+    "برج خليفة",
+    "دبي مول",
+    "نافورة دبي",
+    "بوليفارد الشيخ محمد بن راشد",
+    "سوق البحار",
+    "برج بارك",
+    "دبي أوبرا",
+    "دبي أكواريوم وحديقة الحيوانات المائية",
+    "حلبة دبي للتزلّج على الجليد",
+    "مدينة الألعاب بلاي دي إكس بي"
+  ],
+  "projectCategory": "Community",
+  "projectName": {
+    "ar": "وسط مدينة دبي",
+    "en": "Downtown Dubai"
+  },
+  "summary": {
+    "ar": "اكتشف وسط مدينة دبي، مثال الحياة الفخمة وقلب المدينة النابض بالحياة. ارتقِ بأسلوب حياتك في وسط المدينة، حيث يلتقي الرقيّ والأناقة.",
+    "en": "Discover Downtown Dubai, an example of luxurious living and the vibrant heart of the city. Elevate your lifestyle in Downtown Dubai, where sophistication meets elegance."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "وسط مدينة دبي",
+      "subtitle": "العنوان الأمثل"
+    },
+    "en": {
+      "title": "Downtown Dubai",
+      "subtitle": "The Perfect Address"
+    }
+  },
+  "description": {
+    "ar": "يتمتّع وسط مدينة دبي بموقع متميّز بين شارع الشيخ زايد وطريق المركز المالي، ويحتضن معالم بارزة شهيرة مثل برج خليفة ودبي مول ونافورة دبي. يُسهم بوليفارد الشيخ محمد بن راشد، وهو معلم بارز، في تعزيز جاذبية المنطقة عبر شوارعه التي تصطف على جانبيها المطاعم وإمكانية الوصول إلى خدمات التأجير مثل الدرّاجات الهوائية والسكوتر الإلكتروني. وقد ساهم مركز المدينة الحيوي في تحفيز عجلة الاقتصاد وأرسى سمعة دبي كمدينة عالمية، ما جعلها موقعاً مرغوباً فيه للاستثمار العقاري. توفّر العقارات في وسط مدينة دبي إمكانات استثمارية ممتازة بفضل موقعها المركزي ومَرافقها الفخمة والعصرية والطلب المرتفع على الشقق.",
+    "en": "Downtown Dubai enjoys a prime location between Sheikh Zayed Road and Financial Centre Road, hosting famous landmarks such as Burj Khalifa, The Dubai Mall, and The Dubai Fountain. Sheikh Mohammed bin Rashid Boulevard, a prominent feature, enhances the area's appeal with its restaurant-lined streets and access to rental services like bicycles and e-scooters. This vibrant city center has fueled the economy and established Dubai's reputation as a global city, making it a desirable location for real estate investment. Properties in Downtown Dubai offer excellent investment potential due to their central location, luxurious and modern facilities, and high demand for apartments."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق سكنية",
+      "en": "Residential Apartments"
+    },
+    {
+      "ar": "شقق فاخرة",
+      "en": "Luxury Apartments"
+    },
+    {
+      "ar": "شقق الطوابق العلوية",
+      "en": "Penthouses"
+    },
+    {
+      "ar": "شقق فندقية",
+      "en": "Hotel Apartments"
+    },
+    {
+      "ar": "فنادق راقية",
+      "en": "High-end Hotels"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [
+    {
+      "type": "Penthouses",
+      "links": {
+        "ar": "https://properties.emaar.com/ar/penthouse-for-sale-dubai/",
+        "en": "https://properties.emaar.com/en/penthouse-for-sale-dubai/"
+      }
+    }
+  ],
+  "paymentPlan": null,
+  "minAreaSqft": null,
+  "maxAreaSqft": null,
+  "minAreaSqmt": null,
+  "maxAreaSqmt": null,
+  "minPriceAED": null,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": null,
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": null,
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [],
+  "amenities": [
+    {
+      "ar": "مركز لياقة بدنية مزوّد بأحدث الأجهزة",
+      "en": "State-of-the-art fitness center"
+    },
+    {
+      "ar": "منتجعات صحّية فخمة",
+      "en": "Luxurious spas"
+    },
+    {
+      "ar": "مسابح نقيّة ونظيفة",
+      "en": "Pristine swimming pools"
+    },
+    {
+      "ar": "مساحات خضراء غنّاء",
+      "en": "Lush green spaces"
+    },
+    {
+      "ar": "وجهات تسوّق",
+      "en": "Shopping destinations"
+    },
+    {
+      "ar": "مطاعم رفيعة المستوى",
+      "en": "High-end restaurants"
+    },
+    {
+      "ar": "مقاهٍ وكافيهات",
+      "en": "Cafes"
+    },
+    {
+      "ar": "أماكن للترفيه",
+      "en": "Entertainment venues"
+    },
+    {
+      "ar": "متاجر صغيرة",
+      "en": "Convenience stores"
+    },
+    {
+      "ar": "خدمات أمن على مدار الساعة طيلة أيام الأسبوع",
+      "en": "24/7 security services"
+    },
+    {
+      "ar": "فنادق راقية",
+      "en": "High-end hotels"
+    }
+  ],
+  "highlights": [
+    {
+      "ar": "برج خليفة",
+      "en": "Burj Khalifa"
+    },
+    {
+      "ar": "دبي مول",
+      "en": "The Dubai Mall"
+    },
+    {
+      "ar": "نافورة دبي",
+      "en": "The Dubai Fountain"
+    },
+    {
+      "ar": "بوليفارد الشيخ محمد بن راشد",
+      "en": "Sheikh Mohammed bin Rashid Boulevard"
+    },
+    {
+      "ar": "سوق البحار",
+      "en": "Souk Al Bahar"
+    },
+    {
+      "ar": "برج بارك",
+      "en": "Burj Park"
+    },
+    {
+      "ar": "دبي أوبرا",
+      "en": "Dubai Opera"
+    },
+    {
+      "ar": "دبي أكواريوم وحديقة الحيوانات المائية",
+      "en": "Dubai Aquarium & Underwater Zoo"
+    },
+    {
+      "ar": "حلبة دبي للتزلّج على الجليد",
+      "en": "Dubai Ice Rink"
+    },
+    {
+      "ar": "مدينة الألعاب بلاي دي إكس بي",
+      "en": "Play DXB"
+    },
+    {
+      "ar": "فنادق العنوان",
+      "en": "Address Hotels"
+    },
+    {
+      "ar": "فنادق فيدا",
+      "en": "Vida Hotels"
+    },
+    {
+      "ar": "فندق بالاس وسط المدينة",
+      "en": "Palace Downtown Hotel"
+    },
+    {
+      "ar": "فندق أرماني دبي",
+      "en": "Armani Hotel Dubai"
+    }
+  ],
+  "insights": null,
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/our-communities/downtown-dubai/",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "وسط مدينة دبي | العنوان الأمثل | إعمار العقارية",
+    "description": "اكتشف وسط مدينة دبي، مثال الحياة الفخمة وقلب المدينة النابض بالحياة. ارتقِ بأسلوب حياتك في وسط المدينة، حيث يلتقي الرقيّ والأناقة.",
+    "keywords": [],
+    "og_url": "https://properties.emaar.com/ar/our-communities/downtown-dubai/",
+    "og_type": "article",
+    "og_title": "وسط مدينة دبي | العنوان الأمثل | إعمار العقارية",
+    "og_description": "اكتشف وسط مدينة دبي، مثال الحياة الفخمة وقلب المدينة النابض بالحياة. ارتقِ بأسلوب حياتك في وسط المدينة، حيث يلتقي الرقيّ والأناقة.",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@emaardubai",
+    "modified_time": "2025-09-24T09:03:23+00:00",
+    "fetchedAt": "2025-11-09T10:26:17.764Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/10/THE_RESIDENCE_BK_WEBSITE_HERO-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/ST_REGIS-HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/03/706x385.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/706x385_Feat_Image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/OPERA_GRAND_BALCONY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BOULEVARD_POINT.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/POV02-G.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_GrandeDowntown_CGI03-TheTower_07-edit-2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/FORTE_DOWNTOWN_DUBAI-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/BURJ_CROWN_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/V07-op2-resize-scaled-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DTD_MAP-e1676032574485.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

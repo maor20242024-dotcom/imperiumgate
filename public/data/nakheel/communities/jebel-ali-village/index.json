@@ -1,0 +1,19 @@
+{
+  "provider": "nakheel",
+  "community": "jebel-ali-village",
+  "generatedAt": "2025-11-07T02:10:10.805Z",
+  "projects": [
+    {
+      "slug": "jebel-ali-village",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "village-homes",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

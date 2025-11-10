@@ -1,0 +1,136 @@
+{
+  "projectID": "the-palm-tower",
+  "developerID": "nakheel",
+  "slug": "the-palm-tower",
+  "projectName": {
+    "ar": "ذا بالم تاور",
+    "en": "The Palm Tower"
+  },
+  "description": {
+    "ar": "وصف غير متوفر",
+    "en": "Description not available"
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "pricing": {},
+  "media": {
+    "heroImage": "",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "developer": "nakheel",
+  "community": "palm-jumeirah",
+  "communityName": {
+    "en": "Palm-Jumeirah",
+    "ar": "Palm-Jumeirah"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:01.280329",
+  "lastUpdated": "2025-11-01T18:48:01.280330",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "mapDescription": {
+    "en": "",
+    "ar": ""
+  },
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "mapPointsOfInterest": [],
+  "propertyTypes": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "goldenVisaEligible": false,
+  "sellable": false,
+  "latitude": null,
+  "longitude": null,
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/the-pallm-tower.mp4?sfvrsn=fba8a779_3",
+  "name": {
+    "en": "The-Palm-Tower",
+    "ar": "The-Palm-Tower"
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-palm-towerf570287e-837e-4a74-a0bf-6a1139a7cad6.jpg?sfvrsn=ca6adb06_1",
+  "auto_translated": false,
+  "id": "the-palm-tower",
+  "fromCommunity": "palm-jumeirah"
+}

@@ -1,0 +1,47 @@
+{
+  "communityID": "badrah",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "بدرة",
+    "en": "Badrah"
+  },
+  "description": {
+    "ar": "مجتمع سكني مع فلل وشقق.",
+    "en": "A residential community with villas and apartments."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "badrah",
+      "name": {
+        "ar": "بدرة",
+        "en": "Badrah"
+      }
+    }
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "badrah",
+  "developer": "nakheel"
+}

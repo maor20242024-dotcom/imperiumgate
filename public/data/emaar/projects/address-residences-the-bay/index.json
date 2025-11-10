@@ -1,0 +1,158 @@
+{
+  "slug": "address-residences-the-bay",
+  "id": "190477",
+  "developer": "إعمار العقارية",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "بيتشفرونت",
+    "en": "Beachfront"
+  },
+  "location": {
+    "ar": "إعمار بيتشفرونت",
+    "en": "Emaar Beachfront"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "العنوان ريزيدنسز ذا باي",
+    "en": "Address Residences The Bay"
+  },
+  "summary": {
+    "ar": "تعرّف على العنوان ريزيدنسز ذا باي من إعمار العقارية وموقعها المميز في إعمار بيتشفرونت حيث المزيج المميز من الرفاهية وحياة المدينة وهدوء الشاطئ.",
+    "en": "Discover Address Residences The Bay by Emaar Properties and its prime location in Emaar Beachfront, offering a unique blend of luxury, city life, and beach tranquility."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "العنوان ريزيدنسز ذا باي",
+      "subtitle": ""
+    },
+    "en": {
+      "title": "Address Residences The Bay",
+      "subtitle": ""
+    }
+  },
+  "description": {
+    "ar": "تعرّف على العنوان ريزيدنسز ذا باي من إعمار العقارية وموقعها المميز في إعمار بيتشفرونت حيث المزيج المميز من الرفاهية وحياة المدينة وهدوء الشاطئ. تفضّل بزيارة موقعنا للحصول علي مزيد.",
+    "en": "Discover Address Residences The Bay by Emaar Properties and its prime location in Emaar Beachfront, offering a unique blend of luxury, city life, and beach tranquility. Visit our website for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [
+    {
+      "ar": "إطلالة على البحر",
+      "en": "Sea View"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HERO.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/address-residences-the-bay",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "العنوان ريزيدنسز ذا باي | إعمار العقارية",
+    "description": "تعرّف على العنوان ريزيدنسز ذا باي من إعمار العقارية وموقعها المميز في إعمار بيتشفرونت حيث المزيج المميز من الرفاهية وحياة المدينة وهدوء الشاطئ. تفضّل بزيارة موقعنا للحصول علي مزيد.",
+    "canonical": "https://properties.emaar.com/ar/properties/address-residences-the-bay/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T12:49:18.548Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/EBF_ATB_WEBSITE_LIFESTYLE_HEADING-1620x832_UPDATED.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HIGHLIGHT-scaled.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_UNIT_TYPE_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_UNIT_TYPE_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_AMENITIES.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_BEACHFRONT_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2023/02/EBF_ATB_WEBSITE_LIFESTYLE_HEADING-1620x832_UPDATED.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HIGHLIGHT-scaled.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HIGHLIGHT.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_UNIT_TYPE_1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_UNIT_TYPE_2.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_AMENITIES.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

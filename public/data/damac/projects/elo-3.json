@@ -1,0 +1,145 @@
+{
+  "name": {
+    "ar": "شقق إيلو 3 داماك هيلز 2 للبيع في دبي",
+    "en": "ELO 3 Apartments DAMAC Hills 2 for Sale in Dubai"
+  },
+  "slug": "elo-3",
+  "developer": "DAMAC Properties",
+  "description": {
+    "ar": "إيلو 3 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة",
+    "en": "ELO 3 offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE. These luxurious off-plan projects in Dubai promise high returns, with flexible and easy payment plans."
+  },
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/05cwlAz28n5EGdTz2YUlq/37d5f6f80f6c8ec51ce0c1f7cf17916d/653x685-AR__6_.jpg",
+  "videoLink": "",
+  "media": {
+    "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/05cwlAz28n5EGdTz2YUlq/37d5f6f80f6c8ec51ce0c1f7cf17916d/653x685-AR__6_.jpg",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "developerID": "damac",
+  "projectID": "elo-3",
+  "community": "damac-hills-2",
+  "communityName": {
+    "ar": "داماك هيلز 2",
+    "en": "DAMAC Hills 2"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:44:09.998064",
+  "lastUpdated": "2025-11-01T18:44:09.998065",
+  "projectName": {
+    "en": "Elo 3",
+    "ar": "Elo 3"
+  },
+  "country": {
+    "en": "",
+    "ar": ""
+  },
+  "city": {
+    "en": "",
+    "ar": ""
+  },
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "location": {
+    "country": {
+      "ar": "",
+      "en": ""
+    },
+    "city": {
+      "ar": "",
+      "en": ""
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "lat": null,
+    "lng": null,
+    "poiDistances": {}
+  },
+  "mapDescription": {
+    "en": "",
+    "ar": ""
+  },
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "amenities": [],
+  "mapPointsOfInterest": [],
+  "propertyTypes": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "goldenVisaEligible": false,
+  "sellable": false,
+  "latitude": null,
+  "longitude": null,
+  "auto_translated": true,
+  "aliases": [
+    "elo-3-apartments-damac-hills-2-for-sale-in-dubai"
+  ],
+  "related_projects": [
+    "elo-3"
+  ],
+  "phases": [],
+  "meta": {},
+  "id": "elo-3",
+  "fromCommunity": "damac-hills-2"
+}

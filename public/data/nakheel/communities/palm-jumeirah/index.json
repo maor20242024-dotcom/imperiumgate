@@ -1,0 +1,31 @@
+{
+  "provider": "nakheel",
+  "community": "palm-jumeirah",
+  "generatedAt": "2025-11-07T02:10:10.864Z",
+  "projects": [
+    {
+      "slug": "palm-beach-towers",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "palm-jumeirah",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "seaview-residences",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-palm-tower",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

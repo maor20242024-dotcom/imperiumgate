@@ -1,0 +1,545 @@
+{
+  "slug": "Sobha_Hartland",
+  "id": "sobha-Sobha_Hartland",
+  "projectName": {
+    "en": "Sobha Hartland",
+    "ar": "Sobha Hartland"
+  },
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "description": {
+    "ar": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai.",
+    "en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai."
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Live"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Learn"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Entertainment"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dine"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "en": "Live",
+        "ar": ""
+      },
+      "description": {
+        "en": "Experience luxury living in expansive 4, 5, and 6-bedroom villas nestled amongst greenest community of the town.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Learn",
+        "ar": ""
+      },
+      "description": {
+        "en": "Nurture young minds with a state-of-the-art school right within the community.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Entertainment",
+        "ar": ""
+      },
+      "description": {
+        "en": "Indulge in a wealth of amenities designed for endless fun and relaxation.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dine",
+        "ar": ""
+      },
+      "description": {
+        "en": "Savour exquisite dining experiences in the sports café inside the community.",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "8 Million Sq. Ft. Total Land Area"
+  },
+  "bedrooms": [
+    4,
+    5,
+    6
+  ],
+  "brand": "Sobha Realty",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "goldenVisaEligible": false,
+  "latitude": 25.1633,
+  "launchDate": "null",
+  "location": {
+    "ar": "Mohammed Bin Rashid City",
+    "en": "Mohammed Bin Rashid City",
+    "country": {
+      "en": "UAE",
+      "ar": ""
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "8 Million Sq. Ft. Total Land Area",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.2894,
+  "mapDescription": {
+    "ar": "",
+    "en": "RIGHT IN the Centre of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Burj Khalifa",
+        "ar": "برج خليفة"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall",
+        "ar": "دبي مول"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping/Landmark",
+        "ar": "مركز تسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Ras Al Khor Nature Reserve",
+        "ar": "Ras Al Khor Nature Reserve"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Nature",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina",
+        "ar": "دبي مارينا"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Area/Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "نخلة جميرا"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Area/Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Emirates Golf Club",
+        "ar": "Emirates Golf Club"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Sport/Recreation",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Ras Al Khor Flamingo Hide Viewing Area",
+        "ar": "Ras Al Khor Flamingo Hide Viewing Area"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Nature/Attraction",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Burj Khalifa",
+        "ar": "برج خليفة"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall",
+        "ar": "Dubai Mall"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping/Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Ras Al Khor Nature Reserve",
+        "ar": "Ras Al Khor Nature Reserve"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Nature",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina",
+        "ar": "Dubai Marina"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Area/Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "Palm Jumeirah"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Area/Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Emirates Golf Club",
+        "ar": "Emirates Golf Club"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Sport/Recreation",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Ras Al Khor Flamingo Hide Viewing Area",
+        "ar": "Ras Al Khor Flamingo Hide Viewing Area"
+      },
+      "distance": {
+        "en": "",
+        "ar": ""
+      },
+      "category": {
+        "en": "Nature/Attraction",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 8000000,
+  "maxAreaSqmt": 743224,
+  "maxPriceAED": 999999999,
+  "minAreaSqft": 1000,
+  "minAreaSqmt": 92,
+  "minPriceAED": 1000000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://sobharealty.com/our-communities/sobha-hartland/",
+  "projectStatus": {
+    "ar": "null",
+    "en": "null"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقة"
+    },
+    {
+      "en": "Villas",
+      "ar": "فيلا"
+    },
+    {
+      "en": "Townhouses",
+      "ar": "تاون هاوس"
+    },
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    },
+    {
+      "en": "Villas",
+      "ar": "Villas"
+    },
+    {
+      "en": "Townhouses",
+      "ar": "Townhouses"
+    }
+  ],
+  "sellable": false,
+  "views": [
+    {
+      "en": "Downtown skyline",
+      "ar": "Downtown skyline"
+    },
+    {
+      "en": "Creek",
+      "ar": "Creek"
+    },
+    {
+      "en": "Canal",
+      "ar": "Canal"
+    },
+    "Downtown skyline",
+    "Creek",
+    "Canal"
+  ],
+  "projectID": "sobha-hartland",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "Sobha Hartland offers premium living experience with exceptional amenities and strategic location in 8 Million Sq. Ft. Total Land Area.",
+    "ar": "تقدم  تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في ."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Sobha Hartland: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in 8 Million Sq. Ft. Total Land Area"
+    },
+    "ar": {
+      "title": ": تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في"
+    }
+  },
+  "insights": {
+    "en": "Sobha Hartland represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic 8 Million Sq. Ft. Total Land Area location.",
+    "ar": "تمثل  فرصة استثمارية متميزة في ، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في ."
+  },
+  "developerID": "sobha",
+  "highlights": [],
+  "developer": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T05:21:40.715932",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img.jpg.webp?itok=Fc8Etbg8"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img%20mobile.jpg.webp?itok=HuZM3aqR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283.jpg.webp?itok=2uXfiXOR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497.jpg.webp?itok=cGFG3ug3"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479.jpg.webp?itok=OeaYeMA_"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1.jpg.webp?itok=5JNgidMN"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_5.jpg.webp?itok=bp6a0gZU"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015254.jpg.webp?itok=4aQuEctS"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertainment_4.jpg.webp?itok=uc0HUGfs"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_8.jpg.webp?itok=jnm8qHHl"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banne%20mobile_0.jpg.webp?itok=8f6W3qwY"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img.jpg.webp?itok=Fc8Etbg8"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img%20mobile.jpg.webp?itok=HuZM3aqR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283.jpg.webp?itok=2uXfiXOR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497.jpg.webp?itok=cGFG3ug3"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479.jpg.webp?itok=OeaYeMA_"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1.jpg.webp?itok=5JNgidMN"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_5.jpg.webp?itok=bp6a0gZU"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015254.jpg.webp?itok=4aQuEctS"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertainment_4.jpg.webp?itok=uc0HUGfs"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_8.jpg.webp?itok=jnm8qHHl"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banne%20mobile_0.jpg.webp?itok=8f6W3qwY"
+      }
+    ],
+    "videoLink": "https://sobharealty.com/null",
+    "brochurePdfLink": "https://sobharealty.com/null",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 1000000,
+    "maxPriceAED": 999999999,
+    "currency": "AED"
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "null",
+  "name": {
+    "en": "Sobha Hartland",
+    "ar": "Sobha Hartland"
+  },
+  "sourceUrl": "https://sobharealty.com/our-communities/sobha-hartland/",
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+  "auto_translated": true,
+  "fromCommunity": "sobha-hartland"
+}

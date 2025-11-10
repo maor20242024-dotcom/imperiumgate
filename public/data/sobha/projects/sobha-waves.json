@@ -1,0 +1,80 @@
+{
+  "name": {
+    "en": "Waves",
+    "ar": "Waves"
+  },
+  "slug": "sobha-waves",
+  "developer": "Sobha Realty",
+  "description": {
+    "en": "Enjoy the sunrises and sunsets in a quintessentially unique setting, with uninterrupted 360-degree views from every home. Standing tall against the boardwalk that spans 1.8 km, this 35-storey modern architectural marvel transcends expectations in style. Located in Mohammed Bin Rashid Al Maktoum City, Sobha Hartland Waves leaves a truly indelible mark.",
+    "ar": "Enjoy the sunrises and sunsets in a quintessentially unique setting, with uninterrupted 360-degree views from every home. Standing tall against the boardwalk that spans 1.8 km, this 35-storey modern architectural marvel transcends expectations in style. Located in Mohammed Bin Rashid Al Maktoum City, Sobha Hartland Waves leaves a truly indelible mark."
+  },
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Waves.jpg",
+  "videoLink": "null",
+  "media": {
+    "gallery": [
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_11.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_6.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_6.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310%20%281%29_0.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_13.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250%20%281%29.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249%20%281%29.jpg.webp"
+    ],
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_11.jpg.webp",
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        "https://sobharealty.com/sites/default/files/2024-03/sobha-waves-brochure.pdf"
+      ],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "developerID": "sobha",
+  "location": {
+    "country": {
+      "ar": "",
+      "en": ""
+    },
+    "city": {
+      "ar": "",
+      "en": ""
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "poiDistances": {}
+  },
+  "auto_translated": true,
+  "id": "sobha-waves",
+  "projectName": {
+    "en": "Sobha Waves",
+    "ar": "Sobha Waves"
+  }
+}

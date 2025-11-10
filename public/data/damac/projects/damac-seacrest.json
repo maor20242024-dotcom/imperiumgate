@@ -1,0 +1,146 @@
+{
+  "projectID": "damac-seacrest",
+  "developerID": "damac",
+  "slug": "damac-seacrest",
+  "projectName": {
+    "ar": "DAMAC Seacrest",
+    "en": "DAMAC Seacrest"
+  },
+  "description": {
+    "ar": "DAMAC Seacrest by DAMAC in Dubai, United Arab Emirates",
+    "en": "DAMAC Seacrest by DAMAC in Dubai, United Arab Emirates"
+  },
+  "location": {
+    "country": {
+      "ar": "",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "brand": "DAMAC",
+  "id": "damac-seacrest",
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [],
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "deliveryDate": "",
+  "goldenVisaEligible": false,
+  "launchDate": "",
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "projectPageLink": null,
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [],
+  "sellable": false,
+  "views": [],
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "highlights": [],
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "latitude": 0,
+  "projectCategory": "Project",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "ar": "",
+    "en": ""
+  },
+  "auto_translated": true,
+  "developer": "damac",
+  "fromCommunity": "dubai-maritime-city"
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "rashid-yachts-marina",
+  "id": null,
+  "developer": "إعمار العقارية",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": null
+  },
+  "location": {
+    "ar": "مرسى راشد لليخوت",
+    "en": "Rashid Yachts Marina"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "residential",
+  "projectName": {
+    "ar": "مرسى راشد لليخوت",
+    "en": "Rashid Yachts Marina"
+  },
+  "summary": {
+    "ar": "وجهةً رائدةً على الواجهة المائية في دبي تقدّم خدماتها لعشّاق اليخوت والقوارب",
+    "en": "A premier waterfront destination in Dubai for yacht and boat enthusiasts"
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "مرسى راشد لليخوت",
+      "subtitle": "اكتشف الشقق المطلّة على الشاطئ وشقق الطابق العلوي (البنتهاوس) المطروحة للبيع في دبي في جوهرة الساحل"
+    },
+    "en": {
+      "title": "Rashid Yachts Marina",
+      "subtitle": "Discover beach-facing apartments and penthouses for sale in Dubai's coastal gem"
+    }
+  },
+  "description": {
+    "ar": "يُعدّ مرسى راشد لليخوت، الذي طوّرته إعمار العقارية، وجهةً رائدةً على الواجهة المائية في دبي تقدّم خدماتها لعشّاق اليخوت والقوارب. ويضمّ مساكن فخمة وراقية، ومرسىً شاملاً، وأسلوب حياة على الواجهة المائية، ومزيجاً نابضاً بالحياة من المطاعم والمتاجر مع إطلالات على المساحات الخارجية المزدهرة.",
+    "en": "Rashid Yachts Marina, developed by Emaar Properties, is a premier waterfront destination in Dubai for yacht and boat enthusiasts. It features luxurious and elegant residences, a comprehensive marina, waterfront lifestyle, and a vibrant mix of restaurants and shops with views of the thriving outdoor spaces."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [
+    "1",
+    "2",
+    "3"
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": null,
+  "maxAreaSqft": null,
+  "minAreaSqmt": null,
+  "maxAreaSqmt": null,
+  "minPriceAED": null,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [
+    {
+      "ar": "إطلالات على الخليج العربي",
+      "en": "Arabian Gulf views"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [
+    {
+      "ar": "موقع استراتيجي على بُعد أقل من 10 دقائق من شارع الشيخ زايد",
+      "en": "Strategic location less than 10 minutes from Sheikh Zayed Road"
+    },
+    {
+      "ar": "15 دقيقة من مطار دبي الدولي",
+      "en": "15 minutes from Dubai International Airport"
+    },
+    {
+      "ar": "20 دقيقة من وسط مدينة دبي حيث دبي مول وبرج خليفة",
+      "en": "20 minutes from downtown Dubai with Dubai Mall and Burj Khalifa"
+    }
+  ],
+  "insights": {
+    "ar": "يوفّر هذا المجمّع مجموعة من خيارات الشقق بغرفة نوم واحدة إلى ثلاث غرف نوم داخل الأبراج منخفضة إلى متوسطة الارتفاع. ويتميّز كلّ مشروع بتصميمه الفريد وأسلوبه الخاصّ، لتكتمل معه أجواء الواجهة المائية.",
+    "en": "This community offers a range of one to three bedroom apartment options in low to mid-rise towers. Each project features its unique design and style, complementing the waterfront atmosphere."
+  },
+  "sellable": true,
+  "projectPageLink": "https://properties.emaar.com/ar/our-communities/rashid-yachts-marina",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "مرسى راشد لليخوت | إعمار العقارية",
+    "description": "اكتشف الشقق المطلّة على الشاطئ وشقق الطابق العلوي (البنتهاوس) المطروحة للبيع في دبي في جوهرة الساحل، مرسى راشد لليخوت. اعثر على منزل أحلامك في دبي. تفضّل بزيارتنا عبر الإنترنت اليوم لمزيدٍ من المعلومات!",
+    "canonical": "https://properties.emaar.com/ar/our-communities/rashid-yachts-marina/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T13:29:22.283Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/HERO_1620X832_4-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/HERO_1620X832_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/09/HERO_1620X832_3-6.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/09/HERO_1620X832_1-6.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/HERO_1620X832_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/07/HERO_1620X832_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/03/HERO_1620X832_1-4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/03/HERO_1620X832_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Emaar_Bayline_Landscape.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/09/CLEARPOINT_HERO_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/SUNRIDGE_RYM_WEBSITE_HERO_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/12/SEASCAPE_RYM_WEBSITE_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/190430_Whitespace_PortRashid_View05_Harbour_Fullres-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/RYM_MAP-e1676034218323.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

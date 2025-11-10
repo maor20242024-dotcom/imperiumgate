@@ -1,0 +1,31 @@
+{
+  "provider": "sobha",
+  "community": "sobha-central",
+  "generatedAt": "2025-11-07T02:10:10.957Z",
+  "projects": [
+    {
+      "slug": "sobha-central",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-horizon",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-serene",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-tranquil",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

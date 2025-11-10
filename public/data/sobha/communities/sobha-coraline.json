@@ -1,0 +1,47 @@
+{
+  "communityID": "sobha-coraline",
+  "developerID": "sobha",
+  "name": {
+    "ar": "شوبا كورالين",
+    "en": "Sobha Coraline"
+  },
+  "description": {
+    "ar": "مجتمع مستوحى من الكورال.",
+    "en": "A coral-inspired community."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "sobha-coraline",
+      "name": {
+        "ar": "شوبا كورالين",
+        "en": "Sobha Coraline"
+      }
+    }
+  ],
+  "developer": "sobha",
+  "lastUpdated": "2025-11-01T18:48:01.435675",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false
+}

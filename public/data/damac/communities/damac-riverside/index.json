@@ -1,0 +1,25 @@
+{
+  "provider": "damac",
+  "community": "damac-riverside",
+  "generatedAt": "2025-11-07T02:10:10.731Z",
+  "projects": [
+    {
+      "slug": "damac-riverside",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "duo-villas",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "riverside-views-marine-3",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

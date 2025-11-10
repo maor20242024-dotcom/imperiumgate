@@ -1,0 +1,362 @@
+{
+  "projectID": "discovery-gardens",
+  "developerID": "nakheel",
+  "slug": "discovery-gardens",
+  "projectName": {
+    "ar": "حدائق ديسكفري",
+    "en": "Discovery Gardens"
+  },
+  "description": {
+    "ar": "تجربة العيش الأخضر في حدائق ديسكفري، مجتمع مستوحى من الحدائق مع استوديوهات وشقق واسعة محاطة بساحات خضراء ذات طابع خاص. مجتمع سكني مترامي الأطراف مستوحى من العيش في الحدائق، تتألف حدائق ديسكفري من ستة تجمعات مجتمعية ذات طابع خاص، وتضم 300 مبنى مع أكثر من 26,000 شقة فسيحة ومجموعة متنوعة من المرافق بما في ذلك جناح حدائق ديسكفري. بما في ذلك حدائق Zen، المتوسطية، المعاصرة، المغولية، أمريكا الوسطى، وحدائق الصبار، يحتفظ كل مجتمع بطابعه المميز، ويلتقط عناصر مختلفة من تنوع الطبيعة الغني. يمتد هذا التطوير من الشقق الفسيحة متعددة الأحجام على مساحة 26 مليون قدم مربع، ويوفر للمقيمين منزلاً جميلاً، يقع في محيط رائع.",
+    "en": "Experience green living at Discovery Gardens, a garden-inspired community with spacious studios and apartments surrounded by lush, themed courtyards. A sprawling residential community inspired by garden living, Discovery Gardens comprises six themed community clusters, featuring 300 buildings with more than 26,000 spacious apartments and a variety of amenities including the Discovery Gardens Pavilion. Including Zen, Mediterranean, Contemporary, Mogul, Mesoamerican and Cactus courtyard gardens, each community retains its own distinctive character, capturing different elements of nature’s rich diversity. Spanning a massive 26 million square foot plot, this development of spacious, multi sized apartments offers residents a beautiful home, set in exquisite surroundings."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "430 قدم مربع (تبدأ من)",
+      "en": "26 million square foot plot"
+    },
+    "ar": "مجتمع سكني مترامي الأطراف يضم ستة تجمعات مجتمعية ذات طابع خاص. ضمن مسافة ستة كيلومترات من حدائق ديسكفري، يمكن للمقيمين الاستمتاع بمجموعة واسعة من المرافق الموجهة للعائلة.",
+    "en": "Discovery Gardens is a sprawling residential community conveniently located near key Dubai landmarks, including the Discovery Gardens Metro Station, Ibn Battuta Mall, Dubai Marina, Palm Jumeirah, Downtown Dubai, and Al Maktoum International Airport (DWC).",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+    "galleryImages": [
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens4f1c4a8d-5652-4285-ad14-2d946f207a88.jpg?sfvrsn=3eebfbd6_1"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens3aaea588-e528-4229-8ac4-862ab5eba971.jpg?sfvrsn=ca170e3a_1"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens_1.jpg?sfvrsn=99d6ae62_3"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens_2.jpg?sfvrsn=4ead78b5_3"
+      }
+    ],
+    "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/default-video-library/project-video---discovery-gardens.mp4?sfvrsn=fcb07046_1",
+    "brochurePdfLink": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/discovery-gardens-floor-plan.pdf?sfvrsn=90364265_1",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "مركز لياقة بدنية مجهز بأحدث الأجهزة الرياضية",
+        "en": "A fitness center equipped with the latest sports equipment"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Mosques"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Petrol Station"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Recycling Stations"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Clothes Donation Boxes"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Pavilion"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    }
+  ],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "deliveryDate": "2008",
+  "launchDate": "July 12, 2004",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "area": {
+    "ar": "430 قدم مربع (تبدأ من)",
+    "en": "26 million square foot plot"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "brand": "Nakheel",
+  "developer": {
+    "ar": "نخيل العقارية",
+    "en": "Nakheel Properties"
+  },
+  "projectStatus": {
+    "ar": "مكتمل",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقة"
+    },
+    {
+      "en": "Studios",
+      "ar": "Studios"
+    }
+  ],
+  "views": [],
+  "summary": {
+    "en": "Discovery Gardens offers premium living experience with exceptional amenities and strategic location in 26 million square foot plot.",
+    "ar": "تقدم حدائق ديسكفري تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في 430 قدم مربع (تبدأ من)."
+  },
+  "insights": {
+    "en": "Discovery Gardens represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic 26 million square foot plot location.",
+    "ar": "تمثل حدائق ديسكفري فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في 430 قدم مربع (تبدأ من)."
+  },
+  "highlights": [],
+  "goldenVisaEligible": false,
+  "sellable": true,
+  "latitude": 25.04134964773267,
+  "longitude": 55.14394791405374,
+  "mapDescription": {
+    "ar": "يقع مجتمع حدائق ديسكفري في موقع استراتيجي بالقرب من المعالم الرئيسية في دبي، ويوفر سهولة الوصول إلى وسائل النقل العام والمعالم السياحية الرئيسية.",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Discovery Gardens Metro Station",
+        "ar": "Discovery Gardens Metro Station"
+      },
+      "distance": {
+        "en": "3 km",
+        "ar": "3 km"
+      },
+      "category": {
+        "en": "Transportation",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": "Ibn Battuta Mall"
+      },
+      "distance": {
+        "en": "7 km",
+        "ar": "7 km"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "مركز تسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina",
+        "ar": "دبي مارينا"
+      },
+      "distance": {
+        "en": "11 km",
+        "ar": "11 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "نخلة جميرا"
+      },
+      "distance": {
+        "en": "14 km",
+        "ar": "14 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": "وسط مدينة دبي"
+      },
+      "distance": {
+        "en": "27 km",
+        "ar": "27 km"
+      },
+      "category": {
+        "en": "City Center",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum International Airport (DWC)",
+        "ar": "Al Maktoum International Airport (DWC)"
+      },
+      "distance": {
+        "en": "30 km",
+        "ar": "30 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    }
+  ],
+  "minAreaSqft": 430,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 39,
+  "maxAreaSqmt": 0,
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/discovery-gardens",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "id": "nakheel-Discovery_Gardens",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "maxPriceAED": 0,
+  "minPriceAED": 0,
+  "projectCategory": "Project",
+  "heroCopy": {
+    "en": {
+      "title": "Discovery Gardens: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in 26 million square foot plot"
+    },
+    "ar": {
+      "title": "حدائق ديسكفري: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في 430 قدم مربع (تبدأ من)"
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/default-video-library/project-video---discovery-gardens.mp4?sfvrsn=fcb07046_1",
+  "name": {
+    "en": "Discovery Gardens",
+    "ar": "حدائق ديسكفري"
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+  "auto_translated": false,
+  "community": "discovery-gardens",
+  "communityName": {
+    "ar": "ديسكفري جاردنز",
+    "en": "Discovery Gardens"
+  }
+}

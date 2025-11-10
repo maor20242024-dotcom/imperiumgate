@@ -1,0 +1,154 @@
+{
+  "slug": "golf-meadow-at-emaar-south",
+  "id": "401436",
+  "developer": "إعمار العقارية",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "إعمار الجنوب",
+    "en": "Emaar South"
+  },
+  "location": {
+    "ar": "إعمار الجنوب",
+    "en": "Emaar South"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "جولف ميدو في إعمار الجنوب",
+    "en": "Golf Meadow at Emaar South"
+  },
+  "summary": {
+    "ar": "اطّلع على جولف ميدو في إعمار الجنوب، الذي يجمع بين الهدوء والأناقة، وتلتقي فيه حياة الجولف بالمساحات الخارجية الرائعة.",
+    "en": "Discover Golf Meadow at Emaar South, which combines tranquility and elegance, where golf life meets wonderful outdoor spaces."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "جولف ميدو في إعمار الجنوب",
+      "subtitle": null
+    },
+    "en": {
+      "title": "Golf Meadow at Emaar South",
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": "اطّلع على جولف ميدو في إعمار الجنوب، الذي يجمع بين الهدوء والأناقة، وتلتقي فيه حياة الجولف بالمساحات الخارجية الرائعة.",
+    "en": "Discover Golf Meadow at Emaar South, which combines tranquility and elegance, where golf life meets wonderful outdoor spaces."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_1-3.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_1-4.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/golf-meadow-at-emaar-south",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "جولف ميدو في إعمار الجنوب | إعمار العقارية",
+    "description": "اطّلع على جولف ميدو في إعمار الجنوب، الذي يجمع بين الهدوء والأناقة، وتلتقي فيه حياة الجولف بالمساحات الخارجية الرائعة.",
+    "canonical": "https://properties.emaar.com/ar/properties/golf-meadow-at-emaar-south/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_1-3.jpg",
+    "fetchedAt": "2025-11-09T13:04:59.877Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/BROCHURE_IMG_300X210-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_1-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_3-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_4-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_5-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_1-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_3-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMM_IMG.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Golf.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Kids-Play-ares.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Community-Park.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_2-2.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_3.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2025/03/GOLF_MEADOW_ES_BROCHURE-1.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

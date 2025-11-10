@@ -1,0 +1,164 @@
+{
+  "slug": "vida-residences-dubai-marina",
+  "id": "11889",
+  "developer": "إعمار العقارية",
+  "brand": "فيدا",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "مرسى دبي",
+    "en": "Dubai Marina"
+  },
+  "location": {
+    "ar": "مرسى دبي",
+    "en": "Dubai Marina"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "فيدا رزيدنسز مرسى دبي",
+    "en": "Vida Residences Dubai Marina"
+  },
+  "summary": {
+    "ar": "اختر وحدتك الآن من ضمن شقق متنوعة من فيدا رزيدنسز مرسى دبي. اكتشف الإطلالات الساحرة وتمتع بتجربة تسوق مذهلة في دبي مارينا مول.",
+    "en": "Choose your unit now from various apartments at Vida Residences Dubai Marina. Discover stunning views and enjoy an amazing shopping experience at Dubai Marina Mall."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "فيدا رزيدنسز | مرسى دبي",
+      "subtitle": "إعمار العقارية"
+    },
+    "en": {
+      "title": "Vida Residences | Dubai Marina",
+      "subtitle": "Emaar Properties"
+    }
+  },
+  "description": {
+    "ar": "اختر وحدتك الآن من ضمن شقق متنوعة من فيدا رزيدنسز مرسى دبي. اكتشف الإطلالات الساحرة وتمتع بتجربة تسوق مذهلة في دبي مارينا مول. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Choose your unit now from various apartments at Vida Residences Dubai Marina. Discover stunning views and enjoy an amazing shopping experience at Dubai Marina Mall. Visit our website to learn more."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [
+    {
+      "ar": "إطلالات على المرسى",
+      "en": "Marina Views"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_HERO.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/vida-residences-dubai-marina",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "فيدا رزيدنسز | مرسى دبي | إعمار العقارية",
+    "description": "اختر وحدتك الآن من ضمن شقق متنوعة من فيدا رزيدنسز مرسى دبي. اكتشف الإطلالات الساحرة وتمتع بتجربة تسوق مذهلة في دبي مارينا مول. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "canonical": "https://properties.emaar.com/ar/properties/vida-residences-dubai-marina/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T12:47:32.325Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/RIVIERA.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_LIVING_ROOM.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_VIEW.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_RIVIERA.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_OVERVIEW.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/YACHT_CLUB.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/DUBAI_MARINA_LOGO_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7217.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7229.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7237.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7249.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7252.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7254.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/RIVIERA.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_LIVING_ROOM.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_VIEW.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_RIVIERA.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_OVERVIEW.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/07/YACHT_CLUB.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

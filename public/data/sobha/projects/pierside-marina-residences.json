@@ -1,0 +1,282 @@
+{
+  "projectName": {
+    "en": "Pierside Marina Residences",
+    "ar": "Pierside Marina Residences"
+  },
+  "description": {
+    "en": "Start your day with breathtaking open sea views, setting the stage for a tranquil and luxurious lifestyle. Unwind in the evening to the gentle rhythm of the waves at Pierside Marina Residences—designed for those who appreciate both elegance and comfort.",
+    "ar": "Start your day with breathtaking open sea views, setting the stage for a tranquil and luxurious lifestyle. Unwind in the evening to the gentle rhythm of the waves at Pierside Marina Residences—designed for those who appreciate both elegance and comfort."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "GOLF COURSE",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "MOTORISED SEAWATER BODY",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "YACHT CLUB WITH BOAT MOORING",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SHOPPING MALL",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "VIBRANT NIGHTLIFE",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "LUSH PARKS & LANDSCAPED GARDENS",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "Sobha Siniya Island",
+    "ar": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": "2029-03-01",
+  "goldenVisaEligible": false,
+  "latitude": 25.60906640021401,
+  "launchDate": null,
+  "location": {
+    "en": "Sobha Siniya Island",
+    "ar": "Sobha Siniya Island",
+    "country": {
+      "en": "UAE",
+      "ar": ""
+    },
+    "city": {
+      "en": "Umm Al Quwain",
+      "ar": ""
+    },
+    "area": {
+      "en": "Sobha Siniya Island",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.63266573919659,
+  "mapDescription": {
+    "en": "Vibrant Living, Nearby Essentials",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "MARJAN ISLAND",
+        "ar": "MARJAN ISLAND"
+      },
+      "distance": {
+        "en": "10 km",
+        "ar": "10 km"
+      },
+      "category": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SHARJAH",
+        "ar": "SHARJAH"
+      },
+      "distance": {
+        "en": "30 km",
+        "ar": "30 km"
+      },
+      "category": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI",
+        "ar": "DUBAI"
+      },
+      "distance": {
+        "en": "50 km",
+        "ar": "50 km"
+      },
+      "category": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 2157,
+  "maxAreaSqmt": 200,
+  "maxPriceAED": 5890000,
+  "minAreaSqft": 542,
+  "minAreaSqmt": 50,
+  "minPriceAED": 1410000,
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectID": "5169",
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/pierside-marina-residences/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    "Open Sea Views",
+    "Marina Views"
+  ],
+  "slug": "pierside-marina-residences",
+  "developer": "sobha",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.776250",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372x274%20%E2%80%93%2017.jpg.webp?itok=t1dV-brY",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372x274%20%E2%80%93%2017.jpg.webp?itok=t1dV-brY"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372%20%C3%97%20274%20%E2%80%93%203_0.jpg.webp?itok=rFPka5zK"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372%20%C3%97%20274_0.jpg.webp?itok=lAUiUhSB"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372%20%C3%97%20274%20%E2%80%93%201_0.jpg.webp?itok=sAV39j59"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372%20%C3%97%20274%20%E2%80%93%202_0.jpg.webp?itok=Ok2ZDQsA"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372%20%C3%97%20274%20%E2%80%93%205_0.jpg.webp?itok=jiAVA5lb"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/372%20%C3%97%20274%20%E2%80%93%204_0.jpg.webp?itok=qcMtz0fw"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-02/Pierside%20Marina%20Residences%20%282%29.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 1410000,
+    "maxPriceAED": 5890000,
+    "currency": "AED"
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Pierside Marina Residences",
+    "ar": "Pierside Marina Residences"
+  },
+  "auto_translated": true,
+  "id": "pierside-marina-residences"
+}

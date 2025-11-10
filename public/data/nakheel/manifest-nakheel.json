@@ -1,0 +1,589 @@
+{
+  "meta": {
+    "generated_at": "2025-11-06T23:57:48.978097Z",
+    "path_style": "domain_relative",
+    "trailing_slash": true,
+    "notes": "Types are heuristics; refine per developer if needed."
+  },
+  "developer": "nakheel",
+  "domain": "https://www.nakheel.com",
+  "items": [
+    {
+      "line": 5,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/palm-beach-towers/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "palm-beach-towers",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/palm-beach-towers/apartments/"
+    },
+    {
+      "line": 10,
+      "label": "│   │       └── Penthouses (بنتهاوس، 3000+ sq ft / 279+ m²)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/palm-beach-towers/apartments/penthouses/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "palm-beach-towers",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/palm-beach-towers/apartments/penthouses/"
+    },
+    {
+      "line": 12,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/como-residences/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "como-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/como-residences/apartments/"
+    },
+    {
+      "line": 18,
+      "label": "│   │       └── 7BR (3500+ sq ft / 325+ m²)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/como-residences/apartments/7-bedroom/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "como-residences",
+        "apartments",
+        "7-bedroom"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/como-residences/apartments/7-bedroom/"
+    },
+    {
+      "line": 20,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/shoreline-apartments/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "shoreline-apartments",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/shoreline-apartments/apartments/"
+    },
+    {
+      "line": 26,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/the-palm-tower/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "the-palm-tower",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/the-palm-tower/apartments/"
+    },
+    {
+      "line": 31,
+      "label": "│   │       └── Penthouses (3000+ sq ft / 279+ m²)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/the-palm-tower/apartments/penthouses/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "the-palm-tower",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/the-palm-tower/apartments/penthouses/"
+    },
+    {
+      "line": 33,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/marina-residences/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "marina-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/marina-residences/apartments/"
+    },
+    {
+      "line": 38,
+      "label": "│   │       └── Penthouses (3000+ sq ft / 279+ m²)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/marina-residences/apartments/penthouses/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "marina-residences",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/marina-residences/apartments/penthouses/"
+    },
+    {
+      "line": 40,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/azure-residences/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "azure-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/azure-residences/apartments/"
+    },
+    {
+      "line": 45,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-jumeirah/club-vista-mare/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jumeirah",
+        "club-vista-mare",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jumeirah/club-vista-mare/apartments/"
+    },
+    {
+      "line": 51,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/dubai-islands/rixos-hotels-and-residences/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "dubai-islands",
+        "rixos-hotels-and-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/dubai-islands/rixos-hotels-and-residences/apartments/"
+    },
+    {
+      "line": 57,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/dubai-islands/bay-grove-residences/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "dubai-islands",
+        "bay-grove-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/dubai-islands/bay-grove-residences/apartments/"
+    },
+    {
+      "line": 63,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/dubai-islands/deira-island-boulevard/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "dubai-islands",
+        "deira-island-boulevard",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/dubai-islands/deira-island-boulevard/apartments/"
+    },
+    {
+      "line": 68,
+      "label": "│   └── Apartments (شقق عامة)",
+      "path": "/en/developments/nakheel-projects/palm-jebel-ali/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-jebel-ali",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-jebel-ali/apartments/"
+    },
+    {
+      "line": 75,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/alfurjan/tilal-al-furjan/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "alfurjan",
+        "tilal-al-furjan",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/alfurjan/tilal-al-furjan/apartments/"
+    },
+    {
+      "line": 79,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/alfurjan/murooj-al-furjan/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "alfurjan",
+        "murooj-al-furjan",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/alfurjan/murooj-al-furjan/apartments/"
+    },
+    {
+      "line": 84,
+      "label": "│   └── Apartments (شقق عامة)",
+      "path": "/en/developments/nakheel-projects/jumeirahvillagecircle/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "jumeirahvillagecircle",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirahvillagecircle/apartments/"
+    },
+    {
+      "line": 89,
+      "label": "│   └── Apartments (شقق عامة)",
+      "path": "/en/developments/nakheel-projects/jumeirahvillagetriangle/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "jumeirahvillagetriangle",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirahvillagetriangle/apartments/"
+    },
+    {
+      "line": 94,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/internationalcity/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "internationalcity",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/internationalcity/apartments/"
+    },
+    {
+      "line": 98,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/discovery-gardens/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "discovery-gardens",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/discovery-gardens/apartments/"
+    },
+    {
+      "line": 102,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/jumeirah-heights/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "jumeirah-heights",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirah-heights/apartments/"
+    },
+    {
+      "line": 107,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/the-gardens/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "the-gardens",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/the-gardens/apartments/"
+    },
+    {
+      "line": 112,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/garden-apartments/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "garden-apartments",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/garden-apartments/apartments/"
+    },
+    {
+      "line": 116,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/golden-mile/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "golden-mile",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/golden-mile/apartments/"
+    },
+    {
+      "line": 120,
+      "label": "├── veneto (فينيتو)",
+      "path": "/en/developments/nakheel-projects/veneto/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "veneto"
+      ],
+      "type": "community",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/veneto/"
+    },
+    {
+      "line": 121,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/veneto/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "veneto",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/veneto/apartments/"
+    },
+    {
+      "line": 125,
+      "label": "├── badrah (بدرة)",
+      "path": "/en/developments/nakheel-projects/badrah/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "badrah"
+      ],
+      "type": "community",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/badrah/"
+    },
+    {
+      "line": 126,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/badrah/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "badrah",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/badrah/apartments/"
+    },
+    {
+      "line": 131,
+      "label": "│   └── Apartments (شقق محدودة)",
+      "path": "/en/developments/nakheel-projects/warsan-village/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "warsan-village",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/warsan-village/apartments/"
+    },
+    {
+      "line": 135,
+      "label": "│   └── Apartments (شقق محدودة)",
+      "path": "/en/developments/nakheel-projects/nad-al-sheba-villas/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "nad-al-sheba-villas",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/nad-al-sheba-villas/apartments/"
+    },
+    {
+      "line": 139,
+      "label": "│   └── Apartments (شقق عامة)",
+      "path": "/en/developments/nakheel-projects/jebel-ali-village/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "jebel-ali-village",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/jebel-ali-village/apartments/"
+    },
+    {
+      "line": 143,
+      "label": "│   └── naya (نايا)",
+      "path": "/en/developments/nakheel-projects/district-one/naya/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "district-one",
+        "naya"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/district-one/naya/"
+    },
+    {
+      "line": 144,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/district-one/naya/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "district-one",
+        "naya",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/district-one/naya/apartments/"
+    },
+    {
+      "line": 148,
+      "label": "└── Apartments (شقق)",
+      "path": "/en/developments/nakheel-projects/palm-central-private-residences/apartments/",
+      "segments": [
+        "en",
+        "developments",
+        "nakheel-projects",
+        "palm-central-private-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "medium",
+      "full_url": "https://www.nakheel.com/en/developments/nakheel-projects/palm-central-private-residences/apartments/"
+    },
+    {
+      "line": 153,
+      "label": "└── /apartments/ (شقق عامة حسب الغرف)",
+      "path": "/en/properties-for-sale/apartments/",
+      "segments": [
+        "en",
+        "properties-for-sale",
+        "apartments"
+      ],
+      "type": "search",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/en/properties-for-sale/apartments/"
+    },
+    {
+      "line": 159,
+      "label": "└── Penthouses (2000+ sq ft / 186+ m²)",
+      "path": "/en/properties-for-sale/apartments/penthouses/",
+      "segments": [
+        "en",
+        "properties-for-sale",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "search",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/en/properties-for-sale/apartments/penthouses/"
+    }
+  ],
+  "stats": {
+    "project": 33,
+    "community": 2,
+    "search": 2
+  },
+  "count": 37
+}

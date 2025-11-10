@@ -1,0 +1,168 @@
+{
+  "projectID": "damac-towers-by-paramount-hotels-and-resorts",
+  "developerID": "damac",
+  "slug": "damac-towers-by-paramount-hotels-and-resorts",
+  "projectName": {
+    "ar": "DAMAC Towers by Paramount Hotels and Resorts",
+    "en": "DAMAC Towers by Paramount Hotels and Resorts"
+  },
+  "description": {
+    "ar": "بحضور باهر يمتد على ارتفاع 270 متراً، تتغنى أبراج هذا المشروع الأربعة برفاهية تتناغم مع بريق عالم السينما. تضم ثلاثة أبراج من المشروع 1200 شقة فاخرة ومفروشة، تستوحي جميعها طابعها من تصاميم استوديوهات هوليوود الأنيقة، بينما يضم البرج الرابع فندق باراماونت. يقدم داماك تاورز من باراماونت هوتيلز آند ريزورتس أسلوب حياة استثنائي بفضل قربه من أجمل الوجهات والمعالم في دبي. كما يتألق المشروع بتصاميم خارجية عصرية وأنيقة استلهمناها من سحر كاليفورنيا، لتحيا أجواء هوليوود بأجمل صورة في قلب مدينة دبي.",
+    "en": "Rising 270 meters high, the four towers of this project exude luxury in harmony with the glamour of the cinematic world. Three of the towers comprise 1200 luxurious, furnished apartments, all inspired by elegant Hollywood studio designs, while the fourth tower houses the Paramount Hotel. DAMAC Towers by Paramount Hotels & Resorts offers an exceptional lifestyle due to its proximity to Dubai's most beautiful destinations and landmarks. The project also shines with modern and elegant exterior designs inspired by the charm of California, bringing the best of Hollywood to the heart of Dubai."
+  },
+  "location": {
+    "country": {
+      "ar": "",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "lat": null,
+    "lng": null,
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3gzb987OyKrBfUciRF2o7w/5d3587b3017b59e2228880fe4ddf9566/Damac_Towers_By_Paramount-Gallery-00.jpg",
+    "gallery": [
+      "https://images.ctfassets.net/zoq5l15g49wj/3gzb987OyKrBfUciRF2o7w/5d3587b3017b59e2228880fe4ddf9566/Damac_Towers_By_Paramount-Gallery-00.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/3zDPgsh7kGu31hj2Kflq74/4371abd2219f3ac35c1a1ec65a8e6807/Damac_Towers_By_Paramount-Gallery-01-AR.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/3tkw3oOjviCqBJpPckR6aK/2b95a2d1e9ad79941b46f1b5fd919d8b/Damac_Towers_By_Paramount-Gallery-02.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/7GKlyyf4YrVd2LBmeBKcBx/8c76e5b56c2ce589634ca86329e5cc33/Damac_Towers_By_Paramount-Gallery-03.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/RjKbJd45nDDeSKc9yXzRL/76166c40592a31446d0bff170c398aec/Damac_Towers_By_Paramount-Gallery-04-AR.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/19gI4YsshNOst2vUsIMJrw/7d92781f56524ad82a6ed173778f027a/Damac_Towers_By_Paramount-Gallery-05.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/2jAW8Vue4FVjkuL71Q8eiU/50b90796921d5ecd91801296f175ce57/Damac_Towers_By_Paramount-Gallery-06.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/5C53UnbuerKGLkLSDi0672/34d3dabc433c4bbf4f4828f31632284b/Damac_Towers_By_Paramount-Gallery-07-AR.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/FxpYnY7XAXu0MVr67DL9q/fad7728ca1fecf57d6dd27cead34f958/Damac_Towers_By_Paramount-Gallery-08.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/eWQjEeaXSOa7j4B7voiCQ/a6361fff84b114f24d8618b343f4f53f/Damac_Towers_By_Paramount-Gallery-09-AR.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/2rthH7csU0tPPZrqgzYC8D/e4ac76310389a68beb1ea1f844e58ff2/Damac_Towers_By_Paramount-Gallery-10.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/3IPmfJpxKUkLqFF5wJsWxt/1ef309937f121cf5c57368dd841dff63/Damac_Towers_By_Paramount-Gallery-11.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/Ksk0kCFJVPZxnpczJXg4u/1d7a02de5d549733a514ffc380cb52ac/Damac_Towers_By_Paramount-Gallery-12.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/1x6Qtm4s2UKo1dSmbygtUr/272ad404e35d5ca068f95c327b5eb344/Damac_Towers_By_Paramount-Gallery-13.jpg",
+      "https://images.ctfassets.net/zoq5l15g49wj/2L3RzrTPrC5MsqaZr0XfO4/6c8818625d7d07ab0860aec60ca2dc2e/Damac_Towers_By_Paramount-Gallery-14.jpg"
+    ],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "brand": "DAMAC",
+  "id": "damac-towers-by-paramount-hotels-and-resorts",
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [],
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "deliveryDate": "",
+  "goldenVisaEligible": false,
+  "launchDate": "",
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "projectPageLink": null,
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [],
+  "sellable": false,
+  "views": [],
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "highlights": [],
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "latitude": 0,
+  "projectCategory": "Building",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "ar": "داماك تاورز من باراماونت هوتيلز آند ريزورتس دبي – البرج A",
+    "en": "DAMAC Towers by Paramount Hotels & Resorts Dubai – Tower A"
+  },
+  "auto_translated": true,
+  "aliases": [
+    "damac-towers-by-paramount-hotels-and-resorts-dubai"
+  ],
+  "related_projects": [
+    "damac-towers-by-paramount-hotels-and-resorts"
+  ],
+  "phases": [],
+  "meta": {},
+  "developer": "damac",
+  "fromCommunity": "business-bay"
+}

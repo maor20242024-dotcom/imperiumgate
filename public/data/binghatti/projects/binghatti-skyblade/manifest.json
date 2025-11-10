@@ -1,0 +1,25 @@
+{
+  "images": [
+    "https://binghattiweb.imgix.net/binghatti-skyblade-amenities-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-skyblade-amenities-2.webp",
+    "https://binghattiweb.imgix.net/binghatti-skyblade-amenities-3.webp",
+    "https://binghattiweb.imgix.net/binghatti-skyblade-studio-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-skyblade-one-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-skyblade-two-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-skyblade-three-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://www.binghatti.com/en/assets/img/binghatti-skyblade-footer.webp"
+  ],
+  "videos": [],
+  "pdfs": [
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyblade-assets/binghatti-skyblade-digital-brochure.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-flare-assets/binghatti-flare-digital-brochure.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyblade-assets/binghatti-skyblade-project-facts.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyblade-assets/binghatti-skyblade-floorplan.pdf",
+    "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyblade-assets/binghatti-skyblade-project-location.pdf"
+  ],
+  "iframes": [
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57763.76179538861!2d55.23249799404354!3d25.19529251820739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6900617be78d%3A0xb6e67c572c08503b!2sBinghatti%20Skyblade!5e0!3m2!1sen!2sae!4v1756448815791!5m2!1sen!2sae",
+    "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+  ]
+}

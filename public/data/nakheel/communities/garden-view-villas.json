@@ -1,0 +1,47 @@
+{
+  "communityID": "garden-view-villas",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "جاردن فيو فلل",
+    "en": "Garden View Villas"
+  },
+  "description": {
+    "ar": "فلل مع إطلالات على الحدائق.",
+    "en": "Villas with garden views."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "garden-view-villas",
+      "name": {
+        "ar": "جاردن فيو فلل",
+        "en": "Garden View Villas"
+      }
+    }
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "garden-view-villas",
+  "developer": "nakheel"
+}
