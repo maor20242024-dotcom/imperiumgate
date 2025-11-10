@@ -938,7 +938,7 @@ __turbopack_context__.s([
     ()=>tx
 ]);
 "use client";
-const SUPPORTED_LOCALES = (process.env.NEXT_PUBLIC_SUPPORTED_LANGUAGES ?? 'ar,en').split(',').map((s)=>s.trim().toLowerCase()).filter(Boolean);
+const SUPPORTED_LOCALES = (("TURBOPACK compile-time value", "ar,en") ?? 'ar,en').split(',').map((s)=>s.trim().toLowerCase()).filter(Boolean);
 function normalizeLocale(x) {
     return (x || '').toLowerCase().startsWith('ar') ? 'ar' : 'en';
 }
@@ -1141,7 +1141,7 @@ function ProjectCard({ project }) {
     const slug = rawSlug;
     const devSeg = project?.developer && String(project.developer).trim() || '';
     const USE_DEVELOPER_SEGMENT = true; // ← عندكم: /[locale]/projects/[developer]/[slug]
-    const href = slug ? USE_DEVELOPER_SEGMENT && devSeg ? __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$routes$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["stringRoutes"].projectShow(loc, encodeURIComponent(devSeg), encodeURIComponent(slug)) : `/${loc}/projects/${encodeURIComponent(slug)}` : __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$routes$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["stringRoutes"].projectsIndex(loc);
+    const href = slug ? USE_DEVELOPER_SEGMENT && devSeg ? __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$routes$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["stringRoutes"].projectShow(locale, encodeURIComponent(devSeg), encodeURIComponent(slug)) : `/${loc}/projects/${encodeURIComponent(slug)}` : __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$routes$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["stringRoutes"].projectsIndex(locale);
     // Debug logging
     if ("TURBOPACK compile-time truthy", 1) {
         // eslint-disable-next-line no-console

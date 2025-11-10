@@ -39,7 +39,7 @@ export default async function AIMapPage({ params }: Props) {
 
       {/* Map Canvas */}
       <div className="relative">
-        <MapCanvas locale={locale} />
+        <MapCanvas />
       </div>
     </div>
   );

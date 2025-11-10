@@ -1,15 +1,18 @@
 {
+  "developer": "damac",
   "developer-id": "damac",
   "community-id": null,
   "slug": "damac-islands",
+  "projectName": "DAMAC Islands",
+  "title": "DAMAC Islands",
   "project-name": {
     "en": {
-      "ar": "",
-      "en": ""
+      "ar": "جزر داماك",
+      "en": "DAMAC Islands"
     },
     "ar": {
-      "ar": "",
-      "en": ""
+      "ar": "جزر داماك",
+      "en": "DAMAC Islands"
     }
   },
   "description": {

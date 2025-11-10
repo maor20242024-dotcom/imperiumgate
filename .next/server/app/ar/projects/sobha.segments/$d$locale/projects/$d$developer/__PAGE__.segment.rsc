@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[3068,["8500","static/chunks/8500-e5f1e602be1ab676.js","5772","static/chunks/5772-e387838c427f732e.js","8638","static/chunks/8638-f016f7c8a529f826.js","3068","static/chunks/3068-20254419f8f8d3ed.js","8019","static/chunks/app/%5Blocale%5D/projects/%5Bdeveloper%5D/page-e26d8ce310cff197.js"],"default"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"80HX2vZSOt82Dtq_rLd-g","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-12","children":[["$","h1",null,{"className":"text-3xl font-extrabold text-gold-grad","children":["مشاريع"," ","sobha"]}],["$","div",null,{"className":"grid sm:grid-cols-2 md:grid-cols-3 gap-6 mt-8","children":[["$","$L2","sobha-provider-profile-0",{"project":{"slug":"provider-profile","id":"sobha-provider-profile","developer":"sobha","projectName":{"en":"مصفوفة Sobha: الجودة الحرفية والهدوء الفاخر","ar":"مصفوفة Sobha: الجودة الحرفية والهدوء الفاخر"},"galleryImages":[],"sellable":true,"amenities":[],"mapPointsOfInterest":[],"news":[],"projectID":"provider-profile"}}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

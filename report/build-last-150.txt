@@ -1,0 +1,51 @@
+
+> imperium-gate-real-estate@1.0.0 build
+> next build --webpack
+
+   ▲ Next.js 16.0.1 (webpack)
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 20.3s
+   Running TypeScript ...
+Failed to compile.
+
+./app/[locale]/compare/page.tsx:16:24
+Type error: Type '{ allProjects: Project[]; }' is not assignable to type 'IntrinsicAttributes'.
+  Property 'allProjects' does not exist on type 'IntrinsicAttributes'.
+
+[0m [90m 14 |[39m           {locale [33m===[39m [32m'ar'[39m [33m?[39m [32m'المقارنة'[39m [33m:[39m [32m'Comparison'[39m}
+ [90m 15 |[39m         [33m<[39m[33m/[39m[33mh1[39m[33m>[39m
+[31m[1m>[22m[39m[90m 16 |[39m         [33m<[39m[33mCompareClient[39m allProjects[33m=[39m{all} [33m/[39m[33m>[39m
+ [90m    |[39m                        [31m[1m^[22m[39m
+ [90m 17 |[39m       [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 18 |[39m     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 19 |[39m   )[33m;[39m[0m
+Next.js build worker exited with code: 1 and signal: null
+
+> imperium-gate-real-estate@1.0.0 build
+> next build --webpack
+
+   ▲ Next.js 16.0.1 (webpack)
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 20.5s
+   Running TypeScript ...
+Failed to compile.
+
+./app/[locale]/developers/page.tsx:22:8
+Type error: Property 'locale' is missing in type '{ developers: { developer: string; count: number; }[]; }' but required in type 'Props'.
+
+[0m [90m 20 |[39m         {locale [33m===[39m [32m'ar'[39m [33m?[39m [32m'المطورون'[39m [33m:[39m [32m'Developers'[39m}
+ [90m 21 |[39m       [33m<[39m[33m/[39m[33mh1[39m[33m>[39m
+[31m[1m>[22m[39m[90m 22 |[39m       [33m<[39m[33mDevelopersGrid[39m developers[33m=[39m{developers} [33m/[39m[33m>[39m
+ [90m    |[39m        [31m[1m^[22m[39m
+ [90m 23 |[39m     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 24 |[39m   )[33m;[39m
+ [90m 25 |[39m }[0m
+Next.js build worker exited with code: 1 and signal: null

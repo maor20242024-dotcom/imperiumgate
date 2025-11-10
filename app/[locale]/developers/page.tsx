@@ -19,7 +19,7 @@ export default async function DevelopersPage({
       <h1 className="text-3xl font-extrabold text-gold-grad mb-8">
         {locale === 'ar' ? 'المطورون' : 'Developers'}
       </h1>
-      <DevelopersGrid developers={developers} />
+      <DevelopersGrid developers={developers} locale={locale as 'ar' | 'en'} />
     </div>
   );
 }

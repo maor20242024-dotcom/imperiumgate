@@ -78,9 +78,9 @@ export default function ProjectCard({ project }: Props) {
 
   const href = slug
     ? (USE_DEVELOPER_SEGMENT && devSeg
-        ? (stringRoutes.projectShow(loc, encodeURIComponent(devSeg), encodeURIComponent(slug)) as Route)
+        ? (stringRoutes.projectShow(locale as 'ar' | 'en', encodeURIComponent(devSeg), encodeURIComponent(slug)) as Route)
         : (`/${loc}/projects/${encodeURIComponent(slug)}` as Route))
-    : (stringRoutes.projectsIndex(loc) as Route);
+    : (stringRoutes.projectsIndex(locale as 'ar' | 'en') as Route);
 
   // Debug logging
   if (process.env.NODE_ENV !== 'production') {

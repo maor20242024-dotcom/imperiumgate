@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useLocale } from '@/lib/i18n-client';
-import { stringRoutes } from '@/lib/routes';
+import { stringRoutes, routes } from '@/lib/routes';
 import ProjectCard from '@/components/ProjectCard';
 import LuxuryButton from '@/components/ui/LuxuryButton';
 import { Building2, Search, ArrowLeft, Home } from 'lucide-react';
@@ -47,7 +47,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
 
           {/* Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={stringRoutes.projectsIndex(locale)}>
+            <Link href={require('@/lib/routes').routes.projectsIndex(locale)}>
               <LuxuryButton 
                 variant="primary" 
                 size="lg"
@@ -58,7 +58,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
               </LuxuryButton>
             </Link>
             
-            <Link href={stringRoutes.developersIndex(locale)}>
+            <Link href={routes.developersIndex(locale)}>
               <LuxuryButton 
                 variant="outline" 
                 size="lg"
@@ -87,7 +87,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
             </div>
 
             <div className="text-center mt-12">
-              <Link href={stringRoutes.projectsIndex(locale)}>
+                <Link href={routes.projectsIndex(locale)}>
                 <LuxuryButton 
                   variant="outline" 
                   size="lg"
@@ -116,7 +116,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={stringRoutes.contact(locale)}>
+              <Link href={routes.contact(locale)}>
               <LuxuryButton 
                 variant="primary" 
                 size="lg"
@@ -126,7 +126,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
               </LuxuryButton>
             </Link>
             
-            <Link href={stringRoutes.home(locale)}>
+              <Link href={routes.home(locale)}>
               <LuxuryButton 
                 variant="outline" 
                 size="lg"
