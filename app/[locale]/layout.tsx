@@ -5,8 +5,8 @@ import { i18n } from '@/lib/i18n-config'
 import type { Metadata } from 'next'
 import localFont from 'next/font/local'
 
-// This is now the root layout for each locale.
-// It contains the <html> and <body> tags.
+// Locale-specific layout (nested under the Root Layout).
+// Do NOT include <html> or <body> here per Next.js App Router rules.
 
 export const metadata: Metadata = {
   title: 'Imperium Gate',
@@ -40,21 +40,22 @@ export default async function LocaleLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale?: string }>;
 }) {
-  const { locale } = params;
+  const { locale = 'ar' } = await params;
   const dict = await getDictionary(locale as 'ar' | 'en');
 
   return (
-    <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'} data-scroll-behavior="smooth">
-      <body
-        className={`${inter.variable} ${amiri.variable} ${tajawal.variable} font-sans antialiased`}
-      >
-        <RouteProgress />
-        {children}
-        {/* مساعد الذكاء الاصطناعي في جميع الصفحات */}
-        <AIConcierge locale={locale as 'ar' | 'en'} />
-      </body>
-    </html>
+    <div
+      className={`${inter.variable} ${amiri.variable} ${tajawal.variable} font-sans antialiased`}
+      data-locale={locale}
+      data-dir={locale === 'ar' ? 'rtl' : 'ltr'}
+      data-scroll-behavior="smooth"
+    >
+      <RouteProgress />
+      {children}
+      {/* مساعد الذكاء الاصطناعي في جميع الصفحات */}
+      <AIConcierge locale={locale as 'ar' | 'en'} />
+    </div>
   );
 }

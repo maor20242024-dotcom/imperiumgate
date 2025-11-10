@@ -1,0 +1,315 @@
+{
+  "projectID": "waves-opulence",
+  "developerID": "sobha",
+  "slug": "waves-opulence",
+  "projectName": {
+    "en": "Waves-Opulence",
+    "ar": "Waves-Opulence"
+  },
+  "description": {
+    "ar": "وصف غير متوفر",
+    "en": "Description not available"
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "en": "Mohammed Bin Rashid City, Dubai. Located right in the heart of the city, offering a sublime blend of dancing waves along the waterfront, landscaped greenery, and vibrant views of Downtown Dubai.",
+    "ar": "Mohammed Bin Rashid City, Dubai. Located right in the heart of the city, offering a sublime blend of dancing waves along the waterfront, landscaped greenery, and vibrant views of Downtown Dubai.",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Waves%20opulence.jpg.webp?itok=eCXKEKDO",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_3.jpg.webp?itok=ZcPlxsv3"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015328_3.jpg.webp?itok=umz8_bZR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_7.jpg.webp?itok=gbas8_Sd"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015274_6.jpg.webp?itok=t01mSNH_"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_7.jpg.webp?itok=jz6YwUJ3"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015275_7.jpg.webp?itok=mbwu6jMV"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015352.jpg.webp?itok=VHYRfA8X"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015351.jpg.webp?itok=WmckzmJR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015382_4.jpg"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015381_4.jpg"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015380_4.jpg"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015395.jpg"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/waves-opulence.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "LUXURY POOL",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "INDOOR & OUTDOOR GYM",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "CHILDREN'S PLAYGROUND",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "COURTYARD GARDEN",
+        "ar": ""
+      },
+      "description": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  ],
+  "unitTypes": [],
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "completionDate": "",
+  "developer": "sobha",
+  "community": "sobha-hartland",
+  "communityName": {
+    "en": "Sobha-Hartland",
+    "ar": "Sobha-Hartland"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:01.332243",
+  "lastUpdated": "2025-11-01T18:48:01.332244",
+  "projectCategory": "Project",
+  "area": {
+    "en": "Mohammed Bin Rashid City",
+    "ar": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": null,
+  "goldenVisaEligible": false,
+  "latitude": 25.175645,
+  "launchDate": null,
+  "longitude": 55.3102407,
+  "mapDescription": {
+    "en": "",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
+      },
+      "distance": {
+        "en": "5 km",
+        "ar": "5 km"
+      },
+      "category": {
+        "en": "Education",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": "DUBAI INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "en": "17 km",
+        "ar": "17 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": "THE DUBAI MALL"
+      },
+      "distance": {
+        "en": "16 km",
+        "ar": "16 km"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
+      },
+      "distance": {
+        "en": "17 km",
+        "ar": "17 km"
+      },
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "en": "29 km",
+        "ar": "29 km"
+      },
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 2311,
+  "maxAreaSqmt": 214,
+  "maxPriceAED": 0,
+  "minAreaSqft": 761,
+  "minAreaSqmt": 70,
+  "minPriceAED": 2200000,
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/waves-opulence/",
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    "Dancing waves along the waterfront",
+    "Landscaped greenery",
+    "Vibrant views of Downtown Dubai"
+  ],
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Waves Opulence",
+    "ar": "وايفز أوبولنس"
+  },
+  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/waves-opulence/",
+  "auto_translated": true,
+  "id": "waves-opulence"
+}

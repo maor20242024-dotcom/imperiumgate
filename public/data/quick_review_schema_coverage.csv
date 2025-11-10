@@ -1,0 +1,5 @@
+developer,total_records,missing_slug,missing_name_en,missing_name_ar,missing_desc_en,missing_hero_image,missing_prices_min_max,missing_project_status_en,slug_non_ascii,slug_duplicates,latitude_missing,longitude_missing,project_category_values,property_types_examples
+damac,34,0,14,14,0,17,56,23,0,0,14,14,", Building, Community, Project","apartment, apartments, office, penthouse, studio, studios, townhouse, villa"
+emaar,179,0,110,110,56,111,324,174,0,0,120,120,", Building, Community, Project","apartment, apartments, homes, hotels, mansions, residences, resorts, sea front-homes, townhouse, townhouses"
+nakheel,64,0,4,4,10,33,71,37,0,0,26,26,"Building, Community, Project","apartment, apartments, business center, duplexes, holiday home, hotel, islands, kiosk, mansions, not disclosed"
+sobha,79,0,6,6,9,23,14,47,0,0,22,22,"Building, Community, Project","apartments, beach residences, duplexes, mansions, marina residences, penthouses, residential units, resorts, townhouses, villa"

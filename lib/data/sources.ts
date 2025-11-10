@@ -10,121 +10,16 @@ export const DEVELOPERS = {
 
 export type DeveloperKey = keyof typeof DEVELOPERS;
 
-// Project file mappings for each developer (fallback static list)
-const PROJECT_FILES: Record<DeveloperKey, string[]> = {
-  emaar: [
-    '52-42',
-    'act-one-act-two-at-downtown-dubai',
-    'address-al-marjan-island',
-    'address-grand-downtown',
-    'address-residences-al-marjan-island',
-    'address-residences-the-bay',
-    'address-residences-zabeel',
-    'address-residences-–-dubai-opera',
-    'aurea-at-rashid-yachts-&-marina',
-    'baystar-by-vida',
-    'bayview-by-address-resorts-at-emaar-beachfront',
-    'beach-isle',
-    'beach-mansion',
-    'beach-vista',
-    'beachgate-by-address',
-    'boulevard-heights-at-downtown-dubai',
-    'boulevard-point',
-    'burj-crown',
-    'downtown-views-ii',
-    'forte',
-    'grande-signature-residences',
-    'il-primo',
-    'marina-cove-at-dubai-marina',
-    'marina-shores',
-    'marina-vista',
-    'opera-grand-at-downtown-dubai',
-    'south-beach',
-    'sunrise-bay',
-    'the-bristol-luxury-hotels-&-resorts',
-    'the-oasis-by-emaar',
-    'the-residence-burj-khalifa',
-    'the-st.-regis-residences,-downtown-dubai',
-    'vida-dubai-mall',
-    'vida-residences-dubai-marina',
-    'vindera-at-the-valley'
-  ],
-  damac: [
-    'altitude-de-grisogono',
-    'aykon-city-tower-b',
-    'belair-villas-the-trump-estates-ii',
-    'canal-heights-de-grisogono',
-    'cavalli-estates-villas',
-    'chelsea-residences',
-    'couture-by-cavalli',
-    'damac-bay-by-cavalli',
-    'damac-district',
-    'damac-majestine',
-    'damac-residenze',
-    'damac-riverside',
-    'damac-volta-tower',
-    'elo-2-damac-hills-2',
-    'elo-3-apartments-damac-hills-2-for-sale-in-dubai',
-    'evergreens',
-    'golf-gate-2-damac-hills',
-    'golf-town',
-    'harbour-lights-de-grisogono',
-    'kiara-at-damac-hills',
-    'safa-one-de-grisogono',
-    'vera-residences'
-  ],
-  nakheel: [
-    'bay-grove-residences',
-    'bay-villas,-dubai-islands',
-    'canal-front-residences',
-    'club-vista-mare',
-    'como-residences',
-    'discovery-gardens',
-    'district-one',
-    'golden-mile',
-    'jebel-ali-village',
-    'jumeirah-heights',
-    'jumeirah-islands',
-    'jumeirah-park',
-    'jumeirah-village-circle',
-    'jumeirah-village-triangle',
-    'marina-residences',
-    'masakin-al-furjan',
-    'meydan',
-    'murooj-al-furjan',
-    'nad-al-sheba-villas',
-    'palm-jebel-ali',
-    'palm-jumeirah',
-    'palma-residences',
-    'shoreline-apartments',
-    'the-world',
-    'tilal-al-furjan',
-    'veneto',
-    'warsan-village'
-  ],
-  sobha: [
-    'creek-vistas-grande',
-    'sobha-aquamont',
-    'sobha-estates',
-    'sobha-garden-houses',
-    'sobha-gardenia-villas',
-    'sobha-hartland',
-    'sobha-seahaven',
-    'the-eden',
-    'the-tranquil'
-  ]
-};
-
 // Dynamically fetch slugs from the filesystem via API, with static fallback
 export async function fetchDeveloperSlugs(developer: DeveloperKey): Promise<string[]> {
   try {
     const res = await fetch(`/api/public-data/${developer}`, { cache: 'no-store' });
-    if (!res.ok) return PROJECT_FILES[developer];
+    if (!res.ok) throw new Error('Failed to fetch slugs');
     const data = await res.json();
-    const slugs = Array.isArray(data?.slugs) ? data.slugs as string[] : [];
-    return slugs.length ? slugs : PROJECT_FILES[developer];
-  } catch (e) {
-    return PROJECT_FILES[developer];
+    return Array.isArray(data?.slugs) ? (data.slugs as string[]) : [];
+  } catch (error) {
+    console.warn(`Falling back to empty list for ${developer}:`, error);
+    return [];
   }
 }
 
@@ -146,7 +41,7 @@ export interface MapMarker {
 // Load a single project
 export async function loadProject(developer: DeveloperKey, slug: string): Promise<Project | null> {
   try {
-    const response = await fetch(`/data/${developer}/${slug}.json`);
+    const response = await fetch(`/data/${developer}/projects/${slug}.json`);
     if (!response.ok) return null;
     
     const project = await response.json();
@@ -253,3 +148,34 @@ export function getProjectsByPriceRange(projects: Project[], minPrice: number, m
     return price >= minPrice && price <= maxPrice;
   });
 }
+
+// Communities API helpers
+export async function loadDeveloperCommunities(developer: DeveloperKey): Promise<string[]> {
+  try {
+    const res = await fetch(`/api/public-data/${developer}/communities`, { cache: 'no-store' });
+    if (!res.ok) throw new Error('Failed to fetch communities');
+    const data = await res.json();
+    return Array.isArray(data?.communities) ? (data.communities as string[]) : [];
+  } catch (error) {
+    console.warn(`Falling back to empty communities for ${developer}:`, error);
+    return [];
+  }
+}
+
+export async function loadCommunityProjects(developer: DeveloperKey, community: string): Promise<string[]> {
+  try {
+    const res = await fetch(`/api/public-data/${developer}/communities/${community}`, { cache: 'no-store' });
+    if (!res.ok) throw new Error('Failed to fetch community projects');
+    const data = await res.json();
+    return Array.isArray(data?.projects) ? (data.projects as string[]) : [];
+  } catch (error) {
+    console.warn(`Falling back to empty projects for community ${community} in ${developer}:`, error);
+    return [];
+  }
+}
+
+// Server-only helpers moved to '@/lib/data/server' to avoid bundling Node modules in client builds.
+
+// Folder-first ProjectMeta type for server-loaded projects
+// Note: Server-only helpers live in '@/lib/data/server'.
+// Do not import server modules (e.g., 'fs') here to keep client bundles clean.

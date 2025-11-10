@@ -1,0 +1,658 @@
+{
+  "provider": "sobha",
+  "generatedAt": "2025-11-07T02:10:10.909Z",
+  "communities": [
+    {
+      "slug": "business-bay",
+      "name": {
+        "ar": "بيزنس باي",
+        "en": "Business Bay"
+      }
+    },
+    {
+      "slug": "delphine-beach-residences",
+      "name": {
+        "ar": "ديلفين بيتش ريزيدنسز",
+        "en": "Delphine Beach Residences"
+      }
+    },
+    {
+      "slug": "dubai-harbour",
+      "name": {
+        "en": "Dubai Harbour",
+        "ar": "مرسى دبي"
+      }
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name": {
+        "en": "Jumeirah Lake Towers",
+        "ar": "أبراج بحيرات الجميرا"
+      }
+    },
+    {
+      "slug": "meydan",
+      "name": {
+        "ar": "ميدان",
+        "en": "Meydan"
+      }
+    },
+    {
+      "slug": "mohammed-bin-rashid-city",
+      "name": {
+        "ar": "مدينة محمد بن راشد",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "motor-city",
+      "name": {
+        "en": "Motor City",
+        "ar": "موتور سيتي"
+      }
+    },
+    {
+      "slug": "sobha-central",
+      "name": {
+        "ar": "شوبا سنترال",
+        "en": "Sobha Central"
+      }
+    },
+    {
+      "slug": "sobha-coraline",
+      "name": {
+        "ar": "شوبا كورالين",
+        "en": "Sobha Coraline"
+      }
+    },
+    {
+      "slug": "sobha-elwood",
+      "name": {
+        "ar": "شوبا إلوود",
+        "en": "Sobha Elwood"
+      }
+    },
+    {
+      "slug": "sobha-hartland-ii",
+      "name": {
+        "ar": "شوبا هارتلاند 2",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "sobha-hartland",
+      "name": {
+        "ar": "شوبا هارتلاند",
+        "en": "Sobha Hartland"
+      }
+    },
+    {
+      "slug": "sobha-orbis",
+      "name": {
+        "ar": "شوبا أوربيس",
+        "en": "Sobha Orbis"
+      }
+    },
+    {
+      "slug": "sobha-privy-collection",
+      "name": {
+        "ar": "شوبا بريفي كوليكشن",
+        "en": "Sobha Privy Collection"
+      }
+    },
+    {
+      "slug": "sobha-reserve",
+      "name": {
+        "ar": "شوبا ريزيرف",
+        "en": "Sobha Reserve"
+      }
+    },
+    {
+      "slug": "sobha-seahaven",
+      "name": {
+        "ar": "شوبا سي هافن",
+        "en": "Sobha SeaHaven"
+      }
+    },
+    {
+      "slug": "sobha-selene",
+      "name": {
+        "ar": "شوبا سيلين",
+        "en": "Sobha Selene"
+      }
+    },
+    {
+      "slug": "sobha-solis",
+      "name": {
+        "ar": "شوبا سوليس",
+        "en": "Sobha Solis"
+      }
+    },
+    {
+      "slug": "the-s",
+      "name": {
+        "ar": "ذا إس",
+        "en": "The S"
+      }
+    },
+    {
+      "slug": "verde-by-sobha",
+      "name": {
+        "ar": "فيردي باي شوبا",
+        "en": "Verde by Sobha"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "slug": "310-riverside-crescent",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "320-riverside-crescent",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "330-riverside-crescent",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "340-riverside-crescent",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "350-riverside-crescent",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "360-riverside-crescent",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "Sobha_Hartland",
+      "name": {
+        "ar": "Sobha Hartland",
+        "en": "Sobha Hartland"
+      },
+      "community": null,
+      "status": {
+        "en": "active",
+        "ar": "active"
+      }
+    },
+    {
+      "slug": "aquamarine-residences",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "aura",
+      "name": null,
+      "community": "sobha-hartland-ii",
+      "status": null
+    },
+    {
+      "slug": "avenue",
+      "name": null,
+      "community": "sobha-hartland-ii",
+      "status": null
+    },
+    {
+      "slug": "bayfront-marina-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "bayside-marina-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "canalside-marina-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "coral-beach-villas",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "creek-vistas-grande",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "creek-vistas-heights",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "creek-vistas-reserve",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "creek-vistas",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "crest-grande",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "delphine-beach-residences",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "downtown-uaq-sobha-realty",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "eden",
+      "name": {
+        "ar": "عدن",
+        "en": "The Eden"
+      },
+      "community": "the-valley",
+      "status": {
+        "en": "active",
+        "ar": "active"
+      }
+    },
+    {
+      "slug": "florine-beach-residences",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "forest-villas",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "garden-house",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "gardenia-villas",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "golf-ridges-at-sobha-one",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "golf-ridges",
+      "name": null,
+      "community": "mohammed-bin-rashid-city",
+      "status": null
+    },
+    {
+      "slug": "hartland-2-villas",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "hartland-estates",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "hartland-greens-apartment",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "hartland-quad-homes",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "hartland-waterfront-villas",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "one-park-avenue",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "palm-grove-villas",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "pearlside-marina-residence",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "pearlside-marina-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "pierside-marina-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "pristine-beach-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "serene",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "skyscape-altius",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "skyscape-aura",
+      "name": null,
+      "community": "sobha-hartland-ii",
+      "status": null
+    },
+    {
+      "slug": "skyscape-avenue",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "skyvue-solair",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "skyvue-spectra",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "skyvue-stellar",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "skyvue",
+      "name": null,
+      "community": "delphine-beach-residences",
+      "status": null
+    },
+    {
+      "slug": "sobha-aquacrest",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-aquamont",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-central",
+      "name": null,
+      "community": "sobha-central",
+      "status": null
+    },
+    {
+      "slug": "sobha-creek-vistas",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-elwood",
+      "name": null,
+      "community": "sobha-elwood",
+      "status": null
+    },
+    {
+      "slug": "sobha-estates",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-garden-houses",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-gardenia-villas",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-hartland-forest-villas",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-hartland-greens",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-hartland-ii",
+      "name": null,
+      "community": "sobha-hartland-ii",
+      "status": null
+    },
+    {
+      "slug": "sobha-hartland-townhouses",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-hartland",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-one",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "sobha-orbis",
+      "name": null,
+      "community": "sobha-orbis",
+      "status": null
+    },
+    {
+      "slug": "sobha-reserve",
+      "name": null,
+      "community": "sobha-reserve",
+      "status": null
+    },
+    {
+      "slug": "sobha-seahaven",
+      "name": null,
+      "community": "sobha-seahaven",
+      "status": null
+    },
+    {
+      "slug": "sobha-siniya-island",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-skyparks",
+      "name": null,
+      "community": "business-bay",
+      "status": null
+    },
+    {
+      "slug": "sobha-solis",
+      "name": null,
+      "community": "sobha-solis",
+      "status": null
+    },
+    {
+      "slug": "sobha-verde",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "sobha-waves",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-crest",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "the-eden",
+      "name": null,
+      "community": "the-valley",
+      "status": null
+    },
+    {
+      "slug": "the-element-at-sobha-one",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-element",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "the-horizon",
+      "name": null,
+      "community": "sobha-central",
+      "status": null
+    },
+    {
+      "slug": "the-s-tower",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "the-s",
+      "name": null,
+      "community": "the-s",
+      "status": null
+    },
+    {
+      "slug": "the-serene",
+      "name": null,
+      "community": "sobha-central",
+      "status": null
+    },
+    {
+      "slug": "the-tranquil",
+      "name": null,
+      "community": "sobha-central",
+      "status": null
+    },
+    {
+      "slug": "verde-by-sobha",
+      "name": null,
+      "community": "verde-by-sobha",
+      "status": null
+    },
+    {
+      "slug": "waves-grande",
+      "name": null,
+      "community": null,
+      "status": null
+    },
+    {
+      "slug": "waves-opulence",
+      "name": null,
+      "community": "sobha-hartland",
+      "status": null
+    },
+    {
+      "slug": "waves",
+      "name": null,
+      "community": "sobha-hartland-ii",
+      "status": null
+    },
+    {
+      "slug": "yachtside-marina-residences",
+      "name": null,
+      "community": null,
+      "status": null
+    }
+  ]
+}

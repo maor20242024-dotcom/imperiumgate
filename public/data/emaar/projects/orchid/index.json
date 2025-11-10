@@ -1,0 +1,152 @@
+{
+  "slug": "orchid",
+  "id": "225449",
+  "developer": "إعمار العقارية",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "location": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "أوركيد",
+    "en": "Orchid"
+  },
+  "summary": {
+    "ar": "تعرّف على شقق أوركيد في خور دبي من إعمار، مجمّع سكني يوفّر الأفضل لك ولعائلتك. تمتع بشقق أنيقة ومرافق حديثة.",
+    "en": "Discover Orchid apartments in Dubai Creek by Emaar, a residential complex that offers the best for you and your family. Enjoy elegant apartments and modern facilities."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "شقق اوركيد | الخور دبي | إعمار العقارية",
+      "subtitle": "تعرّف على شقق أوركيد في خور دبي من إعمار، مجمّع سكني يوفّر الأفضل لك ولعائلتك. تمتع بشقق أنيقة ومرافق حديثة."
+    },
+    "en": {
+      "title": "Orchid Apartments | Dubai Creek | Emaar Properties",
+      "subtitle": "Discover Orchid apartments in Dubai Creek by Emaar, a residential complex that offers the best for you and your family. Enjoy elegant apartments and modern facilities."
+    }
+  },
+  "description": {
+    "ar": "تعرّف على شقق أوركيد في خور دبي من إعمار، مجمّع سكني يوفّر الأفضل لك ولعائلتك. تمتع بشقق أنيقة ومرافق حديثة. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Discover Orchid apartments in Dubai Creek by Emaar, a residential complex that offers the best for you and your family. Enjoy elegant apartments and modern facilities. Visit our website to learn more."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HERO-IMAGE_1620X832.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HERO-IMAGE_1620X832.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/orchid",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "شقق اوركيد | الخور دبي | إعمار العقارية",
+    "description": "تعرّف على شقق أوركيد في خور دبي من إعمار، مجمّع سكني يوفّر الأفضل لك ولعائلتك. تمتع بشقق أنيقة ومرافق حديثة. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "canonical": "https://properties.emaar.com/ar/properties/orchid/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T13:37:34.988Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HERO-IMAGE_1620X832.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HIGHLIGHT-IMAGE_1620X832_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HIGHLIGHT-IMAGE_1620X832_02.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_LIFESTYLE-IMAGE_1200X655_02.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_LIFESTYLE-IMAGE_1200X655_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/ORCHID_AMENITY-IMAGE_680X680.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HIGHLIGHT-IMAGE_1620X832_01.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/07/ORCHID_HIGHLIGHT-IMAGE_1620X832_02.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/07/ORCHID_LIFESTYLE-IMAGE_1200X655_02.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/07/ORCHID_LIFESTYLE-IMAGE_1200X655_01.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/07/ORCHID_AMENITY-IMAGE_680X680.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  }
+}

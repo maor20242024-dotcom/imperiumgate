@@ -13,8 +13,10 @@ export default function FavoritesClient({ projects }:{ projects: Project[] }){
         <h1 className="text-3xl font-extrabold text-gold-grad">المفضلة</h1>
         <LuxuryButton variant="outline" size="sm" onClick={clear}>مسح</LuxuryButton>
       </div>
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mt-8">
-        {items.map((p)=> <ProjectCard key={p.slug} project={p} />)}
+  <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mt-8">
+  {items.map((p, idx)=> (
+    <ProjectCard key={`${p.id || `${p.developer || 'dev'}-${p.slug || 'unknown'}`}-${idx}`} project={p} />
+  ))}
       </div>
     </div>
   );

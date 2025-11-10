@@ -1,0 +1,25 @@
+/* [project]/app/[locale]/amiri_be421985.module.css [app-client] (css) */
+@font-face {
+  font-family: amiri;
+  src: url("../media/Amiri-s.p.6292ddb4.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: amiri Fallback;
+  src: local(Arial);
+  ascent-override: 124.28%;
+  descent-override: 70.1%;
+  line-gap-override: 0.0%;
+  size-adjust: 90.44%;
+}
+
+.amiri_be421985-module__T62iMW__className {
+  font-family: amiri, amiri Fallback;
+}
+
+.amiri_be421985-module__T62iMW__variable {
+  --font-amiri: "amiri", "amiri Fallback";
+}
+
+/*# sourceMappingURL=app_%5Blocale%5D_amiri_be421985_module_css_bad6b30c._.single.css.map*/

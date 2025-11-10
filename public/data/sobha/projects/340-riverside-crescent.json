@@ -1,0 +1,154 @@
+{
+  "projectID": "340-riverside-crescent",
+  "developerID": "sobha",
+  "slug": "340-riverside-crescent",
+  "projectName": {
+    "en": "340-Riverside-Crescent",
+    "ar": "340-Riverside-Crescent"
+  },
+  "description": {
+    "ar": "",
+    "en": ""
+  },
+  "location": {
+    "country": {
+      "ar": "",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "currency": "AED",
+    "maxPriceAED": 0
+  },
+  "media": {
+    "heroImage": "",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "sourceUrl": "",
+  "lastUpdated": "2025-11-01T18:48:02.211366",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "brand": "Sobha",
+  "id": "340-riverside-crescent",
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [],
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "deliveryDate": "",
+  "goldenVisaEligible": false,
+  "launchDate": "",
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "projectPageLink": null,
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [],
+  "sellable": false,
+  "views": [],
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "highlights": [],
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "latitude": 0,
+  "projectCategory": "Project",
+  "developer": "sobha",
+  "community": "delphine-beach-residences",
+  "communityName": {
+    "en": "Delphine-Beach-Residences",
+    "ar": "Delphine-Beach-Residences"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:02.211365",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Riverside Crescent",
+    "ar": "ريفرسايد كريسنت"
+  },
+  "auto_translated": false,
+  "fromCommunity": "sobha-hartland-ii"
+}

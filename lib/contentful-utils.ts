@@ -184,10 +184,7 @@ export function directAccess(src: string | null | undefined): string {
   }
 
   // ابنِ URL بقاعدة آمنة في SSR/CSR
-  const base =
-    typeof window !== 'undefined' && (window as any).location?.origin
-      ? (window as any).location.origin
-      : 'http://localhost';
+  const base = 'http://localhost';
 
   let u: URL;
   try {

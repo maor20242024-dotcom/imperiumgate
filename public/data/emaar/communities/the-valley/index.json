@@ -1,0 +1,7 @@
+{
+  "provider": "emaar",
+  "community": "the-valley",
+  "generatedAt": "${new Date().toISOString()}",
+  "projects": []
+}
+

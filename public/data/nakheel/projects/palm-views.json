@@ -1,0 +1,136 @@
+{
+  "projectID": "palm-views",
+  "developerID": "nakheel",
+  "slug": "palm-views",
+  "projectName": {
+    "ar": "بالم فيوز",
+    "en": "Palm Views"
+  },
+  "description": {
+    "ar": "وصف غير متوفر",
+    "en": "Description not available"
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "ar": "",
+    "en": "",
+    "poiDistances": {}
+  },
+  "pricing": {},
+  "media": {
+    "heroImage": "",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "developer": "nakheel",
+  "community": "palm-views",
+  "communityName": {
+    "en": "Palm-Views",
+    "ar": "Palm-Views"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:01.363496",
+  "lastUpdated": "2025-11-01T18:48:01.363500",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "mapDescription": {
+    "en": "",
+    "ar": ""
+  },
+  "projectStatus": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "mapPointsOfInterest": [],
+  "propertyTypes": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "goldenVisaEligible": false,
+  "sellable": false,
+  "latitude": null,
+  "longitude": null,
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/palm-views.mp4?sfvrsn=c57c4e2d_1",
+  "name": {
+    "en": "Palm-Views",
+    "ar": "Palm-Views"
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/palm-views-1920x1080.jpg?sfvrsn=8e1ff374_3",
+  "auto_translated": false,
+  "id": "palm-views",
+  "fromCommunity": "palm-jumeirah"
+}

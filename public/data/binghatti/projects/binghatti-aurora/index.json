@@ -1,0 +1,197 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-aurora",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": null,
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Jumeirah Village Circle"
+  },
+  "location": {
+    "ar": null,
+    "en": "District 12, Jumeirah Village Circle (JVC)"
+  },
+  "latitude": 25.071568936099666,
+  "longitude": 55.16406391691182,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": null,
+    "en": "Binghatti Aurora"
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Nestled within the vibrant community of JVC, Binghatti Aurora presents a collection of 275 meticulously designed residences that offer a new level of luxury living. This boutique 6 floor project offers the perfect retreat from the skyscrapers, creating a more community focused living experience that you will not find anywhere else."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "20% Down Payment, 50% During Construction, 30% Upon Completion"
+  },
+  "minAreaSqft": 787,
+  "maxAreaSqft": 787,
+  "minAreaSqmt": 73,
+  "maxAreaSqmt": 73,
+  "minPriceAED": 700000,
+  "maxPriceAED": null,
+  "deliveryDate": "Q2 2025",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "../assets/upload/Brochure-Aurora-by-Binghatti.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
+  "heroImage": "https://binghattiweb.imgix.net/aurora_swimming-pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/aurora_swimming-pool.jpg",
+    "https://binghattiweb.imgix.net/aurora_outdoor-gym.jpg",
+    "https://binghattiweb.imgix.net/aurora_play-area.jpg",
+    "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
+    "https://binghattiweb.imgix.net/aurora_2D-layout-studio.jpg",
+    "https://binghattiweb.imgix.net/aurora_layout-1-bedroom.jpg",
+    "https://binghattiweb.imgix.net/aurora_layout-2-bedroom.jpg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-aurora-2.webp",
+    "https://binghattiweb.imgix.net/aurora_footer-horizontal.jpg"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Gym"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Spa"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Infinity Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "275 meticulously designed residences"
+    },
+    {
+      "ar": null,
+      "en": "Boutique 6 floor project"
+    },
+    {
+      "ar": null,
+      "en": "Community focused living experience"
+    },
+    {
+      "ar": null,
+      "en": "Located in Jumeirah Village Circle (JVC)"
+    },
+    {
+      "ar": null,
+      "en": "92 studios, 163 one bedroom, and 20 two bedroom apartments"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-aurora",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:01:52.008Z",
+    "title": "Binghatti Aurora JVC – Studio to 2 Bedroom Apartments for Sale",
+    "description": "Discover Binghatti Aurora project offering a spirited sense of wonder and a new beginning in every sunrise. 1, 2 bedroom apartments are available from AED 666K.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-aurora"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/aurora_swimming-pool.jpg",
+      "https://binghattiweb.imgix.net/aurora_outdoor-gym.jpg",
+      "https://binghattiweb.imgix.net/aurora_play-area.jpg",
+      "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
+      "https://binghattiweb.imgix.net/aurora_2D-layout-studio.jpg",
+      "https://binghattiweb.imgix.net/aurora_layout-1-bedroom.jpg",
+      "https://binghattiweb.imgix.net/aurora_layout-2-bedroom.jpg",
+      "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/binghatti-aurora-2.webp",
+      "https://binghattiweb.imgix.net/aurora_footer-horizontal.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://www.binghatti.com/en/assets/upload/Brochure-Aurora-by-Binghatti.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57822.30998711845!2d55.16406391691182!3d25.071568936099666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6d00719636f1%3A0x5234377b0452c601!2sBinghatti%20Aurora!5e0!3m2!1sen!2sae!4v1745592612461!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  }
+}

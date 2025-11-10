@@ -1,0 +1,86 @@
+{
+  "name": {
+    "en": "Verde by Sobha",
+    "ar": "فيردي باي سوبها"
+  },
+  "slug": "sobha-verde",
+  "developer": "Sobha Realty",
+  "description": {
+    "ar": "من المقرر أن يكون فيردي من سوبها أحد أطول الأبراج السكنية، وهو تحفة معمارية توفر إطلالات خلابة على جزيرة جميرا ومجتمعات فلل الإمارات هيلز من جهة، وملعب الإمارات للجولف من جهة أخرى. تتميز هذه المنازل الرائعة بوسائل راحة عالمية المستوى، وهي مصممة لتناسب الذوق الرفيع للمسافرين الدائمين. فيردي من سوبها هو برج سكني فاخر للغاية مكون من 66 طابقًا في منطقة دبي المرغوبة، أبراج بحيرات جميرا (JLT)، ويضم شققًا من غرفة نوم واحدة إلى ثلاث غرف نوم.",
+    "en": "Set to be one of the tallest residential towers, Verde by Sobha is an architectural marvel that offers splendid views of Jumeirah Island and Emirates Hills villa communities on one side and the Emirates golf course on the other. Featuring world-class amenities, these exquisite homes are designed to suit the discerning taste of the globetrotters. Verde by Sobha is a 66-storeyed uber-luxury residential tower in Dubai’s coveted district, JLT, with 1 to 3 - bedroom apartments."
+  },
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/1440x618_0.jpg",
+  "videoLink": "https://sobharealty.com/digitalwalkthrough/sobhaverde/1br/?v=1",
+  "media": {
+    "gallery": [
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/1.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/2.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/3.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/4_0.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/5.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/6_0.jpg.webp",
+      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/7_0.jpg.webp",
+      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015380_1.jpg.webp",
+      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015382_1.jpg.webp",
+      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015381_1.jpg.webp",
+      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015387.jpg.webp",
+      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015383_15.jpg.webp"
+    ],
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/1.jpg.webp",
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        "https://sobharealty.com/sites/default/files/2024-11/20.%20Verde%20By%20Sobha.pdf"
+      ],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "developerID": "sobha",
+  "location": {
+    "country": {
+      "ar": "",
+      "en": ""
+    },
+    "city": {
+      "ar": "",
+      "en": ""
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "poiDistances": {}
+  },
+  "auto_translated": true,
+  "id": "sobha-verde",
+  "projectName": {
+    "en": "Sobha Verde",
+    "ar": "Sobha Verde"
+  },
+  "fromCommunity": "jumeirah-lake-towers"
+}

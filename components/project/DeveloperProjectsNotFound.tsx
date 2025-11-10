@@ -1,12 +1,14 @@
 'use client';
 
 import Link from 'next/link';
+import type { Route } from 'next';
 import { useLocale } from '@/lib/i18n-client';
 import { stringRoutes } from '@/lib/routes';
 import ProjectCard from '@/components/ProjectCard';
 import LuxuryButton from '@/components/ui/LuxuryButton';
 import { Building2, Search, ArrowLeft, Home } from 'lucide-react';
 import type { Project } from '@/lib/types';
+import NotFoundHeader from '@/components/project/NotFoundHeader';
 
 interface DeveloperProjectsNotFoundProps {
   developer: string;
@@ -22,55 +24,28 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-black via-zinc-950 to-black text-light">
-      {/* Hero Section */}
-      <div className="relative py-24 px-6">
-        <div className="max-w-4xl mx-auto text-center">
-          {/* Icon */}
-          <div className="mb-8">
-            <div className="w-24 h-24 mx-auto rounded-full bg-gradient-to-br from-gold/20 to-gold/5 border border-gold/30 flex items-center justify-center">
-              <Building2 className="w-12 h-12 text-gold" />
-            </div>
-          </div>
-
-          {/* Title */}
-          <h1 className={`text-4xl md:text-5xl font-bold mb-6 gold-gradient-static ${isArabic ? 'font-arabic' : 'font-display'}`}>
-            {isArabic ? 'لا توجد مشاريع' : 'No Projects Found'}
-          </h1>
-
-          {/* Description */}
-          <p className={`text-xl text-white/70 mb-8 max-w-2xl mx-auto leading-relaxed ${isArabic ? 'font-arabic' : 'font-sans'}`}>
-            {isArabic 
-              ? `لم نتمكن من العثور على أي مشاريع للمطور "${developer}". قد تكون البيانات قيد التحديث أو أن المطور لا يملك مشاريع متاحة حالياً.`
-              : `We couldn't find any projects for developer "${developer}". The data might be updating or this developer may not have available projects at the moment.`
-            }
-          </p>
-
-          {/* Action Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={stringRoutes.projectsIndex(locale)}>
-              <LuxuryButton 
-                variant="primary" 
-                size="lg"
-                className={`${isArabic ? 'font-arabic' : 'font-sans'}`}
-              >
-                <Search className="w-5 h-5 mr-2" />
-                {isArabic ? 'تصفح جميع المشاريع' : 'Browse All Projects'}
-              </LuxuryButton>
-            </Link>
-            
-            <Link href={stringRoutes.developersIndex(locale)}>
-              <LuxuryButton 
-                variant="outline" 
-                size="lg"
-                className={`${isArabic ? 'font-arabic' : 'font-sans'}`}
-              >
-                <Building2 className="w-5 h-5 mr-2" />
-                {isArabic ? 'جميع المطورين' : 'All Developers'}
-              </LuxuryButton>
-            </Link>
-          </div>
-        </div>
-      </div>
+      {/* Unified Hero Section */}
+      <NotFoundHeader
+        locale={locale}
+        title={isArabic ? 'لا توجد مشاريع' : 'No Projects Found'}
+        description={
+          isArabic
+            ? `لم نتمكن من العثور على أي مشاريع للمطور "${developer}". قد تكون البيانات قيد التحديث أو أن المطور لا يملك مشاريع متاحة حالياً.`
+            : `We couldn't find any projects for developer "${developer}". The data might be updating or this developer may not have available projects at the moment.`
+        }
+        primaryAction={{
+          href: stringRoutes.projectsIndex(locale),
+          label: isArabic ? 'تصفح جميع المشاريع' : 'Browse All Projects',
+          variant: 'primary',
+        }}
+        secondaryAction={{
+          href: stringRoutes.developersIndex(locale),
+          label: isArabic ? 'جميع المطورين' : 'All Developers',
+          variant: 'outline',
+          icon: <Building2 className="w-5 h-5 mr-2" />,
+        }}
+        icon={<Building2 className="w-12 h-12 text-gold" />}
+      />
 
       {/* Alternative Projects */}
       {suggestions.length > 0 && (
@@ -81,13 +56,13 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
             </h2>
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {suggestions.map((project) => (
-                <ProjectCard key={project.slug} project={project} />
+              {suggestions.map((project, idx) => (
+                <ProjectCard key={project.id || project.slug || `${project.developer || 'project'}-${project.slug || 'unknown'}-${idx}`} project={project} />
               ))}
             </div>
 
             <div className="text-center mt-12">
-              <Link href={stringRoutes.projectsIndex(locale)}>
+              <Link href={stringRoutes.projectsIndex(locale) as Route}>
                 <LuxuryButton 
                   variant="outline" 
                   size="lg"
@@ -116,7 +91,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={stringRoutes.contact(locale)}>
+            <Link href={stringRoutes.contact(locale) as Route}>
               <LuxuryButton 
                 variant="primary" 
                 size="lg"
@@ -126,7 +101,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
               </LuxuryButton>
             </Link>
             
-            <Link href={stringRoutes.home(locale)}>
+            <Link href={stringRoutes.home(locale) as Route}>
               <LuxuryButton 
                 variant="outline" 
                 size="lg"

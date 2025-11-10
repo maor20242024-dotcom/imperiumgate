@@ -1,0 +1,48 @@
+{
+  "communityID": "the-gardens",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "ذا جاردنز",
+    "en": "The Gardens"
+  },
+  "description": {
+    "ar": "مجتمع سكني خضراء.",
+    "en": "A green residential community."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "the-gardens",
+      "name": {
+        "ar": "ذا جاردنز",
+        "en": "The Gardens"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:48:01.359208",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "the-gardens"
+}

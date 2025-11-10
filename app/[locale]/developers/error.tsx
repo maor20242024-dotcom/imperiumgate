@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react';
 import Link from 'next/link';
+import type { Route } from 'next';
 import { useLocale } from '@/lib/i18n-client';
 import { stringRoutes } from '@/lib/routes';
 import LuxuryButton from '@/components/ui/LuxuryButton';
@@ -66,7 +67,7 @@ export default function Error({
             {isArabic ? 'إعادة المحاولة' : 'Try Again'}
           </LuxuryButton>
           
-          <Link href={stringRoutes.projectsIndex(locale)}>
+          <Link href={stringRoutes.projectsIndex(locale) as Route}>
             <LuxuryButton 
               variant="outline" 
               size="lg"
@@ -77,7 +78,7 @@ export default function Error({
             </LuxuryButton>
           </Link>
           
-          <Link href={stringRoutes.home(locale)}>
+          <Link href={stringRoutes.home(locale) as Route}>
             <LuxuryButton 
               variant="outline" 
               size="lg"

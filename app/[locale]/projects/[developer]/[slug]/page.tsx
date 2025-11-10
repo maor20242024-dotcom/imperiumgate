@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import AmenitiesGrid from '@/components/project/AmenitiesGrid';
 import ContactBlock from '@/components/project/ContactBlock';
 import DocsBlock from '@/components/project/DocsBlock';
@@ -10,8 +11,8 @@ import ProjectHero from '@/components/project/ProjectHero';
 import ProjectNotFound from '@/components/project/ProjectNotFound';
 import RelatedCarousel from '@/components/project/RelatedCarousel';
 import SectionNav from '@/components/project/SectionNav';
-import ProjectLocationMap from '@/components/project/ProjectLocationMap';
-import Tour3D from '@/components/project/Tour3D';
+import ProjectLocationMapWrapper from '@/components/project/ProjectLocationMapWrapper';
+import PropVRFrame from '@/components/PropVRFrame';
 import VideoBlock from '@/components/project/VideoBlock';
 import ROICalculator from '@/components/ui/ROICalculator';
 import { deriveProjectLatLon } from '@/lib/geo';
@@ -45,8 +46,10 @@ export async function generateStaticParams() {
     );
 }
 
-export default async function ProjectDetail({ params }: { params: Promise<{ locale: Locale; developer: string; slug: string }> }) {
+export default async function ProjectDetail({ params }: { params: Promise<{ locale: string; developer: string; slug: string }> }) {
   const { locale = 'ar', developer, slug } = await params;
+  // Server-safe locale normalization (avoid importing client-only utils)
+  const loc: Locale = (locale || '').toLowerCase().startsWith('ar') ? 'ar' : 'en';
   // 🚀 ISR CACHED LOADING: Get project with cached data
   const project = await getProjectBySlug(developer, slug);
 
@@ -81,67 +84,75 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
     <div className="min-h-screen bg-gradient-to-b from-black via-zinc-950 to-black text-light">
       <ProjectHero project={project} />
       <div className="max-w-6xl mx-auto px-6">
-        <KeyStats project={project} locale={locale} />
+        <KeyStats project={project} locale={loc} />
       </div>
 
       <div className="max-w-6xl mx-auto px-6 py-8">
-        <ROICalculator project={project} locale={locale} />
+        <ROICalculator project={project} locale={loc} />
       </div>
 
-      <SectionNav project={project} locale={locale} />
+      <SectionNav project={project} locale={loc} />
 
       <div id="overview" className="max-w-6xl mx-auto px-6 py-16">
-        <Overview project={project} locale={locale} />
+        <Overview project={project} locale={loc} />
       </div>
 
       {hasGallery && (
         <div id="gallery" className="max-w-6xl mx-auto px-6 py-16">
-          <Gallery
-            images={project.galleryImages!}
-            title={translateText(project.projectName, locale) || project.slug}
-          />
+          <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل المعرض...' : 'Loading gallery...'}</div>}>
+            <Gallery
+              images={project.galleryImages!}
+              title={translateText(project.projectName, loc) || project.slug}
+            />
+          </Suspense>
         </div>
       )}
 
       {has3D && (
         <div id="tour3d" className="max-w-6xl mx-auto px-6 py-16">
-          <Tour3D url={project['3D_TourLink']!} />
+          <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل الجولة...' : 'Loading 3D tour...'}</div>}>
+            <PropVRFrame url={project['3D_TourLink']!} />
+          </Suspense>
         </div>
       )}
 
       {hasVideo && (
         <div id="video" className="max-w-6xl mx-auto px-6 py-16">
-          <VideoBlock
-            src={project.videoLink!}
-            poster={project.heroImage || project.galleryImages?.[0]}
-          />
+          <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل الفيديو...' : 'Loading video...'}</div>}>
+            <VideoBlock
+              src={project.videoLink!}
+              poster={project.heroImage || project.galleryImages?.[0]}
+            />
+          </Suspense>
         </div>
       )}
 
       <div id="map" className="max-w-6xl mx-auto px-6 py-16">
         <div className="mb-4">
           <h2 className="text-2xl font-bold text-gray-800 mb-2">
-            {locale === 'ar' ? '📍 الموقع' : '📍 Location'}
+            {loc === 'ar' ? '📍 الموقع' : '📍 Location'}
           </h2>
           <p className="text-gray-600 text-sm">
-            {locale === 'ar' 
+            {loc === 'ar' 
               ? 'موقع المشروع على الخريطة'
               : 'Project location on the map'
             }
           </p>
         </div>
-        <ProjectLocationMap
-          latitude={lat ?? undefined}
-          longitude={lon ?? undefined}
-          title={translateText(project.projectName, locale) || project.slug}
-          locationText={translateText(project.location, locale)}
-          height="400px"
-        />
+        <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل الخريطة...' : 'Loading map...'}</div>}>
+          <ProjectLocationMapWrapper
+            latitude={lat ?? undefined}
+            longitude={lon ?? undefined}
+            title={translateText(project.projectName, loc) || project.slug}
+            locationText={translateText(project.location, loc)}
+            height="400px"
+          />
+        </Suspense>
       </div>
 
       {hasAmenities && (
         <div id="amenities" className="max-w-6xl mx-auto px-6 py-16">
-          <AmenitiesGrid amenities={project.amenities!} locale={locale} />
+          <AmenitiesGrid amenities={project.amenities!} locale={loc} />
         </div>
       )}
 
@@ -151,7 +162,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
         brochureUrl={project.brochurePdfLink}
         galleryImages={project.galleryImages || []}
         projectName={
-          translateText(project.projectName, locale) || project.slug
+          translateText(project.projectName, loc) || project.slug
         }
       />
     ) : (
@@ -166,14 +177,14 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
 
       {hasInsights && (
         <div id="insights" className="max-w-6xl mx-auto px-6 py-16">
-          <Insights text={translateText(project.insights, locale)} />
-        </div>
+        <Insights text={translateText(project.insights, loc)} />
+      </div>
       )}
 
       {hasNews && (
         <div id="news" className="max-w-6xl mx-auto px-6 py-16">
-          <NewsBlock news={project.news || []} locale={locale} />
-        </div>
+        <NewsBlock news={project.news || []} locale={loc} />
+      </div>
       )}
 
       {hasContact && (
@@ -181,7 +192,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
           <ContactBlock
             contact={project.contact}
             projectName={
-              translateText(project.projectName, locale) || project.slug
+              translateText(project.projectName, loc) || project.slug
             }
             developer={project.developer}
             slug={project.slug}
@@ -192,7 +203,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
 
       {related.length > 0 && (
         <div id="related" className="max-w-6xl mx-auto px-6 py-16">
-          <RelatedCarousel projects={related} locale={locale} />
+          <RelatedCarousel projects={related} locale={loc} />
         </div>
       )}
     </div>

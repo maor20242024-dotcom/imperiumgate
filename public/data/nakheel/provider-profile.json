@@ -1,0 +1,67 @@
+{
+  "providerID": "nakheel",
+  "title": {
+    "ar": "مصفوفة Nakheel: مبتكر الواجهات البحرية والأيقونات العمرانية"
+  },
+  "definition": {
+    "ar": "نخيل مطور رائد في دبي معروف بابتكار مشاريع الواجهات البحرية وأيقونة نخلة جميرا، ويؤسس بيئات سكنية وترفيهية عالمية المستوى."
+  },
+  "firstImpression": {
+    "ar": "إحساس بالحياة الساحلية والرفاهية المرتبطة بالبحر منذ الوهلة الأولى."
+  },
+  "professionalism": {
+    "ar": "تنفيذ مشاريع واسعة النطاق، إدارة أصول وبنية تحتية قوية، ومعايير تشغيلية عالية."
+  },
+  "creativity": {
+    "ar": "تصميم جزر صناعية وواجهات بحرية مبتكرة مثل Palm Jumeirah وPalm Jebel Ali."
+  },
+  "beautyElegance": {
+    "ar": "تصاميم مستلهمة من البحر وهندسة أيقونية للنخلة وإطلالات بحرية خلابة."
+  },
+  "wealthComfort": {
+    "ar": "مرافق فاخرة وشواطئ ومتنزهات وتجارب ضيافة تُثري نمط الحياة اليومي."
+  },
+  "dreamFulfillment": {
+    "ar": "يوفر نمط حياة بحري فاخر يحقق حلم السكن على الواجهة البحرية."
+  },
+  "famousCommunities": [
+    {
+      "slug": "palm-jumeirah",
+      "name": {
+        "ar": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "jumeirah-islands",
+      "name": {
+        "ar": "Jumeirah Islands"
+      }
+    },
+    {
+      "slug": "jebel-ali-village",
+      "name": {
+        "ar": "Jebel Ali Village"
+      }
+    }
+  ],
+  "latestWorks": [
+    {
+      "slug": "palm-jebel-ali",
+      "name": {
+        "ar": "Palm Jebel Ali"
+      },
+      "year": 2024
+    },
+    {
+      "slug": "dubai-islands",
+      "name": {
+        "ar": "Dubai Islands"
+      },
+      "year": 2024
+    }
+  ],
+  "supportingVideo": [],
+  "images": [],
+  "website": "https://www.nakheel.com/",
+  "lastUpdated": "2025-11-04T00:00:00Z"
+}

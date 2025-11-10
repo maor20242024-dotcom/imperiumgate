@@ -33,8 +33,8 @@ export default async function DeveloperProjectsPage({ params }: { params: Promis
         {locale === 'ar' ? 'مشاريع' : 'Projects by'} {developer}
       </h1>
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mt-8">
-        {projects.map((p: Project, index: number) => (
-          <ProjectCard key={`${p.id || p.slug}-${index}`} project={p} />
+        {projects.map((p: Project) => (
+          <ProjectCard key={p.id || p.slug} project={p} />
         ))}
       </div>
     </div>

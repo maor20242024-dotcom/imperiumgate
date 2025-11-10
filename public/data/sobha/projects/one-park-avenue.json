@@ -1,0 +1,410 @@
+{
+  "projectID": "one-park-avenue",
+  "developerID": "sobha",
+  "slug": "one-park-avenue",
+  "projectName": {
+    "en": "One Park Avenue",
+    "ar": "ون بارك أفينيو"
+  },
+  "description": {
+    "ar": "وصف غير متوفر",
+    "en": "Description not available"
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "en": "Mohammed Bin Rashid City",
+    "ar": "Mohammed Bin Rashid City",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 5000000,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20one%20park%20avenue.jpg",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_18.jpg.webp?itok=L7TMZc9_"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_17.jpg.webp?itok=hRxLQFQK"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_16.jpg.webp?itok=H1npZyHG"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015383_10.jpg.webp?itok=nycKXFI3"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015384_10.jpg.webp?itok=9VdgUNAE"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015385_6.jpg.webp?itok=3ym8Q-j2"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/one-park-avenue_master-brochure.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "حمام سباحة",
+        "en": "SWIMMING POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة الألعاب الرياضية الذكية",
+        "en": "SMART GYM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حديقة السماء",
+        "en": "SKY GARDEN"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "المدارس الدولية",
+        "en": "INTERNATIONAL SCHOOLS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SWIMMING POOL",
+        "ar": ""
+      },
+      "description": {
+        "en": "SWIMMING POOL",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SMART GYM",
+        "ar": ""
+      },
+      "description": {
+        "en": "SMART GYM",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SKY GARDEN",
+        "ar": ""
+      },
+      "description": {
+        "en": "SKY GARDEN",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "INTERNATIONAL SCHOOLS",
+        "ar": ""
+      },
+      "description": {
+        "en": "INTERNATIONAL SCHOOLS",
+        "ar": ""
+      }
+    }
+  ],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "خيارات خطة سداد 20/80 مع خيارات دفعة أولى بنسبة 20%",
+    "en": "20/80 payment plan options with 20% down-payment options"
+  },
+  "completionDate": "",
+  "developer": "sobha",
+  "id": "sobha-one-park-avenue",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "area": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": "April 2023",
+  "goldenVisaEligible": false,
+  "launchDate": "August 15, 2019",
+  "longitude": 55.3086088,
+  "latitude": 25.1786796,
+  "mapDescription": {
+    "ar": "\"وان بارك أفينيو هو مبنى سكني مكون من 28 طابقًا يقع في سوبها هارتلاند، مدينة محمد بن راشد (MBR City)، دبي. يقع بالقرب من طريق رأس الخور، وطريق الميدان، وطريق العين - دبي، ويوفر إطلالات على خور دبي، ووسط مدينة دبي، ومحمية رأس الخور للحياة البرية، وقناة دبي المائية، ومضمار ميدان للسباق. ويوفر سهولة الوصول إلى المعالم الرئيسية مثل برج خليفة، ودبي مول، والمدارس الدولية.\"",
+    "en": "One Park Avenue is a 28-storey residential building located in Sobha Hartland, Mohammed Bin Rashid City (MBR City), Dubai. It is situated near Ras Al Khor Road, Al Meydan Road, and Al Ain – Dubai Road, offering views of Dubai Creek, Downtown Dubai, Ras Al Khor Wildlife Sanctuary, Dubai Water Canal, and Meydan Racecourse. It provides easy access to major attractions like Burj Khalifa, The Dubai Mall, and international schools."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": "سوبها هارتلاند ومدرستان دوليتان"
+      },
+      "distance": {
+        "en": "2 km",
+        "ar": "2 km"
+      },
+      "category": {
+        "ar": "التعليم",
+        "en": "Education"
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": "مطار دبي الدولي"
+      },
+      "distance": {
+        "en": "14 km",
+        "ar": "14 km"
+      },
+      "category": {
+        "ar": "النقل",
+        "en": "Transportation"
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": "دبي مول"
+      },
+      "distance": {
+        "en": "14 km",
+        "ar": "14 km"
+      },
+      "category": {
+        "ar": "التسوق",
+        "en": "Shopping"
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": "برج خليفة ووسط مدينة دبي"
+      },
+      "distance": {
+        "en": "19 km",
+        "ar": "19 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": "نخلة جميرا"
+      },
+      "distance": {
+        "en": "29 km",
+        "ar": "29 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
+      },
+      "distance": {
+        "en": "2 km",
+        "ar": "2 km"
+      },
+      "category": {
+        "en": "Schools",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": "DUBAI INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "en": "14 km",
+        "ar": "14 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": "THE DUBAI MALL"
+      },
+      "distance": {
+        "en": "14 km",
+        "ar": "14 km"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
+      },
+      "distance": {
+        "en": "19 km",
+        "ar": "19 km"
+      },
+      "category": {
+        "en": "Attractions",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "en": "29 km",
+        "ar": "29 km"
+      },
+      "category": {
+        "en": "Attractions",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 2964,
+  "maxAreaSqmt": 275,
+  "maxPriceAED": 5000000,
+  "minAreaSqft": 744,
+  "minAreaSqmt": 69,
+  "minPriceAED": 0,
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/one-park-avenue/",
+  "projectStatus": {
+    "ar": "مكتمل",
+    "en": "Completed"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    {
+      "en": "Skyscraper views",
+      "ar": "مناظر ناطحات السحاب"
+    }
+  ],
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "highlights": [],
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "projectCategory": "Project",
+  "status": "active",
+  "lastUpdated": "2025-11-02T05:21:40.711321",
+  "brand": "Sobha Realty",
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "One Park Avenue",
+    "ar": "وان بارك أفينيو"
+  },
+  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/one-park-avenue/",
+  "community": "sobha-hartland",
+  "communityName": {
+    "en": "Sobha Hartland",
+    "ar": "شوبا هارتلاند"
+  },
+  "auto_translated": true,
+  "fromCommunity": "sobha-hartland"
+}

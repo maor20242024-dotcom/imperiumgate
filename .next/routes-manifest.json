@@ -1,0 +1,369 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Cross-Origin-Embedder-Policy",
+          "value": "unsafe-none"
+        },
+        {
+          "key": "Cross-Origin-Opener-Policy",
+          "value": "same-origin"
+        },
+        {
+          "key": "Cross-Origin-Resource-Policy",
+          "value": "cross-origin"
+        }
+      ],
+      "regex": "^(?:/(.*))(?:/)?$"
+    }
+  ],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/api/projects/[slug]/units",
+      "regex": "^/api/projects/([^/]+?)/units(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/api/projects/(?<nxtPslug>[^/]+?)/units(?:/)?$"
+    },
+    {
+      "page": "/api/public-data/[developer]",
+      "regex": "^/api/public\\-data/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPdeveloper": "nxtPdeveloper"
+      },
+      "namedRegex": "^/api/public\\-data/(?<nxtPdeveloper>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/api/public-data/[developer]/communities",
+      "regex": "^/api/public\\-data/([^/]+?)/communities(?:/)?$",
+      "routeKeys": {
+        "nxtPdeveloper": "nxtPdeveloper"
+      },
+      "namedRegex": "^/api/public\\-data/(?<nxtPdeveloper>[^/]+?)/communities(?:/)?$"
+    },
+    {
+      "page": "/api/public-data/[developer]/communities/[community]",
+      "regex": "^/api/public\\-data/([^/]+?)/communities/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPdeveloper": "nxtPdeveloper",
+        "nxtPcommunity": "nxtPcommunity"
+      },
+      "namedRegex": "^/api/public\\-data/(?<nxtPdeveloper>[^/]+?)/communities/(?<nxtPcommunity>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[locale]",
+      "regex": "^/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[locale]/about",
+      "regex": "^/([^/]+?)/about(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/about(?:/)?$"
+    },
+    {
+      "page": "/[locale]/admin",
+      "regex": "^/([^/]+?)/admin(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/admin(?:/)?$"
+    },
+    {
+      "page": "/[locale]/ai",
+      "regex": "^/([^/]+?)/ai(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/ai(?:/)?$"
+    },
+    {
+      "page": "/[locale]/ai/assistant",
+      "regex": "^/([^/]+?)/ai/assistant(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/ai/assistant(?:/)?$"
+    },
+    {
+      "page": "/[locale]/ai/invest-advice",
+      "regex": "^/([^/]+?)/ai/invest\\-advice(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/ai/invest\\-advice(?:/)?$"
+    },
+    {
+      "page": "/[locale]/ai/map",
+      "regex": "^/([^/]+?)/ai/map(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/ai/map(?:/)?$"
+    },
+    {
+      "page": "/[locale]/ai/personalized-projects",
+      "regex": "^/([^/]+?)/ai/personalized\\-projects(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/ai/personalized\\-projects(?:/)?$"
+    },
+    {
+      "page": "/[locale]/compare",
+      "regex": "^/([^/]+?)/compare(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/compare(?:/)?$"
+    },
+    {
+      "page": "/[locale]/contact",
+      "regex": "^/([^/]+?)/contact(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/contact(?:/)?$"
+    },
+    {
+      "page": "/[locale]/developers",
+      "regex": "^/([^/]+?)/developers(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/developers(?:/)?$"
+    },
+    {
+      "page": "/[locale]/developers/[developer]",
+      "regex": "^/([^/]+?)/developers/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale",
+        "nxtPdeveloper": "nxtPdeveloper"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/developers/(?<nxtPdeveloper>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[locale]/developers/[developer]/communities",
+      "regex": "^/([^/]+?)/developers/([^/]+?)/communities(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale",
+        "nxtPdeveloper": "nxtPdeveloper"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/developers/(?<nxtPdeveloper>[^/]+?)/communities(?:/)?$"
+    },
+    {
+      "page": "/[locale]/developers/[developer]/communities/[community]",
+      "regex": "^/([^/]+?)/developers/([^/]+?)/communities/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale",
+        "nxtPdeveloper": "nxtPdeveloper",
+        "nxtPcommunity": "nxtPcommunity"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/developers/(?<nxtPdeveloper>[^/]+?)/communities/(?<nxtPcommunity>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[locale]/developers/[developer]/projects",
+      "regex": "^/([^/]+?)/developers/([^/]+?)/projects(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale",
+        "nxtPdeveloper": "nxtPdeveloper"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/developers/(?<nxtPdeveloper>[^/]+?)/projects(?:/)?$"
+    },
+    {
+      "page": "/[locale]/favorites",
+      "regex": "^/([^/]+?)/favorites(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/favorites(?:/)?$"
+    },
+    {
+      "page": "/[locale]/news",
+      "regex": "^/([^/]+?)/news(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/news(?:/)?$"
+    },
+    {
+      "page": "/[locale]/privacy",
+      "regex": "^/([^/]+?)/privacy(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/privacy(?:/)?$"
+    },
+    {
+      "page": "/[locale]/projects",
+      "regex": "^/([^/]+?)/projects(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/projects(?:/)?$"
+    },
+    {
+      "page": "/[locale]/projects/[developer]",
+      "regex": "^/([^/]+?)/projects/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale",
+        "nxtPdeveloper": "nxtPdeveloper"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/projects/(?<nxtPdeveloper>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[locale]/projects/[developer]/[slug]",
+      "regex": "^/([^/]+?)/projects/([^/]+?)/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale",
+        "nxtPdeveloper": "nxtPdeveloper",
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/projects/(?<nxtPdeveloper>[^/]+?)/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[locale]/sitemap",
+      "regex": "^/([^/]+?)/sitemap(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/sitemap(?:/)?$"
+    },
+    {
+      "page": "/[locale]/terms",
+      "regex": "^/([^/]+?)/terms(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/terms(?:/)?$"
+    },
+    {
+      "page": "/[locale]/vision",
+      "regex": "^/([^/]+?)/vision(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/vision(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/admin/maps",
+      "regex": "^/admin/maps(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/maps(?:/)?$"
+    },
+    {
+      "page": "/api/admin/maps/stats",
+      "regex": "^/api/admin/maps/stats(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/admin/maps/stats(?:/)?$"
+    },
+    {
+      "page": "/api/admin/upload",
+      "regex": "^/api/admin/upload(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/admin/upload(?:/)?$"
+    },
+    {
+      "page": "/api/ai/analyze",
+      "regex": "^/api/ai/analyze(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/ai/analyze(?:/)?$"
+    },
+    {
+      "page": "/api/ai/concierge",
+      "regex": "^/api/ai/concierge(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/ai/concierge(?:/)?$"
+    },
+    {
+      "page": "/api/dubai/projects",
+      "regex": "^/api/dubai/projects(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/dubai/projects(?:/)?$"
+    },
+    {
+      "page": "/api/proxy/file",
+      "regex": "^/api/proxy/file(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/proxy/file(?:/)?$"
+    },
+    {
+      "page": "/api/revalidate",
+      "regex": "^/api/revalidate(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/revalidate(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

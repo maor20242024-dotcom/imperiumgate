@@ -1,0 +1,85 @@
+{
+  "provider": "sobha",
+  "community": "sobha-hartland",
+  "generatedAt": "2025-11-07T02:10:10.984Z",
+  "projects": [
+    {
+      "slug": "creek-vistas-reserve",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "creek-vistas",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "crest-grande",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "garden-house",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "gardenia-villas",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "hartland-greens-apartment",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "hartland-quad-homes",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "hartland-waterfront-villas",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "one-park-avenue",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "sobha-one",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-crest",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-s-tower",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "waves-opulence",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

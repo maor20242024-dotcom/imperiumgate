@@ -1,6 +1,9 @@
 "use client";
 
 import React from "react";
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import 'leaflet/dist/leaflet.css'; // Ensure styles are loaded
+import { useLocale } from '@/lib/i18n-client';
 
 type Props = {
   latitude?: number | null;
@@ -23,6 +26,7 @@ export default function ProjectLocationMap({
   height = "400px",
   className,
 }: Props) {
+  const locale = useLocale();
   const hasLatLon =
     isValidCoordinate(latitude) &&
     isValidCoordinate(longitude) &&
@@ -30,11 +34,10 @@ export default function ProjectLocationMap({
     Math.abs(latitude as number) > 0.0001 &&
     Math.abs(longitude as number) > 0.0001;
 
-  // عند توفر الإحداثيات: استخدم تضمين خرائط Google لعرض موقع المشروع فقط
+  // عند توفر الإحداثيات: استخدم Leaflet مع OpenStreetMap لعرض موقع المشروع
   if (hasLatLon) {
     const lat = latitude as number;
     const lon = longitude as number;
-    const src = `https://maps.google.com/maps?q=${lat},${lon}&t=&z=15&ie=UTF8&iwloc=&output=embed`;
     return (
       <div
         className={
@@ -43,42 +46,40 @@ export default function ProjectLocationMap({
         }
         style={{ height }}
       >
-        <iframe
-          title={title ?? "Project Location Map"}
-          src={src}
-          width="100%"
-          height="100%"
-          loading="lazy"
-          style={{ border: 0 }}
-          referrerPolicy="no-referrer-when-downgrade"
-          allowFullScreen
-        />
+        <MapContainer
+          center={[lat, lon]}
+          zoom={15}
+          style={{ height: '100%', width: '100%' }}
+          className="leaflet-container"
+        >
+          <TileLayer
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          />
+          <Marker position={[lat, lon]}>
+            <Popup>{title ?? "Project Location"}</Popup>
+          </Marker>
+        </MapContainer>
       </div>
     );
   }
 
-  // Fallback: Google Maps embed using location text if provided.
+  // Fallback: Static placeholder using location text if provided (no map).
   const q = (locationText ?? title ?? "").trim();
   if (q.length > 0) {
-    const src = `https://maps.google.com/maps?q=${encodeURIComponent(q)}&t=&z=13&ie=UTF8&iwloc=&output=embed`;
     return (
       <div
         className={
-          "rounded-lg overflow-hidden border border-[var(--gold)] shadow-[0_0_0_1px_rgba(var(--gold-rgb),0.25)] " +
+          "rounded-lg overflow-hidden border border-[var(--gold)] shadow-[0_0_0_1px_rgba(var(--gold-rgb),0.25)] flex items-center justify-center bg-gradient-to-br from-zinc-900 to-zinc-800 " +
           (className ?? "")
         }
         style={{ height }}
       >
-        <iframe
-          title={title ?? "Project Location Map"}
-          src={src}
-          width="100%"
-          height="100%"
-          loading="lazy"
-          style={{ border: 0 }}
-          referrerPolicy="no-referrer-when-downgrade"
-          allowFullScreen
-        />
+        <div className="text-center p-4 text-sm text-gray-300">
+          <div className="text-gold mb-2">📍</div>
+          <div>{q}</div>
+          <div className="text-xs text-gray-500 mt-1">{locale === 'ar' ? 'الموقع التقريبي' : 'Approximate Location'}</div>
+        </div>
       </div>
     );
   }

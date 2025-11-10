@@ -176,7 +176,7 @@ export default function LazyVideo({
           <video
             ref={videoRef}
             src={src}
-            poster={poster}
+            poster={poster || '/images/hero-fallback.jpg'}
             controls={controls}
             autoPlay={autoPlay}
             muted={muted}

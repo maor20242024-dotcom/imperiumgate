@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/[locale]/layout,_N_T_/[locale]/ai/layout,_N_T_/[locale]/ai/assistant/layout,_N_T_/[locale]/ai/assistant/page,_N_T_/ar/ai/assistant"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/$d$locale/ai/assistant/__PAGE__",
+    "/$d$locale/ai/assistant",
+    "/$d$locale/ai",
+    "/$d$locale",
+    "/_index"
+  ]
+}

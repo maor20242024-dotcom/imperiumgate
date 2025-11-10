@@ -295,7 +295,12 @@ export default function Filters({ initial }: { initial: Project[] }) {
         </div>
       ) : (
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filtered.map((p) => <ProjectCard key={p.slug} project={p} />)}
+          {filtered.map((p, idx) => (
+            <ProjectCard
+              key={`${p.id || `${p.developer || 'dev'}-${p.slug || 'unknown'}`}-${idx}`}
+              project={p}
+            />
+          ))}
         </div>
       )}
     </div>

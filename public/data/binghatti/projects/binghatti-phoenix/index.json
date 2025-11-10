@@ -1,0 +1,211 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-phoenix",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": null,
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Jumeirah Village Circle"
+  },
+  "location": {
+    "ar": null,
+    "en": "District 13, Jumeirah Village Circle"
+  },
+  "latitude": 25.05296631535667,
+  "longitude": 55.13497165457906,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": null,
+    "en": "Binghatti Phoenix"
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Binghatti Phoenix stands as a testament to architectural ingenuity in the heart of JVC. The project features fluid exterior lines that capture the essence of life's natural rhythm, creating a poetic tribute to modern living. The building includes 434 meticulously crafted residential units that vary between studios, 1 bedroom and 2 bedroom apartments to meet different lifestyles and preferences."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "20% down payment, 50% during construction, 30% upon completion"
+  },
+  "minAreaSqft": 806,
+  "maxAreaSqft": 806,
+  "minAreaSqmt": 75,
+  "maxAreaSqmt": 75,
+  "minPriceAED": 700000,
+  "maxPriceAED": null,
+  "deliveryDate": "Ready to move",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "جاهز للسكن",
+    "en": "Ready"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "../assets/upload/Binghatti-Phoenix-Digital-Brochure-Brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=hirWWL-dZLQ",
+  "heroImage": "https://binghattiweb.imgix.net/phoenix_swimming-pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/phoenix_swimming-pool.jpg",
+    "https://binghattiweb.imgix.net/phoenix_2D-layout-studio.jpg",
+    "https://binghattiweb.imgix.net/Phoenix_layout-1-bedroom.jpg",
+    "https://binghattiweb.imgix.net/phoenix_layout-2-bedroom.jpg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/phoenix_footer-horizontal.jpg"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Gymnasium"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Retail Shops"
+      },
+      "description": {
+        "ar": null,
+        "en": "30 retail shops"
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Parking"
+      },
+      "description": {
+        "ar": null,
+        "en": "1 parking floor"
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Rooftop"
+      },
+      "description": {
+        "ar": null,
+        "en": "Rooftop level"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "434 residential units"
+    },
+    {
+      "ar": null,
+      "en": "10-storey development including 8 residential floors"
+    },
+    {
+      "ar": null,
+      "en": "Fully furnished apartments"
+    },
+    {
+      "ar": null,
+      "en": "Strategic location in District 13 with excellent connectivity"
+    },
+    {
+      "ar": null,
+      "en": "Strong ROI Potential - JVC offers approximately 6.5% return on investment annually"
+    },
+    {
+      "ar": null,
+      "en": "Ready to move"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-phoenix",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:12:51.951Z",
+    "title": "Binghatti Phoenix JVC – Studio to 2 Bedroom Apartments for Sale",
+    "description": "Binghatti Phoenix embodies architectural ingenuity with modern innovation. Discover a luxurious Dubai residence from 1, 2-bedroom apartments.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-phoenix"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/phoenix_swimming-pool.jpg",
+      "https://binghattiweb.imgix.net/phoenix_2D-layout-studio.jpg",
+      "https://binghattiweb.imgix.net/Phoenix_layout-1-bedroom.jpg",
+      "https://binghattiweb.imgix.net/phoenix_layout-2-bedroom.jpg",
+      "https://binghattiweb.imgix.net/bedroom-img.webp",
+      "https://binghattiweb.imgix.net/phoenix_footer-horizontal.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://www.binghatti.com/en/assets/upload/Binghatti-Phoenix-Digital-Brochure-Brochure.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115662.17953253411!2d55.13497165457906!3d25.05296631535667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6d409eacf353%3A0x3523678b0525a242!2sBinghatti%20Phoenix!5e0!3m2!1sen!2sae!4v1745572603836!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/hirWWL-dZLQ?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "communityID": "sobha-privy-collection",
+  "developerID": "sobha",
+  "name": {
+    "ar": "شوبا بريفي كوليكشن",
+    "en": "Sobha Privy Collection"
+  },
+  "description": {
+    "ar": "مجموعة خاصة فاخرة.",
+    "en": "A private luxury collection."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "sobha-privy-collection",
+      "name": {
+        "ar": "شوبا بريفي كوليكشن",
+        "en": "Sobha Privy Collection"
+      }
+    }
+  ],
+  "developer": "sobha",
+  "lastUpdated": "2025-11-01T18:44:09.975068",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false
+}

@@ -1,0 +1,47 @@
+{
+  "communityID": "business-bay",
+  "developerID": "sobha",
+  "name": {
+    "ar": "بيزنس باي",
+    "en": "Business Bay"
+  },
+  "description": {
+    "ar": "منطقة تجارية مع مشاريع شوبا.",
+    "en": "A business district with Sobha projects."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "sobha-skyparks",
+      "name": {
+        "ar": "شوبا سكاي باركس",
+        "en": "Sobha SkyParks"
+      }
+    }
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "business-bay",
+  "developer": "sobha"
+}

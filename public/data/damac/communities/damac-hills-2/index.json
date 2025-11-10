@@ -1,0 +1,19 @@
+{
+  "provider": "damac",
+  "community": "damac-hills-2",
+  "generatedAt": "2025-11-07T02:10:10.719Z",
+  "projects": [
+    {
+      "slug": "elo-2",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "elo-3",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

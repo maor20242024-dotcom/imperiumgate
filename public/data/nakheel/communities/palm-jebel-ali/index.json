@@ -1,0 +1,25 @@
+{
+  "provider": "nakheel",
+  "community": "palm-jebel-ali",
+  "generatedAt": "2025-11-07T02:10:10.859Z",
+  "projects": [
+    {
+      "slug": "palm-jebel-ali",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-beach-collection-villas",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "the-coral-collection-villas",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

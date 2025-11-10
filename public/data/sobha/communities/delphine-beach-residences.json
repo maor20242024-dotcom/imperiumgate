@@ -1,0 +1,45 @@
+{
+  "communityID": "delphine-beach-residences",
+  "developerID": "sobha",
+  "name": {
+    "ar": "ديلفين بيتش ريزيدنسز",
+    "en": "Delphine Beach Residences"
+  },
+  "description": {
+    "ar": "شقق شاطئية فاخرة.",
+    "en": "Luxury beach residences."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "delphine-beach-residences",
+      "name": {
+        "ar": "ديلفين بيتش ريزيدنسز",
+        "en": "Delphine Beach Residences"
+      }
+    }
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false
+}

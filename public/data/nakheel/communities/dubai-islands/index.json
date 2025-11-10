@@ -1,0 +1,25 @@
+{
+  "provider": "nakheel",
+  "community": "dubai-islands",
+  "generatedAt": "2025-11-07T02:10:10.771Z",
+  "projects": [
+    {
+      "slug": "bay-villas",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "dubai-islands",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "rixos-beach-residences-phase-2",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ]
+}

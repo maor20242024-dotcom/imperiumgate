@@ -102,3 +102,26 @@ Notes
 - app/[locale]/projects/[developer]/page.tsx: Enabled time-based ISR via `export const revalidate = 1800` (30 minutes). Added `generateStaticParams()` to pre-render pages for both locales (`ar`, `en`) across all known developers using `getAllDeveloperParams()`. Kept `dynamicParams = true` to allow serving developers added after build via ISR.
 - lib/projects.ts: Confirmed cached helpers exist and are tagged for on-demand revalidation (`DEVELOPERS`, `PROJECTS_BY_DEVELOPER`, `ALL_PROJECTS`).
 - Notes: No visual layout changes; navigation remains via typed routes. This aligns with Next.js 16 App Router best practices and our caching policy.
+
+# 2025-11-10 – Security, Maps, CSS, Data, and Code Improvements
+
+- **CSP Unification**: Tightened CSP in proxy.ts, removed broad Google/YouTube domains, focused on essential CDNs. No disable in next.config.mjs.
+
+- **Maps Strategy**: Switched ProjectLocationMap.tsx to Leaflet/OSM using local coords. Removed Google embeds from CSP. Installed react-leaflet v4.
+
+- **CSS Cleanup**: Removed duplicate @keyframes in globals.css, scoped will-change to animated elements, increased tooltip specificity to avoid !important.
+
+- **Data Quality**: Added AJV validation in lib/projects.ts for Project schema (bedrooms, localized fields, prices). Ran translate_files.py to standardize and translate JSONs.
+
+- **Code Fixes**: Added LocaleDir for dynamic lang/dir in root layout. Typed ProjectCard.tsx (MotionProps, MapPOI), conditioned console.debug to dev.
+
+Dev server running; test /ar/projects/damac/aykon-city for RTL, Leaflet map, validation logs.
+
+## 2025-11-10 – Final TypeScript Fixes
+
+- **lib/projects.ts**: Fixed remaining TypeScript errors:
+  - Removed Developer type import (not in lib/types.ts)
+  - Changed listDevelopers return type to any[] to avoid missing type
+  - Fixed getProjectBySlug return type (undefined → null conversion)
+  - Fixed getAllProjectParams developer slug type issue with type assertion
+- **Build Status**: TypeScript compilation successful, minor route handler type mismatch in Next.js internals (unrelated to our code)
