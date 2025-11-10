@@ -15,6 +15,7 @@ import ProjectLocationMapWrapper from '@/components/project/ProjectLocationMapWr
 import PropVRFrame from '@/components/PropVRFrame';
 import VideoBlock from '@/components/project/VideoBlock';
 import ROICalculator from '@/components/ui/ROICalculator';
+import { AsyncBoundary } from '@/components/suspense';
 import { deriveProjectLatLon } from '@/lib/geo';
 import { type Locale } from '@/lib/i18n-utils';
 import { getAllProjectParams, getProjectBySlug, getProjectsByDeveloper, loadAllProjects } from '@/lib/projects';
@@ -99,31 +100,43 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
 
       {hasGallery && (
         <div id="gallery" className="max-w-6xl mx-auto px-6 py-16">
-          <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل المعرض...' : 'Loading gallery...'}</div>}>
+          <AsyncBoundary 
+            locale={loc}
+            loadingMessage={{ ar: 'جاري تحميل المعرض...', en: 'Loading gallery...' }}
+            minHeight="400px"
+          >
             <Gallery
               images={project.galleryImages!}
               title={translateText(project.projectName, loc) || project.slug}
             />
-          </Suspense>
+          </AsyncBoundary>
         </div>
       )}
 
       {has3D && (
         <div id="tour3d" className="max-w-6xl mx-auto px-6 py-16">
-          <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل الجولة...' : 'Loading 3D tour...'}</div>}>
+          <AsyncBoundary 
+            locale={loc}
+            loadingMessage={{ ar: 'جاري تحميل الجولة...', en: 'Loading 3D tour...' }}
+            minHeight="500px"
+          >
             <PropVRFrame url={project['3D_TourLink']!} />
-          </Suspense>
+          </AsyncBoundary>
         </div>
       )}
 
       {hasVideo && (
         <div id="video" className="max-w-6xl mx-auto px-6 py-16">
-          <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل الفيديو...' : 'Loading video...'}</div>}>
+          <AsyncBoundary 
+            locale={loc}
+            loadingMessage={{ ar: 'جاري تحميل الفيديو...', en: 'Loading video...' }}
+            minHeight="400px"
+          >
             <VideoBlock
               src={project.videoLink!}
               poster={project.heroImage || project.galleryImages?.[0]}
             />
-          </Suspense>
+          </AsyncBoundary>
         </div>
       )}
 
@@ -139,7 +152,11 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
             }
           </p>
         </div>
-        <Suspense fallback={<div className="text-center py-8">{loc === 'ar' ? 'جاري تحميل الخريطة...' : 'Loading map...'}</div>}>
+        <AsyncBoundary 
+          locale={loc}
+          loadingMessage={{ ar: 'جاري تحميل الخريطة...', en: 'Loading map...' }}
+          minHeight="400px"
+        >
           <ProjectLocationMapWrapper
             latitude={lat ?? undefined}
             longitude={lon ?? undefined}
@@ -147,7 +164,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
             locationText={translateText(project.location, loc)}
             height="400px"
           />
-        </Suspense>
+        </AsyncBoundary>
       </div>
 
       {hasAmenities && (

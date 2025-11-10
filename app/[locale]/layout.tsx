@@ -1,5 +1,6 @@
 import AIConcierge from '@/components/ui/AIConcierge'
 import RouteProgress from '@/components/ui/RouteProgress'
+import { ErrorBoundary } from '@/components/error'
 import { getDictionary } from '@/lib/i18n'
 import { i18n } from '@/lib/i18n-config'
 import type { Metadata } from 'next'
@@ -55,7 +56,9 @@ export default async function LocaleLayout({
       <RouteProgress />
       {children}
       {/* مساعد الذكاء الاصطناعي في جميع الصفحات */}
-      <AIConcierge locale={locale as 'ar' | 'en'} />
+      <ErrorBoundary locale={locale as 'ar' | 'en'}>
+        <AIConcierge locale={locale as 'ar' | 'en'} />
+      </ErrorBoundary>
     </div>
   );
 }
