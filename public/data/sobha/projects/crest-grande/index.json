@@ -432,8 +432,18 @@
   "brand": "Sobha Realty",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

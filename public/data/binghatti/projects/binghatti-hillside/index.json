@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "Dubai Science Park"
+    "en": "Dubai Science Park",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Dubai Science Park"
+    }
   },
   "latitude": 25.056914324387193,
   "longitude": 55.15989386916235,

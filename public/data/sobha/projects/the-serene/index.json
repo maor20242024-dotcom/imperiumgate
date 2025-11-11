@@ -92,8 +92,8 @@
     "en": "Heart of Sobha Central, Sheikh Zayed Road",
     "ar": "Heart of Sobha Central, Sheikh Zayed Road",
     "country": {
-      "en": "",
-      "ar": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
       "en": "Dubai",
@@ -266,8 +266,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-08/SOBHA%20CENTRAL%20-%20THE%20SERENE%20BROCHURE_0.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-08/SOBHA%20CENTRAL%20-%20THE%20SERENE%20BROCHURE_0.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

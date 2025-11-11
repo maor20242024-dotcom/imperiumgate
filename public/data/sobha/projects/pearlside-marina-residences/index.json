@@ -238,8 +238,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

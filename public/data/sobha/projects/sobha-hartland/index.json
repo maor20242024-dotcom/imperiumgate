@@ -140,8 +140,8 @@
         "ar": "برج خليفة"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "4.1 km (4 min)",
+        "ar": "4.1 كم (4 دقيقة)"
       },
       "category": {
         "en": "Landmark",
@@ -154,8 +154,8 @@
         "ar": "دبي مول"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "3.9 km (4 min)",
+        "ar": "3.9 كم (4 دقيقة)"
       },
       "category": {
         "en": "Shopping/Landmark",
@@ -182,8 +182,8 @@
         "ar": "دبي مارينا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "17.7 km (18 min)",
+        "ar": "17.7 كم (18 دقيقة)"
       },
       "category": {
         "en": "Area/Landmark",
@@ -196,8 +196,8 @@
         "ar": "نخلة جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "16.2 km (16 min)",
+        "ar": "16.2 كم (16 دقيقة)"
       },
       "category": {
         "en": "Area/Landmark",
@@ -238,8 +238,8 @@
         "ar": "برج خليفة"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "4.1 km (4 min)",
+        "ar": "4.1 كم (4 دقيقة)"
       },
       "category": {
         "en": "Landmark",
@@ -252,8 +252,8 @@
         "ar": "Dubai Mall"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "3.9 km (4 min)",
+        "ar": "3.9 كم (4 دقيقة)"
       },
       "category": {
         "en": "Shopping/Landmark",
@@ -280,8 +280,8 @@
         "ar": "Dubai Marina"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "17.7 km (18 min)",
+        "ar": "17.7 كم (18 دقيقة)"
       },
       "category": {
         "en": "Area/Landmark",
@@ -294,8 +294,8 @@
         "ar": "Palm Jumeirah"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "16.2 km (16 min)",
+        "ar": "16.2 كم (16 دقيقة)"
       },
       "category": {
         "en": "Area/Landmark",
@@ -509,8 +509,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

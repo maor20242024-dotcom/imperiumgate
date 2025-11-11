@@ -311,8 +311,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/como-residences.pdf?sfvrsn=e68ef7f_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/como-residences.pdf?sfvrsn=e68ef7f_1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

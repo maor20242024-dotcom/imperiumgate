@@ -298,8 +298,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/welcome-to-tilal-al-furjanc7027000-a9ec-499f-a97c-328abea58570.pdf?sfvrsn=58c5446_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/welcome-to-tilal-al-furjanc7027000-a9ec-499f-a97c-328abea58570.pdf?sfvrsn=58c5446_1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

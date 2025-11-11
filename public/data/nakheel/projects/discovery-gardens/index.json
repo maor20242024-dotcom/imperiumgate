@@ -323,8 +323,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/discovery-gardens-floor-plan.pdf?sfvrsn=90364265_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/discovery-gardens-floor-plan.pdf?sfvrsn=90364265_1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

@@ -125,16 +125,16 @@
     "ar": "يتمتع هذا المشروع المتألق بموقعه في مدينة دبي الملاحية، وإطلالاته الآسرة على الواجهة البحرية",
     "en": "This sparkling project enjoys its location in Dubai Maritime City, with captivating waterfront views",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "ar": "مدينة دبي البحرية",
+      "en": "Dubai Maritime City"
     },
     "poiDistances": {}
   },
@@ -150,12 +150,12 @@
         "ar": "برج خليفة"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "9.3 km (9 min)",
+        "ar": "9.3 كم (9 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Landmark",
+        "ar": "معلم سياحي"
       }
     },
     {
@@ -164,12 +164,12 @@
         "ar": "برج العرب"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "17.1 km (17 min)",
+        "ar": "17.1 كم (17 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Hotel",
+        "ar": "فندق"
       }
     },
     {
@@ -178,12 +178,12 @@
         "ar": "نخلة جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "22.2 km (22 min)",
+        "ar": "22.2 كم (22 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Community",
+        "ar": "مجتمع"
       }
     },
     {
@@ -192,12 +192,12 @@
         "ar": "مطار دبي الدولي"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "10.9 km (11 min)",
+        "ar": "10.9 كم (11 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Airport",
+        "ar": "مطار"
       }
     },
     {
@@ -248,12 +248,12 @@
         "ar": "شاطئ جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "7.5 km (8 min)",
+        "ar": "7.5 كم (8 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Beach",
+        "ar": "شاطئ"
       }
     }
   ],
@@ -410,8 +410,18 @@
   "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/lUj3xuWW7yr7G00V0NIaa/56095c895dfbcef7a07d236c3f20f6e3/Chelsea_Residence_Hero_Video_16X9_English.mp4",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/32NQYslOxv49gWtFui7K2F/656d958ca265e33372342a9051bf34b1/Chelsea_English.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/32NQYslOxv49gWtFui7K2F/656d958ca265e33372342a9051bf34b1/Chelsea_English.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

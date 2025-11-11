@@ -433,8 +433,18 @@
   "status": "active",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-07/Brochure%20-%20Canalside%20Marina%20Residences%20%281%29.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-07/Brochure%20-%20Canalside%20Marina%20Residences%20%281%29.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

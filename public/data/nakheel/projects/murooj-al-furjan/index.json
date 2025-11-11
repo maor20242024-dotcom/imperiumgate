@@ -302,8 +302,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/murooj-al-furjan.pdf?sfvrsn=50185c16_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/murooj-al-furjan.pdf?sfvrsn=50185c16_1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

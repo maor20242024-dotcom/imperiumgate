@@ -85,16 +85,16 @@
     "ar": "يقع كوتور بتوقيع كافالي في منطقة حديقة الصفا على أطراف قناة دبي المائية، وعلى بعد دقائق عن منطقة البرج وسيتي ووك ولا مير وشاطئ جميرا الساحر، كما يمكن الوصول عبره إلى جسر التسامح الشهير سيراً على الأقدام.",
     "en": "Couture by Cavalli is located in Safa Park area on the banks of the Dubai Water Canal, minutes away from the Burj area, City Walk, La Mer, and the charming Jumeirah Beach. It is also accessible via the famous Tolerance Bridge on foot.",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "ar": "الخليج التجاري",
+      "en": "Business Bay"
     },
     "poiDistances": {}
   },
@@ -460,8 +460,8 @@
         "ar": "نخلة جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "13.5 km (14 min)",
+        "ar": "13.5 كم (14 دقيقة)"
       },
       "category": {
         "en": "Sea View",
@@ -502,8 +502,8 @@
         "ar": "برج خليفة"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "3.3 km (3 min)",
+        "ar": "3.3 كم (3 دقيقة)"
       },
       "category": {
         "en": "Landmark",
@@ -544,8 +544,8 @@
         "ar": "شاطئ جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "2.8 km (3 min)",
+        "ar": "2.8 كم (3 دقيقة)"
       },
       "category": {
         "en": "Beach",
@@ -728,8 +728,18 @@
   "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/1aZJBuhAUhFwDTAKkezbHh/954969894ccc4185f35e602c24df3f7b/Cavali_Couture_Project_video_16x9_Arabic__1_.mp4",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/3oBUKfPfXPlAQ7T5qQBo7c/93b805abe2dd86b9f3ba1a5b7eeba28c/couture-by-cavalli-floor-plans-27-02-2024-ar.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/3oBUKfPfXPlAQ7T5qQBo7c/93b805abe2dd86b9f3ba1a5b7eeba28c/couture-by-cavalli-floor-plans-27-02-2024-ar.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

@@ -332,8 +332,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://dubaiholding.box.com/s/j9sctws8nfklxwsokbu6n3rssesuojf1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://dubaiholding.box.com/s/j9sctws8nfklxwsokbu6n3rssesuojf1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

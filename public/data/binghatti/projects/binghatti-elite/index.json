@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "Dubai Production City (IMPZ)"
+    "en": "Dubai Production City (IMPZ)",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Dubai Production City"
+    }
   },
   "latitude": 25.040152199566688,
   "longitude": 55.16380721750471,

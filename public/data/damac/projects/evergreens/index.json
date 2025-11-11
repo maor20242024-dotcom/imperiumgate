@@ -274,16 +274,16 @@
     "ar": "داماك هيلز 2، دبي",
     "en": "DAMAC Hills 2, Dubai",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "ar": "داماك هيلز 2",
+      "en": "DAMAC Hills 2"
     },
     "poiDistances": {}
   },
@@ -365,8 +365,18 @@
   "videoLink": "No direct video links available in search results.",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://prod-cdn.damacproperties.com/uploads/brochure/d2-evergreens-v2-en.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://prod-cdn.damacproperties.com/uploads/brochure/d2-evergreens-v2-en.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

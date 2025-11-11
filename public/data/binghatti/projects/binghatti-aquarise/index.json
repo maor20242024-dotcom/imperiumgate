@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "Business Bay"
+    "en": "Business Bay",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Business Bay"
+    }
   },
   "latitude": 25.1760708,
   "longitude": 55.2737765,

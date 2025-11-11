@@ -355,8 +355,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.scribd.com/document/559418659/Palm-Jumeirah-Brochure-PDF",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.scribd.com/document/559418659/Palm-Jumeirah-Brochure-PDF",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

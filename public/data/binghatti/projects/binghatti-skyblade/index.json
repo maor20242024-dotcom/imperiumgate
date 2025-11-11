@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "Downtown Dubai"
+    "en": "Downtown Dubai",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Downtown Dubai"
+    }
   },
   "latitude": 25.19529251820739,
   "longitude": 55.23249799404354,

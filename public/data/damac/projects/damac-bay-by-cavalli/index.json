@@ -87,16 +87,16 @@
     "ar": "دبي هاربر، متصل بأرجاء دبي",
     "en": "Dubai Harbour, connected to all parts of Dubai",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai Harbour",
+      "ar": "ميناء دبي"
     },
     "poiDistances": {}
   },
@@ -500,8 +500,18 @@
   "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/y5bdzJndAoZXb2TF59HHA/cfff384cbdd599e94ef7de83f14a3f3e/DAMAC_BAY_Project_video_16x9.mp4",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/5dvAS9qjSLoRZDxXEq8beV/7e9001ddd0fb632886162e152f9b1c07/damac-bay-digital-brochure-ar.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/5dvAS9qjSLoRZDxXEq8beV/7e9001ddd0fb632886162e152f9b1c07/damac-bay-digital-brochure-ar.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

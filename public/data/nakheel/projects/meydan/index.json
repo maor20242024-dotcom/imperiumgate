@@ -151,16 +151,16 @@
     "ar": "The community emphasises sustainability and an environmentally friendly lifestyle. Pedestrian-friendly walkways, cycling trails, children's play areas and outdoor fitness centres promote a healthy and active way of life. Additional amenities such as picnic areas, yoga platforms, clubhouses and mosques foster a strong sense of community and wellbeing.",
     "en": "The community emphasises sustainability and an environmentally friendly lifestyle. Pedestrian-friendly walkways, cycling trails, children's play areas and outdoor fitness centres promote a healthy and active way of life. Additional amenities such as picnic areas, yoga platforms, clubhouses and mosques foster a strong sense of community and wellbeing.",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
       "ar": "",
-      "en": ""
+      "en": "Al Safa, Dubai Water Canal, Jumeirah district (sub-community of Al Wasl)"
     },
     "poiDistances": {}
   },
@@ -323,8 +323,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/Not found",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/Not found",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

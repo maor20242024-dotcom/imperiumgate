@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "District 16, JVC"
+    "en": "District 16, JVC",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Jumeirah Village Circle"
+    }
   },
   "latitude": 25.069873469269186,
   "longitude": 55.155936047283674,

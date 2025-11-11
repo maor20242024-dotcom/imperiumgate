@@ -355,8 +355,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/nad-al-sheba-villas.pdf?sfvrsn=b430cf66_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/nad-al-sheba-villas.pdf?sfvrsn=b430cf66_1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

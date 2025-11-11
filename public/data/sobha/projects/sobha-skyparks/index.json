@@ -53,8 +53,8 @@
     "en": "Sheikh Zayed Road",
     "ar": "شارع الشيخ زايد",
     "country": {
-      "en": "",
-      "ar": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
       "en": "Dubai",
@@ -185,8 +185,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

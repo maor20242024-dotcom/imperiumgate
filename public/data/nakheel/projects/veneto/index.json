@@ -64,16 +64,16 @@
     "ar": "Dubai Waterfront, Sheikh Zayed Road",
     "en": "Dubai Waterfront, Sheikh Zayed Road",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
       "ar": "",
-      "en": ""
+      "en": "Dubai Waterfront"
     },
     "poiDistances": {}
   },
@@ -247,8 +247,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/veneto.pdf?sfvrsn=586e8888_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/veneto.pdf?sfvrsn=586e8888_1",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

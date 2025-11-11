@@ -119,16 +119,16 @@
     "ar": "جزر العالم هي أرخبيل يقع في الخليج العربي، ويعكس قارات العالم. إنها مجموعة من الجزر الاصطناعية قبالة ساحل دبي.",
     "en": "The World Islands are an archipelago located in the Arabian Gulf, mirroring the world's continents. They are a collection of man-made islands off the coast of Dubai.",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "ar": "null",
+      "en": "null"
     },
     "poiDistances": {}
   },
@@ -278,8 +278,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://www.nakheel.com/null",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/null",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

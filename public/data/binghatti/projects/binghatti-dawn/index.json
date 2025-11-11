@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "JVC"
+    "en": "JVC",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Jumeirah Village Circle"
+    }
   },
   "latitude": 25.082397814561432,
   "longitude": 55.154505408748804,

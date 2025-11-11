@@ -18,7 +18,19 @@
   },
   "location": {
     "ar": null,
-    "en": "Jumeirah Village Triangle"
+    "en": "Jumeirah Village Triangle",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Jumeirah Village Triangle"
+    }
   },
   "latitude": 25.018834826093297,
   "longitude": 55.04598751442834,

@@ -133,12 +133,12 @@
         "ar": "برج خليفة"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "20.8 km (21 min)",
+        "ar": "20.8 كم (21 دقيقة)"
       },
       "category": {
-        "en": "",
-        "ar": ""
+        "en": "Landmark",
+        "ar": "معلم سياحي"
       }
     },
     {
@@ -297,8 +297,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-06/Sobha%20Central%20Brochure%20-%20The%20Eden.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-06/Sobha%20Central%20Brochure%20-%20The%20Eden.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

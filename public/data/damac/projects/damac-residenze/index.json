@@ -113,16 +113,16 @@
     "ar": "مرسى دبي",
     "en": "Dubai Marina",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "ar": "مرسى دبي",
+      "en": "Dubai Marina"
     },
     "poiDistances": {}
   },
@@ -138,12 +138,12 @@
         "ar": "نخلة جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "2.9 km (3 min)",
+        "ar": "2.9 كم (3 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Community",
+        "ar": "مجتمع"
       }
     },
     {
@@ -152,12 +152,12 @@
         "ar": "شاطئ جميرا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "17.1 km (17 min)",
+        "ar": "17.1 كم (17 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Beach",
+        "ar": "شاطئ"
       }
     },
     {
@@ -208,12 +208,12 @@
         "ar": "دبي مارينا"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "1 km (1 min)",
+        "ar": "1 كم (1 دقيقة)"
       },
       "category": {
-        "ar": "",
-        "en": ""
+        "en": "Community",
+        "ar": "مجتمع"
       }
     },
     {
@@ -369,8 +369,18 @@
   "videoLink": "https://www.youtube.com/embed/htHzUPRtK1Q",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://prod-cdn.damacproperties.com/uploads/brochure/damac-residenze-brochure-en.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://prod-cdn.damacproperties.com/uploads/brochure/damac-residenze-brochure-en.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

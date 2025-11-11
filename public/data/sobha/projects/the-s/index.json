@@ -309,8 +309,18 @@
   "goldenVisaEligible": false,
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2024-11/28.%20The%20S%20Tower%20-%205%20Dec%202023.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2024-11/28.%20The%20S%20Tower%20-%205%20Dec%202023.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

@@ -152,8 +152,8 @@
         "ar": "برج خليفة"
       },
       "distance": {
-        "en": "",
-        "ar": ""
+        "en": "47.8 km (48 min)",
+        "ar": "47.8 كم (48 دقيقة)"
       },
       "category": {
         "en": "Landmark",
@@ -280,8 +280,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-10/Sobha%20AquaCrest%20Brochure.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-10/Sobha%20AquaCrest%20Brochure.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

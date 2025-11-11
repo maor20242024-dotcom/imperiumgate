@@ -66,16 +66,16 @@
     "ar": "بزنس باي",
     "en": "Business Bay",
     "country": {
-      "ar": "",
-      "en": ""
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
     },
     "city": {
-      "ar": "",
-      "en": ""
+      "en": "Dubai",
+      "ar": "دبي"
     },
     "area": {
-      "ar": "",
-      "en": ""
+      "en": "Business Bay",
+      "ar": "الخليج التجاري"
     },
     "poiDistances": {}
   },
@@ -165,8 +165,18 @@
   "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/03N06QSXTJR0uZcNjCn8z/9211d0adb3e1837684d7e4b97f8b6712/Damac_Majestine_Hero_video__16x9_.mp4",
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/1Ue0nmws6x73esQxRJUEhm/2c1b75eb797275f25af4961e465e22a4/MAJESTINE_BROCHURE_AR.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/1Ue0nmws6x73esQxRJUEhm/2c1b75eb797275f25af4961e465e22a4/MAJESTINE_BROCHURE_AR.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],

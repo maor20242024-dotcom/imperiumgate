@@ -315,8 +315,18 @@
   },
   "documents": {
     "brochure": {
-      "en": [],
-      "ar": []
+      "en": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1WJSn70V1WroDdGEIGB4bbsdI1_X580jAhfgY1I-TB_f1caCCXrsXgrNVT3a-eBvV3MtTs2jzsYw91Ke6QamXVEO3PDkLWwkVMSLgzveh6EOp3BIDvV6U9sjIzZVJNaIe",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1WJSn70V1WroDdGEIGB4bbsdI1_X580jAhfgY1I-TB_f1caCCXrsXgrNVT3a-eBvV3MtTs2jzsYw91Ke6QamXVEO3PDkLWwkVMSLgzveh6EOp3BIDvV6U9sjIzZVJNaIe",
+          "title": "كتيب المشروع"
+        }
+      ]
     },
     "floorPlans": {
       "en": [],
