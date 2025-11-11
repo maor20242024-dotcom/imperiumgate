@@ -208,52 +208,114 @@ function loadFromDeveloperDir(developerDir: string, developerName: string): Proj
   const results: Project[] = [];
   
   try {
-    const entries = fs.readdirSync(developerDir, { withFileTypes: true });
+    // ✅ Check for projects subdirectory first (most common structure)
+    const projectsSubdir = path.join(developerDir, 'projects');
+    const hasProjectsSubdir = fs.existsSync(projectsSubdir) && fs.statSync(projectsSubdir).isDirectory();
     
-    for (const entry of entries) {
-      try {
-        if (entry.isFile() && entry.name.endsWith('.json')) {
-          const filePath = path.join(developerDir, entry.name);
-          const items = readJSONFile(filePath);
-          
-          items.forEach((rawProject: any) => {
-            const normalizedProject = validateAndNormalizeProject(rawProject, entry.name, developerName);
-            if (normalizedProject) {
-              results.push(normalizedProject);
-            }
-          });
-          
-        } else if (entry.isDirectory()) {
-          const subdir = path.join(developerDir, entry.name);
-          const canonical = path.join(subdir, `${entry.name}.json`);
-          let items: any[] = [];
-          
-          if (fs.existsSync(canonical)) {
-            items = readJSONFile(canonical);
-          } else {
-            try {
-              const subentries = fs.readdirSync(subdir, { withFileTypes: true });
-              for (const se of subentries) {
-                if (se.isFile() && se.name.endsWith('.json')) {
-                  const fp = path.join(subdir, se.name);
-                  const read = readJSONFile(fp);
-                  items.push(...read);
+    // If projects/ subdirectory exists, load from there
+    if (hasProjectsSubdir) {
+      const projectEntries = fs.readdirSync(projectsSubdir, { withFileTypes: true });
+      
+      for (const entry of projectEntries) {
+        try {
+          if (entry.isDirectory()) {
+            // Each subdirectory is a project folder
+            const projectDir = path.join(projectsSubdir, entry.name);
+            const indexFile = path.join(projectDir, 'index.json');
+            
+            // Try index.json first
+            if (fs.existsSync(indexFile)) {
+              const items = readJSONFile(indexFile);
+              items.forEach((rawProject: any) => {
+                const normalizedProject = validateAndNormalizeProject(rawProject, entry.name, developerName);
+                if (normalizedProject) {
+                  results.push(normalizedProject);
                 }
+              });
+            } else {
+              // Try any JSON file in the directory
+              try {
+                const files = fs.readdirSync(projectDir, { withFileTypes: true });
+                for (const file of files) {
+                  if (file.isFile() && file.name.endsWith('.json')) {
+                    const filePath = path.join(projectDir, file.name);
+                    const items = readJSONFile(filePath);
+                    items.forEach((rawProject: any) => {
+                      const normalizedProject = validateAndNormalizeProject(rawProject, file.name, developerName);
+                      if (normalizedProject) {
+                        results.push(normalizedProject);
+                      }
+                    });
+                  }
+                }
+              } catch (error) {
+                console.warn(`⚠️ Failed to read project directory ${projectDir}:`, error);
               }
-            } catch (error) {
-              console.warn(`⚠️ Failed to read subdirectory ${subdir}:`, error);
             }
+          } else if (entry.isFile() && entry.name.endsWith('.json')) {
+            // JSON file directly in projects/ folder
+            const filePath = path.join(projectsSubdir, entry.name);
+            const items = readJSONFile(filePath);
+            items.forEach((rawProject: any) => {
+              const normalizedProject = validateAndNormalizeProject(rawProject, entry.name, developerName);
+              if (normalizedProject) {
+                results.push(normalizedProject);
+              }
+            });
           }
-          
-          items.forEach((rawProject: any) => {
-            const normalizedProject = validateAndNormalizeProject(rawProject, entry.name, developerName);
-            if (normalizedProject) {
-              results.push(normalizedProject);
-            }
-          });
+        } catch (error) {
+          console.warn(`⚠️ Failed to process project entry ${entry.name}:`, error);
         }
-      } catch (error) {
-        console.warn(`⚠️ Failed to process entry ${entry.name} in ${developerDir}:`, error);
+      }
+    } else {
+      // Fallback: Load from root developer directory (old structure)
+      const entries = fs.readdirSync(developerDir, { withFileTypes: true });
+    
+      for (const entry of entries) {
+        try {
+          if (entry.isFile() && entry.name.endsWith('.json')) {
+            const filePath = path.join(developerDir, entry.name);
+            const items = readJSONFile(filePath);
+            
+            items.forEach((rawProject: any) => {
+              const normalizedProject = validateAndNormalizeProject(rawProject, entry.name, developerName);
+              if (normalizedProject) {
+                results.push(normalizedProject);
+              }
+            });
+            
+          } else if (entry.isDirectory()) {
+            const subdir = path.join(developerDir, entry.name);
+            const canonical = path.join(subdir, `${entry.name}.json`);
+            let items: any[] = [];
+            
+            if (fs.existsSync(canonical)) {
+              items = readJSONFile(canonical);
+            } else {
+              try {
+                const subentries = fs.readdirSync(subdir, { withFileTypes: true });
+                for (const se of subentries) {
+                  if (se.isFile() && se.name.endsWith('.json')) {
+                    const fp = path.join(subdir, se.name);
+                    const read = readJSONFile(fp);
+                    items.push(...read);
+                  }
+                }
+              } catch (error) {
+                console.warn(`⚠️ Failed to read subdirectory ${subdir}:`, error);
+              }
+            }
+            
+            items.forEach((rawProject: any) => {
+              const normalizedProject = validateAndNormalizeProject(rawProject, entry.name, developerName);
+              if (normalizedProject) {
+                results.push(normalizedProject);
+              }
+            });
+          }
+        } catch (error) {
+          console.warn(`⚠️ Failed to process entry ${entry.name} in ${developerDir}:`, error);
+        }
       }
     }
   } catch (error) {

@@ -1,1108 +1,136 @@
-[00:00:01.946] Server  LOG      ✓ Ready in 1517ms
-[00:00:14.385] Server  LOG      ○ Compiling /[locale] ...
-[00:00:19.582] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:00:19.582] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:00:19.596] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[00:00:19.598] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[00:00:19.602] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:00:19.607] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[00:00:19.607] Server  LOG     ✅ Loaded 1 projects from binghatti
-[00:00:19.616] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:00:19.617] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[00:00:19.618] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:00:19.620] Server  LOG     ✅ Loaded 1 projects from damac
-[00:00:19.620] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:00:19.621] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[00:00:19.622] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:00:19.622] Server  LOG     ✅ Loaded 1 projects from emaar
-[00:00:19.623] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:00:19.624] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[00:00:19.625] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:00:19.628] Server  LOG     ✅ Loaded 1 projects from nakheel
-[00:00:19.629] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:00:19.630] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[00:00:19.631] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:00:19.632] Server  LOG     ✅ Loaded 1 projects from sobha
-[00:00:19.632] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[00:00:19.868] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[00:00:19.871] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[00:00:19.887] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[00:00:19.889] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[00:00:19.890] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[00:00:24.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:24.819] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:24.819] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:24.819] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:24.819] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:24.819] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:24.820] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:24.820] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:26.837] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:00:26.840] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:00:26.894] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:00:26.898] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:00:26.910] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:00:26.913] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:00:26.916] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:00:28.838] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:28.838] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:39.734] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:39.734] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:42.249] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:42.249] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:43.511] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:43.511] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:44.765] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:44.765] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:45.118] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:45.119] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:45.119] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:45.119] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:45.259] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:45.259] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:45.259] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:45.259] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:45.732] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:45.732] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:45.732] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:45.732] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:46.552] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:46.552] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:48.609] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:00:48.609] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:00:48.706] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[00:00:48.708] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[00:00:48.729] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[00:00:48.731] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[00:00:48.734] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[00:00:52.012] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:00:52.013] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:00:52.096] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:00:52.099] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:00:52.113] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:00:52.115] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:00:52.118] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:00:52.510] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:52.510] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:52.510] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:52.510] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:52.510] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:52.510] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.510] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.511] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.746] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.746] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:00:52.746] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:52.746] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.243] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.243] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.243] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:53.243] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:53.243] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:53.243] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:00:53.587] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.587] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.686] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.686] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.787] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:53.787] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:00:56.244] Server  LOG     🔄 Loading project damac/provider-profile (cache miss)
-[00:00:56.247] Server  LOG     🔄 Loading projects for developer damac (cache miss)
-[00:00:56.799] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:00:56.799] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:00:56.875] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:00:56.878] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:00:56.890] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:00:56.893] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:00:56.896] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:00:57.668] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[00:01:28.713] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:01:28.714] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:01:28.777] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:01:28.780] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:01:28.793] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:01:28.795] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:01:28.798] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:02:35.428] Server  LOG     🔄 Loading developers list (cache miss)
-[00:02:36.699] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:02:36.699] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:02:36.770] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:02:36.788] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:02:36.843] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:02:36.849] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:02:36.855] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:04:53.206] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:04:53.206] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:04:53.206] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:04:53.206] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:04:53.206] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:04:53.207] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:04:54.206] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:04:54.206] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:04:54.300] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:04:54.305] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:04:54.349] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:04:54.359] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:04:54.368] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:09:02.572] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:09:02.572] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:09:02.581] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[00:09:02.582] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[00:09:02.582] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:09:02.584] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[00:09:02.585] Server  LOG     ✅ Loaded 1 projects from binghatti
-[00:09:02.585] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:09:02.585] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[00:09:02.586] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:09:02.586] Server  LOG     ✅ Loaded 1 projects from damac
-[00:09:02.587] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:09:02.589] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[00:09:02.589] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:09:02.590] Server  LOG     ✅ Loaded 1 projects from emaar
-[00:09:02.590] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:09:02.591] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[00:09:02.591] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:09:02.592] Server  LOG     ✅ Loaded 1 projects from nakheel
-[00:09:02.592] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[00:09:02.594] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[00:09:02.594] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[00:09:02.595] Server  LOG     ✅ Loaded 1 projects from sobha
-[00:09:02.595] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[00:09:02.635] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[00:09:02.643] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[00:09:02.657] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[00:09:02.661] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[00:09:02.664] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[00:09:06.799] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:09:06.799] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:09:06.955] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:09:06.964] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:09:07.021] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:09:07.026] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:09:07.033] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:09:07.992] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:07.993] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:09:07.993] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:09:07.993] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:09:07.993] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:09:07.993] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:09:07.993] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:09:09.163] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:09:09.163] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:09:09.214] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:09:09.216] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:09:09.229] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:09:09.233] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:09:09.242] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:09:10.037] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[00:09:15.002] Server  LOG     🔄 Loading all projects (cache miss)
-[00:09:15.418] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:09:15.419] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:09:15.456] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:09:15.458] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:09:15.469] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:09:15.471] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:09:15.474] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:09:15.551] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/altitude-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"altitude-de-grisogono"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/altitude-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"altitude-de-grisogono"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/aykon-city-tower-b {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"aykon-city-tower-b"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/aykon-city-tower-b {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"aykon-city-tower-b"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/belair-at-the-trump-estates-phase-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"belair-at-the-trump-estates-phase-2"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/belair-at-the-trump-estates-phase-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"belair-at-the-trump-estates-phase-2"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/canal-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"canal-heights"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/canal-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"canal-heights"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/cavalli-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"cavalli-estates"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/cavalli-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"cavalli-estates"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/chelsea-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"chelsea-residences"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/chelsea-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"chelsea-residences"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/couture-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"couture-by-cavalli"}
-[00:09:18.109] Browser DEBUG   ProjectCard href => /en/projects/damas/couture-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"couture-by-cavalli"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-bay-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-bay-by-cavalli"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-bay-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-bay-by-cavalli"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-district {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-district"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-district {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-district"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-majestine {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-majestine"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-majestine {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-majestine"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-residenze {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-residenze"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-residenze {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-residenze"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-riverside {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-riverside"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-riverside {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-riverside"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/volta {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"volta"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/volta {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"volta"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-2"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-2"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-3"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-3"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/evergreens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"evergreens"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/evergreens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"evergreens"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-gate-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-gate-2"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-gate-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-gate-2"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-town-at-damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-town-at-damac-hills"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-town-at-damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-town-at-damac-hills"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/harbour-lights-de-grisogono-geneve {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"harbour-lights-de-grisogono-geneve"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/harbour-lights-de-grisogono-geneve {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"harbour-lights-de-grisogono-geneve"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-hills"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-hills"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/safa-one-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"safa-one-de-grisogono"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/safa-one-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"safa-one-de-grisogono"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/vera-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"vera-residences"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/damas/vera-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"vera-residences"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/52-42 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"52-42"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/52-42 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"52-42"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/act-one-act-two-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"act-one-act-two-at-downtown-dubai"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/act-one-act-two-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"act-one-act-two-at-downtown-dubai"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-al-marjan-island"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-al-marjan-island"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-grand-downtown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-grand-downtown"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-grand-downtown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-grand-downtown"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-al-marjan-island"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-al-marjan-island"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-the-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-the-bay"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-the-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-the-bay"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-zabeel {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-zabeel"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-zabeel {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-zabeel"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-dubai-opera {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-dubai-opera"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-dubai-opera {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-dubai-opera"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/aurea-at-rashid-yachts-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"aurea-at-rashid-yachts-marina"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/aurea-at-rashid-yachts-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"aurea-at-rashid-yachts-marina"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/baystar-by-vida {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"baystar-by-vida"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/baystar-by-vida {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"baystar-by-vida"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/bayview-by-address-resorts-at-emaar-beachfront {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"bayview-by-address-resorts-at-emaar-beachfront"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/bayview-by-address-resorts-at-emaar-beachfront {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"bayview-by-address-resorts-at-emaar-beachfront"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-isle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-isle"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-isle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-isle"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-mansion {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-mansion"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-mansion {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-mansion"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-vista"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-vista"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beachgate-by-address {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beachgate-by-address"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/beachgate-by-address {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beachgate-by-address"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-heights-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-heights-at-downtown-dubai"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-heights-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-heights-at-downtown-dubai"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-point {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-point"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-point {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-point"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/burj-crown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"burj-crown"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/burj-crown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"burj-crown"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/downtown-views-ii {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"downtown-views-ii"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/downtown-views-ii {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"downtown-views-ii"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/forte {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"forte"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/forte {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"forte"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/grande-signature-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"grande-signature-residences"}
-[00:09:18.111] Browser DEBUG   ProjectCard href => /en/projects/emaar/grande-signature-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"grande-signature-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/il-primo {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"il-primo"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/il-primo {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"il-primo"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-cove-at-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-cove-at-dubai-marina"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-cove-at-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-cove-at-dubai-marina"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-shores {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-shores"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-shores {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-shores"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-vista"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-vista"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/opera-grand-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"opera-grand-at-downtown-dubai"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/opera-grand-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"opera-grand-at-downtown-dubai"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/south-beach {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"south-beach"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/south-beach {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"south-beach"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/sunrise-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"sunrise-bay"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/sunrise-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"sunrise-bay"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-bristol-luxury-hotels-resorts {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-bristol-luxury-hotels-resorts"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-bristol-luxury-hotels-resorts {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-bristol-luxury-hotels-resorts"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-oasis-by-emaar {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-oasis-by-emaar"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-oasis-by-emaar {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-oasis-by-emaar"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-residence-burj-khalifa {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-residence-burj-khalifa"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-residence-burj-khalifa {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-residence-burj-khalifa"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-st {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-st"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-st {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-st"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-dubai-mall {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-dubai-mall"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-dubai-mall {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-dubai-mall"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-residences-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-residences-dubai-marina"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-residences-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-residences-dubai-marina"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/vindera-at-the-valley {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vindera-at-the-valley"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/emaar/vindera-at-the-valley {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vindera-at-the-valley"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"dubai-islands"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"dubai-islands"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/bay-villas-dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"bay-villas-dubai-islands"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/bay-villas-dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"bay-villas-dubai-islands"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/canal-front-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"canal-front-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/canal-front-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"canal-front-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/club-vista-mare {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"club-vista-mare"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/club-vista-mare {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"club-vista-mare"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/como-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"como-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/como-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"como-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/discovery-gardens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"discovery-gardens"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/discovery-gardens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"discovery-gardens"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/district-one {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"district-one"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/district-one {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"district-one"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/golden-mile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"golden-mile"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/golden-mile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"golden-mile"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jebel-ali-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jebel-ali-village"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jebel-ali-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jebel-ali-village"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-heights"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-heights"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-islands"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-islands"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-park {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-park"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-park {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-park"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-circle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-circle"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-circle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-circle"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-triangle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-triangle"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-triangle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-triangle"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/marina-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"marina-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/marina-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"marina-residences"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/masakin-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"masakin-al-furjan"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/masakin-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"masakin-al-furjan"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/meydan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"meydan"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/meydan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"meydan"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/murooj-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"murooj-al-furjan"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/murooj-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"murooj-al-furjan"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/nad-al-sheba-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"nad-al-sheba-villas"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/nad-al-sheba-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"nad-al-sheba-villas"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jebel-ali {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jebel-ali"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jebel-ali {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jebel-ali"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jumeirah {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jumeirah"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jumeirah {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jumeirah"}
-[00:09:18.112] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palma-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palma-residences"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palma-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palma-residences"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/shoreline-apartments {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"shoreline-apartments"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/shoreline-apartments {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"shoreline-apartments"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/the-world-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"the-world-island"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/the-world-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"the-world-island"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/tilal-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"tilal-al-furjan"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/tilal-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"tilal-al-furjan"}
-[00:09:18.113] Browser DEBUG   ProjectCard href => /en/projects/nakheel/veneto {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"veneto"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/nakheel/veneto {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"veneto"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/nakheel/warsan-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"warsan-village"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/nakheel/warsan-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"warsan-village"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/creek-vistas-grande {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"creek-vistas-grande"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/creek-vistas-grande {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"creek-vistas-grande"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-aquamont {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-aquamont"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-aquamont {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-aquamont"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-estates"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-estates"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland-townhouses {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland-townhouses"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland-townhouses {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland-townhouses"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-gardenia-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-gardenia-villas"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-gardenia-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-gardenia-villas"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-seahaven {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-seahaven"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-seahaven {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-seahaven"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/eden {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"eden"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/eden {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"eden"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/the-tranquil {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"the-tranquil"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/sobha/the-tranquil {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"the-tranquil"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/altitude-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"altitude-de-grisogono"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/altitude-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"altitude-de-grisogono"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/aykon-city-tower-b {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"aykon-city-tower-b"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/aykon-city-tower-b {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"aykon-city-tower-b"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/belair-at-the-trump-estates-phase-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"belair-at-the-trump-estates-phase-2"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/belair-at-the-trump-estates-phase-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"belair-at-the-trump-estates-phase-2"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/canal-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"canal-heights"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/canal-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"canal-heights"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/cavalli-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"cavalli-estates"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/cavalli-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"cavalli-estates"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/chelsea-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"chelsea-residences"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/chelsea-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"chelsea-residences"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/couture-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"couture-by-cavalli"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/couture-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"couture-by-cavalli"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-bay-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-bay-by-cavalli"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-bay-by-cavalli {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-bay-by-cavalli"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-district {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-district"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-district {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-district"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-majestine {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-majestine"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-majestine {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-majestine"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-residenze {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-residenze"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-residenze {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-residenze"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-riverside {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-riverside"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-riverside {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-riverside"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/volta {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"volta"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/volta {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"volta"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-2"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-2"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-3"}
-[00:09:18.115] Browser DEBUG   ProjectCard href => /en/projects/damas/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"elo-3"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/evergreens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"evergreens"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/evergreens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"evergreens"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-gate-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-gate-2"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-gate-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-gate-2"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-town-at-damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-town-at-damac-hills"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/golf-town-at-damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"golf-town-at-damac-hills"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/harbour-lights-de-grisogono-geneve {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"harbour-lights-de-grisogono-geneve"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/harbour-lights-de-grisogono-geneve {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"harbour-lights-de-grisogono-geneve"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-hills"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/damac-hills {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"damac-hills"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/safa-one-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"safa-one-de-grisogono"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/safa-one-de-grisogono {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"safa-one-de-grisogono"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/vera-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"vera-residences"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/damas/vera-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damas","slug":"vera-residences"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/52-42 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"52-42"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/52-42 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"52-42"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/act-one-act-two-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"act-one-act-two-at-downtown-dubai"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/act-one-act-two-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"act-one-act-two-at-downtown-dubai"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-al-marjan-island"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-al-marjan-island"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-grand-downtown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-grand-downtown"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-grand-downtown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-grand-downtown"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-al-marjan-island"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-al-marjan-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-al-marjan-island"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-the-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-the-bay"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-the-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-the-bay"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-zabeel {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-zabeel"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-zabeel {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-zabeel"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-dubai-opera {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-dubai-opera"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/address-residences-dubai-opera {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"address-residences-dubai-opera"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/aurea-at-rashid-yachts-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"aurea-at-rashid-yachts-marina"}
-[00:09:18.116] Browser DEBUG   ProjectCard href => /en/projects/emaar/aurea-at-rashid-yachts-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"aurea-at-rashid-yachts-marina"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/baystar-by-vida {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"baystar-by-vida"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/baystar-by-vida {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"baystar-by-vida"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/bayview-by-address-resorts-at-emaar-beachfront {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"bayview-by-address-resorts-at-emaar-beachfront"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/bayview-by-address-resorts-at-emaar-beachfront {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"bayview-by-address-resorts-at-emaar-beachfront"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-isle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-isle"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-isle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-isle"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-mansion {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-mansion"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-mansion {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-mansion"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-vista"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beach-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beach-vista"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beachgate-by-address {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beachgate-by-address"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/beachgate-by-address {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"beachgate-by-address"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-heights-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-heights-at-downtown-dubai"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-heights-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-heights-at-downtown-dubai"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-point {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-point"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/boulevard-point {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"boulevard-point"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/burj-crown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"burj-crown"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/burj-crown {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"burj-crown"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/downtown-views-ii {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"downtown-views-ii"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/downtown-views-ii {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"downtown-views-ii"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/forte {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"forte"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/forte {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"forte"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/grande-signature-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"grande-signature-residences"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/grande-signature-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"grande-signature-residences"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/il-primo {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"il-primo"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/il-primo {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"il-primo"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-cove-at-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-cove-at-dubai-marina"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-cove-at-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-cove-at-dubai-marina"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-shores {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-shores"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-shores {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-shores"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-vista"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/marina-vista {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"marina-vista"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/opera-grand-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"opera-grand-at-downtown-dubai"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/opera-grand-at-downtown-dubai {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"opera-grand-at-downtown-dubai"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/south-beach {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"south-beach"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/south-beach {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"south-beach"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/sunrise-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"sunrise-bay"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/sunrise-bay {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"sunrise-bay"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-bristol-luxury-hotels-resorts {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-bristol-luxury-hotels-resorts"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-bristol-luxury-hotels-resorts {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-bristol-luxury-hotels-resorts"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-oasis-by-emaar {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-oasis-by-emaar"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-oasis-by-emaar {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-oasis-by-emaar"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-residence-burj-khalifa {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-residence-burj-khalifa"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-residence-burj-khalifa {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-residence-burj-khalifa"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-st {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-st"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/the-st {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"the-st"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-dubai-mall {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-dubai-mall"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-dubai-mall {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-dubai-mall"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-residences-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-residences-dubai-marina"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/vida-residences-dubai-marina {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vida-residences-dubai-marina"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/vindera-at-the-valley {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vindera-at-the-valley"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/emaar/vindera-at-the-valley {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"vindera-at-the-valley"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"dubai-islands"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"dubai-islands"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/bay-villas-dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"bay-villas-dubai-islands"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/bay-villas-dubai-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"bay-villas-dubai-islands"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/canal-front-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"canal-front-residences"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/canal-front-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"canal-front-residences"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/club-vista-mare {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"club-vista-mare"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/club-vista-mare {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"club-vista-mare"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/como-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"como-residences"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/como-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"como-residences"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/discovery-gardens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"discovery-gardens"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/discovery-gardens {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"discovery-gardens"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/district-one {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"district-one"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/district-one {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"district-one"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/golden-mile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"golden-mile"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/golden-mile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"golden-mile"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jebel-ali-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jebel-ali-village"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jebel-ali-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jebel-ali-village"}
-[00:09:18.120] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-heights"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-heights {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-heights"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-islands"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-islands {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-islands"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-park {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-park"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-park {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-park"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-circle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-circle"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-circle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-circle"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-triangle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-triangle"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/jumeirah-village-triangle {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"jumeirah-village-triangle"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/marina-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"marina-residences"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/marina-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"marina-residences"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/masakin-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"masakin-al-furjan"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/masakin-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"masakin-al-furjan"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/meydan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"meydan"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/meydan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"meydan"}
-[00:09:18.121] Browser DEBUG   ProjectCard href => /en/projects/nakheel/murooj-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"murooj-al-furjan"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/murooj-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"murooj-al-furjan"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/nad-al-sheba-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"nad-al-sheba-villas"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/nad-al-sheba-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"nad-al-sheba-villas"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jebel-ali {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jebel-ali"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jebel-ali {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jebel-ali"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jumeirah {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jumeirah"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palm-jumeirah {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palm-jumeirah"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palma-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palma-residences"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/palma-residences {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"palma-residences"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/shoreline-apartments {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"shoreline-apartments"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/shoreline-apartments {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"shoreline-apartments"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/the-world-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"the-world-island"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/the-world-island {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"the-world-island"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/tilal-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"tilal-al-furjan"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/tilal-al-furjan {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"tilal-al-furjan"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/veneto {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"veneto"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/veneto {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"veneto"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/warsan-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"warsan-village"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/nakheel/warsan-village {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"warsan-village"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/creek-vistas-grande {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"creek-vistas-grande"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/creek-vistas-grande {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"creek-vistas-grande"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-aquamont {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-aquamont"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-aquamont {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-aquamont"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-estates"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-estates {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-estates"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland-townhouses {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland-townhouses"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland-townhouses {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland-townhouses"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-gardenia-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-gardenia-villas"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-gardenia-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-gardenia-villas"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-hartland {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-hartland"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-seahaven {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-seahaven"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/sobha-seahaven {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"sobha-seahaven"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/eden {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"eden"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/eden {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"eden"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/the-tranquil {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"the-tranquil"}
-[00:09:18.122] Browser DEBUG   ProjectCard href => /en/projects/sobha/the-tranquil {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"the-tranquil"}
-[00:09:18.122] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/6thLwXKrSicTFf6HyhNQvW/86e09b03c426f8f98d580a38b1c155b3/AYKON_CITY_-_TOWER_B-Homepage_Hero_16x9.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:18.122] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/3ACFCoKPvL8GqiFqFx2OpS/d552a0e2d40ed28eb708aef5c36a5add/Chelsea_Residences-Homepage_Hero_16x9.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:18.122] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/4ktEnjPvHFLUK8p3D27FTa/32f635f7474b15c0baa945a8a08dbf63/Couture_by_Cavalli-Homepage_Hero_16x9-1_1.webp" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:18.258] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/3VkbkR33jbCjnhKneNXn7F/872cad678abcd72d6ab8f0232d980fe0/Homepage_Hero_16x9-1__13__1.webp" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:18.755] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/7yii6OkhdLpQpvS3ggSlVB/22cd2decdbe7d419530845778395ca48/3BR_05_-_DAMAC_Bay_2.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:21.009] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/VuxuiXv1Sgl4bFZ3tFXC5/65068b5e2d28973083fd4538384b2a2d/Gallery_Collaborations_Trump_1.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/3BMc15bYR5mXPWDIG1cVX6/346ab79ae5713c75fac7b774383cfa9a/Damac_Bay-Homepage_Hero_16x9_1.webp" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/1RKuF30Gz8uRLsdRODSNep/a156932dff705e6a6094a00dd0390db9/DAMAC_Majestine-Homepage_Hero_16x9.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/9KdIztI3bv5N3ndJeRxvy/d6295383558a89716f2c671edffe8d5b/703270586-653x685-en.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/1JaYgqMZQP4uqYslyJ0osF/9b91cc1e66174dee5618f2e5f7f57522/653x685-AR__24_.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/05cwlAz28n5EGdTz2YUlq/37d5f6f80f6c8ec51ce0c1f7cf17916d/653x685-AR__6_.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/l6zTWR8jVhGFIhJly9uC6/eef02e624943e0c924906635aeed73fc/Volta-Homepage_Hero_16x9.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:23.664] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/5MBvocOWsMkp8rQtswSOG2/487cbe2a42abdfd7d6bd42923c7ee5d8/DAMAC_Residenze-Homepage_Hero_9x16.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:30.157] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/2NFLwkvZi9w04y7Uc13ud7/3d55b8084862312f08b4095926759f8e/44_Evergreens_-_AR.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:30.477] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/5NKzeIGVvXpl9CkJbZ1hfk/1cf2195f3ac046aa2cdbbd07af0a9d66/kiara-at-damac-hills-hero-image-mobile.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:30.477] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/5rXDVVoaR9OS44nglv9omM/c147abedd9e1f2734b267d7923215edc/653x685-Mob-AR.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:30.477] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/8C3foJbzVocIKqMtsZun2/0a8e46822ad52ac0d1d8cc5023a18277/vera-residences-hero-image-mobile.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:30.801] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/52_42_HERO_NIGHT-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:31.351] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/3IXi7C38MtNvDXuXskoxWo/91dac189a096174bc33c13b82e25aa95/Harbour_Lights-Homepage_Hero_16x9-1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:31.351] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/6LvPgv4wbpPwOyScwLk2do/6cc4b016dccd5b18a4a0c6e4b98f1390/golf-town-at-damac-hills.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:32.282] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/2USlFD8x74dSu9re1GcmW4/65c466e6ad9e54bc810b66ce4fe85cb6/Safa_One_de_GRISOGONO-Homepage_Hero_16x9-1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:35.437] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/ACT_ONE_ACT_TWO_HERO-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:35.850] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HERO-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:35.850] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/HERO-IMAGE_1620X832_01-4-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.207] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/706x385_Feat_Image-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.207] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/BEACHGATE_EBF_LANDING_PAGE_HERO-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.207] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/BURJ_CROWN_HERO-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.207] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/HERO_1620X832_1-2.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.207] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_2-1-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.207] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BEACH_VISTA_HER-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.309] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2021/10/1620X832_01-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.891] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Hero-Image-1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.891] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_HERO_E_1620x832.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:36.891] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait-320x415.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.907] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/POV02-G-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.907] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/HERO_1620X832_3-2.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.907] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_1-1620x740.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.907] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/B05_Beachfront_Cam_10-resize-706x385.jpeg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BOULEVARD_POINT-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-04-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/FORTE_DOWNTOWN_DUBAI-2-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/V07-op2-resize-scaled-1-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_GrandeDowntown_CGI03-TheTower_07-edit-2-1-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2024/10/MARINA_COVE_1620X832-706x385.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/B16_Ext_Cam07-resize-706x385.jpeg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:38.908] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/OPERA_GRAND_BALCONY-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2021/03/706x385-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_HERO-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/ST_REGIS-HERO-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2025/01/HERO_1620X832_1-2-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Dubai-Harbour-PLOT-18_cam_03-resize-706x385.jpeg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/B16_Ext_Cam05-edit_brunette-resize-706x385.jpeg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2022/10/THE_RESIDENCE_BK_WEBSITE_HERO-2-706x385.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:44.889] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_1620-x-832-1620x832.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:46.136] Browser WARN    Image with src "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/bay-grove-residences9617b604-2d85-4253-aa5a-de2e2c356486.jpg?sfvrsn=e0931b5b_1" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:46.136] Browser WARN    Image with src "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/desktop-02-100.jpg?sfvrsn=f97bb765_3" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:46.136] Browser WARN    Image with src "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:46.136] Browser WARN    Image with src "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/como-residencesba2d50b8-c2c1-4897-9ca6-c26cdba91c08.jpg?sfvrsn=fdbc2dc2_1" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:47.270] Browser WARN    Image with src "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4802.jpg?sfvrsn=7e6ca66f_3" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:47.885] Browser WARN    Image with src "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/HERO_1620X832_1-2.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:09:50.830] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/nakheelcorporatelibraries/spotlight/cf7-and-cf83.jpg?sfvrsn=4ad7828b_3" "received" null
-[00:11:59.290] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:11:59.291] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:11:59.707] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[00:11:59.709] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[00:11:59.711] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[00:11:59.716] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[00:11:59.724] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[00:12:01.267] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[00:12:03.900] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:12:03.901] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:12:03.965] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[00:12:03.967] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[00:12:03.970] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[00:12:03.977] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[00:12:03.979] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[00:12:04.447] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[00:12:06.824] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[00:12:06.825] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[00:12:06.887] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[00:12:06.896] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[00:12:06.918] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[00:12:06.924] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[00:12:06.928] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[00:12:07.344] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:12:07.344] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:12:07.344] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:12:07.344] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:12:07.344] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:12:07.344] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[00:12:07.344] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:01:43.409] Server  LOG      ✓ Compiled in 2.1s
-[01:01:46.547] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:01:46.547] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:01:47.051] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[01:01:47.054] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[01:01:47.063] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[01:01:47.065] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[01:01:47.068] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[01:01:47.142] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:01:47.142] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:01:48.700] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:01:53.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:01:55.543] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:01:55.543] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:01:55.574] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[01:01:55.579] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[01:01:55.587] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:01:55.596] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[01:01:55.600] Server  LOG     ✅ Loaded 1 projects from binghatti
-[01:01:55.605] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:01:55.607] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[01:01:55.608] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:01:55.611] Server  LOG     ✅ Loaded 1 projects from damac
-[01:01:55.613] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:01:55.614] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[01:01:55.616] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:01:55.617] Server  LOG     ✅ Loaded 1 projects from emaar
-[01:01:55.618] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:01:55.619] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[01:01:55.620] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:01:55.623] Server  LOG     ✅ Loaded 1 projects from nakheel
-[01:01:55.624] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:01:55.624] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[01:01:55.626] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:01:55.627] Server  LOG     ✅ Loaded 1 projects from sobha
-[01:01:55.627] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[01:01:56.024] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[01:01:56.028] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[01:01:56.047] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[01:01:56.049] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[01:01:56.054] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[01:04:35.457] Server  LOG      ✓ Compiled in 235ms
-[01:04:39.183] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:04:39.188] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:04:39.503] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[01:04:39.508] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[01:04:39.518] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[01:04:39.520] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[01:04:39.523] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[01:04:41.167] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:04:47.052] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:04:48.612] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:04:48.613] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:04:48.635] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[01:04:48.635] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[01:04:48.639] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:04:48.643] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[01:04:48.646] Server  LOG     ✅ Loaded 1 projects from binghatti
-[01:04:48.693] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:04:48.694] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[01:04:48.694] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:04:48.695] Server  LOG     ✅ Loaded 1 projects from damac
-[01:04:48.709] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:04:48.709] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[01:04:48.722] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:04:48.723] Server  LOG     ✅ Loaded 1 projects from emaar
-[01:04:48.723] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:04:48.724] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[01:04:48.738] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:04:48.738] Server  LOG     ✅ Loaded 1 projects from nakheel
-[01:04:48.739] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:04:48.739] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[01:04:48.740] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:04:48.752] Server  LOG     ✅ Loaded 1 projects from sobha
-[01:04:48.752] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[01:04:48.983] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[01:04:48.986] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[01:04:49.016] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[01:04:49.024] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[01:04:49.031] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[01:05:11.681] Server  LOG      ✓ Compiled in 320ms
-[01:05:13.582] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:05:13.582] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:05:14.058] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[01:05:14.060] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[01:05:14.066] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[01:05:14.079] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[01:05:14.091] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[01:05:14.598] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:05:19.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:05:20.158] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:05:20.158] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:05:20.200] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[01:05:20.200] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[01:05:20.201] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:05:20.203] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[01:05:20.204] Server  LOG     ✅ Loaded 1 projects from binghatti
-[01:05:20.205] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:05:20.205] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[01:05:20.207] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:05:20.209] Server  LOG     ✅ Loaded 1 projects from damac
-[01:05:20.211] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:05:20.211] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[01:05:20.215] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:05:20.216] Server  LOG     ✅ Loaded 1 projects from emaar
-[01:05:20.216] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:05:20.217] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[01:05:20.218] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:05:20.218] Server  LOG     ✅ Loaded 1 projects from nakheel
-[01:05:20.219] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:05:20.219] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[01:05:20.220] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:05:20.222] Server  LOG     ✅ Loaded 1 projects from sobha
-[01:05:20.222] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[01:05:20.464] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[01:05:20.468] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[01:05:20.495] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[01:05:20.499] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[01:05:20.506] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[01:06:21.968] Server  LOG      ✓ Compiled in 610ms
-[01:06:47.027] Server  LOG      ✓ Compiled in 683ms
-[01:07:21.969] Server  LOG      ✓ Compiled in 1000ms
-[01:07:24.169] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:07:24.169] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:07:25.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:25.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:25.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:25.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:07:25.936] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:07:25.936] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[01:07:34.555] Server  LOG      ✓ Compiled in 527ms
-[01:07:35.043] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:07:35.043] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:07:35.530] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:07:35.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:35.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:35.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:35.936] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:07:35.936] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:08:21.952] Server  LOG      ✓ Compiled in 361ms
-[01:08:24.379] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:08:24.379] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:08:25.939] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:25.939] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:25.939] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:25.939] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:08:25.939] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:08:53.257] Server  LOG      ✓ Compiled in 417ms
-[01:08:55.577] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:08:55.577] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:08:56.935] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:56.935] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:56.935] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:56.935] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:12:02.691] Server  LOG      ✓ Compiled in 1179ms
-[01:12:06.071] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:12:06.071] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:12:06.095] Server  LOG     🔄 Loading all projects (cache miss)
-[01:12:06.099] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[01:12:06.100] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[01:12:06.101] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:06.108] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[01:12:06.108] Server  LOG     ✅ Loaded 1 projects from binghatti
-[01:12:06.114] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:06.114] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[01:12:06.117] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:06.118] Server  LOG     ✅ Loaded 1 projects from damac
-[01:12:06.121] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:06.123] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[01:12:06.124] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:06.124] Server  LOG     ✅ Loaded 1 projects from emaar
-[01:12:06.125] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:06.125] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[01:12:06.126] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:06.126] Server  LOG     ✅ Loaded 1 projects from nakheel
-[01:12:06.127] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:06.129] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[01:12:06.130] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:06.131] Server  LOG     ✅ Loaded 1 projects from sobha
-[01:12:06.131] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[01:12:06.353] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[01:12:06.357] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[01:12:06.363] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[01:12:06.366] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[01:12:06.368] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[01:12:07.763] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:12:12.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:14.700] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:12:14.701] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:12:14.715] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[01:12:14.715] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[01:12:14.716] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:14.718] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[01:12:14.718] Server  LOG     ✅ Loaded 1 projects from binghatti
-[01:12:14.719] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:14.720] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[01:12:14.720] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:14.721] Server  LOG     ✅ Loaded 1 projects from damac
-[01:12:14.722] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:14.723] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[01:12:14.724] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:14.724] Server  LOG     ✅ Loaded 1 projects from emaar
-[01:12:14.725] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:14.726] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[01:12:14.729] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:14.730] Server  LOG     ✅ Loaded 1 projects from nakheel
-[01:12:14.733] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:12:14.733] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[01:12:14.735] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:12:14.737] Server  LOG     ✅ Loaded 1 projects from sobha
-[01:12:14.738] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[01:12:15.033] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[01:12:15.054] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[01:12:15.133] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[01:12:15.142] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[01:12:15.171] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
-[01:12:42.191] Server  LOG      ✓ Compiled in 1113ms
-[01:13:18.714] Server  LOG      ✓ Compiled in 2.1s
-[01:13:20.450] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:20.450] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:21.217] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:21.218] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:21.726] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:21.726] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:22.215] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:22.215] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:23.503] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:23.503] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:24.770] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
-[01:13:24.941] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[01:13:29.416] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:29.417] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:29.524] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:29.525] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:29.551] Server  LOG      ✓ Compiled in 0ms
-[01:13:29.831] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
-[01:13:29.845] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
-[01:13:29.853] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
-[01:13:29.855] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
-[01:13:29.857] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
-[01:13:30.401] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
-[01:13:34.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:13:35.944] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
-[01:13:35.944] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
-[01:13:35.964] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
-[01:13:35.968] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
-[01:13:35.971] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:13:35.978] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
-[01:13:35.978] Server  LOG     ✅ Loaded 1 projects from binghatti
-[01:13:35.982] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:13:35.984] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
-[01:13:35.986] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:13:35.993] Server  LOG     ✅ Loaded 1 projects from damac
-[01:13:35.994] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:13:35.995] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
-[01:13:35.996] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:13:35.999] Server  LOG     ✅ Loaded 1 projects from emaar
-[01:13:36.000] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:13:36.000] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
-[01:13:36.001] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:13:36.001] Server  LOG     ✅ Loaded 1 projects from nakheel
-[01:13:36.004] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
-[01:13:36.005] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
-[01:13:36.005] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
-[01:13:36.009] Server  LOG     ✅ Loaded 1 projects from sobha
-[01:13:36.009] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
-[01:13:36.322] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
-[01:13:36.327] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
-[01:13:36.346] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
-[01:13:36.348] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
-[01:13:36.353] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
+[00:00:02.163] Server  LOG      ✓ Ready in 1799ms
+[00:00:07.447] Server  LOG      ○ Compiling /[locale]/projects ...
+[00:00:07.664] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:07.668] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:07.668] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:07.668] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:07.668] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:07.669] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:07.669] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:07.669] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:07.669] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:07.671] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:07.672] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:07.673] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:07.673] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:07.673] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:07.673] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:07.673] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:07.674] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:07.675] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:07.675] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:13.867] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:13.868] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:14.146] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
+[00:00:14.148] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
+[00:00:14.151] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
+[00:00:14.152] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
+[00:00:14.154] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
+[00:00:14.189] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:14.189] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:14.200] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
+[00:00:14.200] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
+[00:00:14.201] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:14.202] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
+[00:00:14.203] Server  LOG     ✅ Loaded 1 projects from binghatti
+[00:00:14.203] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:14.203] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
+[00:00:14.204] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:14.204] Server  LOG     ✅ Loaded 1 projects from damac
+[00:00:14.205] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:14.205] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
+[00:00:14.206] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:14.207] Server  LOG     ✅ Loaded 1 projects from emaar
+[00:00:14.207] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:14.208] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
+[00:00:14.208] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:14.209] Server  LOG     ✅ Loaded 1 projects from nakheel
+[00:00:14.209] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:14.210] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
+[00:00:14.211] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:14.211] Server  LOG     ✅ Loaded 1 projects from sobha
+[00:00:14.212] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
+[00:00:14.281] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
+[00:00:14.282] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
+[00:00:14.289] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
+[00:00:14.291] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
+[00:00:14.293] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
+[00:00:18.664] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:18.665] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:18.781] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
+[00:00:18.783] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
+[00:00:18.793] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
+[00:00:18.795] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
+[00:00:18.797] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
+[00:00:19.519] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.519] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:19.519] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:19.519] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:19.519] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:19.519] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:19.519] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:32.027] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:32.027] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:35.418] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:35.418] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:35.418] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:35.418] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:35.529] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:35.529] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:38.124] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:38.125] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:38.195] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
+[00:00:38.198] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
+[00:00:38.217] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
+[00:00:38.219] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
+[00:00:38.221] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
+[00:00:39.070] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
+[00:00:39.258] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:39.258] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:39.258] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:39.258] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:39.258] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[00:00:39.259] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:39.259] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[00:00:39.259] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:39.259] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[00:00:39.259] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[00:00:39.259] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}

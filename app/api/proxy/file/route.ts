@@ -90,10 +90,9 @@ async function proxy(method: 'GET'|'HEAD', req: Request) {
     return new NextResponse('Forbidden target', { status: 403 });
   }
 
-  // لمنع Open Redirect، لا تقم بإعادة التوجيه - بدلاً من ذلك، قم بالبروكسي دائمًا
-  // if (shouldSkipProxy((target.hostname || '').toLowerCase())) {
-  //   return NextResponse.redirect(target.toString(), 302);
-  // }
+  // ✅ للنطاقات الموثوقة: نجلب المحتوى بدلاً من redirect (أمان أفضل + CORS)
+  // لن نستخدم redirect لتجنب Open Redirect vulnerability
+  // نقوم بالـ proxy لجميع الطلبات مع التخزين المؤقت المناسب
 
   // جهّز طلب upstream
   const incoming = new Headers(req.headers);
