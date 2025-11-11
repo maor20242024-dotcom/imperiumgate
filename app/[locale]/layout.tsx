@@ -1,5 +1,6 @@
 import AIConcierge from '@/components/ui/AIConcierge'
 import RouteProgress from '@/components/ui/RouteProgress'
+import SplashScreen from '@/components/ui/SplashScreen'
 import { getDictionary } from '@/lib/i18n'
 import { i18n } from '@/lib/i18n-config'
 import type { Metadata } from 'next'
@@ -51,6 +52,7 @@ export default async function LocaleLayout({
         className={`${inter.variable} ${amiri.variable} ${tajawal.variable} font-sans antialiased`}
       >
         <RouteProgress />
+        <SplashScreen />
         {children}
         {/* مساعد الذكاء الاصطناعي في جميع الصفحات */}
         <AIConcierge locale={locale as 'ar' | 'en'} />

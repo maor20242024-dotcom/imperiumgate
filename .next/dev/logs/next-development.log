@@ -965,3 +965,144 @@
 [01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
 [01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
 [01:08:56.935] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[01:12:02.691] Server  LOG      ✓ Compiled in 1179ms
+[01:12:06.071] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:12:06.071] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:12:06.095] Server  LOG     🔄 Loading all projects (cache miss)
+[01:12:06.099] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
+[01:12:06.100] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
+[01:12:06.101] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:06.108] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
+[01:12:06.108] Server  LOG     ✅ Loaded 1 projects from binghatti
+[01:12:06.114] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:06.114] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
+[01:12:06.117] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:06.118] Server  LOG     ✅ Loaded 1 projects from damac
+[01:12:06.121] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:06.123] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
+[01:12:06.124] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:06.124] Server  LOG     ✅ Loaded 1 projects from emaar
+[01:12:06.125] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:06.125] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
+[01:12:06.126] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:06.126] Server  LOG     ✅ Loaded 1 projects from nakheel
+[01:12:06.127] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:06.129] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
+[01:12:06.130] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:06.131] Server  LOG     ✅ Loaded 1 projects from sobha
+[01:12:06.131] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
+[01:12:06.353] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
+[01:12:06.357] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
+[01:12:06.363] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
+[01:12:06.366] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
+[01:12:06.368] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
+[01:12:07.763] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
+[01:12:12.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:14.700] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:12:14.701] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:12:14.715] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
+[01:12:14.715] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
+[01:12:14.716] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:14.718] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
+[01:12:14.718] Server  LOG     ✅ Loaded 1 projects from binghatti
+[01:12:14.719] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:14.720] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
+[01:12:14.720] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:14.721] Server  LOG     ✅ Loaded 1 projects from damac
+[01:12:14.722] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:14.723] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
+[01:12:14.724] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:14.724] Server  LOG     ✅ Loaded 1 projects from emaar
+[01:12:14.725] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:14.726] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
+[01:12:14.729] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:14.730] Server  LOG     ✅ Loaded 1 projects from nakheel
+[01:12:14.733] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:12:14.733] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
+[01:12:14.735] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:12:14.737] Server  LOG     ✅ Loaded 1 projects from sobha
+[01:12:14.738] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
+[01:12:15.033] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
+[01:12:15.054] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
+[01:12:15.133] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
+[01:12:15.142] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
+[01:12:15.171] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}
+[01:12:42.191] Server  LOG      ✓ Compiled in 1113ms
+[01:13:18.714] Server  LOG      ✓ Compiled in 2.1s
+[01:13:20.450] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:20.450] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:21.217] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:21.218] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:21.726] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:21.726] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:22.215] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:22.215] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:23.503] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:23.503] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:24.770] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
+[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[01:13:24.941] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. provider-profile
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/binghatti/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"binghatti","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/damac/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"damac","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/emaar/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"emaar","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/nakheel/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"nakheel","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[01:13:24.941] Browser DEBUG   ProjectCard href => /en/projects/sobha/provider-profile {"USE_DEVELOPER_SEGMENT":true,"devSeg":"sobha","slug":"provider-profile"}
+[01:13:24.941] Browser WARN    Image with src "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:13:29.416] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:29.417] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:29.524] Server  WARN    Error: Route "/[locale]/projects" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:29.525] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:29.551] Server  LOG      ✓ Compiled in 0ms
+[01:13:29.831] Server  DEBUG   ProjectCard href => "/en/projects/binghatti/provider-profile" {}
+[01:13:29.845] Server  DEBUG   ProjectCard href => "/en/projects/damac/provider-profile" {}
+[01:13:29.853] Server  DEBUG   ProjectCard href => "/en/projects/emaar/provider-profile" {}
+[01:13:29.855] Server  DEBUG   ProjectCard href => "/en/projects/nakheel/provider-profile" {}
+[01:13:29.857] Server  DEBUG   ProjectCard href => "/en/projects/sobha/provider-profile" {}
+[01:13:30.401] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/brand/imperium-gate.png" "received" null
+[01:13:34.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:35.944] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:13:35.944] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[01:13:35.964] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
+[01:13:35.968] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
+[01:13:35.971] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:13:35.978] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
+[01:13:35.978] Server  LOG     ✅ Loaded 1 projects from binghatti
+[01:13:35.982] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:13:35.984] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
+[01:13:35.986] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:13:35.993] Server  LOG     ✅ Loaded 1 projects from damac
+[01:13:35.994] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:13:35.995] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
+[01:13:35.996] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:13:35.999] Server  LOG     ✅ Loaded 1 projects from emaar
+[01:13:36.000] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:13:36.000] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
+[01:13:36.001] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:13:36.001] Server  LOG     ✅ Loaded 1 projects from nakheel
+[01:13:36.004] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[01:13:36.005] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
+[01:13:36.005] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[01:13:36.009] Server  LOG     ✅ Loaded 1 projects from sobha
+[01:13:36.009] Server  LOG     🚀 DYNAMIC LOADING: Total 5 projects loaded from individual JSON files
+[01:13:36.322] Server  DEBUG   ProjectCard href => "/ar/projects/binghatti/provider-profile" {}
+[01:13:36.327] Server  DEBUG   ProjectCard href => "/ar/projects/damac/provider-profile" {}
+[01:13:36.346] Server  DEBUG   ProjectCard href => "/ar/projects/emaar/provider-profile" {}
+[01:13:36.348] Server  DEBUG   ProjectCard href => "/ar/projects/nakheel/provider-profile" {}
+[01:13:36.353] Server  DEBUG   ProjectCard href => "/ar/projects/sobha/provider-profile" {}

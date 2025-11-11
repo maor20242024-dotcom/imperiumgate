@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/imperiumgate/app/%5Blocale%5D/loading.tsx"],"sourcesContent":["import SplashScreen from '@/components/ui/SplashScreen';\n\nexport default function Loading() {\n  return <SplashScreen />;\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC,4IAAY;;;;;AACtB","debugId":null}}]
+}
