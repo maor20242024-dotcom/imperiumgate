@@ -43,9 +43,20 @@ const nextConfig = {
       { protocol: 'https', hostname: 'nakheel.com' },
       { protocol: 'https', hostname: 'www.nakheel.com' },
       { protocol: 'https', hostname: 'nakheel-aut.sitefinity.cloud' },
+      // Binghatti domains
+      { protocol: 'https', hostname: 'binghatti.com' },
+      { protocol: 'https', hostname: 'www.binghatti.com' },
+      { protocol: 'https', hostname: 'binghattiweb.imgix.net' },
+      // DAMAC domains
+      { protocol: 'https', hostname: 'damacproperties.com' },
+      { protocol: 'https', hostname: 'www.damacproperties.com' },
+      { protocol: 'https', hostname: 'prod-cdn.damacproperties.com' },
+      { protocol: 'https', hostname: 'cdn.damacproperties.com' },
+      // Image CDNs
       { protocol: 'https', hostname: 'res.cloudinary.com' },
       { protocol: 'https', hostname: 'storage.googleapis.com' },
       { protocol: 'https', hostname: 'i.ytimg.com' },
+      { protocol: 'https', hostname: 'img.youtube.com' },
       // External APIs for 3D tours
       { protocol: 'https', hostname: 'aframe.io' },
       { protocol: 'https', hostname: 'cdn.aframe.io' },
