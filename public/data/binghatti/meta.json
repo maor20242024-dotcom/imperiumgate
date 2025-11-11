@@ -1,0 +1,466 @@
+{
+  "developer": {
+    "ar": "بن غاطي",
+    "en": "Binghatti"
+  },
+  "slug": "binghatti",
+  "description": {
+    "ar": "شركة بن غاطي العقارية - مطور عقاري رائد في دبي متخصص في المشاريع السكنية الفاخرة والمبتكرة",
+    "en": "Binghatti Properties - Leading Dubai real estate developer specializing in luxurious and innovative residential projects"
+  },
+  "logo": "/brand/developers/binghatti-logo.svg",
+  "website": "https://www.binghatti.com",
+  "contact": {
+    "phone": "971556628972",
+    "email": "info@binghatti.com",
+    "whatsapp": "https://wa.me/971556628972"
+  },
+  "statistics": {
+    "totalProjects": 31,
+    "totalUnits": 5200,
+    "locations": [
+      "Al Barasha South Second",
+      "Al Hebiah Fourth",
+      "Business Bay",
+      "Downtown Dubai",
+      "Jumeirah Village Circle"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "al-barasha-south-second",
+      "name": {
+        "ar": "البرشاء الجنوبية الثانية",
+        "en": "Al Barasha South Second"
+      },
+      "status": "under-construction",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "البرشاء الجنوبية الثانية",
+        "en": "Al Barasha South Second"
+      }
+    },
+    {
+      "slug": "al-hebiah-fourth",
+      "name": {
+        "ar": "البيئة الرابعة",
+        "en": "Al Hebiah Fourth"
+      },
+      "status": "under-construction",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "البيئة الرابعة",
+        "en": "Al Hebiah Fourth"
+      }
+    },
+    {
+      "slug": "binghatti-amberhall",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Amberhall"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-aquarise",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Aquarise"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "slug": "binghatti-aurora",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Aurora"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-circle",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Circle"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-dawn",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Dawn"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-dusk",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Dusk"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1
+      ]
+    },
+    {
+      "slug": "binghatti-elite",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Elite"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1
+      ]
+    },
+    {
+      "slug": "binghatti-flare",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Flare"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "slug": "binghatti-ghost",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Ghost"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-grove",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Grove"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-haven",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Haven"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-hills",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Hills"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-hillside",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Hillside"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1
+      ]
+    },
+    {
+      "slug": "binghatti-hillviews",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Hillviews"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-ivory",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Ivory"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-moonlight",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Moonlight"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-phoenix",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Phoenix"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-pinnacle",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Pinnacle"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-royale",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Royale"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-ruby",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Ruby"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-skyblade",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Skyblade"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-skyhall",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Skyhall"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1
+      ]
+    },
+    {
+      "slug": "binghatti-skyrise",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Skyrise"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "binghatti-starlight",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Starlight"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "binghatti-twilight",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Twilight"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "business-bay",
+      "name": {
+        "ar": "الخليج التجاري",
+        "en": "Business Bay"
+      },
+      "status": "under-construction",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "الخليج التجاري",
+        "en": "Business Bay"
+      }
+    },
+    {
+      "slug": "downtown-dubai",
+      "name": {
+        "ar": "وسط مدينة دبي",
+        "en": "Downtown Dubai"
+      },
+      "status": "under-construction",
+      "bedrooms": [
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "وسط مدينة دبي",
+        "en": "Downtown Dubai"
+      }
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": {
+        "ar": "قرية جميرا الدائرية",
+        "en": "Jumeirah Village Circle"
+      },
+      "status": "under-construction",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "قرية جميرا الدائرية",
+        "en": "Jumeirah Village Circle"
+      }
+    },
+    {
+      "slug": "one-by-binghatti",
+      "name": {
+        "ar": null,
+        "en": "One by Binghatti"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "lastUpdated": "2025-11-10T19:01:18.081Z"
+}

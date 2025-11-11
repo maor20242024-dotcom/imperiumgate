@@ -1,0 +1,35 @@
+{
+  "name": "imperiumgate-data-extraction",
+  "version": "1.0.0",
+  "description": "أدوات استخراج البيانات من مواقع المطورين العقاريين - منفصلة تماماً عن المشروع الرئيسي",
+  "type": "module",
+  "scripts": {
+    "extract:damac": "node damac/extract-damac.js",
+    "extract:damac-list": "node damac/extract-list.js",
+    "extract:damac-advanced": "node damac/extract-advanced.js",
+    "extract:damac-optimized": "node damac/extract-optimized.js",
+    "extract:damac-communities": "node damac/extract-from-communities.js",
+    "extract:damac-single": "node damac/extract-single-project.js",
+    "extract:damac-full": "node damac/extract-damac-full.js",
+    "extract:missing-cleanup": "node damac/extract-missing-and-cleanup.js",
+    "compare:damac": "node damac/compare-with-existing.js",
+    "test:damac": "node damac/test-connection.js"
+  },
+  "keywords": [
+    "real-estate",
+    "scraping",
+    "data-extraction",
+    "damac",
+    "emaar",
+    "nakheel"
+  ],
+  "author": "Imperium Gate Team",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chromium": "^3.0.3",
+    "puppeteer": "^22.0.0",
+    "puppeteer-core": "^24.29.1"
+  }
+}

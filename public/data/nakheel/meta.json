@@ -1,0 +1,1156 @@
+{
+  "developer": {
+    "ar": "نخيل",
+    "en": "Nakheel"
+  },
+  "slug": "nakheel",
+  "description": {
+    "ar": "نخيل العقارية - مطور رائد للمشاريع المبتكرة بما في ذلك نخلة جميرا وذا وورلد",
+    "en": "Nakheel Properties - Leading developer of iconic projects including Palm Jumeirah and The World"
+  },
+  "logo": "/brand/developers/nakheel-logo.svg",
+  "website": "https://www.nakheel.com",
+  "contact": {
+    "phone": "97148146666",
+    "email": "customercare@nakheel.com",
+    "whatsapp": "https://wa.me/97148146666"
+  },
+  "statistics": {
+    "totalProjects": 65,
+    "totalUnits": 12150,
+    "locations": [
+      "Unspecified Area",
+      "Dubai Islands",
+      "Palm Jumeirah",
+      "26 million square foot plot",
+      "Mohammed Bin Rashid Al Maktoum City",
+      "Jebel Ali Village, Dubai",
+      "null",
+      "Jumeirah Islands",
+      "380 hectares",
+      "560 hectares",
+      "242 hectares",
+      "Al Furjan",
+      "Nad Al Sheba"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "al-furjan",
+      "name": {
+        "ar": "Al Furjan",
+        "en": "Al Furjan"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "azure-residences",
+      "name": {
+        "ar": "أزور ريزيدنسز",
+        "en": "Azure Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "badrah",
+      "name": {
+        "ar": "بدرة",
+        "en": "Badrah"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "bay-grove-residences",
+      "name": {
+        "ar": "مساكن باي غروف",
+        "en": "Bay Grove Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "جزر دبي",
+        "en": "Dubai Islands"
+      }
+    },
+    {
+      "slug": "bay-villas",
+      "name": {
+        "ar": "باي فلل",
+        "en": "Bay Villas"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "bay-villas-dubai-islands",
+      "name": {
+        "ar": "فلل باي، جزر دبي",
+        "en": "Bay Villas, Dubai Islands"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "canal-front-residences",
+      "name": {
+        "ar": "قناة فرونت ريزيدنسز",
+        "en": "Canal Front Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "club-vista-mare",
+      "name": {
+        "ar": "كلوب فيستا ماري",
+        "en": "Club Vista Mare"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "ar": "حوالي 50,000 قدم مربع في الطابق الأرضي مع 30,000 قدم مربع إضافية من المساحات السكنية في الطابق الأول.",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "como-residences",
+      "name": {
+        "ar": "كومو ريزيدنسز",
+        "en": "Como Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        2,
+        7
+      ],
+      "location": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "discovery-gardens",
+      "name": {
+        "ar": "حدائق ديسكفري",
+        "en": "Discovery Gardens"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ],
+      "location": {
+        "ar": "430 قدم مربع (تبدأ من)",
+        "en": "26 million square foot plot"
+      }
+    },
+    {
+      "slug": "district-one",
+      "name": {
+        "ar": "منطقة ون",
+        "en": "District One"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        8,
+        4,
+        5,
+        6,
+        7,
+        8,
+        4,
+        7,
+        4
+      ],
+      "location": {
+        "ar": "مدينة محمد بن راشد آل مكتوم - منطقة ون",
+        "en": "Mohammed Bin Rashid Al Maktoum City"
+      }
+    },
+    {
+      "slug": "district-one-naya-residences",
+      "name": {
+        "en": "District One Naya Residences",
+        "ar": "District One Naya Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "district-one-west",
+      "name": {
+        "ar": "ديستريكت ون ويست",
+        "en": "District One West"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "dragon-city",
+      "name": {
+        "ar": "Dragon City",
+        "en": "Dragon City"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "dragon-mart",
+      "name": {
+        "ar": "Dragon Mart",
+        "en": "Dragon Mart"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "dubai-islands",
+      "name": {
+        "ar": "Dubai Islands",
+        "en": "Dubai Islands"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "garden-apartments",
+      "name": {
+        "ar": "جاردن أبارتمنتس",
+        "en": "Garden Apartments"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "garden-view-apartments",
+      "name": {
+        "ar": "جاردن فيو أبارتمنتس",
+        "en": "Garden View Apartments"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "garden-view-villas",
+      "name": {
+        "ar": "جاردن فيو فلل",
+        "en": "Garden View Villas"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "golden-mile",
+      "name": {
+        "ar": "الميل الذهبي",
+        "en": "Golden Mile"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "ibis",
+      "name": {
+        "ar": "إيبيس",
+        "en": "Ibis"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "ibn-battuta-mall",
+      "name": {
+        "ar": "Ibn Battuta Mall",
+        "en": "Ibn Battuta Mall"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "international-city",
+      "name": {
+        "ar": "إنترناشونال سيتي",
+        "en": "International City"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "jebel-ali-gardens",
+      "name": {
+        "ar": "Jebel Ali Gardens",
+        "en": "Jebel Ali Gardens"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "jebel-ali-village",
+      "name": {
+        "ar": "قرية جبل علي",
+        "en": "Jebel Ali Village"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        3,
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "Jebel Ali Village, Dubai"
+      }
+    },
+    {
+      "slug": "jumeirah-heights",
+      "name": {
+        "ar": "جميرا هايتس",
+        "en": "Jumeirah Heights"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "null",
+        "en": "null"
+      }
+    },
+    {
+      "slug": "jumeirah-islands",
+      "name": {
+        "ar": "جزر الجميرا",
+        "en": "Jumeirah Islands"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "جزر الجميرا",
+        "en": "Jumeirah Islands"
+      }
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name": {
+        "ar": "Jumeirah Lake Towers",
+        "en": "Jumeirah Lake Towers"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "jumeirah-park",
+      "name": {
+        "ar": "جميرا بارك",
+        "en": "Jumeirah Park"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "ar": "جميرا بارك",
+        "en": "380 hectares"
+      }
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": {
+        "ar": "جميرا فيلج سيركل",
+        "en": "Jumeirah Village Circle"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        4
+      ],
+      "location": {
+        "ar": "جميرا فيلج سيركل",
+        "en": "560 hectares"
+      }
+    },
+    {
+      "slug": "jumeirah-village-triangle",
+      "name": {
+        "ar": "Jumeirah Village Triangle",
+        "en": "Jumeirah Village Triangle"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "",
+        "en": "242 hectares"
+      }
+    },
+    {
+      "slug": "lagoon-views",
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "marina-residences",
+      "name": {
+        "ar": "مارينا ريزيدنسز",
+        "en": "Marina Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        2,
+        3
+      ],
+      "location": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "masakin-al-furjan",
+      "name": {
+        "ar": "مساكن الفرجان",
+        "en": "Masakin Al Furjan"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "الفرجان",
+        "en": "Al Furjan"
+      }
+    },
+    {
+      "slug": "meydan",
+      "name": {
+        "ar": "كانال فرونت ريزيدنسز",
+        "en": "Meydan"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "murooj-al-furjan",
+      "name": {
+        "ar": "مروج الفرجان",
+        "en": "Murooj Al Furjan"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "nad-al-sheba-gardens",
+      "name": {
+        "ar": "Nad Al Sheba Gardens",
+        "en": "Nad Al Sheba Gardens"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "nad-al-sheba-villas",
+      "name": {
+        "ar": "فلل ند الشبا",
+        "en": "Nad Al Sheba Villas"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        4,
+        5
+      ],
+      "location": {
+        "ar": "ند الشبا",
+        "en": "Nad Al Sheba"
+      }
+    },
+    {
+      "slug": "naya-phase-2",
+      "name": {
+        "ar": "نايا المرحلة 2",
+        "en": "Naya Phase 2"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "naya-phase-3",
+      "name": {
+        "ar": "نايا المرحلة 3",
+        "en": "Naya Phase 3"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "palm-beach-towers",
+      "name": {
+        "ar": "بالم بيتش تاورز",
+        "en": "Palm Beach Towers"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "palm-central-private-residences",
+      "name": {
+        "ar": "بالم سنترال برايفت ريزيدنسز",
+        "en": "Palm Central Private Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "palm-jebel-ali",
+      "name": {
+        "ar": "نخلة جبل علي",
+        "en": "Palm Jebel Ali"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "palm-jumeirah",
+      "name": {
+        "ar": "Palm Jumeirah",
+        "en": "Palm Jumeirah"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0
+      ],
+      "location": {
+        "ar": "",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "palm-views",
+      "name": {
+        "ar": "بالم فيوز",
+        "en": "Palm Views"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "palma-residences",
+      "name": {
+        "ar": "Palma Residences",
+        "en": "Palma Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        4,
+        5
+      ],
+      "location": {
+        "ar": "",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "paradise-one",
+      "name": {
+        "ar": "بارادايس ون",
+        "en": "Paradise One"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "rixos-at-dubai-islands",
+      "name": {
+        "ar": "Rixos At Dubai Islands",
+        "en": "Rixos At Dubai Islands"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "rixos-beach-residences-phase-2",
+      "name": {
+        "ar": "ريكسوس بيتش ريزيدنسز المرحلة 2",
+        "en": "Rixos Beach Residences Phase 2"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "rixos-hotel-residences",
+      "name": {
+        "en": "Rixos Hotel & Residences",
+        "ar": "Rixos Hotel & Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "rixos-hotel-resorts",
+      "name": {
+        "en": "Rixos Hotel & Resorts",
+        "ar": "Rixos Hotel & Resorts"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "seaview-residences",
+      "name": {
+        "ar": "سي فيو ريزيدنسز",
+        "en": "Sea View Residences"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "shoreline-apartments",
+      "name": {
+        "ar": "شقق شورلاين",
+        "en": "Shoreline Apartments"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      }
+    },
+    {
+      "slug": "the-beach-collection-villas",
+      "name": {
+        "ar": "فلل مجموعة الشاطئ",
+        "en": "The Beach Collection Villas"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "the-coral-collection-villas",
+      "name": {
+        "ar": "فلل مجموعة الكورال",
+        "en": "The Coral Collection Villas"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "the-gardens",
+      "name": {
+        "ar": "ذا جاردنز",
+        "en": "The Gardens"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "the-palm-tower",
+      "name": {
+        "ar": "ذا بالم تاور",
+        "en": "The Palm Tower"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "the-pointe",
+      "name": {
+        "ar": "The Pointe",
+        "en": "The Pointe"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "the-world",
+      "name": {
+        "ar": "جزر العالم",
+        "en": "The World"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "the-world-island",
+      "name": {
+        "en": "The World Island",
+        "ar": "The World Island"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "the-world-islands",
+      "name": {
+        "ar": "The World Islands",
+        "en": "The World Islands"
+      },
+      "status": "unknown",
+      "bedrooms": [],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "tilal-al-furjan",
+      "name": {
+        "ar": "تلال الفرجان",
+        "en": "Tilal Al Furjan"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        4,
+        5
+      ],
+      "location": {
+        "ar": "",
+        "en": "Al Furjan"
+      }
+    },
+    {
+      "slug": "veneto",
+      "name": {
+        "ar": "Veneto",
+        "en": "Veneto"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        3,
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "slug": "village-homes",
+      "name": {
+        "ar": "بيوت القرية",
+        "en": "Village Homes"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "warsan-village",
+      "name": {
+        "ar": "قرية ورسان",
+        "en": "Warsan Village"
+      },
+      "status": "unknown",
+      "bedrooms": [
+        3
+      ],
+      "location": {
+        "ar": "المدينة العالمية",
+        "en": "null"
+      }
+    }
+  ],
+  "lastUpdated": "2025-11-10T19:01:18.272Z"
+}

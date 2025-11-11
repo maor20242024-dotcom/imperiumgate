@@ -1,0 +1,36 @@
+[
+  {
+    "name_ar": "403 ERROR",
+    "name_en": "403 ERROR",
+    "description_ar": "",
+    "description_en": "",
+    "location": "",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "images": [],
+    "videos": [],
+    "amenities": [],
+    "slug": "damac-islands-community/projects/damac-islands",
+    "developer": "damac",
+    "status": "under-construction"
+  },
+  {
+    "name_ar": "403 ERROR",
+    "name_en": "403 ERROR",
+    "description_ar": "",
+    "description_en": "",
+    "location": "",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "images": [],
+    "videos": [],
+    "amenities": [],
+    "slug": "damac-riverside/projects/damac-riverside-views",
+    "developer": "damac",
+    "status": "under-construction"
+  }
+]

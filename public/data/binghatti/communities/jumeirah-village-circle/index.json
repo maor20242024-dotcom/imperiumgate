@@ -1,0 +1,229 @@
+{
+  "projectName": {
+    "ar": "قرية جميرا الدائرية",
+    "en": "Jumeirah Village Circle"
+  },
+  "developer": {
+    "ar": "بن غاطي",
+    "en": "Binghatti"
+  },
+  "developerSlug": "binghatti",
+  "location": {
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "قرية جميرا الدائرية",
+      "en": "Jumeirah Village Circle"
+    },
+    "community": {
+      "ar": "قرية جميرا الدائرية",
+      "en": "Jumeirah Village Circle"
+    },
+    "coordinates": {
+      "lat": 25.050062300000004,
+      "lng": 55.20697879999999
+    },
+    "address": {
+      "ar": "قرية جميرا الدائرية، دبي",
+      "en": "JVC, Dubai, UAE"
+    }
+  },
+  "description": {
+    "ar": "مجتمع سكني صديق للعائلات مع حدائق ومساحات خضراء واسعة",
+    "en": "Family-friendly residential community with gardens and extensive green spaces"
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقة",
+      "en": "Apartment"
+    },
+    {
+      "ar": "سكني",
+      "en": "Residential"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "priceRange": {
+    "min": 900000,
+    "max": 4100000,
+    "currency": "AED"
+  },
+  "status": "under-construction",
+  "deliveryDate": "Q1 2026",
+  "amenities": [
+    {
+      "ar": "حديقة مركزية",
+      "en": "Central Park"
+    },
+    {
+      "ar": "مراكز تسوق",
+      "en": "Shopping Centers"
+    },
+    {
+      "ar": "مدارس دولية",
+      "en": "International Schools"
+    },
+    {
+      "ar": "مراكز طبية",
+      "en": "Medical Centers"
+    },
+    {
+      "ar": "مطاعم ومقاهي",
+      "en": "Restaurants & Cafes"
+    },
+    {
+      "ar": "تصميم دائري فريد",
+      "en": "Unique Circular Design"
+    },
+    {
+      "ar": "حدائق مطولة",
+      "en": "Landscaped Gardens"
+    },
+    {
+      "ar": "منطقة لعب الأطفال",
+      "en": "Children's Play Area"
+    },
+    {
+      "ar": "مركز اللياقة",
+      "en": "Fitness Center"
+    }
+  ],
+  "gallery": {
+    "images": [],
+    "videos": []
+  },
+  "floorPlans": [],
+  "features": {
+    "transportation": {
+      "ar": "قريب من مطار آل مكتوم وشارع الشيخ زايد",
+      "en": "Close to Al Maktoum Airport and Sheikh Zayed Road"
+    },
+    "investmentHighlights": [
+      {
+        "ar": "منطقة عائلية مثالية",
+        "en": "Ideal family area"
+      },
+      {
+        "ar": "عوائد إيجار متوقعة 8-10%",
+        "en": "Expected rental yields 8-10%"
+      },
+      {
+        "ar": "أسعار تنافسية للعائلات",
+        "en": "Competitive family prices"
+      }
+    ],
+    "nearbyAttractions": [
+      {
+        "ar": "حديقة الإمارات",
+        "en": "Emirates Park"
+      },
+      {
+        "ar": "مول الإمارات",
+        "en": "Emirates Mall"
+      },
+      {
+        "ar": "مضمار دبي للجولف",
+        "en": "Dubai Golf Course"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972",
+    "email": "info@binghatti.com",
+    "website": "https://www.binghatti.com"
+  },
+  "metadata": {
+    "communityType": {
+      "ar": "منطقة سكنية عائلية",
+      "en": "Family-Friendly Residential Area"
+    },
+    "totalProjects": 16,
+    "totalDevelopments": 1,
+    "lastUpdated": "2025-11-10T18:57:41.119Z",
+    "dataSource": "binghatti-communities"
+  },
+  "developments": [
+    {
+      "name": {
+        "ar": "بن غاطي سيركل",
+        "en": "Binghatti Circle"
+      },
+      "slug": "binghatti-circle",
+      "category": "Premium",
+      "totalUnits": 180,
+      "unitTypes": [
+        {
+          "type": {
+            "ar": "استوديو",
+            "en": "Studio"
+          },
+          "bedrooms": 0,
+          "size_range_sqft": "400-500",
+          "price_range_aed": "900,000 - 1,100,000",
+          "available_units": 30
+        },
+        {
+          "type": {
+            "ar": "غرفة نوم واحدة",
+            "en": "1 Bedroom"
+          },
+          "bedrooms": 1,
+          "size_range_sqft": "650-800",
+          "price_range_aed": "1,300,000 - 1,600,000",
+          "available_units": 60
+        },
+        {
+          "type": {
+            "ar": "غرفتي نوم",
+            "en": "2 Bedrooms"
+          },
+          "bedrooms": 2,
+          "size_range_sqft": "950-1,200",
+          "price_range_aed": "2,200,000 - 2,800,000",
+          "available_units": 60
+        },
+        {
+          "type": {
+            "ar": "ثلاث غرف نوم",
+            "en": "3 Bedrooms"
+          },
+          "bedrooms": 3,
+          "size_range_sqft": "1,400-1,800",
+          "price_range_aed": "3,200,000 - 4,100,000",
+          "available_units": 30
+        }
+      ],
+      "deliveryDate": "Q1 2026",
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "amenities": [
+        {
+          "ar": "تصميم دائري فريد",
+          "en": "Unique Circular Design"
+        },
+        {
+          "ar": "حدائق مطولة",
+          "en": "Landscaped Gardens"
+        },
+        {
+          "ar": "منطقة لعب الأطفال",
+          "en": "Children's Play Area"
+        },
+        {
+          "ar": "مركز اللياقة",
+          "en": "Fitness Center"
+        }
+      ]
+    }
+  ]
+}

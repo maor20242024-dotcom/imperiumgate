@@ -1,0 +1,50 @@
+[
+  {
+    "name_ar": "داماك آيلاندز",
+    "slug": "damac-islands-community",
+    "url": "https://www.damacproperties.com/ar-ae/communities/damac-islands-community/",
+    "image": "",
+    "developer": "damac",
+    "type": "community"
+  },
+  {
+    "name_ar": "أزور 2",
+    "slug": "damac-riverside",
+    "url": "https://www.damacproperties.com/ar-ae/communities/damac-riverside/",
+    "image": "",
+    "developer": "damac",
+    "type": "community"
+  },
+  {
+    "name_ar": "إبيزا",
+    "slug": "damac-lagoons",
+    "url": "https://www.damacproperties.com/ar-ae/communities/damac-lagoons/",
+    "image": "",
+    "developer": "damac",
+    "type": "community"
+  },
+  {
+    "name_ar": "غولف جيت 2",
+    "slug": "damac-hills-community",
+    "url": "https://www.damacproperties.com/ar-ae/communities/damac-hills-community/",
+    "image": "",
+    "developer": "damac",
+    "type": "community"
+  },
+  {
+    "name_ar": "داماك صن سيتي",
+    "slug": "damac-sun-city",
+    "url": "https://www.damacproperties.com/ar-ae/communities/damac-sun-city/",
+    "image": "",
+    "developer": "damac",
+    "type": "community"
+  },
+  {
+    "name_ar": "داماك هيلز 2",
+    "slug": "damac-hills-2",
+    "url": "https://www.damacproperties.com/ar-ae/communities/damac-hills-2/",
+    "image": "",
+    "developer": "damac",
+    "type": "community"
+  }
+]

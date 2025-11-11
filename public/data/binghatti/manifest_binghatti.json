@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "generated_at": "2025-11-10T19:01:18.089Z",
+    "path_style": "domain_relative",
+    "trailing_slash": true,
+    "notes": "Auto-generated manifest for developer projects"
+  },
+  "developer": "binghatti",
+  "domain": "https://www.binghatti.com",
+  "items": [
+    {
+      "line": 1,
+      "label": "Al Barasha South Second",
+      "path": "/projects/al-barasha-south-second/",
+      "segments": [
+        "projects",
+        "al-barasha-south-second"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/al-barasha-south-second/"
+    },
+    {
+      "line": 2,
+      "label": "Al Hebiah Fourth",
+      "path": "/projects/al-hebiah-fourth/",
+      "segments": [
+        "projects",
+        "al-hebiah-fourth"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/al-hebiah-fourth/"
+    },
+    {
+      "line": 3,
+      "label": "Binghatti Amberhall",
+      "path": "/projects/binghatti-amberhall/",
+      "segments": [
+        "projects",
+        "binghatti-amberhall"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-amberhall/"
+    },
+    {
+      "line": 4,
+      "label": "Binghatti Aquarise",
+      "path": "/projects/binghatti-aquarise/",
+      "segments": [
+        "projects",
+        "binghatti-aquarise"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-aquarise/"
+    },
+    {
+      "line": 5,
+      "label": "Binghatti Aurora",
+      "path": "/projects/binghatti-aurora/",
+      "segments": [
+        "projects",
+        "binghatti-aurora"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-aurora/"
+    },
+    {
+      "line": 6,
+      "label": "Binghatti Circle",
+      "path": "/projects/binghatti-circle/",
+      "segments": [
+        "projects",
+        "binghatti-circle"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-circle/"
+    },
+    {
+      "line": 7,
+      "label": "Binghatti Dawn",
+      "path": "/projects/binghatti-dawn/",
+      "segments": [
+        "projects",
+        "binghatti-dawn"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-dawn/"
+    },
+    {
+      "line": 8,
+      "label": "Binghatti Dusk",
+      "path": "/projects/binghatti-dusk/",
+      "segments": [
+        "projects",
+        "binghatti-dusk"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-dusk/"
+    },
+    {
+      "line": 9,
+      "label": "Binghatti Elite",
+      "path": "/projects/binghatti-elite/",
+      "segments": [
+        "projects",
+        "binghatti-elite"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-elite/"
+    },
+    {
+      "line": 10,
+      "label": "Binghatti Flare",
+      "path": "/projects/binghatti-flare/",
+      "segments": [
+        "projects",
+        "binghatti-flare"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-flare/"
+    },
+    {
+      "line": 11,
+      "label": "Binghatti Ghost",
+      "path": "/projects/binghatti-ghost/",
+      "segments": [
+        "projects",
+        "binghatti-ghost"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-ghost/"
+    },
+    {
+      "line": 12,
+      "label": "Binghatti Grove",
+      "path": "/projects/binghatti-grove/",
+      "segments": [
+        "projects",
+        "binghatti-grove"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-grove/"
+    },
+    {
+      "line": 13,
+      "label": "Binghatti Haven",
+      "path": "/projects/binghatti-haven/",
+      "segments": [
+        "projects",
+        "binghatti-haven"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-haven/"
+    },
+    {
+      "line": 14,
+      "label": "Binghatti Hills",
+      "path": "/projects/binghatti-hills/",
+      "segments": [
+        "projects",
+        "binghatti-hills"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-hills/"
+    },
+    {
+      "line": 15,
+      "label": "Binghatti Hillside",
+      "path": "/projects/binghatti-hillside/",
+      "segments": [
+        "projects",
+        "binghatti-hillside"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-hillside/"
+    },
+    {
+      "line": 16,
+      "label": "Binghatti Hillviews",
+      "path": "/projects/binghatti-hillviews/",
+      "segments": [
+        "projects",
+        "binghatti-hillviews"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-hillviews/"
+    },
+    {
+      "line": 17,
+      "label": "Binghatti Ivory",
+      "path": "/projects/binghatti-ivory/",
+      "segments": [
+        "projects",
+        "binghatti-ivory"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-ivory/"
+    },
+    {
+      "line": 18,
+      "label": "Binghatti Moonlight",
+      "path": "/projects/binghatti-moonlight/",
+      "segments": [
+        "projects",
+        "binghatti-moonlight"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-moonlight/"
+    },
+    {
+      "line": 19,
+      "label": "Binghatti Phoenix",
+      "path": "/projects/binghatti-phoenix/",
+      "segments": [
+        "projects",
+        "binghatti-phoenix"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-phoenix/"
+    },
+    {
+      "line": 20,
+      "label": "Binghatti Pinnacle",
+      "path": "/projects/binghatti-pinnacle/",
+      "segments": [
+        "projects",
+        "binghatti-pinnacle"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-pinnacle/"
+    },
+    {
+      "line": 21,
+      "label": "Binghatti Royale",
+      "path": "/projects/binghatti-royale/",
+      "segments": [
+        "projects",
+        "binghatti-royale"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-royale/"
+    },
+    {
+      "line": 22,
+      "label": "Binghatti Ruby",
+      "path": "/projects/binghatti-ruby/",
+      "segments": [
+        "projects",
+        "binghatti-ruby"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-ruby/"
+    },
+    {
+      "line": 23,
+      "label": "Binghatti Skyblade",
+      "path": "/projects/binghatti-skyblade/",
+      "segments": [
+        "projects",
+        "binghatti-skyblade"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-skyblade/"
+    },
+    {
+      "line": 24,
+      "label": "Binghatti Skyhall",
+      "path": "/projects/binghatti-skyhall/",
+      "segments": [
+        "projects",
+        "binghatti-skyhall"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-skyhall/"
+    },
+    {
+      "line": 25,
+      "label": "Binghatti Skyrise",
+      "path": "/projects/binghatti-skyrise/",
+      "segments": [
+        "projects",
+        "binghatti-skyrise"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-skyrise/"
+    },
+    {
+      "line": 26,
+      "label": "Binghatti Starlight",
+      "path": "/projects/binghatti-starlight/",
+      "segments": [
+        "projects",
+        "binghatti-starlight"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-starlight/"
+    },
+    {
+      "line": 27,
+      "label": "Binghatti Twilight",
+      "path": "/projects/binghatti-twilight/",
+      "segments": [
+        "projects",
+        "binghatti-twilight"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/binghatti-twilight/"
+    },
+    {
+      "line": 28,
+      "label": "Business Bay",
+      "path": "/projects/business-bay/",
+      "segments": [
+        "projects",
+        "business-bay"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/business-bay/"
+    },
+    {
+      "line": 29,
+      "label": "Downtown Dubai",
+      "path": "/projects/downtown-dubai/",
+      "segments": [
+        "projects",
+        "downtown-dubai"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/downtown-dubai/"
+    },
+    {
+      "line": 30,
+      "label": "Jumeirah Village Circle",
+      "path": "/projects/jumeirah-village-circle/",
+      "segments": [
+        "projects",
+        "jumeirah-village-circle"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/jumeirah-village-circle/"
+    },
+    {
+      "line": 31,
+      "label": "One by Binghatti",
+      "path": "/projects/one-by-binghatti/",
+      "segments": [
+        "projects",
+        "one-by-binghatti"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.binghatti.com/projects/one-by-binghatti/"
+    }
+  ],
+  "stats": {
+    "project": 31
+  },
+  "count": 31
+}

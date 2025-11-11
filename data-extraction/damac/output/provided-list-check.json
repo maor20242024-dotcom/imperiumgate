@@ -1,0 +1,420 @@
+{
+  "timestamp": "2025-11-11T15:14:01.241Z",
+  "checked": 94,
+  "present": [
+    {
+      "provided": "CHELSEA RESIDENCES",
+      "slug": "chelsea-residences",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "Safa Gate",
+      "slug": "safa-gate",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "DAMAC Riverside Views",
+      "slug": "damac-riverside-views",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "DAMAC Islands",
+      "slug": "damac-islands",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "Violet 4",
+      "slug": "violet-4",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "DAMAC Sun City",
+      "slug": "damac-sun-city",
+      "community": "damac-sun-city"
+    },
+    {
+      "provided": "ELO 3",
+      "slug": "elo-3",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "DAMAC Riverside",
+      "slug": "damac-riverside-views",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "ELO 2",
+      "slug": "elo-2",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "Evergreens",
+      "slug": "evergreens",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Autograph Collection",
+      "slug": "autograph-collection",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "ELO",
+      "slug": "elo-3",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "Couture by Cavalli",
+      "slug": "couture-by-cavalli",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "Lagoon Views",
+      "slug": "lagoon-views",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Utopia",
+      "slug": "utopia",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Golf Gate 2",
+      "slug": "golf-gate-2",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "DAMAC Casa",
+      "slug": "damac-casa",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "VOLTA",
+      "slug": "volta",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Verona",
+      "slug": "verona-damac-hills-2",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "GOLF GREENS",
+      "slug": "golf-greens",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Canal Crown",
+      "slug": "canal-crown",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Mykonos",
+      "slug": "mykonos",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Canal Heights",
+      "slug": "canal-heights-2-de-grisogono",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "CANAL HEIGHTS 2 de GRISOGONO",
+      "slug": "canal-heights-2-de-grisogono",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "DAMAC Bay by Cavalli",
+      "slug": "damac-bay-by-cavalli",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Ibiza",
+      "slug": "ibiza",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "Costa Brava",
+      "slug": "costa-brava",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Monte Carlo",
+      "slug": "monte-carlo",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Marbella",
+      "slug": "marbella",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Chic Tower",
+      "slug": "chic-tower",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Gems Estates",
+      "slug": "gems-estates",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Beverly Hills Drive",
+      "slug": "beverly-hills-drive",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Malta",
+      "slug": "malta",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Venice",
+      "slug": "venice",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Cavalli Estates",
+      "slug": "cavalli-estates",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Portofino",
+      "slug": "portofino",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Golf Gate at DAMAC Hills",
+      "slug": "golf-gate-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Eterno Prestige Villas",
+      "slug": "eterno-prestige-villas-at-damac-hills-2",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "Nice",
+      "slug": "venice",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Santorini",
+      "slug": "santorini",
+      "community": "damac-lagoons"
+    },
+    {
+      "provided": "Cavalli Tower",
+      "slug": "cavalli-tower",
+      "community": "damac-islands-community"
+    },
+    {
+      "provided": "Prestige Villas at DAMAC Hills 2",
+      "slug": "eterno-prestige-villas-at-damac-hills-2",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "The Legends",
+      "slug": "the-legends",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Privilege Villas at DAMAC Hills 2",
+      "slug": "privilege-villas-at-damac-hills-2",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "Premier Villas at DAMAC Hills 2",
+      "slug": "premier-villas-at-damac-hills-2",
+      "community": "damac-hills-2"
+    },
+    {
+      "provided": "Greenwoods",
+      "slug": "greenwoods",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Green Acres at DAMAC Hills",
+      "slug": "green-acres-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Canvas Premium Plots at DAMAC Hills",
+      "slug": "canvas-premium-plots-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Melrose Estates at Damac Hills",
+      "slug": "melrose-estates-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "All Seasons Terrace Apartments",
+      "slug": "all-seasons-terrace-apartments",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "BelAir at The Trump Estates",
+      "slug": "belair-at-the-trump-estates",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Silver Springs at DAMAC Hills",
+      "slug": "silver-springs-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Bellavista at DAMAC Hills",
+      "slug": "bellavista-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Radisson Dubai DAMAC Hills",
+      "slug": "radisson-dubai-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "High Gardens at DAMAC Hills",
+      "slug": "high-gardens-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Loreto at DAMAC Hills",
+      "slug": "loreto-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Fiora",
+      "slug": "fiora",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Park Town at DAMAC Hills",
+      "slug": "park-town-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "90210 Boutique Villas",
+      "slug": "90210-boutique-villas",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "The Park Villas at DAMAC Hills",
+      "slug": "the-park-villas-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Golf Vita at DAMAC Hills",
+      "slug": "golf-vita-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Veneto Villas at DAMAC Hills",
+      "slug": "veneto-villas-at-damac-hills",
+      "community": "damac-hills-community"
+    },
+    {
+      "provided": "Vera Residences",
+      "slug": "vera-residences",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "DAMAC Majestine",
+      "slug": "damac-majestine",
+      "community": "existing-folder"
+    },
+    {
+      "provided": "Kiara at DAMAC Hills",
+      "slug": "kiara-at-damac-hills",
+      "community": "damac-hills-community"
+    }
+  ],
+  "missing": [
+    {
+      "provided": "Shoreline by DAMAC"
+    },
+    {
+      "provided": "Natura"
+    },
+    {
+      "provided": "Altitude de GRISOGONO"
+    },
+    {
+      "provided": "Park Greens"
+    },
+    {
+      "provided": "Morocco – Phase 2"
+    },
+    {
+      "provided": "Coral Reef"
+    },
+    {
+      "provided": "The Farmhouses"
+    },
+    {
+      "provided": "Skycrest Collection"
+    },
+    {
+      "provided": "Bay’s Edge"
+    },
+    {
+      "provided": "DAMAC Bay 2 by Cavalli"
+    },
+    {
+      "provided": "HARBOUR LIGHTS DE GRISOGONO GENEVE"
+    },
+    {
+      "provided": "DAMAC Hills 2 Hotel Edge by Rotana"
+    },
+    {
+      "provided": "Virdis"
+    },
+    {
+      "provided": "Elegance Tower"
+    },
+    {
+      "provided": "Safa Two de GRISOGONO"
+    },
+    {
+      "provided": "Safa One de GRISOGONO"
+    },
+    {
+      "provided": "DAMAC Towers by Paramount Hotels And Resorts Dubai"
+    },
+    {
+      "provided": "DAMAC Paramount Tower Hotel And Residences Dubai"
+    },
+    {
+      "provided": "Zada Tower"
+    },
+    {
+      "provided": "Amora"
+    },
+    {
+      "provided": "Green Park"
+    },
+    {
+      "provided": "Reva Residences"
+    },
+    {
+      "provided": "Avencia villas"
+    },
+    {
+      "provided": "Royal Golf Boutique Villas"
+    },
+    {
+      "provided": "AYKON City Tower C"
+    },
+    {
+      "provided": "AYKON City Tower B"
+    },
+    {
+      "provided": "Merano Tower"
+    },
+    {
+      "provided": "Avanti"
+    },
+    {
+      "provided": "Ghalia"
+    }
+  ]
+}

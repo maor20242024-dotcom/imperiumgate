@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-11-11T14:30:39.371Z",
+  "source": "DAMAC Official Website - Manual List",
+  "total_projects": 98,
+  "filtered_projects": 63,
+  "other_projects": 35,
+  "by_community": [
+    {
+      "community": "damac-hills-community",
+      "count": 30,
+      "projects": [
+        "Damac District",
+        "Autograph Collection",
+        "Utopia",
+        "Golf Gate 2",
+        "GOLF GREENS",
+        "Gems Estates",
+        "Beverly Hills Drive",
+        "Cavalli Estates",
+        "Golf Gate at DAMAC Hills",
+        "Eterno Prestige Villas at DAMAC Hills 2",
+        "The Legends",
+        "Greenwoods",
+        "Green Acres at DAMAC Hills",
+        "Canvas Premium Plots at DAMAC Hills",
+        "Melrose Estates at Damac Hills",
+        "All Seasons Terrace Apartments",
+        "BelAir at The Trump Estates – Phase 2",
+        "Silver Springs at DAMAC Hills",
+        "Bellavista at DAMAC Hills",
+        "Radisson Dubai DAMAC Hills",
+        "High Gardens at DAMAC Hills",
+        "Loreto at DAMAC Hills",
+        "Golf Town at DAMAC Hills",
+        "Park Town at DAMAC Hills",
+        "90210 Boutique Villas",
+        "The Park Villas at DAMAC Hills",
+        "Golf Vita at DAMAC Hills",
+        "Veneto Villas at DAMAC Hills",
+        "BelAir at The Trump Estates",
+        "Kiara at DAMAC Hills"
+      ]
+    },
+    {
+      "community": "damac-riverside",
+      "count": 2,
+      "projects": [
+        "DAMAC Riverside Views",
+        "DAMAC Riverside"
+      ]
+    },
+    {
+      "community": "damac-islands-community",
+      "count": 1,
+      "projects": [
+        "DAMAC Islands"
+      ]
+    },
+    {
+      "community": "damac-hills-2",
+      "count": 17,
+      "projects": [
+        "Violet 4",
+        "ELO 3",
+        "ELO 2",
+        "Evergreens",
+        "Natura",
+        "ELO",
+        "Park Greens - Phase 2",
+        "The Farmhouses",
+        "Verona - DAMAC Hills 2",
+        "DAMAC Hills 2 Hotel Edge by Rotana",
+        "Virdis",
+        "Prestige Villas at DAMAC Hills 2",
+        "Privilege Villas at DAMAC Hills 2",
+        "Premier Villas at DAMAC Hills 2",
+        "Fiora",
+        "Amora",
+        "Avencia villas"
+      ]
+    },
+    {
+      "community": "damac-sun-city",
+      "count": 1,
+      "projects": [
+        "DAMAC Sun City"
+      ]
+    },
+    {
+      "community": "damac-lagoons",
+      "count": 12,
+      "projects": [
+        "Lagoon Views",
+        "Morocco – Phase 2",
+        "Mykonos",
+        "Ibiza",
+        "Costa Brava",
+        "Monte Carlo",
+        "Marbella",
+        "Malta",
+        "Venice",
+        "Portofino",
+        "Nice",
+        "Santorini"
+      ]
+    }
+  ]
+}

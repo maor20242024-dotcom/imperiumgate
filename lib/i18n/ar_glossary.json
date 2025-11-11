@@ -1,0 +1,7 @@
+{
+  "price": { "ar": "السعر", "en": "Price" },
+  "area": { "ar": "المساحة", "en": "Area" },
+  "bedrooms": { "ar": "الغرف", "en": "Bedrooms" },
+  "poi": { "ar": "نقاط الاهتمام", "en": "Points of Interest" }
+}
+
