@@ -67,7 +67,7 @@ export default function ProjectCard({ project }: Props) {
   // Safe bedrooms formatting
   const bedrooms = project?.bedrooms ? formatBedrooms(project.bedrooms, locale) : null;
 
-  const loc = (locale || 'ar').toString();
+  const loc = (locale || 'ar') as 'ar' | 'en';
   const rawSlug =
     (project?.slug && String(project.slug).trim()) ||
     (t(project?.projectName, locale)?.toString().trim().toLowerCase()
