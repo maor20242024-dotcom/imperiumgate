@@ -103,14 +103,14 @@ export default function ProjectCard({ project }: Props) {
         onHoverStart: () => setIsHovered(true),
         onHoverEnd: () => setIsHovered(false),
         className:
-          'group relative flex flex-col justify-between rounded-2xl overflow-hidden border border-gold/30 bg-black/90 hover:shadow-[0_0_20px_rgba(107,90,43,0.2)] hover:border-gold-800 transition-all duration-700 opacity-0 animate-fade-in h-[520px]',
+          'group relative flex flex-col justify-between rounded-xl md:rounded-2xl overflow-hidden border border-gold/30 bg-black/90 hover:shadow-[0_0_20px_rgba(107,90,43,0.2)] hover:border-gold-800 transition-all duration-700 opacity-0 animate-fade-in h-auto md:h-[520px]',
       } as any)}
     >
       {/* Simple glow effect */}
       <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-gold/5 via-transparent to-gold/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
 
       <Link href={href} className="block relative overflow-hidden" prefetch={false}>
-        <div className="relative h-44 w-full overflow-hidden">
+        <div className="relative h-40 sm:h-44 w-full overflow-hidden">
           {img ? (
             <>
               <Image
@@ -118,15 +118,17 @@ export default function ProjectCard({ project }: Props) {
                 alt={title}
                 width={400}
                 height={176}
-                className="h-44 w-full object-cover transition-all duration-200"
+                className="h-40 sm:h-44 w-full object-cover transition-all duration-200"
                 style={{ filter: isHovered ? 'brightness(1.1)' : 'brightness(1)' }}
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                priority={false}
+                loading="lazy"
               />
               {/* Simple overlay effect */}
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
             </>
           ) : (
-            <div className="h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center">
+            <div className="h-40 sm:h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center">
               <div className="text-gold/30 text-4xl">🏢</div>
             </div>
           )}
@@ -134,9 +136,9 @@ export default function ProjectCard({ project }: Props) {
       </Link>
 
       {/* Simplified floating buttons */}
-      <div className="absolute top-3 right-3 flex gap-2 z-10">
+      <div className="absolute top-2 md:top-3 right-2 md:right-3 flex gap-1.5 md:gap-2 z-10">
         {project?.goldenVisaEligible ? (
-          <span className="text-[10px] px-2 py-1 rounded-full bg-gold/30 text-gold border border-gold/40 shadow backdrop-blur-sm">
+          <span className="text-[9px] md:text-[10px] px-1.5 md:px-2 py-0.5 md:py-1 rounded-full bg-gold/30 text-gold border border-gold/40 shadow backdrop-blur-sm">
             {locale === 'ar' ? 'تأشيرة ذهبية' : 'Golden Visa'}
           </span>
         ) : null}
@@ -146,9 +148,9 @@ export default function ProjectCard({ project }: Props) {
           onClick={() => favorites.toggle(project.id || project.slug)}
           variant={favorites.has(project.id || project.slug) ? 'secondary' : 'outline'}
           size="sm"
-          className="!h-9 !w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200"
+          className="!h-8 !w-8 md:!h-9 md:!w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200"
         >
-          <span style={{ color: favorites.has(project.id || project.slug) ? '#FFD700' : '#D4AF37' }}>
+          <span style={{ color: favorites.has(project.id || project.slug) ? '#FFD700' : '#D4AF37', fontSize: '14px' }}>
             ★
           </span>
         </LuxuryButton>
@@ -160,27 +162,27 @@ export default function ProjectCard({ project }: Props) {
           }
           variant={isCompared ? 'secondary' : 'outline'}
           size="sm"
-          className="!h-9 !w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200"
+          className="!h-8 !w-8 md:!h-9 md:!w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200"
         >
-          <span style={{ color: isCompared ? '#FFD700' : '#D4AF37' }}>⚖️</span>
+          <span style={{ color: isCompared ? '#FFD700' : '#D4AF37', fontSize: '12px' }}>⚖️</span>
         </LuxuryButton>
       </div>
 
-      <div className="flex flex-col justify-between h-[calc(100%-11rem)] p-4">
+      <div className="flex flex-col justify-between h-auto md:h-[calc(100%-11rem)] p-3 md:p-4">
         <div>
           <Link href={href} className="block" prefetch={false}>
             <h3
-              className={`luxury-title text-lg gold-gradient-static luxury-text-shadow leading-snug line-clamp-2 hover:text-gold transition-colors duration-200 ${
+              className={`luxury-title text-base md:text-lg gold-gradient-static luxury-text-shadow leading-snug line-clamp-2 hover:text-gold transition-colors duration-200 ${
                 locale === 'ar' ? 'font-arabic' : 'font-display'
               }`}
             >
               {title}
             </h3>
-            <p className={`mt-1 text-xs text-gray-400 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`}>
+            <p className={`mt-1 text-xs text-gray-400 line-clamp-1 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`}>
               {subtitle}
             </p>
             <p
-              className={`mt-3 text-sm text-gray-300 line-clamp-2 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`}
+              className={`mt-2 md:mt-3 text-xs md:text-sm text-gray-300 line-clamp-2 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`}
             >
               {String(t(project.summary, locale) || t(project.description, locale) || '').slice(0, 140)}
             </p>
@@ -191,7 +193,7 @@ export default function ProjectCard({ project }: Props) {
           {/* Only show stats grid if we have at least one piece of data */}
           {(price || area || bedrooms) && (
             <div
-              className={`mt-4 grid gap-2 text-xs ${
+              className={`mt-3 md:mt-4 grid gap-1.5 md:gap-2 text-xs ${
                 [price, area, bedrooms].filter(Boolean).length === 1
                   ? 'grid-cols-1'
                   : [price, area, bedrooms].filter(Boolean).length === 2
@@ -200,32 +202,32 @@ export default function ProjectCard({ project }: Props) {
               }`}
             >
               {price && (
-                <div className="rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200">
-                  <div className="text-[10px] text-gray-400">{locale === 'ar' ? 'السعر' : 'Price'}</div>
-                  <div className="font-semibold text-white/90">{price}</div>
+                <div className="rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200">
+                  <div className="text-[9px] md:text-[10px] text-gray-400">{locale === 'ar' ? 'السعر' : 'Price'}</div>
+                  <div className="font-semibold text-white/90 text-[10px] md:text-xs truncate">{price}</div>
                 </div>
               )}
               {area && (
-                <div className="rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200">
-                  <div className="text-[10px] text-gray-400">{locale === 'ar' ? 'المساحة' : 'Area'}</div>
-                  <div className="font-semibold text-white/90">{area}</div>
+                <div className="rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200">
+                  <div className="text-[9px] md:text-[10px] text-gray-400">{locale === 'ar' ? 'المساحة' : 'Area'}</div>
+                  <div className="font-semibold text-white/90 text-[10px] md:text-xs truncate">{area}</div>
                 </div>
               )}
               {bedrooms && (
-                <div className="rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200">
-                  <div className="text-[10px] text-gray-400">{locale === 'ar' ? 'الغرف' : 'Bedrooms'}</div>
-                  <div className="font-semibold text-white/90">{bedrooms}</div>
+                <div className="rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200">
+                  <div className="text-[9px] md:text-[10px] text-gray-400">{locale === 'ar' ? 'الغرف' : 'Bedrooms'}</div>
+                  <div className="font-semibold text-white/90 text-[10px] md:text-xs">{bedrooms}</div>
                 </div>
               )}
             </div>
           )}
 
-          <Link href={href} className="mt-4 block" prefetch={false}>
+          <Link href={href} className="mt-3 md:mt-4 block" prefetch={false}>
             <LuxuryButton
               variant="primary"
               size="md"
               fullWidth
-              className={`${locale === 'ar' ? 'font-arabic' : 'font-sans'} hover:scale-[1.02] transition-transform duration-200`}
+              className={`${locale === 'ar' ? 'font-arabic' : 'font-sans'} text-sm md:text-base hover:scale-[1.02] transition-transform duration-200`}
             >
               {locale === 'ar' ? 'عرض التفاصيل' : 'View Details'}
             </LuxuryButton>

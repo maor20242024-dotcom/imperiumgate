@@ -3,7 +3,7 @@ import ProjectCard from '@/components/ProjectCard';
 import LuxuryButton from '@/components/ui/LuxuryButton';
 import { useLocale } from '@/lib/i18n-client';
 import type { Project } from '@/lib/types';
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect, useRef } from 'react';
 
 export default function Filters({ initial }: { initial: Project[] }) {
   const locale = useLocale();
@@ -18,6 +18,33 @@ export default function Filters({ initial }: { initial: Project[] }) {
   const [showBedsDropdown, setShowBedsDropdown] = useState(false);
   const [showAreaDropdown, setShowAreaDropdown] = useState(false);
   const [showStatusDropdown, setShowStatusDropdown] = useState(false);
+
+  // Refs for click outside detection
+  const devRef = useRef<HTMLDivElement>(null);
+  const bedsRef = useRef<HTMLDivElement>(null);
+  const areaRef = useRef<HTMLDivElement>(null);
+  const statusRef = useRef<HTMLDivElement>(null);
+
+  // Close dropdowns when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (devRef.current && !devRef.current.contains(event.target as Node)) {
+        setShowDevDropdown(false);
+      }
+      if (bedsRef.current && !bedsRef.current.contains(event.target as Node)) {
+        setShowBedsDropdown(false);
+      }
+      if (areaRef.current && !areaRef.current.contains(event.target as Node)) {
+        setShowAreaDropdown(false);
+      }
+      if (statusRef.current && !statusRef.current.contains(event.target as Node)) {
+        setShowStatusDropdown(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
 
   // استخراج القيم الفريدة للقوائم المنبثقة
   const uniqueDevelopers = useMemo(() => {
@@ -55,8 +82,13 @@ export default function Filters({ initial }: { initial: Project[] }) {
       const name = typeof p.projectName === 'string' ? p.projectName : (p.projectName?.[locale] || p.projectName?.en || '');
       const hitQ = !q || name.toLowerCase().includes(q.toLowerCase());
       const hitDev = !dev || (p.developer || '').toLowerCase() === dev.toLowerCase();
-      const minOk = !min || (p.minPriceAED || 0) >= Number(min);
-      const maxOk = !max || (p.maxPriceAED || 0) <= Number(max);
+      
+      // إصلاح فلتر السعر - يجب أن يكون السعر >= الأدنى و <= الأقصى
+      const projectMinPrice = p.minPriceAED || 0;
+      const projectMaxPrice = p.maxPriceAED || 0;
+      const minOk = !min || projectMinPrice >= Number(min);
+      const maxOk = !max || (projectMaxPrice > 0 && projectMaxPrice <= Number(max));
+      
       const bedOk = !beds || (Array.isArray(p.bedrooms) && p.bedrooms.some(b => String(b) === beds));
       
       // معالجة المنطقة
@@ -86,11 +118,11 @@ export default function Filters({ initial }: { initial: Project[] }) {
   return (
     <div className="space-y-6">
       {/* فلترة متقدمة مع قوائم منبثقة */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4">
         {/* البحث */}
-        <div className="relative">
+        <div className="relative sm:col-span-2 lg:col-span-1">
           <input 
-            className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors"
+            className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base"
             placeholder={locale === 'ar' ? '🔍 ابحث عن مشروع...' : '🔍 Search projects...'}
             value={q}
             onChange={e => setQ(e.target.value)}
@@ -98,12 +130,12 @@ export default function Filters({ initial }: { initial: Project[] }) {
         </div>
 
         {/* المطورون - قائمة منبثقة */}
-        <div className="relative">
+        <div ref={devRef} className="relative">
           <button
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white text-left flex justify-between items-center hover:border-gold transition-colors"
             onClick={() => setShowDevDropdown(!showDevDropdown)}
           >
-            <span>{dev || (locale === 'ar' ? '👷 جميع المطورين' : '👷 All Developers')}</span>
+            <span className="truncate">{dev || (locale === 'ar' ? '👷 جميع المطورين' : '👷 All Developers')}</span>
             <span className="text-gray-400">▼</span>
           </button>
           {showDevDropdown && (
@@ -134,12 +166,12 @@ export default function Filters({ initial }: { initial: Project[] }) {
         </div>
 
         {/* الغرف - قائمة منبثقة */}
-        <div className="relative">
+        <div ref={bedsRef} className="relative">
           <button
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white text-left flex justify-between items-center hover:border-gold transition-colors"
             onClick={() => setShowBedsDropdown(!showBedsDropdown)}
           >
-            <span>{beds || (locale === 'ar' ? '🛏️ جميع الغرف' : '🛏️ All Bedrooms')}</span>
+            <span className="truncate">{beds || (locale === 'ar' ? '🛏️ جميع الغرف' : '🛏️ All Bedrooms')}</span>
             <span className="text-gray-400">▼</span>
           </button>
           {showBedsDropdown && (
@@ -170,12 +202,12 @@ export default function Filters({ initial }: { initial: Project[] }) {
         </div>
 
         {/* المنطقة - قائمة منبثقة */}
-        <div className="relative">
+        <div ref={areaRef} className="relative">
           <button
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white text-left flex justify-between items-center hover:border-gold transition-colors"
             onClick={() => setShowAreaDropdown(!showAreaDropdown)}
           >
-            <span>{area || (locale === 'ar' ? '📍 جميع المناطق' : '📍 All Areas')}</span>
+            <span className="truncate">{area || (locale === 'ar' ? '📍 جميع المناطق' : '📍 All Areas')}</span>
             <span className="text-gray-400">▼</span>
           </button>
           {showAreaDropdown && (
@@ -192,7 +224,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
               {uniqueAreas.map(areaItem => (
                 <button
                   key={areaItem}
-                  className="w-full px-4 py-2 text-left text-white hover:bg-zinc-700 transition-colors"
+                  className="w-full px-4 py-2 text-left text-white hover:bg-zinc-700 transition-colors truncate text-sm"
                   onClick={() => {
                     setArea(areaItem);
                     setShowAreaDropdown(false);
@@ -207,12 +239,12 @@ export default function Filters({ initial }: { initial: Project[] }) {
       </div>
 
       {/* صف الفلترة الثاني */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-4">
         {/* السعر الأدنى */}
         <div className="relative">
           <input 
             type="number"
-            className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors"
+            className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base"
             placeholder={locale === 'ar' ? '💰 السعر الأدنى (AED)' : '💰 Min Price (AED)'}
             value={min}
             onChange={e => setMin(e.target.value)}
@@ -223,7 +255,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
         <div className="relative">
           <input 
             type="number"
-            className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors"
+            className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base"
             placeholder={locale === 'ar' ? '💰 السعر الأقصى (AED)' : '💰 Max Price (AED)'}
             value={max}
             onChange={e => setMax(e.target.value)}
@@ -231,12 +263,12 @@ export default function Filters({ initial }: { initial: Project[] }) {
         </div>
 
         {/* الحالة - قائمة منبثقة */}
-        <div className="relative">
+        <div ref={statusRef} className="relative">
           <button
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white text-left flex justify-between items-center hover:border-gold transition-colors"
             onClick={() => setShowStatusDropdown(!showStatusDropdown)}
           >
-            <span>{status || (locale === 'ar' ? '📊 جميع الحالات' : '📊 All Statuses')}</span>
+            <span className="truncate">{status || (locale === 'ar' ? '📊 جميع الحالات' : '📊 All Statuses')}</span>
             <span className="text-gray-400">▼</span>
           </button>
           {showStatusDropdown && (
@@ -268,14 +300,14 @@ export default function Filters({ initial }: { initial: Project[] }) {
       </div>
 
       {/* أزرار التحكم */}
-      <div className="flex justify-between items-center">
-        <div className="text-white/70">
-          {locale === 'ar' ? 'تم العثور على' : 'Found'} {filtered.length} {locale === 'ar' ? 'مشروع' : 'project'}{filtered.length !== 1 ? (locale === 'ar' ? 'ات' : 's') : ''}
+      <div className="flex flex-col sm:flex-row justify-between items-center gap-3">
+        <div className="text-white/70 text-sm md:text-base">
+          {locale === 'ar' ? 'تم العثور على' : 'Found'} <span className="text-gold font-semibold">{filtered.length}</span> {locale === 'ar' ? 'مشروع' : 'project'}{filtered.length !== 1 ? (locale === 'ar' ? 'ات' : 's') : ''}
         </div>
         <LuxuryButton 
           variant="primary" 
           size="md" 
-          className="rounded-lg font-semibold" 
+          className="rounded-lg font-semibold w-full sm:w-auto" 
           onClick={clearFilters}
         >
           {locale === 'ar' ? '🗑️ مسح الكل' : '🗑️ Clear All'}
@@ -284,17 +316,17 @@ export default function Filters({ initial }: { initial: Project[] }) {
 
       {/* النتائج */}
       {filtered.length === 0 ? (
-        <div className="text-center py-12">
-          <div className="text-6xl mb-4">🔍</div>
-          <p className="text-gray-400 text-lg">
+        <div className="text-center py-12 px-4">
+          <div className="text-5xl md:text-6xl mb-4">🔍</div>
+          <p className="text-gray-400 text-base md:text-lg">
             {locale === 'ar' ? 'لم نعثر على مشاريع مطابقة.' : 'No matching projects found.'}
           </p>
-          <p className="text-gray-500 mt-2">
+          <p className="text-gray-500 mt-2 text-sm md:text-base">
             {locale === 'ar' ? 'جرب تغيير معايير البحث.' : 'Try changing your search criteria.'}
           </p>
         </div>
       ) : (
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
           {filtered.map((p) => <ProjectCard key={p.slug} project={p} />)}
         </div>
       )}
