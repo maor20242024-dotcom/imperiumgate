@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/imperiumgate/app/%5Blocale%5D/not-found.tsx"],"sourcesContent":["export default function NotFound(){\n  return (<div className=\"min-h-[60vh] flex items-center justify-center text-center\"><div><h1 className=\"text-4xl font-extrabold text-gold\">404</h1><p className=\"mt-4 text-gray-300\">الصفحة غير موجودة</p></div></div>);\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAQ,8OAAC;QAAI,WAAU;kBAA4D,cAAA,8OAAC;;8BAAI,8OAAC;oBAAG,WAAU;8BAAoC;;;;;;8BAAQ,8OAAC;oBAAE,WAAU;8BAAqB;;;;;;;;;;;;;;;;;AACtL","debugId":null}}]
+}

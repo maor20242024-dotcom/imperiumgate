@@ -31,10 +31,42 @@ declare namespace __next_route_internal_types__ {
   type OptionalCatchAllSlug<S extends string> =
     S extends `${string}${SearchOrHash}` ? never : S
 
-  type StaticRoutes = never
-  type DynamicRoutes<T extends string = string> = never
+  type StaticRoutes = 
+    | `/admin/maps`
+    | `/api/admin/maps/stats`
+    | `/api/admin/upload`
+    | `/api/ai/analyze`
+    | `/api/ai/concierge`
+    | `/api/dubai/projects`
+    | `/api/proxy/file`
+    | `/api/revalidate`
+  type DynamicRoutes<T extends string = string> = 
+    | `/${SafeSlug<T>}`
+    | `/${SafeSlug<T>}/about`
+    | `/${SafeSlug<T>}/admin`
+    | `/${SafeSlug<T>}/ai`
+    | `/${SafeSlug<T>}/ai/map`
+    | `/${SafeSlug<T>}/compare`
+    | `/${SafeSlug<T>}/contact`
+    | `/${SafeSlug<T>}/developers`
+    | `/${SafeSlug<T>}/developers/${SafeSlug<T>}`
+    | `/${SafeSlug<T>}/favorites`
+    | `/${SafeSlug<T>}/news`
+    | `/${SafeSlug<T>}/privacy`
+    | `/${SafeSlug<T>}/projects`
+    | `/${SafeSlug<T>}/projects/${SafeSlug<T>}`
+    | `/${SafeSlug<T>}/projects/${SafeSlug<T>}/${SafeSlug<T>}`
+    | `/${SafeSlug<T>}/sitemap`
+    | `/${SafeSlug<T>}/terms`
+    | `/${SafeSlug<T>}/vision`
 
-  type RouteImpl<T> = string & {}
+  type RouteImpl<T> = 
+    | StaticRoutes
+    | SearchOrHash
+    | WithProtocol
+    | `${StaticRoutes}${SearchOrHash}`
+    | (T extends `${DynamicRoutes<infer _>}${Suffix}` ? T : never)
+    
 }
 
 declare module 'next' {

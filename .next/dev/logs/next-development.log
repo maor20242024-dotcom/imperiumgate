@@ -1,2 +1,241 @@
-[00:00:01.333] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
-[00:00:01.369] Server  ERROR   Unhandled Rejection: Error: Both middleware file "./middleware.ts" and proxy file "./proxy.ts" are detected. Please use "./proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.351] Server  LOG      ✓ Ready in 1107ms
+[00:00:10.927] Server  LOG      ○ Compiling /[locale] ...
+[00:00:15.376] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:15.376] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:15.644] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.645] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.645] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.645] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.646] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.646] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.646] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.647] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.647] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.647] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.648] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.648] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.648] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.649] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.649] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.650] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.650] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.650] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.651] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.651] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.651] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.652] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.652] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.652] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.653] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.653] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.653] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.653] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.654] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.654] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.654] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.655] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.655] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.656] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.657] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.657] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.657] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.657] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.658] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.658] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.658] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.658] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.659] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.659] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.659] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.659] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.660] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.660] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.660] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.660] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.660] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.661] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.661] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.661] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.661] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.662] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.662] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.662] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.662] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.664] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.665] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.665] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.665] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.666] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.666] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.666] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.666] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.666] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.667] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.667] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.667] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.667] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.668] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.668] Server  WARN    ⚠️ Skipping project in data.20251110T0735Z: missing projectName/title
+[00:00:15.668] Server  LOG     ✅ Loaded 139 projects from _pre_transform_backups
+[00:00:15.673] Server  WARN    ⚠️ Skipping project in communities: missing projectName/title
+[00:00:15.675] Server  WARN    ⚠️ Skipping project in manifest_binghatti.json: missing projectName/title
+[00:00:15.677] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:15.685] Server  WARN    ⚠️ Skipping project in units.json: missing projectName/title
+[00:00:15.685] Server  LOG     ✅ Loaded 1 projects from binghatti
+[00:00:15.685] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:15.686] Server  WARN    ⚠️ Skipping project in manifest_damac.json: missing projectName/title
+[00:00:15.686] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:15.686] Server  LOG     ✅ Loaded 1 projects from damac
+[00:00:15.687] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:15.688] Server  WARN    ⚠️ Skipping project in manifest_emaar.json: missing projectName/title
+[00:00:15.689] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:15.690] Server  LOG     ✅ Loaded 1 projects from emaar
+[00:00:15.691] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:15.692] Server  WARN    ⚠️ Skipping project in manifest_nakheel.json: missing projectName/title
+[00:00:15.693] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:15.694] Server  LOG     ✅ Loaded 1 projects from nakheel
+[00:00:15.695] Server  WARN    ⚠️ Skipping project in index.json: missing projectName/title
+[00:00:15.702] Server  WARN    ⚠️ Skipping project in manifest_sobha.json: missing projectName/title
+[00:00:15.704] Server  WARN    ⚠️ Skipping project in meta.json: missing projectName/title
+[00:00:15.706] Server  LOG     ✅ Loaded 1 projects from sobha
+[00:00:15.706] Server  LOG     🚀 DYNAMIC LOADING: Total 144 projects loaded from individual JSON files
+[00:00:15.907] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/nice" {}
+[00:00:15.909] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/aykon-city" {}
+[00:00:15.920] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/duo-villas" {}
+[00:00:15.922] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/fiora" {}
+[00:00:15.924] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/safa-two" {}
+[00:00:15.926] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/costa-brava" {}
+[00:00:15.928] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/riverside-views-marine-3" {}
+[00:00:15.931] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/portofino" {}
+[00:00:15.933] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/mykonos" {}
+[00:00:15.935] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/elo-2" {}
+[00:00:15.937] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/venice" {}
+[00:00:15.940] Server  DEBUG   ProjectCard href => "/en/projects/_pre_transform_backups/elo-3" {}
+[00:00:23.251] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:23.804] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:23.807] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:23.905] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/nice" {}
+[00:00:23.911] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/aykon-city" {}
+[00:00:23.934] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/duo-villas" {}
+[00:00:23.939] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/fiora" {}
+[00:00:23.952] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/safa-two" {}
+[00:00:23.957] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/costa-brava" {}
+[00:00:23.963] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/riverside-views-marine-3" {}
+[00:00:23.970] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/portofino" {}
+[00:00:23.975] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/mykonos" {}
+[00:00:23.984] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-2" {}
+[00:00:23.988] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/venice" {}
+[00:00:23.997] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-3" {}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/nice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"nice"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/nice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"nice"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/duo-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"duo-villas"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/duo-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"duo-villas"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/fiora {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"fiora"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/fiora {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"fiora"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/costa-brava {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"costa-brava"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/costa-brava {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"costa-brava"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/riverside-views-marine-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"riverside-views-marine-3"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/riverside-views-marine-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"riverside-views-marine-3"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/mykonos {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"mykonos"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/mykonos {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"mykonos"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-2"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-2"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-3"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-3"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/nice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"nice"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/nice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"nice"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/duo-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"duo-villas"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/duo-villas {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"duo-villas"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/fiora {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"fiora"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/fiora {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"fiora"}
+[00:00:25.937] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/costa-brava {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"costa-brava"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/costa-brava {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"costa-brava"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/riverside-views-marine-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"riverside-views-marine-3"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/riverside-views-marine-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"riverside-views-marine-3"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/mykonos {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"mykonos"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/mykonos {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"mykonos"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-2"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-2 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-2"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-3"}
+[00:00:25.938] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/elo-3 {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"elo-3"}
+[00:00:28.957] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:28.957] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:30.006] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:30.006] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:30.006] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:30.006] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/safa-two {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"safa-two"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/portofino {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"portofino"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:31.060] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:35.319] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:35.319] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:35.319] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:35.319] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/venice {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"venice"}
+[00:00:35.719] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:35.719] Browser DEBUG   ProjectCard href => /en/projects/_pre_transform_backups/aykon-city {"USE_DEVELOPER_SEGMENT":true,"devSeg":"_pre_transform_backups","slug":"aykon-city"}
+[00:00:44.393] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:44.393] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:00:44.458] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/nice" {}
+[00:00:44.461] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/aykon-city" {}
+[00:00:44.472] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/duo-villas" {}
+[00:00:44.475] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/fiora" {}
+[00:00:44.481] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/safa-two" {}
+[00:00:44.490] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/costa-brava" {}
+[00:00:44.493] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/riverside-views-marine-3" {}
+[00:00:44.496] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/portofino" {}
+[00:00:44.499] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/mykonos" {}
+[00:00:44.503] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-2" {}
+[00:00:44.506] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/venice" {}
+[00:00:44.509] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-3" {}
+[00:02:16.000] Server  WARN    Error: Route "/[locale]/admin" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:02:16.001] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:02:20.196] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:02:20.198] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:02:20.306] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/nice" {}
+[00:02:20.309] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/aykon-city" {}
+[00:02:20.319] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/duo-villas" {}
+[00:02:20.350] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/fiora" {}
+[00:02:20.354] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/safa-two" {}
+[00:02:20.364] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/costa-brava" {}
+[00:02:20.368] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/riverside-views-marine-3" {}
+[00:02:20.374] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/portofino" {}
+[00:02:20.379] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/mykonos" {}
+[00:02:20.387] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-2" {}
+[00:02:20.391] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/venice" {}
+[00:02:20.403] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-3" {}
+[00:02:21.421] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:36.136] Server  WARN    Error: Route "/[locale]" used `params.locale`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:02:36.136] Server  WARN    Dictionary not found for locale: undefined, falling back to 'ar'
+[00:02:36.220] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/nice" {}
+[00:02:36.225] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/aykon-city" {}
+[00:02:36.240] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/duo-villas" {}
+[00:02:36.245] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/fiora" {}
+[00:02:36.255] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/safa-two" {}
+[00:02:36.260] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/costa-brava" {}
+[00:02:36.272] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/riverside-views-marine-3" {}
+[00:02:36.281] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/portofino" {}
+[00:02:36.288] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/mykonos" {}
+[00:02:36.293] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-2" {}
+[00:02:36.295] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/venice" {}
+[00:02:36.300] Server  DEBUG   ProjectCard href => "/ar/projects/_pre_transform_backups/elo-3" {}

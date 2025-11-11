@@ -1,0 +1,25 @@
+/* [project]/app/[locale]/tajawal_d8b1dc5c.module.css [app-client] (css) */
+@font-face {
+  font-family: tajawal;
+  src: url("../media/Tajawal-s.p.2804bcce.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: tajawal Fallback;
+  src: local(Arial);
+  ascent-override: 68.09%;
+  descent-override: 37.8%;
+  line-gap-override: 21.18%;
+  size-adjust: 94.43%;
+}
+
+.tajawal_d8b1dc5c-module__lHGA7q__className {
+  font-family: tajawal, tajawal Fallback;
+}
+
+.tajawal_d8b1dc5c-module__lHGA7q__variable {
+  --font-tajawal: "tajawal", "tajawal Fallback";
+}
+
+/*# sourceMappingURL=app_%5Blocale%5D_tajawal_d8b1dc5c_module_css_bad6b30c._.single.css.map*/

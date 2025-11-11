@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "2d8537e718509f9158bc45868876d6e8",
-    "previewModeSigningKey": "59fc03209a0477256999c811fb861b18242410fd65ffa3bf2a50de12bf24b9b0",
-    "previewModeEncryptionKey": "9734b3caefecf878b5975f20a0a8606e4b84d1262208dd60bc4f4c494673d433"
-  }
-}
+{"version":4,"routes":{"/ar":{},"/en":{},"/ar/developers":{},"/en/developers":{},"/ar/admin":{},"/en/admin":{}},"dynamicRoutes":{"/[locale]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/[locale]","routeRegex":"^\\/([^/]+?)(?:\\/)?$","allowHeader":[]},"/[locale]/developers":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/[locale]/developers","routeRegex":"^\\/([^/]+?)\\/developers(?:\\/)?$","allowHeader":[]},"/[locale]/admin":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/[locale]/admin","routeRegex":"^\\/([^/]+?)\\/admin(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"e8dcdae9982cdafc274287527951614e","previewModeSigningKey":"02ede3d68dd3e5cccb506d941d3f530e861dd273c6b23b7531ee66b3f9ed6894","previewModeEncryptionKey":"c93910ebdb334c4d835cfb30815c2dadbeec814218e71f58adba8c2a92775aa8"}}

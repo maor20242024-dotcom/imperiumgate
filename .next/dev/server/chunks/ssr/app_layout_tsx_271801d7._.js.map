@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/imperiumgate/app/layout.tsx"],"sourcesContent":["import './globals.css'\n// import SplashScreen from '@/components/SplashScreen'\n\n// This root layout is now a pass-through, as <html> and <body> are defined\n// in the locale-specific layout file to enable dynamic dir and lang attributes.\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode\n}) {\n  return children\n}\n"],"names":[],"mappings":";;;;;AAKe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,OAAO;AACT","debugId":null}}]
+}
