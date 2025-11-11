@@ -11,7 +11,7 @@ import ProjectNotFound from '@/components/project/ProjectNotFound';
 import RelatedCarousel from '@/components/project/RelatedCarousel';
 import SectionNav from '@/components/project/SectionNav';
 import ProjectLocationMapWrapper from '@/components/project/ProjectLocationMapWrapper';
-import PropVRFrame from '@/components/PropVRFrame';
+import ThreeDTourButton from '@/components/project/3DTourButton';
 import VideoBlock from '@/components/project/VideoBlock';
 import ROICalculator from '@/components/ui/ROICalculator';
 import { deriveProjectLatLon } from '@/lib/geo';
@@ -105,7 +105,22 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
 
       {has3D && (
         <div id="tour3d" className="max-w-6xl mx-auto px-6 py-16">
-          <PropVRFrame url={project['3D_TourLink']!} />
+          <div className="text-center mb-8">
+            <h2 className="text-3xl font-bold text-gold mb-4">
+              {locale === 'ar' ? '🏛️ جولة افتراضية' : '🏛️ Virtual Tour'}
+            </h2>
+            <p className="text-gray-400">
+              {locale === 'ar' 
+                ? 'استكشف المشروع بتقنية 360 درجة'
+                : 'Explore the project in 360°'
+              }
+            </p>
+          </div>
+          <ThreeDTourButton 
+            tourUrl={project['3D_TourLink']!} 
+            projectName={translateText(project.projectName, locale) || project.slug}
+            locale={locale}
+          />
         </div>
       )}
 

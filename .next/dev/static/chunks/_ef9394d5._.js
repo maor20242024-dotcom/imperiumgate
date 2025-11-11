@@ -1553,7 +1553,7 @@ function ProjectCard({ project }) {
     const area = hasAreaSqmt ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatArea"])(project.minAreaSqmt, project.maxAreaSqmt, 'sqm', locale) : hasAreaSqft ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatArea"])(project.minAreaSqft, project.maxAreaSqft, 'sqft', locale) : null;
     // Safe bedrooms formatting
     const bedrooms = project?.bedrooms ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatBedrooms"])(project.bedrooms, locale) : null;
-    const loc = (locale || 'ar').toString();
+    const loc = locale || 'ar';
     const rawSlug = project?.slug && String(project.slug).trim() || ((0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$i18n$2d$utils$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["t"])(project?.projectName, locale)?.toString().trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\-]+/g, '') ?? '');
     const slug = rawSlug;
     const devSeg = project?.developer && String(project.developer).trim() || '';
@@ -1584,7 +1584,7 @@ function ProjectCard({ project }) {
             },
             onHoverStart: ()=>setIsHovered(true),
             onHoverEnd: ()=>setIsHovered(false),
-            className: 'group relative flex flex-col justify-between rounded-2xl overflow-hidden border border-gold/30 bg-black/90 hover:shadow-[0_0_20px_rgba(107,90,43,0.2)] hover:border-gold-800 transition-all duration-700 opacity-0 animate-fade-in h-[520px]'
+            className: 'group relative flex flex-col justify-between rounded-xl md:rounded-2xl overflow-hidden border border-gold/30 bg-black/90 hover:shadow-[0_0_20px_rgba(107,90,43,0.2)] hover:border-gold-800 transition-all duration-700 opacity-0 animate-fade-in h-auto md:h-[520px]'
         },
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1599,7 +1599,7 @@ function ProjectCard({ project }) {
                 className: "block relative overflow-hidden",
                 prefetch: false,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "relative h-44 w-full overflow-hidden",
+                    className: "relative h-40 sm:h-44 w-full overflow-hidden",
                     children: img ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1607,11 +1607,13 @@ function ProjectCard({ project }) {
                                 alt: title,
                                 width: 400,
                                 height: 176,
-                                className: "h-44 w-full object-cover transition-all duration-200",
+                                className: "h-40 sm:h-44 w-full object-cover transition-all duration-200",
                                 style: {
                                     filter: isHovered ? 'brightness(1.1)' : 'brightness(1)'
                                 },
-                                sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                                sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw",
+                                priority: false,
+                                loading: "lazy"
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectCard.tsx",
                                 lineNumber: 116,
@@ -1621,23 +1623,23 @@ function ProjectCard({ project }) {
                                 className: "absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200"
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectCard.tsx",
-                                lineNumber: 126,
+                                lineNumber: 128,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center",
+                        className: "h-40 sm:h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-gold/30 text-4xl",
                             children: "🏢"
                         }, void 0, false, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 130,
+                            lineNumber: 132,
                             columnNumber: 15
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 129,
+                        lineNumber: 131,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
@@ -1651,14 +1653,14 @@ function ProjectCard({ project }) {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute top-3 right-3 flex gap-2 z-10",
+                className: "absolute top-2 md:top-3 right-2 md:right-3 flex gap-1.5 md:gap-2 z-10",
                 children: [
                     project?.goldenVisaEligible ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "text-[10px] px-2 py-1 rounded-full bg-gold/30 text-gold border border-gold/40 shadow backdrop-blur-sm",
+                        className: "text-[9px] md:text-[10px] px-1.5 md:px-2 py-0.5 md:py-1 rounded-full bg-gold/30 text-gold border border-gold/40 shadow backdrop-blur-sm",
                         children: locale === 'ar' ? 'تأشيرة ذهبية' : 'Golden Visa'
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 139,
+                        lineNumber: 141,
                         columnNumber: 11
                     }, this) : null,
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1666,20 +1668,21 @@ function ProjectCard({ project }) {
                         onClick: ()=>favorites.toggle(project.id || project.slug),
                         variant: favorites.has(project.id || project.slug) ? 'secondary' : 'outline',
                         size: "sm",
-                        className: "!h-9 !w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
+                        className: "!h-8 !w-8 md:!h-9 md:!w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             style: {
-                                color: favorites.has(project.id || project.slug) ? '#FFD700' : '#D4AF37'
+                                color: favorites.has(project.id || project.slug) ? '#FFD700' : '#D4AF37',
+                                fontSize: '14px'
                             },
                             children: "★"
                         }, void 0, false, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 151,
+                            lineNumber: 153,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 144,
+                        lineNumber: 146,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1687,30 +1690,31 @@ function ProjectCard({ project }) {
                         onClick: ()=>isCompared ? compare.remove(project.id || project.slug) : compare.add(project.id || project.slug),
                         variant: isCompared ? 'secondary' : 'outline',
                         size: "sm",
-                        className: "!h-9 !w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
+                        className: "!h-8 !w-8 md:!h-9 md:!w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             style: {
-                                color: isCompared ? '#FFD700' : '#D4AF37'
+                                color: isCompared ? '#FFD700' : '#D4AF37',
+                                fontSize: '12px'
                             },
                             children: "⚖️"
                         }, void 0, false, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 165,
+                            lineNumber: 167,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 156,
+                        lineNumber: 158,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/ProjectCard.tsx",
-                lineNumber: 137,
+                lineNumber: 139,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex flex-col justify-between h-[calc(100%-11rem)] p-4",
+                className: "flex flex-col justify-between h-auto md:h-[calc(100%-11rem)] p-3 md:p-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1719,44 +1723,44 @@ function ProjectCard({ project }) {
                             prefetch: false,
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                    className: `luxury-title text-lg gold-gradient-static luxury-text-shadow leading-snug line-clamp-2 hover:text-gold transition-colors duration-200 ${locale === 'ar' ? 'font-arabic' : 'font-display'}`,
+                                    className: `luxury-title text-base md:text-lg gold-gradient-static luxury-text-shadow leading-snug line-clamp-2 hover:text-gold transition-colors duration-200 ${locale === 'ar' ? 'font-arabic' : 'font-display'}`,
                                     children: title
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 172,
+                                    lineNumber: 174,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: `mt-1 text-xs text-gray-400 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
+                                    className: `mt-1 text-xs text-gray-400 line-clamp-1 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
                                     children: subtitle
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 179,
+                                    lineNumber: 181,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: `mt-3 text-sm text-gray-300 line-clamp-2 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
+                                    className: `mt-2 md:mt-3 text-xs md:text-sm text-gray-300 line-clamp-2 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
                                     children: String((0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$i18n$2d$utils$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["t"])(project.summary, locale) || (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$i18n$2d$utils$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["t"])(project.description, locale) || '').slice(0, 140)
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 182,
+                                    lineNumber: 184,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 171,
+                            lineNumber: 173,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 170,
+                        lineNumber: 172,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
                             (price || area || bedrooms) && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: `mt-4 grid gap-2 text-xs ${[
+                                className: `mt-3 md:mt-4 grid gap-1.5 md:gap-2 text-xs ${[
                                     price,
                                     area,
                                     bedrooms
@@ -1767,116 +1771,116 @@ function ProjectCard({ project }) {
                                 ].filter(Boolean).length === 2 ? 'grid-cols-2' : 'grid-cols-3'}`,
                                 children: [
                                     price && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
+                                        className: "rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-[10px] text-gray-400",
+                                                className: "text-[9px] md:text-[10px] text-gray-400",
                                                 children: locale === 'ar' ? 'السعر' : 'Price'
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 204,
+                                                lineNumber: 206,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "font-semibold text-white/90",
+                                                className: "font-semibold text-white/90 text-[10px] md:text-xs truncate",
                                                 children: price
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 205,
+                                                lineNumber: 207,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/ProjectCard.tsx",
-                                        lineNumber: 203,
+                                        lineNumber: 205,
                                         columnNumber: 17
                                     }, this),
                                     area && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
+                                        className: "rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-[10px] text-gray-400",
+                                                className: "text-[9px] md:text-[10px] text-gray-400",
                                                 children: locale === 'ar' ? 'المساحة' : 'Area'
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 210,
+                                                lineNumber: 212,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "font-semibold text-white/90",
+                                                className: "font-semibold text-white/90 text-[10px] md:text-xs truncate",
                                                 children: area
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 211,
+                                                lineNumber: 213,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/ProjectCard.tsx",
-                                        lineNumber: 209,
+                                        lineNumber: 211,
                                         columnNumber: 17
                                     }, this),
                                     bedrooms && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
+                                        className: "rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-[10px] text-gray-400",
+                                                className: "text-[9px] md:text-[10px] text-gray-400",
                                                 children: locale === 'ar' ? 'الغرف' : 'Bedrooms'
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 216,
+                                                lineNumber: 218,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "font-semibold text-white/90",
+                                                className: "font-semibold text-white/90 text-[10px] md:text-xs",
                                                 children: bedrooms
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 217,
+                                                lineNumber: 219,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/ProjectCard.tsx",
-                                        lineNumber: 215,
+                                        lineNumber: 217,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/ProjectCard.tsx",
-                                lineNumber: 193,
+                                lineNumber: 195,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 href: href,
-                                className: "mt-4 block",
+                                className: "mt-3 md:mt-4 block",
                                 prefetch: false,
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                     variant: "primary",
                                     size: "md",
                                     fullWidth: true,
-                                    className: `${locale === 'ar' ? 'font-arabic' : 'font-sans'} hover:scale-[1.02] transition-transform duration-200`,
+                                    className: `${locale === 'ar' ? 'font-arabic' : 'font-sans'} text-sm md:text-base hover:scale-[1.02] transition-transform duration-200`,
                                     children: locale === 'ar' ? 'عرض التفاصيل' : 'View Details'
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 224,
+                                    lineNumber: 226,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectCard.tsx",
-                                lineNumber: 223,
+                                lineNumber: 225,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 190,
+                        lineNumber: 192,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/ProjectCard.tsx",
-                lineNumber: 169,
+                lineNumber: 171,
                 columnNumber: 7
             }, this)
         ]

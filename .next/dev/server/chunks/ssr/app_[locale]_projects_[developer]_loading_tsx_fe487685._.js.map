@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/imperiumgate/app/%5Blocale%5D/projects/%5Bdeveloper%5D/loading.tsx"],"sourcesContent":["import IGSplash from '@/components/ui/IGSplash';\n\nexport default function Loading() {\n  return <IGSplash message=\"جارٍ تحميل مشاريع المطور...\" sub=\"Imperium Gate\" />;\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC,wIAAQ;QAAC,SAAQ;QAA8B,KAAI;;;;;;AAC7D","debugId":null}}]
+}

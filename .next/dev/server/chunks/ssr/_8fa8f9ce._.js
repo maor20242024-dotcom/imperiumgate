@@ -385,7 +385,7 @@ function ProjectCard({ project }) {
     const area = hasAreaSqmt ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["formatArea"])(project.minAreaSqmt, project.maxAreaSqmt, 'sqm', locale) : hasAreaSqft ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["formatArea"])(project.minAreaSqft, project.maxAreaSqft, 'sqft', locale) : null;
     // Safe bedrooms formatting
     const bedrooms = project?.bedrooms ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["formatBedrooms"])(project.bedrooms, locale) : null;
-    const loc = (locale || 'ar').toString();
+    const loc = locale || 'ar';
     const rawSlug = project?.slug && String(project.slug).trim() || ((0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$i18n$2d$utils$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["t"])(project?.projectName, locale)?.toString().trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\-]+/g, '') ?? '');
     const slug = rawSlug;
     const devSeg = project?.developer && String(project.developer).trim() || '';
@@ -416,7 +416,7 @@ function ProjectCard({ project }) {
             },
             onHoverStart: ()=>setIsHovered(true),
             onHoverEnd: ()=>setIsHovered(false),
-            className: 'group relative flex flex-col justify-between rounded-2xl overflow-hidden border border-gold/30 bg-black/90 hover:shadow-[0_0_20px_rgba(107,90,43,0.2)] hover:border-gold-800 transition-all duration-700 opacity-0 animate-fade-in h-[520px]'
+            className: 'group relative flex flex-col justify-between rounded-xl md:rounded-2xl overflow-hidden border border-gold/30 bg-black/90 hover:shadow-[0_0_20px_rgba(107,90,43,0.2)] hover:border-gold-800 transition-all duration-700 opacity-0 animate-fade-in h-auto md:h-[520px]'
         },
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -431,7 +431,7 @@ function ProjectCard({ project }) {
                 className: "block relative overflow-hidden",
                 prefetch: false,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "relative h-44 w-full overflow-hidden",
+                    className: "relative h-40 sm:h-44 w-full overflow-hidden",
                     children: img ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -439,11 +439,13 @@ function ProjectCard({ project }) {
                                 alt: title,
                                 width: 400,
                                 height: 176,
-                                className: "h-44 w-full object-cover transition-all duration-200",
+                                className: "h-40 sm:h-44 w-full object-cover transition-all duration-200",
                                 style: {
                                     filter: isHovered ? 'brightness(1.1)' : 'brightness(1)'
                                 },
-                                sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                                sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw",
+                                priority: false,
+                                loading: "lazy"
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectCard.tsx",
                                 lineNumber: 116,
@@ -453,23 +455,23 @@ function ProjectCard({ project }) {
                                 className: "absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200"
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectCard.tsx",
-                                lineNumber: 126,
+                                lineNumber: 128,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center",
+                        className: "h-40 sm:h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-gold/30 text-4xl",
                             children: "🏢"
                         }, void 0, false, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 130,
+                            lineNumber: 132,
                             columnNumber: 15
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 129,
+                        lineNumber: 131,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
@@ -483,14 +485,14 @@ function ProjectCard({ project }) {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute top-3 right-3 flex gap-2 z-10",
+                className: "absolute top-2 md:top-3 right-2 md:right-3 flex gap-1.5 md:gap-2 z-10",
                 children: [
                     project?.goldenVisaEligible ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "text-[10px] px-2 py-1 rounded-full bg-gold/30 text-gold border border-gold/40 shadow backdrop-blur-sm",
+                        className: "text-[9px] md:text-[10px] px-1.5 md:px-2 py-0.5 md:py-1 rounded-full bg-gold/30 text-gold border border-gold/40 shadow backdrop-blur-sm",
                         children: locale === 'ar' ? 'تأشيرة ذهبية' : 'Golden Visa'
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 139,
+                        lineNumber: 141,
                         columnNumber: 11
                     }, this) : null,
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -498,20 +500,21 @@ function ProjectCard({ project }) {
                         onClick: ()=>favorites.toggle(project.id || project.slug),
                         variant: favorites.has(project.id || project.slug) ? 'secondary' : 'outline',
                         size: "sm",
-                        className: "!h-9 !w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
+                        className: "!h-8 !w-8 md:!h-9 md:!w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             style: {
-                                color: favorites.has(project.id || project.slug) ? '#FFD700' : '#D4AF37'
+                                color: favorites.has(project.id || project.slug) ? '#FFD700' : '#D4AF37',
+                                fontSize: '14px'
                             },
                             children: "★"
                         }, void 0, false, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 151,
+                            lineNumber: 153,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 144,
+                        lineNumber: 146,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -519,30 +522,31 @@ function ProjectCard({ project }) {
                         onClick: ()=>isCompared ? compare.remove(project.id || project.slug) : compare.add(project.id || project.slug),
                         variant: isCompared ? 'secondary' : 'outline',
                         size: "sm",
-                        className: "!h-9 !w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
+                        className: "!h-8 !w-8 md:!h-9 md:!w-9 !p-0 rounded-full backdrop-blur-sm hover:scale-105 transition-transform duration-200",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             style: {
-                                color: isCompared ? '#FFD700' : '#D4AF37'
+                                color: isCompared ? '#FFD700' : '#D4AF37',
+                                fontSize: '12px'
                             },
                             children: "⚖️"
                         }, void 0, false, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 165,
+                            lineNumber: 167,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 156,
+                        lineNumber: 158,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/ProjectCard.tsx",
-                lineNumber: 137,
+                lineNumber: 139,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex flex-col justify-between h-[calc(100%-11rem)] p-4",
+                className: "flex flex-col justify-between h-auto md:h-[calc(100%-11rem)] p-3 md:p-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -551,44 +555,44 @@ function ProjectCard({ project }) {
                             prefetch: false,
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                    className: `luxury-title text-lg gold-gradient-static luxury-text-shadow leading-snug line-clamp-2 hover:text-gold transition-colors duration-200 ${locale === 'ar' ? 'font-arabic' : 'font-display'}`,
+                                    className: `luxury-title text-base md:text-lg gold-gradient-static luxury-text-shadow leading-snug line-clamp-2 hover:text-gold transition-colors duration-200 ${locale === 'ar' ? 'font-arabic' : 'font-display'}`,
                                     children: title
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 172,
+                                    lineNumber: 174,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: `mt-1 text-xs text-gray-400 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
+                                    className: `mt-1 text-xs text-gray-400 line-clamp-1 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
                                     children: subtitle
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 179,
+                                    lineNumber: 181,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: `mt-3 text-sm text-gray-300 line-clamp-2 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
+                                    className: `mt-2 md:mt-3 text-xs md:text-sm text-gray-300 line-clamp-2 ${locale === 'ar' ? 'font-arabic' : 'font-sans'}`,
                                     children: String((0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$i18n$2d$utils$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["t"])(project.summary, locale) || (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$i18n$2d$utils$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["t"])(project.description, locale) || '').slice(0, 140)
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 182,
+                                    lineNumber: 184,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/ProjectCard.tsx",
-                            lineNumber: 171,
+                            lineNumber: 173,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 170,
+                        lineNumber: 172,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
                             (price || area || bedrooms) && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: `mt-4 grid gap-2 text-xs ${[
+                                className: `mt-3 md:mt-4 grid gap-1.5 md:gap-2 text-xs ${[
                                     price,
                                     area,
                                     bedrooms
@@ -599,116 +603,116 @@ function ProjectCard({ project }) {
                                 ].filter(Boolean).length === 2 ? 'grid-cols-2' : 'grid-cols-3'}`,
                                 children: [
                                     price && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
+                                        className: "rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-[10px] text-gray-400",
+                                                className: "text-[9px] md:text-[10px] text-gray-400",
                                                 children: locale === 'ar' ? 'السعر' : 'Price'
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 204,
+                                                lineNumber: 206,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "font-semibold text-white/90",
+                                                className: "font-semibold text-white/90 text-[10px] md:text-xs truncate",
                                                 children: price
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 205,
+                                                lineNumber: 207,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/ProjectCard.tsx",
-                                        lineNumber: 203,
+                                        lineNumber: 205,
                                         columnNumber: 17
                                     }, this),
                                     area && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
+                                        className: "rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-[10px] text-gray-400",
+                                                className: "text-[9px] md:text-[10px] text-gray-400",
                                                 children: locale === 'ar' ? 'المساحة' : 'Area'
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 210,
+                                                lineNumber: 212,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "font-semibold text-white/90",
+                                                className: "font-semibold text-white/90 text-[10px] md:text-xs truncate",
                                                 children: area
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 211,
+                                                lineNumber: 213,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/ProjectCard.tsx",
-                                        lineNumber: 209,
+                                        lineNumber: 211,
                                         columnNumber: 17
                                     }, this),
                                     bedrooms && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "rounded-lg bg-zinc-900/70 px-3 py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
+                                        className: "rounded-md md:rounded-lg bg-zinc-900/70 px-2 md:px-3 py-1.5 md:py-2 border border-zinc-700/50 hover:border-gold/30 hover:bg-white/5 transition-all duration-200",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-[10px] text-gray-400",
+                                                className: "text-[9px] md:text-[10px] text-gray-400",
                                                 children: locale === 'ar' ? 'الغرف' : 'Bedrooms'
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 216,
+                                                lineNumber: 218,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "font-semibold text-white/90",
+                                                className: "font-semibold text-white/90 text-[10px] md:text-xs",
                                                 children: bedrooms
                                             }, void 0, false, {
                                                 fileName: "[project]/components/ProjectCard.tsx",
-                                                lineNumber: 217,
+                                                lineNumber: 219,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/ProjectCard.tsx",
-                                        lineNumber: 215,
+                                        lineNumber: 217,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/ProjectCard.tsx",
-                                lineNumber: 193,
+                                lineNumber: 195,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                 href: href,
-                                className: "mt-4 block",
+                                className: "mt-3 md:mt-4 block",
                                 prefetch: false,
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                     variant: "primary",
                                     size: "md",
                                     fullWidth: true,
-                                    className: `${locale === 'ar' ? 'font-arabic' : 'font-sans'} hover:scale-[1.02] transition-transform duration-200`,
+                                    className: `${locale === 'ar' ? 'font-arabic' : 'font-sans'} text-sm md:text-base hover:scale-[1.02] transition-transform duration-200`,
                                     children: locale === 'ar' ? 'عرض التفاصيل' : 'View Details'
                                 }, void 0, false, {
                                     fileName: "[project]/components/ProjectCard.tsx",
-                                    lineNumber: 224,
+                                    lineNumber: 226,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectCard.tsx",
-                                lineNumber: 223,
+                                lineNumber: 225,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/ProjectCard.tsx",
-                        lineNumber: 190,
+                        lineNumber: 192,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/ProjectCard.tsx",
-                lineNumber: 169,
+                lineNumber: 171,
                 columnNumber: 7
             }, this)
         ]
@@ -750,6 +754,30 @@ function Filters({ initial }) {
     const [showBedsDropdown, setShowBedsDropdown] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
     const [showAreaDropdown, setShowAreaDropdown] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
     const [showStatusDropdown, setShowStatusDropdown] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
+    // Refs for click outside detection
+    const devRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
+    const bedsRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
+    const areaRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
+    const statusRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
+    // Close dropdowns when clicking outside
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
+        const handleClickOutside = (event)=>{
+            if (devRef.current && !devRef.current.contains(event.target)) {
+                setShowDevDropdown(false);
+            }
+            if (bedsRef.current && !bedsRef.current.contains(event.target)) {
+                setShowBedsDropdown(false);
+            }
+            if (areaRef.current && !areaRef.current.contains(event.target)) {
+                setShowAreaDropdown(false);
+            }
+            if (statusRef.current && !statusRef.current.contains(event.target)) {
+                setShowStatusDropdown(false);
+            }
+        };
+        document.addEventListener('mousedown', handleClickOutside);
+        return ()=>document.removeEventListener('mousedown', handleClickOutside);
+    }, []);
     // استخراج القيم الفريدة للقوائم المنبثقة
     const uniqueDevelopers = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useMemo"])(()=>{
         const developers = initial.map((p)=>p.developer || '').filter(Boolean);
@@ -800,8 +828,11 @@ function Filters({ initial }) {
             const name = typeof p.projectName === 'string' ? p.projectName : p.projectName?.[locale] || p.projectName?.en || '';
             const hitQ = !q || name.toLowerCase().includes(q.toLowerCase());
             const hitDev = !dev || (p.developer || '').toLowerCase() === dev.toLowerCase();
-            const minOk = !min || (p.minPriceAED || 0) >= Number(min);
-            const maxOk = !max || (p.maxPriceAED || 0) <= Number(max);
+            // إصلاح فلتر السعر - يجب أن يكون السعر >= الأدنى و <= الأقصى
+            const projectMinPrice = p.minPriceAED || 0;
+            const projectMaxPrice = p.maxPriceAED || 0;
+            const minOk = !min || projectMinPrice >= Number(min);
+            const maxOk = !max || projectMaxPrice > 0 && projectMaxPrice <= Number(max);
             const bedOk = !beds || Array.isArray(p.bedrooms) && p.bedrooms.some((b)=>String(b) === beds);
             // معالجة المنطقة
             const projectArea = p.area;
@@ -837,26 +868,27 @@ function Filters({ initial }) {
         className: "space-y-6",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "relative",
+                        className: "relative sm:col-span-2 lg:col-span-1",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                            className: "w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors",
+                            className: "w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base",
                             placeholder: locale === 'ar' ? '🔍 ابحث عن مشروع...' : '🔍 Search projects...',
                             value: q,
                             onChange: (e)=>setQ(e.target.value)
                         }, void 0, false, {
                             fileName: "[project]/components/projects/Filters.tsx",
-                            lineNumber: 92,
+                            lineNumber: 124,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 91,
+                        lineNumber: 123,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        ref: devRef,
                         className: "relative",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -864,10 +896,11 @@ function Filters({ initial }) {
                                 onClick: ()=>setShowDevDropdown(!showDevDropdown),
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "truncate",
                                         children: dev || (locale === 'ar' ? '👷 جميع المطورين' : '👷 All Developers')
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 106,
+                                        lineNumber: 138,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -875,13 +908,13 @@ function Filters({ initial }) {
                                         children: "▼"
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 107,
+                                        lineNumber: 139,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 102,
+                                lineNumber: 134,
                                 columnNumber: 11
                             }, this),
                             showDevDropdown && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -896,7 +929,7 @@ function Filters({ initial }) {
                                         children: locale === 'ar' ? '👷 جميع المطورين' : '👷 All Developers'
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 111,
+                                        lineNumber: 143,
                                         columnNumber: 15
                                     }, this),
                                     uniqueDevelopers.map((developer)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -908,22 +941,23 @@ function Filters({ initial }) {
                                             children: developer
                                         }, developer, false, {
                                             fileName: "[project]/components/projects/Filters.tsx",
-                                            lineNumber: 121,
+                                            lineNumber: 153,
                                             columnNumber: 17
                                         }, this))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 110,
+                                lineNumber: 142,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 101,
+                        lineNumber: 133,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        ref: bedsRef,
                         className: "relative",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -931,10 +965,11 @@ function Filters({ initial }) {
                                 onClick: ()=>setShowBedsDropdown(!showBedsDropdown),
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "truncate",
                                         children: beds || (locale === 'ar' ? '🛏️ جميع الغرف' : '🛏️ All Bedrooms')
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 142,
+                                        lineNumber: 174,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -942,13 +977,13 @@ function Filters({ initial }) {
                                         children: "▼"
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 143,
+                                        lineNumber: 175,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 138,
+                                lineNumber: 170,
                                 columnNumber: 11
                             }, this),
                             showBedsDropdown && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -963,7 +998,7 @@ function Filters({ initial }) {
                                         children: locale === 'ar' ? '🛏️ جميع الغرف' : '🛏️ All Bedrooms'
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 147,
+                                        lineNumber: 179,
                                         columnNumber: 15
                                     }, this),
                                     uniqueBedrooms.map((bed)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -980,22 +1015,23 @@ function Filters({ initial }) {
                                             ]
                                         }, bed, true, {
                                             fileName: "[project]/components/projects/Filters.tsx",
-                                            lineNumber: 157,
+                                            lineNumber: 189,
                                             columnNumber: 17
                                         }, this))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 146,
+                                lineNumber: 178,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 137,
+                        lineNumber: 169,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        ref: areaRef,
                         className: "relative",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1003,10 +1039,11 @@ function Filters({ initial }) {
                                 onClick: ()=>setShowAreaDropdown(!showAreaDropdown),
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "truncate",
                                         children: area || (locale === 'ar' ? '📍 جميع المناطق' : '📍 All Areas')
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 178,
+                                        lineNumber: 210,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1014,13 +1051,13 @@ function Filters({ initial }) {
                                         children: "▼"
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 179,
+                                        lineNumber: 211,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 174,
+                                lineNumber: 206,
                                 columnNumber: 11
                             }, this),
                             showAreaDropdown && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1035,11 +1072,11 @@ function Filters({ initial }) {
                                         children: locale === 'ar' ? '📍 جميع المناطق' : '📍 All Areas'
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 183,
+                                        lineNumber: 215,
                                         columnNumber: 15
                                     }, this),
                                     uniqueAreas.map((areaItem)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                            className: "w-full px-4 py-2 text-left text-white hover:bg-zinc-700 transition-colors",
+                                            className: "w-full px-4 py-2 text-left text-white hover:bg-zinc-700 transition-colors truncate text-sm",
                                             onClick: ()=>{
                                                 setArea(areaItem);
                                                 setShowAreaDropdown(false);
@@ -1047,67 +1084,68 @@ function Filters({ initial }) {
                                             children: areaItem
                                         }, areaItem, false, {
                                             fileName: "[project]/components/projects/Filters.tsx",
-                                            lineNumber: 193,
+                                            lineNumber: 225,
                                             columnNumber: 17
                                         }, this))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 182,
+                                lineNumber: 214,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 173,
+                        lineNumber: 205,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/projects/Filters.tsx",
-                lineNumber: 89,
+                lineNumber: 121,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 md:grid-cols-3 gap-4",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "relative",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                             type: "number",
-                            className: "w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors",
+                            className: "w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base",
                             placeholder: locale === 'ar' ? '💰 السعر الأدنى (AED)' : '💰 Min Price (AED)',
                             value: min,
                             onChange: (e)=>setMin(e.target.value)
                         }, void 0, false, {
                             fileName: "[project]/components/projects/Filters.tsx",
-                            lineNumber: 213,
+                            lineNumber: 245,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 212,
+                        lineNumber: 244,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "relative",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                             type: "number",
-                            className: "w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors",
+                            className: "w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base",
                             placeholder: locale === 'ar' ? '💰 السعر الأقصى (AED)' : '💰 Max Price (AED)',
                             value: max,
                             onChange: (e)=>setMax(e.target.value)
                         }, void 0, false, {
                             fileName: "[project]/components/projects/Filters.tsx",
-                            lineNumber: 224,
+                            lineNumber: 256,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 223,
+                        lineNumber: 255,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        ref: statusRef,
                         className: "relative",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1115,10 +1153,11 @@ function Filters({ initial }) {
                                 onClick: ()=>setShowStatusDropdown(!showStatusDropdown),
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "truncate",
                                         children: status || (locale === 'ar' ? '📊 جميع الحالات' : '📊 All Statuses')
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 239,
+                                        lineNumber: 271,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1126,13 +1165,13 @@ function Filters({ initial }) {
                                         children: "▼"
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 240,
+                                        lineNumber: 272,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 235,
+                                lineNumber: 267,
                                 columnNumber: 11
                             }, this),
                             showStatusDropdown && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1147,7 +1186,7 @@ function Filters({ initial }) {
                                         children: locale === 'ar' ? '📊 جميع الحالات' : '📊 All Statuses'
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/Filters.tsx",
-                                        lineNumber: 244,
+                                        lineNumber: 276,
                                         columnNumber: 15
                                     }, this),
                                     uniqueStatuses.map((statusItem)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1159,112 +1198,119 @@ function Filters({ initial }) {
                                             children: statusItem
                                         }, statusItem, false, {
                                             fileName: "[project]/components/projects/Filters.tsx",
-                                            lineNumber: 254,
+                                            lineNumber: 286,
                                             columnNumber: 17
                                         }, this))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/Filters.tsx",
-                                lineNumber: 243,
+                                lineNumber: 275,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 234,
+                        lineNumber: 266,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/projects/Filters.tsx",
-                lineNumber: 210,
+                lineNumber: 242,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex justify-between items-center",
+                className: "flex flex-col sm:flex-row justify-between items-center gap-3",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-white/70",
+                        className: "text-white/70 text-sm md:text-base",
                         children: [
                             locale === 'ar' ? 'تم العثور على' : 'Found',
                             " ",
-                            filtered.length,
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-gold font-semibold",
+                                children: filtered.length
+                            }, void 0, false, {
+                                fileName: "[project]/components/projects/Filters.tsx",
+                                lineNumber: 305,
+                                columnNumber: 57
+                            }, this),
                             " ",
                             locale === 'ar' ? 'مشروع' : 'project',
                             filtered.length !== 1 ? locale === 'ar' ? 'ات' : 's' : ''
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 272,
+                        lineNumber: 304,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$LuxuryButton$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         variant: "primary",
                         size: "md",
-                        className: "rounded-lg font-semibold",
+                        className: "rounded-lg font-semibold w-full sm:w-auto",
                         onClick: clearFilters,
                         children: locale === 'ar' ? '🗑️ مسح الكل' : '🗑️ Clear All'
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 275,
+                        lineNumber: 307,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/projects/Filters.tsx",
-                lineNumber: 271,
+                lineNumber: 303,
                 columnNumber: 7
             }, this),
             filtered.length === 0 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "text-center py-12",
+                className: "text-center py-12 px-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-6xl mb-4",
+                        className: "text-5xl md:text-6xl mb-4",
                         children: "🔍"
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 288,
+                        lineNumber: 320,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-gray-400 text-lg",
+                        className: "text-gray-400 text-base md:text-lg",
                         children: locale === 'ar' ? 'لم نعثر على مشاريع مطابقة.' : 'No matching projects found.'
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 289,
+                        lineNumber: 321,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-gray-500 mt-2",
+                        className: "text-gray-500 mt-2 text-sm md:text-base",
                         children: locale === 'ar' ? 'جرب تغيير معايير البحث.' : 'Try changing your search criteria.'
                     }, void 0, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 292,
+                        lineNumber: 324,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/projects/Filters.tsx",
-                lineNumber: 287,
+                lineNumber: 319,
                 columnNumber: 9
             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid sm:grid-cols-2 lg:grid-cols-3 gap-6",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6",
                 children: filtered.map((p)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ProjectCard$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         project: p
                     }, p.slug, false, {
                         fileName: "[project]/components/projects/Filters.tsx",
-                        lineNumber: 298,
+                        lineNumber: 330,
                         columnNumber: 32
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/projects/Filters.tsx",
-                lineNumber: 297,
+                lineNumber: 329,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/projects/Filters.tsx",
-        lineNumber: 87,
+        lineNumber: 119,
         columnNumber: 5
     }, this);
 }
