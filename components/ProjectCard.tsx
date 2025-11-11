@@ -1,5 +1,6 @@
 'use client';
 import LuxuryButton from '@/components/ui/LuxuryButton';
+import SafeImage from '@/components/ui/SafeImage';
 import { useCompare } from '@/lib/compare';
 import { useFavorites } from '@/lib/favorites';
 import { formatAED, formatArea, formatBedrooms } from '@/lib/format';
@@ -8,7 +9,6 @@ import { t, tx } from '@/lib/i18n-utils';
 import { stringRoutes } from '@/lib/routes';
 import type { Project } from '@/lib/types';
 import { motion } from 'framer-motion';
-import Image from 'next/image';
 import Link from 'next/link';
 import type { Route } from 'next';
 import { useState } from 'react';
@@ -113,19 +113,21 @@ export default function ProjectCard({ project }: Props) {
         <div className="relative h-40 sm:h-44 w-full overflow-hidden">
           {img ? (
             <>
-              <Image
+              <SafeImage
                 src={img}
                 alt={title}
                 width={400}
                 height={176}
                 className="h-40 sm:h-44 w-full object-cover transition-all duration-200"
-                style={{ filter: isHovered ? 'brightness(1.1)' : 'brightness(1)' }}
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 priority={false}
-                loading="lazy"
+                quality={85}
               />
               {/* Simple overlay effect */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
+              <div 
+                className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200" 
+                style={{ filter: isHovered ? 'brightness(1.1)' : 'brightness(1)' }}
+              />
             </>
           ) : (
             <div className="h-40 sm:h-44 bg-gradient-to-br from-zinc-900 via-zinc-800 to-zinc-900 flex items-center justify-center">
