@@ -1,37 +1,120 @@
-# Imperium Gate Real Estate — Next.js 14 (App Router)
+# 🏰 Imperium Gate - Dubai Real Estate Platform
 
-- لغتان: **ar / en** (العربية افتراضية).
-- واجهة فاخرة (ذهبي/أسود/أبيض) + حركات Framer Motion.
-- كل الوسائط داخل التطبيق (صور/فيديو/PDF/3D/خرائط) عبر Proxy داخلي.
-- تحميل ديناميكي آمن لملفات **/public/data/** (يتجاهل JSON الفاسد).
+**بوابة الإمبراطورية - منصة العقارات الفاخرة في دبي**
 
-## تشغيل
+---
+
+## 🌟 نظرة عامة | Overview
+
+Imperium Gate is a luxury real estate platform showcasing premium properties in Dubai from top developers including DAMAC, Emaar, Nakheel, Sobha, and Binghatti.
+
+منصة عقارية فاخرة تعرض أفضل العقارات في دبي من أكبر المطورين: داماك، إعمار، نخيل، سوبها، وبنغاطي.
+
+---
+
+## 🚀 التقنيات المستخدمة | Tech Stack
+
+- **Next.js 16** - React framework with App Router
+- **TypeScript** - Type-safe development
+- **Tailwind CSS** - Utility-first styling
+- **Framer Motion** - Smooth animations
+- **i18n** - Arabic & English support
+
+---
+
+## 📁 الهيكل | Structure
+
+```
+imperiumgate/
+├── app/                    # Next.js App Router
+│   ├── [locale]/          # Localized routes (ar/en)
+│   └── api/               # API routes
+├── components/            # React components
+├── lib/                   # Utilities & services
+├── public/
+│   └── data/             # Project data (JSON)
+│       ├── damac/
+│       ├── emaar/
+│       ├── nakheel/
+│       ├── sobha/
+│       └── binghatti/
+├── scripts/              # Build scripts
+└── DOCUMENTATION/        # Project docs
+```
+
+---
+
+## 🛠️ التشغيل | Getting Started
+
+### التثبيت | Installation
 
 ```bash
 npm install
+```
+
+### التطوير | Development
+
+```bash
 npm run dev
-# إنتاج:
+```
+
+الموقع سيعمل على: `http://localhost:3000`
+
+### البناء | Build
+
+```bash
 npm run build
 npm start
 ```
 
-## البنية
-- `app/[locale]/projects/[developer]/[slug]/page.tsx`: صفحة المشروع الكاملة.
-- `app/api/proxy/file/route.ts`: ممرّ لعرض الصور/الفيديو/PDF داخل نطاقك.
-- `lib/unifiedDataService.ts`: تحميل كل JSON في `public/data/*/*/*.json` وإضافة اسم المطوّر من المسار.
-- `components/project/*`: أقسام الصفحة.
-- `components/ui/Modal.tsx`: مودال داخلي.
-- `app/[locale]/admin/page.tsx`: لوحة إدارة بسيطة (إحصاءات + تحديث + رفع JSON في التطوير).
+---
 
-## .env.example
+## 📊 البيانات | Data
 
-```env
-OPENROUTER_API_KEY=
-NEXT_PUBLIC_GOOGLE_MAPS_KEY=
-NEXT_PUBLIC_SITE_URL=https://imperiumgate.com
-```
+### المطورون | Developers
 
-ضع مفاتيحك في `.env.local`.
+- **DAMAC Properties** - 35 مشروع
+- **Emaar Properties** - 210 مشاريع
+- **Nakheel** - 75 مشروع
+- **Sobha Realty** - 101 مشروع
+- **Binghatti** - 26 مشروع
 
-## مثال JSON
-راجع `public/data/damac/altitude-de-grisogono/altitude-de-grisogono.json`.
+**الإجمالي:** 447 مشروع عقاري
+
+---
+
+## ✨ المميزات | Features
+
+- ✅ دعم كامل للغة العربية والإنجليزية
+- ✅ تصميم responsive لجميع الأجهزة
+- ✅ فلاتر متقدمة للبحث
+- ✅ مقارنة المشاريع
+- ✅ قائمة المفضلة
+- ✅ معلومات تفصيلية عن كل مشروع
+- ✅ خرائط تفاعلية
+- ✅ ISR caching للأداء العالي
+
+---
+
+## 📱 التواصل | Contact
+
+- **WhatsApp:** +971556628972
+- **Email:** info@imperiumgate.ae
+
+---
+
+## 📄 الترخيص | License
+
+© 2025 Imperium Gate. All rights reserved.
+
+---
+
+## 📚 الوثائق | Documentation
+
+للمزيد من التفاصيل، راجع مجلد `DOCUMENTATION/`:
+
+- `AGENTS.md` - دليل العمل مع AI
+- `FIXES_PLAN.md` - خطة الإصلاحات
+- `FIXES_REPORT.md` - تقرير التحديثات
+- `DATA_STRUCTURE_COMPLETE.md` - هيكل البيانات
+- `PERFORMANCE_OPTIMIZATION_REPORT.md` - تحسينات الأداء

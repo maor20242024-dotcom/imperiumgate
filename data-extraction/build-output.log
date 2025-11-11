@@ -1,6 +1,0 @@
-npm ERR! Missing script: "build"
-npm ERR! 
-npm ERR! To see a list of scripts, run:
-npm ERR!   npm run
-
-npm ERR! A complete log of this run can be found in: /home/codespace/.npm/_logs/2025-11-11T15_20_56_399Z-debug-0.log
