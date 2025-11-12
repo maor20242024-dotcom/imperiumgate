@@ -5,7 +5,8 @@ export const DEVELOPERS = {
   emaar: 'Emaar',
   damac: 'DAMAC',
   nakheel: 'Nakheel',
-  sobha: 'Sobha'
+  sobha: 'Sobha',
+  binghatti: 'Binghatti'
 } as const;
 
 export type DeveloperKey = keyof typeof DEVELOPERS;
@@ -112,6 +113,35 @@ const PROJECT_FILES: Record<DeveloperKey, string[]> = {
     'sobha-seahaven',
     'the-eden',
     'the-tranquil'
+  ],
+  binghatti: [
+    'binghatti-amberhall',
+    'binghatti-aquarise',
+    'binghatti-aurora',
+    'binghatti-circle',
+    'binghatti-dawn',
+    'binghatti-dusk',
+    'binghatti-elite',
+    'binghatti-flare',
+    'binghatti-ghost',
+    'binghatti-grove',
+    'binghatti-haven',
+    'binghatti-hills',
+    'binghatti-hillside',
+    'binghatti-hillviews',
+    'binghatti-ivory',
+    'binghatti-jvc',
+    'binghatti-moonlight',
+    'binghatti-phoenix',
+    'binghatti-pinnacle',
+    'binghatti-royale',
+    'binghatti-ruby',
+    'binghatti-skyblade',
+    'binghatti-skyhall',
+    'binghatti-skyrise',
+    'binghatti-starlight',
+    'binghatti-twilight',
+    'one-by-binghatti'
   ]
 };
 

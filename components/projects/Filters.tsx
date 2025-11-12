@@ -83,11 +83,31 @@ export default function Filters({ initial }: { initial: Project[] }) {
       const hitQ = !q || name.toLowerCase().includes(q.toLowerCase());
       const hitDev = !dev || (p.developer || '').toLowerCase() === dev.toLowerCase();
       
-      // إصلاح فلتر السعر - يجب أن يكون السعر >= الأدنى و <= الأقصى
+      // إصلاح فلتر السعر - يجب معالجة الحالات المختلفة بشكل صحيح
       const projectMinPrice = p.minPriceAED || 0;
       const projectMaxPrice = p.maxPriceAED || 0;
-      const minOk = !min || projectMinPrice >= Number(min);
-      const maxOk = !max || (projectMaxPrice > 0 && projectMaxPrice <= Number(max));
+      const userMinPrice = min ? Number(min) : 0;
+      const userMaxPrice = max ? Number(max) : 0;
+      
+      let minOk = true;
+      let maxOk = true;
+      
+      if (userMinPrice > 0) {
+        // إذا حدد المستخدم سعر أدنى، يجب أن يكون سعر المشروع >= السعر الأدنى المحدد
+        // نستخدم maxPrice إذا كان متوفراً وإلا minPrice
+        const projectPrice = projectMaxPrice > 0 ? projectMaxPrice : projectMinPrice;
+        minOk = projectPrice >= userMinPrice;
+      }
+      
+      if (userMaxPrice > 0) {
+        // إذا حدد المستخدم سعر أقصى، يجب أن يكون سعر المشروع <= السعر الأقصى المحدد
+        // نستخدم minPrice إذا كان متوفراً
+        if (projectMinPrice > 0) {
+          maxOk = projectMinPrice <= userMaxPrice;
+        } else if (projectMaxPrice > 0) {
+          maxOk = projectMaxPrice <= userMaxPrice;
+        }
+      }
       
       const bedOk = !beds || (Array.isArray(p.bedrooms) && p.bedrooms.some(b => String(b) === beds));
       
