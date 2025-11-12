@@ -66,7 +66,7 @@ export default function Error({
             {isArabic ? 'إعادة المحاولة' : 'Try Again'}
           </LuxuryButton>
           
-          <Link href={stringRoutes.projectsIndex(locale)}>
+          <Link href={stringRoutes.projectsIndex(locale) as any}>
             <LuxuryButton 
               variant="outline" 
               size="lg"
@@ -77,7 +77,7 @@ export default function Error({
             </LuxuryButton>
           </Link>
           
-          <Link href={stringRoutes.home(locale)}>
+          <Link href={stringRoutes.home(locale) as any}>
             <LuxuryButton 
               variant="outline" 
               size="lg"

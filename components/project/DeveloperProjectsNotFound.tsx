@@ -47,7 +47,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
 
           {/* Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={stringRoutes.projectsIndex(locale)}>
+            <Link href={stringRoutes.projectsIndex(locale) as any}>
               <LuxuryButton 
                 variant="primary" 
                 size="lg"
@@ -58,7 +58,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
               </LuxuryButton>
             </Link>
             
-            <Link href={stringRoutes.developersIndex(locale)}>
+            <Link href={stringRoutes.developersIndex(locale) as any}>
               <LuxuryButton 
                 variant="outline" 
                 size="lg"
@@ -87,7 +87,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
             </div>
 
             <div className="text-center mt-12">
-              <Link href={stringRoutes.projectsIndex(locale)}>
+              <Link href={stringRoutes.projectsIndex(locale) as any}>
                 <LuxuryButton 
                   variant="outline" 
                   size="lg"
@@ -116,7 +116,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={stringRoutes.contact(locale)}>
+            <Link href={stringRoutes.contact(locale) as any}>
               <LuxuryButton 
                 variant="primary" 
                 size="lg"
@@ -126,7 +126,7 @@ export default function DeveloperProjectsNotFound({ developer, otherProjects }: 
               </LuxuryButton>
             </Link>
             
-            <Link href={stringRoutes.home(locale)}>
+            <Link href={stringRoutes.home(locale) as any}>
               <LuxuryButton 
                 variant="outline" 
                 size="lg"
