@@ -13,17 +13,18 @@
   "/[locale]/admin/page": "app/[locale]/admin/page.js",
   "/[locale]/ai/map/page": "app/[locale]/ai/map/page.js",
   "/[locale]/ai/page": "app/[locale]/ai/page.js",
-  "/[locale]/compare/page": "app/[locale]/compare/page.js",
   "/[locale]/contact/page": "app/[locale]/contact/page.js",
   "/[locale]/favorites/page": "app/[locale]/favorites/page.js",
-  "/[locale]/news/page": "app/[locale]/news/page.js",
   "/[locale]/page": "app/[locale]/page.js",
-  "/[locale]/sitemap/page": "app/[locale]/sitemap/page.js",
+  "/[locale]/news/page": "app/[locale]/news/page.js",
+  "/[locale]/compare/page": "app/[locale]/compare/page.js",
   "/[locale]/privacy/page": "app/[locale]/privacy/page.js",
+  "/[locale]/sitemap/page": "app/[locale]/sitemap/page.js",
   "/[locale]/terms/page": "app/[locale]/terms/page.js",
   "/[locale]/vision/page": "app/[locale]/vision/page.js",
-  "/[locale]/developers/page": "app/[locale]/developers/page.js",
+  "/[locale]/developers/[slug]/page": "app/[locale]/developers/[slug]/page.js",
+  "/[locale]/projects/[developer]/[slug]/page": "app/[locale]/projects/[developer]/[slug]/page.js",
   "/[locale]/projects/[developer]/page": "app/[locale]/projects/[developer]/page.js",
   "/[locale]/projects/page": "app/[locale]/projects/page.js",
-  "/[locale]/projects/[developer]/[slug]/page": "app/[locale]/projects/[developer]/[slug]/page.js"
+  "/[locale]/developers/page": "app/[locale]/developers/page.js"
 }
