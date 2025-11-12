@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/runner/work/imperiumgate/imperiumgate/app/[locale]/layout":["static/media/1162a498177e69e9-s.p.ttf","static/media/a1db723976e507d7-s.p.ttf","static/media/2911c7b2122b65a6-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
