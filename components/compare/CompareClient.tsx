@@ -3,8 +3,13 @@
 import React from 'react';
 import { useCompare } from '@/lib/compare';
 import ProjectCard from '@/components/ProjectCard';
+import { Project } from '@/lib/types';
 
-export default function CompareClient() {
+interface CompareClientProps {
+  allProjects: Project[];
+}
+
+export default function CompareClient({ allProjects }: CompareClientProps) {
   const { ids } = useCompare();
   
   return (

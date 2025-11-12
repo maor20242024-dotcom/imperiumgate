@@ -66,7 +66,7 @@ export default function Error({
             {isArabic ? 'إعادة المحاولة' : 'Try Again'}
           </LuxuryButton>
           
-          <Link href={stringRoutes.home(locale)}>
+          <Link href={stringRoutes.home(locale) as any}>
             <LuxuryButton 
               variant="outline" 
               size="lg"
