@@ -68,7 +68,7 @@
   "deliveryDate": "",
   "goldenVisaEligible": false,
   "launchDate": "",
-  "longitude": 0,
+  "longitude": 55.1486,
   "mapDescription": {
     "ar": "",
     "en": ""
@@ -107,7 +107,7 @@
     "en": "",
     "ar": ""
   },
-  "latitude": 0,
+  "latitude": 25.0208,
   "projectCategory": "Community",
   "documents": {
     "brochure": {
