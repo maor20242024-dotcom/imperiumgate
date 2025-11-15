@@ -280,8 +280,8 @@
     }
   },
   "maxPriceAED": 0,
-  "latitude": null,
-  "longitude": null,
+  "latitude": 25.0167,
+  "longitude": 55.3167,
   "documents": {
     "brochure": {
       "en": [],
