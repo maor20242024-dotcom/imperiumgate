@@ -108,7 +108,7 @@
   },
   "deliveryDate": "2029-08-31",
   "goldenVisaEligible": true,
-  "latitude": 0,
+  "latitude": 25.0594,
   "launchDate": "September 2025",
   "location": {
     "ar": "في قلب داماك هيلز",
@@ -127,7 +127,7 @@
     },
     "poiDistances": {}
   },
-  "longitude": 0,
+  "longitude": 55.2111,
   "mapDescription": {
     "ar": "متصل بأرجاء دبي",
     "en": "Connected to all parts of Dubai"
