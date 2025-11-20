@@ -1,29 +1,10 @@
-import { NextResponse } from 'next/server';
+import { callOpenRouter, createErrorResponse, createSuccessResponse, FREE_MODELS } from '@/lib/api-utils';
 
 export const dynamic = 'force-dynamic';
 
 export async function POST(req: Request) {
   try {
     const { message, locale, context } = await req.json();
-    
-    const apiKey = process.env.OPENROUTER_API_KEY;
-    
-    if (!apiKey) {
-      return NextResponse.json(
-        { error: 'OpenRouter API key not configured' },
-        { status: 500 }
-      );
-    }
-
-    // استخدام النماذج المجانية من OpenRouter
-    const freeModels = [
-      'deepseek/deepseek-chat:free',
-      'huggingfaceh4/zephyr-7b-beta:free',
-      'mistralai/mistral-7b-instruct:free',
-      'google/gemma-7b-it:free'
-    ];
-
-    const selectedModel = freeModels[0]; // استخدام DeepSeek Chat المجاني
 
     const systemPrompt = locale === 'ar' 
       ? `أنت مساعد عقاري ذكي متخصص في عقارات دبي. 
@@ -61,16 +42,9 @@ export async function POST(req: Request) {
       
       Context: ${context || 'real-estate-dubai'}`;
 
-    const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-        'HTTP-Referer': 'https://imperium-gate.vercel.app',
-        'X-Title': 'Imperium Gate Real Estate'
-      },
-      body: JSON.stringify({
-        model: selectedModel,
+    const data = await callOpenRouter(
+      {
+        model: FREE_MODELS[0], // استخدام DeepSeek Chat المجاني
         messages: [
           {
             role: 'system',
@@ -86,39 +60,25 @@ export async function POST(req: Request) {
         top_p: 0.9,
         frequency_penalty: 0.1,
         presence_penalty: 0.1
-      })
-    });
+      },
+      undefined,
+      'https://imperium-gate.vercel.app',
+      'Imperium Gate Real Estate'
+    );
 
-    if (!response.ok) {
-      const errorText = await response.text();
-      console.error('OpenRouter API error:', errorText);
-      
-      return NextResponse.json(
-        { error: 'AI service temporarily unavailable' },
-        { status: 502 }
-      );
-    }
-
-    const data = await response.json();
     const content = data?.choices?.[0]?.message?.content || 
       (locale === 'ar' 
         ? 'عذراً، لم أتمكن من معالجة طلبك. يرجى المحاولة مرة أخرى.'
         : 'Sorry, I was unable to process your request. Please try again.');
 
-    return NextResponse.json({ 
+    return createSuccessResponse({ 
       response: content,
-      model: selectedModel,
+      model: FREE_MODELS[0],
       usage: data.usage
     });
 
   } catch (error: any) {
     console.error('AI concierge error:', error);
-    
-    return NextResponse.json(
-      { 
-        error: 'AI service error. Please try again later.'
-      },
-      { status: 500 }
-    );
+    return createErrorResponse('AI service error. Please try again later.', 500);
   }
 }
