@@ -1,9 +1,10 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import LoadingSpinner from './LoadingSpinner';
 import LuxuryButton from './LuxuryButton';
+import { useLazyLoad } from '@/lib/hooks/useLazyLoad';
 
 interface LazyPDFProps {
   src: string;
@@ -24,46 +25,30 @@ export default function LazyPDF({
   showDownload = true,
   downloadText = 'Download PDF'
 }: LazyPDFProps) {
-  const [isLoaded, setIsLoaded] = useState(false);
-  const [isInView, setIsInView] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState(false);
-  const containerRef = useRef<HTMLDivElement>(null);
+  const {
+    isInView,
+    isLoading,
+    isLoaded,
+    error,
+    containerRef,
+    handleLoad,
+    handleError,
+    startLoading
+  } = useLazyLoad({ rootMargin: '100px' });
 
+  // Start loading when in view
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting && !isInView) {
-          setIsInView(true);
-          setIsLoading(true);
-        }
-      },
-      {
-        threshold: 0.1,
-        rootMargin: '100px'
-      }
-    );
-
-    if (containerRef.current) {
-      observer.observe(containerRef.current);
+    if (isInView && !isLoaded && !isLoading && !error) {
+      startLoading();
     }
-
-    return () => {
-      if (containerRef.current) {
-        observer.unobserve(containerRef.current);
-      }
-    };
-  }, [isInView]);
+  }, [isInView, isLoaded, isLoading, error, startLoading]);
 
   const handleIframeLoad = () => {
-    setIsLoaded(true);
-    setIsLoading(false);
-    setError(false);
+    handleLoad();
   };
 
   const handleIframeError = () => {
-    setIsLoading(false);
-    setError(true);
+    handleError();
   };
 
   const handleDownload = () => {

@@ -1,9 +1,10 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import LoadingSpinner from './LoadingSpinner';
 import LuxuryButton from './LuxuryButton';
+import { useLazyLoad } from '@/lib/hooks/useLazyLoad';
 
 interface LazyMapProps {
   children: React.ReactNode;
@@ -30,65 +31,44 @@ export default function LazyMap({
   onLoad,
   onError
 }: LazyMapProps) {
-  const [isLoaded, setIsLoaded] = useState(false);
-  const [isInView, setIsInView] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState(false);
-  const containerRef = useRef<HTMLDivElement>(null);
+  const {
+    isInView,
+    isLoading,
+    isLoaded,
+    error,
+    containerRef,
+    handleLoad,
+    startLoading,
+    retry
+  } = useLazyLoad({ 
+    rootMargin: '100px',
+    onLoad,
+    onError 
+  });
 
+  // Start loading when in view
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting && !isInView) {
-          setIsInView(true);
-          setIsLoading(true);
-          
-          // Simulate map loading time
-          const timer = setTimeout(() => {
-            setIsLoaded(true);
-            setIsLoading(false);
-            onLoad?.();
-          }, 1000);
+    if (isInView && !isLoaded && !isLoading && !error) {
+      startLoading();
+      
+      // Simulate map loading time
+      const timer = setTimeout(() => {
+        handleLoad();
+      }, 1000);
 
-          return () => clearTimeout(timer);
-        }
-      },
-      {
-        threshold: 0.1,
-        rootMargin: '100px'
-      }
-    );
-
-    if (containerRef.current) {
-      observer.observe(containerRef.current);
+      return () => clearTimeout(timer);
     }
-
-    return () => {
-      if (containerRef.current) {
-        observer.unobserve(containerRef.current);
-      }
-    };
-  }, [isInView, onLoad]);
+  }, [isInView, isLoaded, isLoading, error, startLoading, handleLoad]);
 
   const handleRetry = () => {
-    setError(false);
-    setIsLoading(true);
-    setIsLoaded(false);
+    retry();
     
     // Retry loading
     const timer = setTimeout(() => {
-      setIsLoaded(true);
-      setIsLoading(false);
-      onLoad?.();
+      handleLoad();
     }, 1000);
 
     return () => clearTimeout(timer);
-  };
-
-  const handleError = () => {
-    setIsLoading(false);
-    setError(true);
-    onError?.();
   };
 
   const defaultPlaceholder = (

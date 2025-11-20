@@ -1,8 +1,9 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import LoadingSpinner from './LoadingSpinner';
+import { useLazyLoad } from '@/lib/hooks/useLazyLoad';
 
 interface LazyVideoProps {
   src: string;
@@ -35,76 +36,59 @@ export default function LazyVideo({
   style,
   showPosterWhenIdle = true
 }: LazyVideoProps) {
-  const [isLoaded, setIsLoaded] = useState(false);
-  const [isInView, setIsInView] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
-  const containerRef = useRef<HTMLDivElement>(null);
+  const {
+    isInView,
+    isLoading,
+    isLoaded,
+    error,
+    containerRef,
+    handleLoad,
+    handleError,
+    startLoading
+  } = useLazyLoad();
 
+  // Start loading when in view
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting && !isInView) {
-          setIsInView(true);
-          setIsLoading(true);
-        }
-      },
-      {
-        threshold: 0.1,
-        rootMargin: '50px'
-      }
-    );
-
-    if (containerRef.current) {
-      observer.observe(containerRef.current);
+    if (isInView && !isLoaded && !isLoading && !error) {
+      startLoading();
     }
-
-    return () => {
-      if (containerRef.current) {
-        observer.unobserve(containerRef.current);
-      }
-    };
-  }, [isInView]);
+  }, [isInView, isLoaded, isLoading, error, startLoading]);
 
   // Cleanup effect to handle video element when component unmounts
   useEffect(() => {
     return () => {
       // Clean up video element if it exists
-      if (videoRef.current) {
-        videoRef.current.pause();
-        videoRef.current.src = '';
-        videoRef.current.load();
+      const video = videoRef.current;
+      if (video) {
+        video.pause();
+        video.src = '';
+        video.load();
       }
     };
   }, []);
 
   const handleVideoLoad = () => {
-    setIsLoaded(true);
-    setIsLoading(false);
-    setError(false);
+    handleLoad();
   };
 
   const handleVideoError = (e: React.SyntheticEvent<HTMLVideoElement, Event>) => {
     const video = e.currentTarget;
-    const error = video.error;
+    const videoError = video.error;
     
     // Only set error state for actual errors, not aborted requests
-    if (error && error.code !== MediaError.MEDIA_ERR_ABORTED) {
+    if (videoError && videoError.code !== MediaError.MEDIA_ERR_ABORTED) {
       console.warn('Video loading error:', {
-        code: error.code,
-        message: error.message,
+        code: videoError.code,
+        message: videoError.message,
         src: src
       });
-      setError(true);
+      handleError();
     }
-    
-    setIsLoading(false);
   };
 
   const handleVideoAbort = () => {
     // Video loading was aborted (normal during navigation)
-    setIsLoading(false);
     // Don't set error state for aborted requests
   };
 
