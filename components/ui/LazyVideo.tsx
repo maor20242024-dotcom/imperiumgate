@@ -87,11 +87,6 @@ export default function LazyVideo({
     }
   };
 
-  const handleVideoAbort = () => {
-    // Video loading was aborted (normal during navigation)
-    // Don't set error state for aborted requests
-  };
-
   return (
     <div
       ref={containerRef}
@@ -173,7 +168,6 @@ export default function LazyVideo({
             }`}
             onLoadedData={handleVideoLoad}
             onError={handleVideoError}
-            onAbort={handleVideoAbort}
           />
         </>
       )}

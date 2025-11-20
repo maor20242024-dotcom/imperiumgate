@@ -64,11 +64,9 @@ export default function LazyMap({
     retry();
     
     // Retry loading
-    const timer = setTimeout(() => {
+    setTimeout(() => {
       handleLoad();
     }, 1000);
-
-    return () => clearTimeout(timer);
   };
 
   const defaultPlaceholder = (

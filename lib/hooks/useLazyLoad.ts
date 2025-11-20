@@ -44,10 +44,8 @@ export function useLazyLoad({
   }, [onError]);
 
   const startLoading = useCallback(() => {
-    if (!isLoading && !isLoaded && !error) {
-      setIsLoading(true);
-    }
-  }, [isLoading, isLoaded, error]);
+    setIsLoading(true);
+  }, []);
 
   const retry = useCallback(() => {
     setError(false);
