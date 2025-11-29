@@ -33,7 +33,7 @@ export default function Hero({
           loop
           muted
           controls={false}
-          poster="/images/hero-fallback.jpg"
+          poster="/images/hero-fallback.png"
           className="w-full h-full object-cover"
           alt="Homepage hero video"
         />

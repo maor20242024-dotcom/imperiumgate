@@ -128,7 +128,7 @@ export default function ProjectHero({ project }: { project: any }) {
           muted
           playsInline
           preload="metadata"
-          poster={safeHeroImageProxied || '/images/hero-fallback.jpg'}
+          poster={safeHeroImageProxied || '/images/hero-fallback.png'}
         />
       )}
 
