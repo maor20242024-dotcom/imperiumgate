@@ -1,0 +1,278 @@
+{
+  "projectName": {
+    "en": "Sobha One",
+    "ar": "Sobha One"
+  },
+  "description": {
+    "en": "Sobha One redefines luxury living in Dubai with an exclusive blend of modern sophistication and lush surroundings. Spreads over five interlinked towers and strategically located near Ras Al Khor Wildlife Sanctuary; it provides seamless access to Dubai’s prime destinations. The project boasts unique amenities, including infinity pools, tranquil parks, a world-class fitness centre, and concierge services, ensuring a refined lifestyle. Sobha One is where luxury, convenience, and green spaces come together in perfect harmony, offering an unparalleled living experience.",
+    "ar": "Sobha One redefines luxury living in Dubai with an exclusive blend of modern sophistication and lush surroundings. Spreads over five interlinked towers and strategically located near Ras Al Khor Wildlife Sanctuary; it provides seamless access to Dubai’s prime destinations. The project boasts unique amenities, including infinity pools, tranquil parks, a world-class fitness centre, and concierge services, ensuring a refined lifestyle. Sobha One is where luxury, convenience, and green spaces come together in perfect harmony, offering an unparalleled living experience."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Luxury Amenities",
+        "ar": ""
+      },
+      "description": {
+        "en": "Enjoy a serene infinity pool, exclusive rooftop terraces, state-of-the-art fitness centres, lush green courtyards, and an exclusive 18 hole pitch & putt golf course—all curated to provide an unmatched lifestyle experience.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dine by the Waters",
+        "ar": ""
+      },
+      "description": {
+        "en": "Bordering serene waters, this half-kilometre esplanade offers a refined culinary journey. From intimate dinners to energising power lunches and coffee catch-ups, every moment transforms into a luxurious experience, catering to every taste with an exquisite array of fine dining and café options.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Spectacular Views",
+        "ar": ""
+      },
+      "description": {
+        "en": "Wake up to stunning vistas of the Burj Khalifa, Downtown Dubai, and a lush golf course. Every window frames a scene of beauty.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Family-Friendly Environment",
+        "ar": ""
+      },
+      "description": {
+        "en": "The development is surrounded by green spaces, landscaped parks, and themed courtyards, creating ideal areas for children to play and families to enjoy quality time outdoors. Also includes a dedicated children’s play area, and entertainment zones.",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": null,
+  "goldenVisaEligible": false,
+  "latitude": 25.1764,
+  "launchDate": null,
+  "location": {
+    "en": "Strategically located near Ras Al Khor Wildlife Sanctuary, Dubai Creek, Downtown Dubai, and the Dubai Mall, while being just a short drive from the airport.",
+    "ar": "Strategically located near Ras Al Khor Wildlife Sanctuary, Dubai Creek, Downtown Dubai, and the Dubai Mall, while being just a short drive from the airport.",
+    "country": {
+      "en": "UAE",
+      "ar": ""
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.3629,
+  "mapDescription": {
+    "en": "A Masterpiece of Urban Serenity and Elegance",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 2000,
+  "maxAreaSqmt": 185,
+  "maxPriceAED": 5000000,
+  "minAreaSqft": 700,
+  "minAreaSqmt": 65,
+  "minPriceAED": 1500000,
+  "paymentPlan": {
+    "en": "Flexible payment plans are available for off-plan buyers.",
+    "ar": ""
+  },
+  "projectID": "393",
+  "projectPageLink": "https://sobharealty.com/our-communities/sobha-one/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    },
+    {
+      "en": "Villaments",
+      "ar": "Villaments"
+    },
+    {
+      "en": "Duplexes",
+      "ar": "Duplexes"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    "Burj Khalifa",
+    "Downtown Dubai",
+    "Golf Course",
+    "Dubai Creek"
+  ],
+  "slug": "one",
+  "developer": "Sobha Realty",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.777194",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Banner_1.jpg.webp?itok=GUZarZEq",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Desktop_4.jpg.webp?itok=BGDhvfsW"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mobile_5.jpg.webp?itok=YuQEmrZg"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Common1_0.jpg.webp?itok=BMNhIaPe"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Common3_0.jpg.webp?itok=Ohjwt7Yh"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Common2_0.jpg.webp?itok=8JDHHNtB"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Common4_0.jpg.webp?itok=lWPY0Z4K"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/942x636.jpg.webp?itok=TjezST11"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_3.jpg.webp?itok=qZke5dcn"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/942x636.jpg.webp?itok=_BV3YV1J"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/null",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 1500000,
+    "maxPriceAED": 5000000,
+    "currency": "AED"
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "كتيب المشروع"
+        }
+      ]
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Sobha One",
+    "ar": "شوبا ون"
+  },
+  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-one/",
+  "community": "sobha-hartland",
+  "communityName": {
+    "en": "Sobha Hartland",
+    "ar": "شوبا هارتلاند"
+  },
+  "auto_translated": true,
+  "id": "sobha-one",
+  "fromCommunity": null,
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

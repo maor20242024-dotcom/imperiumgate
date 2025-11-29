@@ -1,0 +1,117 @@
+{
+  "communityID": "meydan",
+  "developerID": "sobha",
+  "name": {
+    "ar": "ميدان",
+    "en": "Meydan"
+  },
+  "description": {
+    "ar": "منطقة سباق الخيل والمجتمع السكني",
+    "en": "Horse racing district and residential community"
+  },
+  "location": {
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "en": "",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    "sobha-the_crest_tower_d",
+    "sobha-coastline",
+    "sobha-sobha_seahaven_sky_edition",
+    "sobha-seahaven-sky-edition",
+    "waves",
+    "sobha-the_serene_at_sobha_central",
+    "sobha-selene",
+    "sobha-skyscape-avenue",
+    "sobha-sobha_district_one_residences",
+    "sobha-the_element",
+    "garden-house",
+    "waves-opulence",
+    "altius",
+    "creek-vistas-heights",
+    "skyvue",
+    "sobha-350_riverside_crescent",
+    "verde-by-sobha",
+    "sobha-pearlside-marina-residence",
+    "sobha-the-s",
+    "the-crest-tower-d",
+    "sobha-aquamarine_residences",
+    "sobha-orbis",
+    "sobha-golf-ridges-at-sobha-one",
+    "forest-villas",
+    "sobha-340_riverside_crescent",
+    "sobha-forest-villas",
+    "sobha-the-element",
+    "aura",
+    "sobha-canalside-marina-residences",
+    "hartland-estates",
+    "delphine-beach-residences",
+    "golf-ridges-at-sobha-one",
+    "sobha-sobha-solis",
+    "sobha-360_riverside_crescent",
+    "the-horizon-at-sobha-central",
+    "sobha-sobha_one_golf_ridges",
+    "green-vistas",
+    "sobha-district-one-residences",
+    "aquamarine-residences",
+    "sobha-creek-vistas-grande",
+    "sobha-310_riverside_crescent",
+    "sobha-central",
+    "sobha-one",
+    "the-element-at-sobha-one",
+    "sobha-creek-vistas-heights",
+    "sobha-320_riverside_crescent",
+    "the-horizon",
+    "sobha-sobha-reserve",
+    "riverside-crescent",
+    "sobha-reserve",
+    "creek-vistas-grande",
+    "sobha-coral-beach-villas",
+    "sobha-the-crest",
+    "sobha-hartland-forest-villas",
+    "sobha-sobha-verde",
+    "sobha-330_riverside_crescent",
+    "sobha-sobha-skyparks",
+    "the-serene-at-sobha-central"
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "meydan",
+  "developer": "sobha",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "masterplan": {}
+}

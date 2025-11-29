@@ -1,0 +1,431 @@
+{
+  "projectName": {
+    "en": "Skyvue Stellar",
+    "ar": "Skyvue Stellar"
+  },
+  "description": {
+    "en": "Discover Skyvue Stellar, the tallest and newest addition to the Skyvue Collection, taking luxury to the next level. Skyvue Stellar offers curated 1 to 3.5-bedroom residences redefining elevated living. With views of the Downtown Dubai and surrounded by lush natural surroundings in Dubai's most coveted community.",
+    "ar": "Discover Skyvue Stellar, the tallest and newest addition to the Skyvue Collection, taking luxury to the next level. Skyvue Stellar offers curated 1 to 3.5-bedroom residences redefining elevated living. With views of the Downtown Dubai and surrounded by lush natural surroundings in Dubai's most coveted community."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "LEISURE POOL & INFINITY POOL",
+        "ar": ""
+      },
+      "description": {
+        "en": "LEISURE POOL & INFINITY POOL",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "KIDS PLAY AREA",
+        "ar": "منطقة لعب للأطفال"
+      },
+      "description": {
+        "en": "KIDS PLAY AREA",
+        "ar": "منطقة لعب للأطفال"
+      }
+    },
+    {
+      "name": {
+        "en": "OPEN CINEMA AREA",
+        "ar": ""
+      },
+      "description": {
+        "en": "OPEN CINEMA AREA",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SKATE PARK",
+        "ar": ""
+      },
+      "description": {
+        "en": "SKATE PARK",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "OPEN SEATING AREA",
+        "ar": ""
+      },
+      "description": {
+        "en": "OPEN SEATING AREA",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "OPEN GATHERING",
+        "ar": ""
+      },
+      "description": {
+        "en": "OPEN GATHERING",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "Sobha Hartland II",
+    "ar": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": "2029-03-31",
+  "goldenVisaEligible": false,
+  "latitude": 25.175669,
+  "launchDate": null,
+  "location": {
+    "en": "Sobha Hartland II",
+    "ar": "Sobha Hartland II",
+    "country": {
+      "en": "UAE",
+      "ar": ""
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "Sobha Hartland II",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.3242951,
+  "mapDescription": {
+    "en": "The Best of City, All within Minutes",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
+      },
+      "distance": {
+        "en": "10 km",
+        "ar": "10 km"
+      },
+      "category": {
+        "en": "Education",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": "DUBAI INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "en": "12 km",
+        "ar": "12 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "BUSINESS BAY",
+        "ar": "BUSINESS BAY"
+      },
+      "distance": {
+        "en": "12 km",
+        "ar": "12 km"
+      },
+      "category": {
+        "en": "Business",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DOWNTOWN DUBAI",
+        "ar": "DOWNTOWN DUBAI"
+      },
+      "distance": {
+        "en": "10 km",
+        "ar": "10 km"
+      },
+      "category": {
+        "en": "City Center",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & THE DUBAI MALL",
+        "ar": "BURJ KHALIFA & THE DUBAI MALL"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
+        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
+      },
+      "distance": {
+        "en": "5 km",
+        "ar": "5 km"
+      },
+      "category": {
+        "en": "Nature",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "MEYDAN RACE COURSE",
+        "ar": "MEYDAN RACE COURSE"
+      },
+      "distance": {
+        "en": "10 km",
+        "ar": "10 km"
+      },
+      "category": {
+        "en": "Leisure",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI FRAME",
+        "ar": "DUBAI FRAME"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI OPERA",
+        "ar": "DUBAI OPERA"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Culture",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "en": "25 km",
+        "ar": "25 km"
+      },
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 3110,
+  "maxAreaSqmt": 288,
+  "maxPriceAED": 8690000,
+  "minAreaSqft": 717,
+  "minAreaSqmt": 66,
+  "minPriceAED": 1870000,
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectID": "22876",
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/skyvue-stellar/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "sellable": false,
+  "views": [
+    "Downtown Dubai"
+  ],
+  "slug": "skyvue-stellar",
+  "developer": "Sobha Realty",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.724480",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Property%20372%C3%97274.jpg.webp?itok=qQANpnFL",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Property%20372%C3%97274.jpg.webp?itok=qQANpnFL"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/Listing%20372x274%20%E2%80%93%209.jpg.webp?itok=oe5Mkajv"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/Listing%20372x274%20%E2%80%93%2010.jpg.webp?itok=UmFCTHyB"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/Listing%20372x274%20%E2%80%93%2011.jpg.webp?itok=eJCmAk8f"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/Listing%20372x274%20%E2%80%93%2012.jpg.webp?itok=_GnaMJp4"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/372x274%20%E2%80%93%201%20%281%29.jpg.webp?itok=8ULR-K00"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/372x274%20%E2%80%93%202%20%281%29.jpg.webp?itok=bGzn7b21"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/372x274%20%281%29.jpg.webp?itok=umgTw8XL"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/372x274%20%E2%80%93%207%20%281%29.jpg.webp?itok=heSglMsh"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/372x274%20%E2%80%93%206%20%281%29.jpg.webp?itok=tgAelWDT"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/372x274%20%E2%80%93%204%20%281%29.jpg.webp?itok=j4-ClfG0"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-03/Solair%20listing%20%281%29.jpg.webp?itok=d9V2FhQV"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-03/Skyvue%20Stellar.pdf",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 1870000,
+    "maxPriceAED": 8690000,
+    "currency": "AED"
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-03/Skyvue%20Stellar.pdf",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/sites/default/files/2025-03/Skyvue%20Stellar.pdf",
+          "title": "كتيب المشروع"
+        }
+      ]
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Skyvue Stellar",
+    "ar": "Skyvue Stellar"
+  },
+  "auto_translated": true,
+  "id": "skyvue-stellar",
+  "fromCommunity": "sobha-hartland",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "community": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}
