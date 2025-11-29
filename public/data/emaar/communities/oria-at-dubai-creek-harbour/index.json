@@ -1,0 +1,177 @@
+{
+  "slug": "oria-at-dubai-creek-harbour",
+  "id": "380462",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek Harbour"
+  },
+  "location": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek Harbour"
+  },
+  "latitude": 25.1833,
+  "longitude": 55.3519,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "أوريا",
+    "en": "Oria"
+  },
+  "summary": {
+    "ar": "استكشف أوريا في خور دبي، الواقع في منطقة شاطئ الخور، حيث يقف أوريا كمعلم حضاري مذهل، يتناغم بشكل جميل مع الأجواء الهادئة للواجهة البحرية والنبض الحيوي لقلب دبي.",
+    "en": "Explore Oria at Dubai Creek Harbour, located in the Creek Beach area, where Oria stands as a stunning cultural landmark, beautifully harmonizing with the tranquil waterfront atmosphere and the vibrant pulse of Dubai's heart."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "أوريا",
+      "subtitle": "خور دبي"
+    },
+    "en": {
+      "title": "Oria",
+      "subtitle": "Dubai Creek Harbour"
+    }
+  },
+  "description": {
+    "ar": "استكشف أوريا في خور دبي، الواقع في منطقة شاطئ الخور، حيث يقف أوريا كمعلم حضاري مذهل، يتناغم بشكل جميل مع الأجواء الهادئة للواجهة البحرية والنبض الحيوي لقلب دبي. تعرف على منزل أحلامك اليوم.",
+    "en": "Explore Oria at Dubai Creek Harbour, located in the Creek Beach area, where Oria stands as a stunning cultural landmark, beautifully harmonizing with the tranquil waterfront atmosphere and the vibrant pulse of Dubai's heart. Discover your dream home today."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/ORIA_HERO_1.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/ORIA_HERO_1-1.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/oria-at-dubai-creek-harbour",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "أوريا | خور دبي | إعمار العقارية",
+    "description": "استكشف أوريا في خور دبي، الواقع في منطقة شاطئ الخور، حيث يقف أوريا كمعلم حضاري مذهل، يتناغم بشكل جميل مع الأجواء الهادئة للواجهة البحرية والنبض الحيوي لقلب دبي. تعرف على منزل أحلامك اليوم.",
+    "canonical": "https://properties.emaar.com/ar/properties/oria-at-dubai-creek-harbour/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/ORIA_HERO_1.jpg",
+    "fetchedAt": "2025-11-09T12:08:39.256Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/BROCHURE_IMG_300X210-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/FEATURES_1200X655_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/FEATURES_1200X655_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_EXT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_EXT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_EXT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_INT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_INT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_INT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/02/PRO_INT_4-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_MAIN.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-35.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_VIDA_CH.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_ADDRESS_CREEK.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-34.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2024/02/FEATURES_1200X655_1-1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2024/02/FEATURES_1200X655_3.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2024/02/ORIA_DCH_BROCHURE_FINAL.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-creek-harbour",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "projects": [],
+  "masterplan": {}
+}

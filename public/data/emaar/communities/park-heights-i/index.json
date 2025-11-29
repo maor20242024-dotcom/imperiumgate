@@ -1,0 +1,176 @@
+{
+  "slug": "park-heights-i",
+  "id": "24587",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "دبي هيلز استيت",
+    "en": "Dubai Hills Estate"
+  },
+  "location": {
+    "ar": "دبي هيلز استيت",
+    "en": "Dubai Hills Estate"
+  },
+  "latitude": 25.1027,
+  "longitude": 55.2494,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "فلل",
+  "projectName": {
+    "ar": "بارك جيت",
+    "en": "Park Heights I"
+  },
+  "summary": {
+    "ar": "اكتشف فلل بارك جيت في دبي هيلز استيت واستمتع بالعيش الفاخر في منازل واسعة والجمال الطبيعي والمَرافِق الفاخرة",
+    "en": "Discover Park Heights I villas in Dubai Hills Estate and enjoy luxurious living in spacious homes with natural beauty and premium amenities"
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "بارك جيت",
+      "subtitle": "دبي هيلز استيت | إعمار العقارية"
+    },
+    "en": {
+      "title": "Park Heights I",
+      "subtitle": "Dubai Hills Estate | Emaar Properties"
+    }
+  },
+  "description": {
+    "ar": "اكتشف فلل بارك جيت في دبي هيلز استيت واستمتع بالعيش الفاخر في منازل واسعة والجمال الطبيعي والمَرافِق الفاخرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "en": "Discover Park Heights I villas in Dubai Hills Estate and enjoy luxurious living in spacious homes with natural beauty and premium amenities. Visit our website for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فلل",
+      "en": "Villas"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/09/PARK_HEIGHTS_1.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/park-heights-i",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "بارك جيت | دبي هيلز استيت | إعمار العقارية",
+    "description": "اكتشف فلل بارك جيت في دبي هيلز استيت واستمتع بالعيش الفاخر في منازل واسعة والجمال الطبيعي والمَرافِق الفاخرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "canonical": "https://properties.emaar.com/ar/properties/park-heights-i/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "modified_time": "2024-02-20T08:53:07+00:00",
+    "fetchedAt": "2025-11-09T12:37:22.808Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/09/PARK_HEIGHTS_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/LIVING_ROOM_PH1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/BOULEVARD.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/POOL.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/BED_ROOM_PH1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/GYM_PH1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DUBAI_HILLS_ESTATE_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_EXPO_GV3_2000x1125.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2020/10/BOULEVARD.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/10/POOL.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/10/BED_ROOM_PH1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/10/GYM_PH1.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-hills-estate",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "projects": [],
+  "masterplan": {}
+}

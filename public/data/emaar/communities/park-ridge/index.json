@@ -1,0 +1,183 @@
+{
+  "slug": "park-ridge",
+  "id": "28127",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "دبي هيلز استيت",
+    "en": "Dubai Hills Estate"
+  },
+  "location": {
+    "ar": "دبي هيلز استيت",
+    "en": "Dubai Hills Estate"
+  },
+  "latitude": 25.1027,
+  "longitude": 55.2494,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "بارك ريدج",
+    "en": "Park Ridge"
+  },
+  "summary": {
+    "ar": "تعرف على شقق بارك ريدج في دبي هيلز استيت المكونة من 3 غرف نوم وتتميز بالتصميمات الحديثة بالإضافة إلى المرافق الترفيهية",
+    "en": "Discover Park Ridge apartments in Dubai Hills Estate with 3 bedrooms featuring modern designs and recreational facilities"
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "بارك ريدج",
+      "subtitle": "دبي هيلز استيت"
+    },
+    "en": {
+      "title": "Park Ridge",
+      "subtitle": "Dubai Hills Estate"
+    }
+  },
+  "description": {
+    "ar": "تعرف على شقق بارك ريدج في دبي هيلز استيت المكونة من 3 غرف نوم وتتميز بالتصميمات الحديثة بالإضافة إلى المرافق الترفيهية . تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "en": "Discover Park Ridge apartments in Dubai Hills Estate with 3 bedrooms featuring modern designs and recreational facilities. Visit our website for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [
+    "3"
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+  "galleryImages": [],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/park-ridge",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "بارك ريدج | دبي هيلز استيت | إعمار العقارية",
+    "description": "تعرف على شقق بارك ريدج في دبي هيلز استيت المكونة من 3 غرف نوم وتتميز بالتصميمات الحديثة بالإضافة إلى المرافق الترفيهية . تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "canonical": "https://properties.emaar.com/ar/properties/park-ridge/",
+    "ogImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "modifiedTime": "2024-02-20T09:15:25+00:00",
+    "fetchedAt": "2025-11-09T12:40:10.855Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_BALCONY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_ACCESS.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_CAFE.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_LIVING_ROOM.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_AMENITIES.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DUBAI_HILLS_ESTATE_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-6300.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-6844.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7640.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7648.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Shadow-7851.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_BALCONY.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_ACCESS.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_CAFE.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_LIVING_ROOM.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_AMENITIES.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2020/11/PARK_RIDGE_BROCHURE.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-hills-estate",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "projects": [],
+  "masterplan": {}
+}
