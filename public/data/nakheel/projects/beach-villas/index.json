@@ -1,0 +1,157 @@
+{
+  "slug": "beach-villas",
+  "id": "nakheel-Beach_Villas",
+  "projectName": {
+    "ar": "فلل الشاطئ",
+    "en": "Beach Villas"
+  },
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "description": {
+    "ar": "فلل الشاطئ في جزر دبي",
+    "en": "Beach Villas offering luxury beachfront living in Dubai Islands"
+  },
+  "amenities": [],
+  "area": {
+    "ar": "جزر دبي",
+    "en": "Dubai Islands"
+  },
+  "bedrooms": [],
+  "brand": "Nakheel",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": null,
+  "developer": {
+    "ar": "نخيل العقارية",
+    "en": "Nakheel Properties"
+  },
+  "goldenVisaEligible": false,
+  "heroImage": "",
+  "latitude": 0,
+  "launchDate": null,
+  "location": {
+    "ar": "جزر دبي، دبي",
+    "en": "Dubai Islands, Dubai",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": "جزر دبي",
+      "en": "Dubai Islands"
+    },
+    "poiDistances": {}
+  },
+  "longitude": 0,
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "projectCategory": "Building",
+  "projectPageLink": "https://www.nakheel.com",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": "فيلا"
+    }
+  ],
+  "sellable": true,
+  "summary": {
+    "en": "Beach Villas offers premium living experience in Dubai Islands",
+    "ar": "فلل الشاطئ تقدم تجربة معيشية راقية في جزر دبي"
+  },
+  "views": [],
+  "media": {
+    "heroImage": "",
+    "galleryImages": [],
+    "videoLink": "",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "name": {
+    "ar": "فلل الشاطئ",
+    "en": "Beach Villas"
+  },
+  "auto_translated": false,
+  "fromCommunity": "dubai-islands",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

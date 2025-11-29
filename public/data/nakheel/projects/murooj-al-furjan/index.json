@@ -1,0 +1,373 @@
+{
+  "projectID": "murooj-al-furjan",
+  "developerID": "nakheel",
+  "slug": "murooj-al-furjan",
+  "projectName": {
+    "ar": "مروج الفرجان",
+    "en": "Murooj Al Furjan"
+  },
+  "description": {
+    "ar": "استكشف مروج الفرجان من نخيل - واحة خضراء من الفلل الحديثة بتصاميم واسعة وحدائق مجتمعية ومعيشة هادئة. عند اكتماله، سيضم مروج الفرجان حدائق وحدائق خاصة وممرات للمشاة، مع تحقيق أقصى استفادة من المساحة الداخلية بشرفات وتراسات واسعة. من الداخل إلى جانب المسبح، يتم اختيار أجود المواد للحصول على تشطيبات استثنائية وتجربة تجعلك تشعر وكأنك في بيتك تمامًا أينما كنت داخل المجتمع.",
+    "en": "When complete, Murooj Al Furjan will feature parks, private gardens and pedestrian friendly walkways, while also maximising indoor space with generous terraces and balconies. From inside to poolside, the finest materials are being selected for exceptional finishes and an experience that makes you feel completely at home wherever you are within the community."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "ar": "يقع مروج الفرجان في موقع استراتيجي، ويوفر سهولة الوصول إلى مناطق الجذب الرئيسية. يبعد 6 دقائق عن محطة مترو الفرجان، 11 دقيقة عن ابن بطوطة مول، 16 دقيقة عن دبي مارينا، 20 دقيقة عن نخلة جميرا، 25 دقيقة عن مطار آل مكتوم الدولي (DWC)، و28 دقيقة عن وسط مدينة دبي.",
+    "en": "Murooj Al Furjan is a green oasis, featuring parks, private gardens, and pedestrian-friendly walkways. It offers easy access to various amenities and is strategically located close to key attractions in Dubai.",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": -1,
+    "maxPriceAED": -1,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0703.jpg?sfvrsn=e331a654_1",
+    "galleryImages": [
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0700.jpg?sfvrsn=3de50426_1"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0703.jpg?sfvrsn=e331a654_1"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0710.jpg?sfvrsn=2d606081_1"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/nakheel-murooj-al-furjan-west-jan-image-2.png?sfvrsn=5ede6de7_1"
+      }
+    ],
+    "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/murooj-al-furjan.mp4?sfvrsn=2cc12248_1",
+    "3D_TourLink": null,
+    "brochurePdfLink": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/murooj-al-furjan.pdf?sfvrsn=50185c16_1",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Basketball Court"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Al Furjan Metro Station"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children’s Pool"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Al Furjan Pavilion"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Al Furjan West Pavilion"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
+        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
+      }
+    }
+  ],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "completionDate": "",
+  "deliveryDate": "سبتمبر 2024. (تم ذكر أغسطس 2024 ليوم التسليم في مصدر واحد. وذكر مصدر آخر أن المرحلة الغربية من المشروع كان التسليم المتوقع لها في يونيو 2024.)",
+  "launchDate": "تم إطلاق مشروع Murooj Al Furjan ككل في عام 2016. أطلقت نخيل مجتمع Murooj Al Furjan السكني المكون من 418 فيلا في مايو 2021. بدأت مبيعات المشروع في 1 أكتوبر 2021. وبدأت مبيعات Murooj Al Furjan West في 1 يوليو 2021.",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": "متوفرة بـ 3، 4، و 5 غرف نوم (فلل ومنازل تاون هاوس).",
+  "brand": "Nakheel",
+  "developer": {
+    "ar": "نخيل العقارية",
+    "en": "Nakheel Properties"
+  },
+  "projectStatus": {
+    "ar": "تم التسليم",
+    "en": "Delivered"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": "فيلا"
+    }
+  ],
+  "views": "تطل الفلل والمنازل التاون هاوس على الحدائق أو حمامات السباحة. تتميز الفلل والمنازل التاون هاوس بتصميمات مفتوحة ومناظر طبيعية خضراء وممرات للمشاة وحدائق خاصة.",
+  "summary": {
+    "en": "Murooj Al Furjan offers premium living experience with exceptional amenities and strategic location in .",
+    "ar": "تقدم مروج الفرجان تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في ."
+  },
+  "insights": {
+    "en": "Murooj Al Furjan represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic  location.",
+    "ar": "تمثل مروج الفرجان فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في ."
+  },
+  "highlights": [],
+  "goldenVisaEligible": false,
+  "sellable": true,
+  "latitude": 25.028309582211477,
+  "longitude": 55.14374939237027,
+  "mapDescription": {
+    "ar": "خريطة تفاعلية تعرض موقع مروج الفرجان وقربه من المعالم الرئيسية في دبي.",
+    "en": "Strategic location with proximity to metro, shopping, marina, and airports."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Al Furjan Metro Station",
+        "ar": "Al Furjan Metro Station"
+      },
+      "distance": {
+        "en": "6 km",
+        "ar": "6 km"
+      },
+      "category": {
+        "en": "Metro Station",
+        "ar": "محطة مترو"
+      }
+    },
+    {
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": "Ibn Battuta Mall"
+      },
+      "distance": {
+        "en": "11 km",
+        "ar": "11 km"
+      },
+      "category": {
+        "en": "Shopping Mall",
+        "ar": "مركز تسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina",
+        "ar": "دبي مارينا"
+      },
+      "distance": {
+        "en": "16 km",
+        "ar": "16 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "نخلة جميرا"
+      },
+      "distance": {
+        "en": "20 km",
+        "ar": "20 km"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum International Airport (DWC)",
+        "ar": "Al Maktoum International Airport (DWC)"
+      },
+      "distance": {
+        "en": "25 km",
+        "ar": "25 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": "وسط مدينة دبي"
+      },
+      "distance": {
+        "en": "28 km",
+        "ar": "28 km"
+      },
+      "category": {
+        "en": "Downtown",
+        "ar": "معلم"
+      }
+    }
+  ],
+  "minAreaSqft": -1,
+  "maxAreaSqft": -1,
+  "minAreaSqmt": -1,
+  "maxAreaSqmt": -1,
+  "projectPageLink": "https://www.nakheel.com/en/latest-handovers/murooj-al-furjan",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "id": "nakheel-Murooj_Al_Furjan",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "maxPriceAED": -1,
+  "minPriceAED": -1,
+  "projectCategory": "Community",
+  "heroCopy": {
+    "en": {
+      "title": "Murooj Al Furjan: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in"
+    },
+    "ar": {
+      "title": "مروج الفرجان: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في"
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/murooj-al-furjan.pdf?sfvrsn=50185c16_1",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/murooj-al-furjan.pdf?sfvrsn=50185c16_1",
+          "title": "كتيب المشروع"
+        }
+      ]
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/murooj-al-furjan.mp4?sfvrsn=2cc12248_1",
+  "name": {
+    "en": "Murooj Al Furjan",
+    "ar": "مروج الفرجان"
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0703.jpg?sfvrsn=e331a654_1",
+  "auto_translated": false,
+  "fromCommunity": "al-furjan",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

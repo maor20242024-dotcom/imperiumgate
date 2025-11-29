@@ -1,0 +1,88 @@
+{
+  "communityID": "dubai-islands",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "جزر دبي",
+    "en": "Dubai Islands"
+  },
+  "description": {
+    "ar": "جزر صناعية سابقاً ديرة آيلاندز مع فلل شاطئية.",
+    "en": "Man-made islands formerly Deira Islands with beachfront villas."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "bay-villas",
+      "name": {
+        "ar": "باي فلل",
+        "en": "Bay Villas"
+      }
+    },
+    {
+      "projectID": "bay-grove-residences",
+      "name": {
+        "ar": "باي غروف ريزيدنسز",
+        "en": "Bay Grove Residences"
+      }
+    },
+    {
+      "projectID": "bay-grove-residences-phase-4",
+      "name": {
+        "ar": "باي غروف ريزيدنسز المرحلة 4",
+        "en": "Bay Grove Residences Phase 4"
+      }
+    },
+    {
+      "projectID": "rixos-beach-residences-phase-2",
+      "name": {
+        "ar": "ريكسوس بيتش ريزيدنسز المرحلة 2",
+        "en": "Rixos Beach Residences Phase 2"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:44:09.998940",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "dubai-islands",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "masterplan": {}
+}

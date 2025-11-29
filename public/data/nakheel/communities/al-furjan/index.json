@@ -1,0 +1,81 @@
+{
+  "communityID": "al-furjan",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "الفرجان",
+    "en": "Al Furjan"
+  },
+  "description": {
+    "ar": "مجتمع سكني عائلي مع فلل وشقق.",
+    "en": "A family-oriented residential community with villas and apartments."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "tilal-al-furjan",
+      "name": {
+        "ar": "تلال الفرجان",
+        "en": "Tilal Al Furjan"
+      }
+    },
+    {
+      "projectID": "masakin-al-furjan",
+      "name": {
+        "ar": "مساكن الفرجان",
+        "en": "Masakin Al Furjan"
+      }
+    },
+    {
+      "projectID": "murooj-al-furjan",
+      "name": {
+        "ar": "مروج الفرجان",
+        "en": "Murooj Al Furjan"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:48:01.361126",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "al-furjan",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "masterplan": {}
+}
