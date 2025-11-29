@@ -1,0 +1,209 @@
+{
+  "slug": "downtown-views-ii",
+  "id": "2471",
+  "developer": "Emaar",
+  "brand": {
+    "ar": "إعمار العقارية",
+    "en": "Emaar Properties"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "داون تاون دبي",
+    "en": "Downtown Dubai"
+  },
+  "location": {
+    "ar": "داون تاون فيوز 2",
+    "en": "Downtown Views II"
+  },
+  "latitude": 25.1972,
+  "longitude": 55.2744,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": {
+    "ar": "شقق",
+    "en": "Apartments"
+  },
+  "projectName": {
+    "ar": "داون تاون فيوز 2",
+    "en": "Downtown Views II"
+  },
+  "summary": {
+    "ar": "تعرّف على المزيج المذهل للثقافة الغنية والوجهات الترفيهية المثيرة وأسلوب حياة الرفاهية في داون تاون فيوز 2 من إعمار. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "داون تاون فيوز 2",
+      "subtitle": null
+    },
+    "en": {
+      "title": "Downtown Views II",
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": "تعرّف على المزيج المذهل للثقافة الغنية والوجهات الترفيهية المثيرة وأسلوب حياة الرفاهية في داون تاون فيوز 2 من إعمار. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+    "en": null
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": null,
+  "maxAreaSqft": null,
+  "minAreaSqmt": null,
+  "maxAreaSqmt": null,
+  "minPriceAED": null,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2020-05-06",
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-04.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": true,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/downtown-views-ii",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": {
+      "ar": "داون تاون فيوز 2 | شقق فاخرة للبيع داون تاون فيوز 2 | إعمار العقارية",
+      "en": null
+    },
+    "description": {
+      "ar": "تعرّف على المزيج المذهل للثقافة الغنية والوجهات الترفيهية المثيرة وأسلوب حياة الرفاهية في داون تاون فيوز 2 من إعمار. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+      "en": null
+    },
+    "og_title": {
+      "ar": "داون تاون فيوز 2 | شقق فاخرة للبيع داون تاون فيوز 2 | إعمار العقارية",
+      "en": null
+    },
+    "og_description": {
+      "ar": "تعرّف على المزيج المذهل للثقافة الغنية والوجهات الترفيهية المثيرة وأسلوب حياة الرفاهية في داون تاون فيوز 2 من إعمار. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+      "en": null
+    },
+    "canonical_url": "https://properties.emaar.com/ar/properties/downtown-views-ii/",
+    "word_count": null,
+    "fetchedAt": "2025-11-09T10:35:19.332Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-07.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-11.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-05.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/161204_LIVING_WARM.RGB_color.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-03-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DOWNTOWN_DUBAI_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Shadow-01256.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Shadow-01259.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Shadow-01295.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Shadow-6511.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Shadow-6814.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2020/05/brochure-downtown-views-ii-ar.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": null,
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

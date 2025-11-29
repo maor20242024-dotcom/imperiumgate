@@ -1,0 +1,185 @@
+{
+  "slug": "bliss-2",
+  "id": "156651",
+  "developer": "Emaar",
+  "brand": "Emaar",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "المرابع العربية 3",
+    "en": "Arabian Ranches 3"
+  },
+  "location": {
+    "ar": "المرابع العربية 3",
+    "en": "Arabian Ranches 3"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": null,
+  "mapPointsOfInterest": [],
+  "projectCategory": "Villa",
+  "projectName": {
+    "ar": "بلِسّ 2",
+    "en": "Bliss 2"
+  },
+  "summary": {
+    "ar": "بلِسّ 2 من إعمار العقارية في المرابع العربية 3 هي ملاذ مفعم بالفخامة والخصوصية. اختر فيلا دوبلكس من 3 أو 4 غرف نوم. تفضّل بزيارة موقعنا للحصول علي مزيد من المعلومات.",
+    "en": "Bliss 2 by Emaar Properties in Arabian Ranches 3 is a haven of luxury and privacy. Choose a 3 or 4-bedroom duplex villa. Visit our website for more information."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "بلِسّ 2",
+      "subtitle": "فلل للبيع في بلِسّ 2 المرابع العربية 3"
+    },
+    "en": {
+      "title": "Bliss 2",
+      "subtitle": "Villas for sale in Bliss 2 Arabian Ranches 3"
+    }
+  },
+  "description": {
+    "ar": "بلِسّ 2 من إعمار العقارية في المرابع العربية 3 هي ملاذ مفعم بالفخامة والخصوصية. اختر فيلا دوبلكس من 3 أو 4 غرف نوم. تفضّل بزيارة موقعنا للحصول علي مزيد من المعلومات.",
+    "en": "Bliss 2 by Emaar Properties in Arabian Ranches 3 is a haven of luxury and privacy. Choose a 3 or 4-bedroom duplex villa. Visit our website for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فيلا",
+      "en": "Villa"
+    },
+    {
+      "ar": "دوبلكس",
+      "en": "Duplex"
+    }
+  ],
+  "bedrooms": [
+    3,
+    4
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": null,
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2022-02-21",
+  "projectStatus": null,
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": null,
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_HERO.jpg",
+  "galleryImages": [],
+  "amenities": [],
+  "highlights": [],
+  "insights": null,
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/bliss-2",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "بلِسّ 2 | فلل للبيع في بلِسّ 2 المرابع العربية 3 | إعمار العقارية",
+    "description": "بلِسّ 2 من إعمار العقارية في المرابع العربية 3 هي ملاذ مفعم بالفخامة والخصوصية. اختر فيلا دوبلكس من 3 أو 4 غرف نوم. تفضّل بزيارة موقعنا للحصول علي مزيد من المعلومات.",
+    "keywords": null,
+    "canonical_url": "https://properties.emaar.com/ar/properties/bliss-2/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "og_description": "بلِسّ 2 من إعمار العقارية في المرابع العربية 3 هي ملاذ مفعم بالفخامة والخصوصية. اختر فيلا دوبلكس من 3 أو 4 غرف نوم. تفضّل بزيارة موقعنا للحصول علي مزيد من المعلومات.",
+    "og_title": "بلِسّ 2 | فلل للبيع في بلِسّ 2 المرابع العربية 3 | إعمار العقارية",
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@emaardubai",
+    "fetchedAt": "2025-11-09T10:07:21.950Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_HIGHLIGHT.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_LIFESTYLE_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_LIFESTYLE_02.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_LIFESTYLE_03.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_UNIT_TYPE.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_AMENITIES_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ARABIAN_RANCHES_3_EN-1.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_HIGHLIGHT.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_LIFESTYLE_01.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_LIFESTYLE_02.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_LIFESTYLE_03.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_UNIT_TYPE.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS_II_AMENITIES_01.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS2_ARIII_BROCHURE_AR.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "arabian-ranches",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

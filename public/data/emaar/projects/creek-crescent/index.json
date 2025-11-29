@@ -1,0 +1,266 @@
+{
+  "slug": "creek-crescent",
+  "id": "197793",
+  "developer": "Emaar",
+  "brand": "Emaar",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "location": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": {
+    "ar": "شقق",
+    "en": "apartments"
+  },
+  "projectName": {
+    "ar": "كريك كريسنت",
+    "en": "Creek Crescent"
+  },
+  "summary": {
+    "ar": "استمتع بالمعنى الحقيقي للحياة الفاخرة على الواجهة البحرية في شقق كريك كريسنت بخور دبي المكونة من غرفة نوم واحدة إلى 3 غرف نوم. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+    "en": "Enjoy the true meaning of luxurious waterfront living in Creek Crescent apartments in Dubai Creek, consisting of one to 3 bedrooms. Visit our website for more information."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": "استمتع بالمعنى الحقيقي للحياة الفاخرة على الواجهة البحرية في شقق كريك كريسنت بخور دبي المكونة من غرفة نوم واحدة إلى 3 غرف نوم. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+    "en": "Enjoy the true meaning of luxurious waterfront living in Creek Crescent apartments in Dubai Creek, consisting of one to 3 bedrooms. Visit our website for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "apartments"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": null,
+  "maxAreaSqft": null,
+  "minAreaSqmt": null,
+  "maxAreaSqmt": null,
+  "minPriceAED": null,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2022-06-23",
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_HERO.png",
+  "galleryImages": [],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/creek-crescent",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": {
+      "ar": "كريك كريسنت خور دبي | شقق للبيع فى برج كريك كريسنت | إعمار العقارية",
+      "en": "Creek Crescent Dubai Creek | Apartments for sale in Creek Crescent Tower | Emaar Properties"
+    },
+    "description": {
+      "ar": "استمتع بالمعنى الحقيقي للحياة الفاخرة على الواجهة البحرية في شقق كريك كريسنت بخور دبي المكونة من غرفة نوم واحدة إلى 3 غرف نوم. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+      "en": "Enjoy the true meaning of luxurious waterfront living in Creek Crescent apartments in Dubai Creek, consisting of one to 3 bedrooms. Visit our website for more information."
+    },
+    "keywords": null,
+    "canonical_url": "https://properties.emaar.com/ar/properties/creek-crescent/",
+    "open_graph_data": {
+      "og:locale": "ar_AR",
+      "og:type": "article",
+      "og:title": "كريك كريسنت خور دبي | شقق للبيع فى برج كريك كريسنت | إعمار العقارية",
+      "og:description": "استمتع بالمعنى الحقيقي للحياة الفاخرة على الواجهة البحرية في شقق كريك كريسنت بخور دبي المكونة من غرفة نوم واحدة إلى 3 غرف نوم. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+      "og:url": "https://properties.emaar.com/ar/properties/creek-crescent/",
+      "og:site_name": "إعمار العقارية",
+      "og:image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB.jpg",
+      "og:image:width": 1920,
+      "og:image:height": 1080,
+      "og:image:type": "image/jpeg"
+    },
+    "twitter_data": {
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@emaardubai",
+      "twitter:label1": "وقت القراءة المُقدّر",
+      "twitter:data1": "1 دقيقة"
+    },
+    "ld_json_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://properties.emaar.com/ar/properties/creek-crescent/",
+          "url": "https://properties.emaar.com/ar/properties/creek-crescent/",
+          "name": "كريك كريسنت خور دبي | شقق للبيع فى برج كريك كريسنت | إعمار العقارية",
+          "isPartOf": {
+            "@id": "https://properties.emaar.com/ar/#website"
+          },
+          "datePublished": "2022-06-23T08:04:13+00:00",
+          "dateModified": "2023-08-11T06:34:03+00:00",
+          "description": "استمتع بالمعنى الحقيقي للحياة الفاخرة على الواجهة البحرية في شقق كريك كريسنت بخور دبي المكونة من غرفة نوم واحدة إلى 3 غرف نوم. تفضّل بزيارة موقعنا للحصول على مزيد من المعلومات.",
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://properties.emaar.com/ar/properties/creek-crescent/"
+              ]
+            }
+          ],
+          "image": "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_HERO.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://properties.emaar.com/ar/#website",
+          "url": "https://properties.emaar.com/ar/",
+          "name": "Emaar Properties",
+          "description": "Global Property Developer",
+          "publisher": {
+            "@id": "https://properties.emaar.com/ar/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://properties.emaar.com/ar/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        }
+      ]
+    },
+    "fetchedAt": "2025-11-09T10:56:42.047Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_HERO.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_HIGHLIGHT-1620x832-resize.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_1.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_2.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_3.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_4.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_HIGHLIGHT-1620x832-resize.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_1.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_2.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_3.png",
+      "https://properties.emaar.com/wp-content/uploads/2022/06/CREEK_CRESCENT_LIFESTYLE_4.png"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-creek-harbour",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "address-villas-tierra",
+  "id": "401180",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "ذا أويسيس",
+    "en": "The Oasis"
+  },
+  "location": {
+    "ar": "ذا أويسيس",
+    "en": "The Oasis"
+  },
+  "latitude": 25.0842,
+  "longitude": 55.3119,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "فلل",
+  "projectName": {
+    "ar": "فلل العنوان تيرّا",
+    "en": "Address Villas Tierra"
+  },
+  "summary": {
+    "ar": "اكتشف هذا المجمّع الرائع الذي يوفّر إطلالات شاملة على الواجهة المائية، ومساحات مليئة بالضوء، ووصولاً سهلاً إلى الطبيعة.",
+    "en": "Discover this wonderful complex that offers comprehensive views of the waterfront, light-filled spaces, and easy access to nature."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "فلل العنوان تيرّا",
+      "subtitle": "ذا أويسيس | إعمار العقارية"
+    },
+    "en": {
+      "title": "Address Villas Tierra",
+      "subtitle": "The Oasis | Emaar Properties"
+    }
+  },
+  "description": {
+    "ar": "اكتشف هذا المجمّع الرائع الذي يوفّر إطلالات شاملة على الواجهة المائية، ومساحات مليئة بالضوء، ووصولاً سهلاً إلى الطبيعة.",
+    "en": "Discover this wonderful complex that offers comprehensive views of the waterfront, light-filled spaces, and easy access to nature."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فلل",
+      "en": "Villas"
+    }
+  ],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [
+    {
+      "ar": "إطلالات على الواجهة المائية",
+      "en": "Waterfront views"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_1.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_3.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/address-villas-tierra",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "فلل العنوان تيرّا | ذا أويسيس | إعمار العقارية",
+    "description": "اكتشف هذا المجمّع الرائع الذي يوفّر إطلالات شاملة على الواجهة المائية، ومساحات مليئة بالضوء، ووصولاً سهلاً إلى الطبيعة.",
+    "canonical": "https://properties.emaar.com/ar/properties/address-villas-tierra/",
+    "og_title": "فلل العنوان تيرّا | ذا أويسيس | إعمار العقارية",
+    "og_description": "اكتشف هذا المجمّع الرائع الذي يوفّر إطلالات شاملة على الواجهة المائية، ومساحات مليئة بالضوء، ووصولاً سهلاً إلى الطبيعة.",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_3.jpg",
+    "modified_time": "2025-03-21T05:47:15+00:00",
+    "fetchedAt": "2025-11-09T13:44:29.726Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/BROCHURE_IMG_300X210.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_EXT_5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/PRO_INT_4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_440-x-570.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/COMM_IMG_706X385_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/COMM_IMG_706X385_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/COMM_IMG_706X385_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/COMM_IMG_706X385_4.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_2.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2025/03/FEATURES_1200X655_1.jpg"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "the-oasis",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

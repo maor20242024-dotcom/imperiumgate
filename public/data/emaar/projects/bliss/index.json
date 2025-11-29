@@ -1,0 +1,184 @@
+{
+  "slug": "bliss",
+  "id": "109394",
+  "developer": "Emaar",
+  "brand": "Emaar Properties",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "المرابع العربية 3",
+    "en": "Arabian Ranches 3"
+  },
+  "location": {
+    "ar": "المرابع العربية 3",
+    "en": "Arabian Ranches 3"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": null,
+  "mapPointsOfInterest": [],
+  "projectCategory": "Residential",
+  "projectName": {
+    "ar": "بلِسّ",
+    "en": "Bliss"
+  },
+  "summary": {
+    "ar": "تعرّف على بلِسّ في المرابع العربية 3 حيث منازل تاون هاوس الفخمة التي تضمّ 3 و 4 غرف نوم. اختَر منزلك في هذا المكان المثالي لتعيش أوقاتاً رائعة برفقة عائلتك. تفضّل بزيارة موقعنا لمزيد.",
+    "en": "Discover Bliss in Arabian Ranches 3, where luxurious 3 and 4 bedroom townhouses are located. Choose your home in this ideal place to live wonderful times with your family. Visit our website for more."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "بلِسّ",
+      "subtitle": "بلِسّ منازل تاون هاوس في المرابع العربية 3"
+    },
+    "en": {
+      "title": "Bliss",
+      "subtitle": "Bliss Townhouses in Arabian Ranches 3"
+    }
+  },
+  "description": {
+    "ar": "تعرّف على بلِسّ في المرابع العربية 3 حيث منازل تاون هاوس الفخمة التي تضمّ 3 و 4 غرف نوم. اختَر منزلك في هذا المكان المثالي لتعيش أوقاتاً رائعة برفقة عائلتك. تفضّل بزيارة موقعنا لمزيد.",
+    "en": "Discover Bliss in Arabian Ranches 3, where luxurious 3 and 4 bedroom townhouses are located. Choose your home in this ideal place to live wonderful times with your family. Visit our website for more."
+  },
+  "propertyTypes": [
+    {
+      "ar": "تاون هاوس",
+      "en": "Townhouse"
+    }
+  ],
+  "bedrooms": [
+    3,
+    4
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": null,
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2021-08-31",
+  "projectStatus": null,
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": null,
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [],
+  "amenities": [],
+  "highlights": [],
+  "insights": null,
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/bliss",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "بلِسّ | بلِسّ منازل تاون هاوس في المرابع العربية 3 | إعمار العقارية",
+    "description": "تعرّف على بلِسّ في المرابع العربية 3 حيث منازل تاون هاوس الفخمة التي تضمّ 3 و 4 غرف نوم. اختَر منزلك في هذا المكان المثالي لتعيش أوقاتاً رائعة برفقة عائلتك. تفضّل بزيارة موقعنا لمزيد.",
+    "keywords": null,
+    "canonical_url": "https://properties.emaar.com/ar/properties/bliss/",
+    "hreflang": {
+      "en": "https://properties.emaar.com/en/properties/bliss/",
+      "ar": "https://properties.emaar.com/ar/properties/bliss/",
+      "ru": "https://properties.emaar.com/ru/properties/bliss/",
+      "x-default": "https://properties.emaar.com/en/properties/bliss/"
+    },
+    "fetchedAt": "2025-11-09T10:05:52.442Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1620X832_02.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1620X832_03.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1620X832_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1200X655_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1200X655_02.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1200X655_03.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/1200X655_04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/680X680.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ARABIAN_RANCHES_3_EN-1.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/1620X832_03.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/1620X832_01.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/1200X655_01.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/1200X655_02.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/1200X655_03.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/1200X655_04.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2021/08/680X680.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2021/08/BLISS_ARIII_BROCHURE_EN.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "arabian-ranches",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

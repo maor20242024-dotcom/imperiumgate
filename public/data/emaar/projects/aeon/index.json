@@ -1,0 +1,197 @@
+{
+  "slug": "aeon",
+  "id": "378802",
+  "developer": "Emaar",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "خور دبي",
+    "en": "Dubai Creek"
+  },
+  "location": null,
+  "latitude": 25.1833,
+  "longitude": 55.3519,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": "إيون",
+    "en": "Aeon"
+  },
+  "summary": {
+    "ar": "اكتشف إيون في خور دبي واستمتع بإطلالات الحديقة الخضراء، والشواطئ ومجموعة من المرافق الفاخرة والمزيد. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "en": "Discover Aeon in Dubai Creek and enjoy green garden views, beaches and a range of luxury facilities and more. Visit our website to learn more."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": null
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": "2024-01-16",
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [
+    {
+      "ar": "إطلالات الحديقة الخضراء",
+      "en": "Green Garden Views"
+    },
+    {
+      "ar": "الشواطئ",
+      "en": "Beaches"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/AEON_HERO_1.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/AEON_HERO_2.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/aeon",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "إيون | خور دبي | إعمار العقارية",
+    "description": "اكتشف إيون في خور دبي واستمتع بإطلالات الحديقة الخضراء، والشواطئ ومجموعة من المرافق الفاخرة والمزيد. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "og:title": "إيون | خور دبي | إعمار العقارية",
+    "og:description": "اكتشف إيون في خور دبي واستمتع بإطلالات الحديقة الخضراء، والشواطئ ومجموعة من المرافق الفاخرة والمزيد. تفضّل بزيارة موقعنا لمعرفة المزيد.",
+    "og:url": "https://properties.emaar.com/ar/properties/aeon/",
+    "og:site_name": "إعمار العقارية",
+    "og:image": "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/AEON_HERO_2.jpg",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@emaardubai",
+    "fetchedAt": "2025-11-09T10:47:48.693Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/BROCHURE_IMG_300X210.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/FEATURES_1200X655_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/FEATURES_1200X655_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/PRO_EXT_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/PRO_EXT_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/PRO_EXT_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/PRO_INT_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/PRO_INT_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/PRO_INT_3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_MAIN.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-35.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_VIDA_CH.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_ADDRESS_CREEK.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-34.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2024/01/FEATURES_1200X655_1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2024/01/FEATURES_1200X655_3.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2024/01/Aeon.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": null,
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}
