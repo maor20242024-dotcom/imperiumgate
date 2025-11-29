@@ -61,7 +61,7 @@ export default function OrbitCarousel({ slides }: { slides: Slide[] }) {
           <div className="absolute inset-4 border-2 border-gold/60 rounded-2xl shadow-lg shadow-gold/30 z-10 pointer-events-none"></div>
           <LazyVideo
             src={directAccess(memoizedSlides[active].videoLink)}
-            poster={directAccess(memoizedSlides[active].fallbackImage) || '/images/hero-fallback.jpg'}
+            poster={directAccess(memoizedSlides[active].fallbackImage) || '/images/hero-fallback.png'}
             autoPlay
             loop
             muted
