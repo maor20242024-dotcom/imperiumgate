@@ -1,0 +1,227 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-royale",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": null,
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Jumeirah Village Circle"
+  },
+  "location": {
+    "ar": null,
+    "en": "Jumeirah Village Circle (JVC)",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Jumeirah Village Circle"
+    }
+  },
+  "latitude": 25.05386279998059,
+  "longitude": 55.117594498543625,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": "Binghatti Royale",
+    "en": "Binghatti Royale",
+    "auto_translated": true
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Binghatti Royale is a project valued as a $600 million architectural jewel set to transform Jumeirah Village Circle by 2025. The project features 354 luxurious residential units ranging from 1 to 3 bedroom apartments that represents a new level of luxury, mixing classic elegance with modern sophistication to create a truly distinctive residential experience."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "20% down payment, 50% during construction, 30% on completion"
+  },
+  "minAreaSqft": 807,
+  "maxAreaSqft": 807,
+  "minAreaSqmt": 75,
+  "maxAreaSqmt": 75,
+  "minPriceAED": 1200000,
+  "maxPriceAED": null,
+  "deliveryDate": "Q4 2025",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-royale-assets/binghatti-royale-brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
+  "heroImage": "https://binghattiweb.imgix.net/royale_outdoor-sitting-area.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/royale_outdoor-sitting-area.jpg",
+    "https://binghattiweb.imgix.net/royale_swimming-pool-deck.jpg",
+    "https://binghattiweb.imgix.net/royale_swimming-pool.jpg",
+    "https://binghattiweb.imgix.net/royale_play-area.jpg",
+    "https://binghattiweb.imgix.net/royale_layout-1-bedroom.jpg",
+    "https://binghattiweb.imgix.net/royale_layout-2-bedroom.jpg",
+    "https://binghattiweb.imgix.net/royale_layout-3-bedroom.jpg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/royale_footer-horizontal.jpg"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Retail Spaces"
+      },
+      "description": {
+        "ar": null,
+        "en": "16 retail spaces providing mixed-use living experience"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "$600 million architectural jewel"
+    },
+    {
+      "ar": null,
+      "en": "354 luxurious residential units"
+    },
+    {
+      "ar": null,
+      "en": "47 floors including 4 parking floors, 1 Amenities Floor"
+    },
+    {
+      "ar": null,
+      "en": "Mixed-use project combining residential and retail spaces"
+    },
+    {
+      "ar": null,
+      "en": "Prime location in Jumeirah Village Circle"
+    },
+    {
+      "ar": null,
+      "en": "Some apartments come fully furnished"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-royale",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:13:49.734Z",
+    "title": "Binghatti Royale JVC – 1 to 3 Bedroom Apartments for Sale",
+    "description": "Binghatti Royale redefines luxury living in Dubai, offering a lifestyle of exclusivity and sophistication. Experience elegance in this prestigious residence.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-royale",
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/royale_outdoor-sitting-area.jpg",
+      "https://binghattiweb.imgix.net/royale_swimming-pool-deck.jpg",
+      "https://binghattiweb.imgix.net/royale_swimming-pool.jpg",
+      "https://binghattiweb.imgix.net/royale_play-area.jpg",
+      "https://binghattiweb.imgix.net/royale_layout-1-bedroom.jpg",
+      "https://binghattiweb.imgix.net/royale_layout-2-bedroom.jpg",
+      "https://binghattiweb.imgix.net/royale_layout-3-bedroom.jpg",
+      "https://binghattiweb.imgix.net/bedroom-img.webp",
+      "https://binghattiweb.imgix.net/royale_footer-horizontal.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-royale-assets/binghatti-royale-brochure.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-royale-assets/binghatti-royale-project-facts.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-royale-assets/binghatti-royale-floor-plans.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-royale-assets/binghatti-royale-location.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115661.33359406819!2d55.117594498543625!3d25.05386279998059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6dc2a4009e03%3A0x15d3b234d3cebd13!2sBinghatti%20Royale!5e0!3m2!1sen!2sae!4v1745566970136!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "jumeirah-village-circle",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

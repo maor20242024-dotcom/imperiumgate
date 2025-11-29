@@ -1,0 +1,234 @@
+{
+  "page_type": "project_details",
+  "slug": "binghatti-grove",
+  "id": null,
+  "developer": "Binghatti",
+  "brand": null,
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": null,
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": "Jumeirah Village Circle"
+  },
+  "location": {
+    "ar": null,
+    "en": "JVC",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "ar": null,
+      "en": "Jumeirah Village Circle"
+    }
+  },
+  "latitude": 25.04201991064241,
+  "longitude": 55.1393206959172,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": null,
+  "projectName": {
+    "ar": "Binghatti Grove",
+    "en": "Binghatti Grove",
+    "auto_translated": true
+  },
+  "summary": {
+    "ar": null,
+    "en": null
+  },
+  "heroCopy": {
+    "ar": {
+      "title": null,
+      "subtitle": null
+    },
+    "en": {
+      "title": null,
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": null,
+    "en": "Binghatti Grove is an oasis of tranquility rooted in JVC's heart, offering contemporary living through seamless integration of natural beauty and modern design. This exclusive residential haven offers thoughtfully crafted homes that promote both comfort and style, creating a perfect retreat from city life while maintaining urban convenience."
+  },
+  "propertyTypes": [
+    {
+      "ar": null,
+      "en": "Apartment"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": "20% down payment, 50% during construction, 30% on completion"
+  },
+  "minAreaSqft": 915,
+  "maxAreaSqft": 915,
+  "minAreaSqmt": 85,
+  "maxAreaSqmt": 85,
+  "minPriceAED": 1200000,
+  "maxPriceAED": null,
+  "deliveryDate": "Q1 2026",
+  "launchDate": null,
+  "projectStatus": {
+    "ar": "تحت الإنشاء",
+    "en": "Under Construction"
+  },
+  "views": [],
+  "goldenVisaEligible": null,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-grove-assets/binghatti-grove-brochure.pdf"
+  },
+  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
+  "heroImage": "https://binghattiweb.imgix.net/grove_swimming-pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/grove_swimming-pool.jpg",
+    "https://binghattiweb.imgix.net/grove_outdoor-sitting-area.jpg",
+    "https://binghattiweb.imgix.net/grove_private-pool.jpg",
+    "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
+    "https://binghattiweb.imgix.net/grove_layout-1-bedroom.jpg",
+    "https://binghattiweb.imgix.net/grove_layout-2-bedroom.jpg",
+    "https://binghattiweb.imgix.net/grove_layout-3-bedroom.jpg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-grove-2.webp",
+    "https://binghattiweb.imgix.net/grove_footer-horizontal.jpg"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": null,
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    },
+    {
+      "name": {
+        "ar": null,
+        "en": "Gymnasium"
+      },
+      "description": {
+        "ar": null,
+        "en": null
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "ar": null,
+      "en": "Prime Location: Situated in Jumeirah Village Circle, one of Dubai's most sought-after residential communities"
+    },
+    {
+      "ar": null,
+      "en": "Natural Integration: The project offers the perfect mix between the elegance of the finest architecture and nature"
+    },
+    {
+      "ar": null,
+      "en": "Luxury and Sustainability: Innovative design that blends modern luxury living with sustainable development practices"
+    },
+    {
+      "ar": null,
+      "en": "42 residential floors with 4 podium levels, amenities floor, and roof"
+    },
+    {
+      "ar": null,
+      "en": "388 thoughtfully designed units"
+    }
+  ],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-grove",
+  "contact": {
+    "phone": "+97180015",
+    "whatsapp": "+97180015",
+    "email": "SALES@BINGHATTI.COM"
+  },
+  "meta": {
+    "sourceAnalyzed": "RAW_HTML_PROVIDED",
+    "fetchedAt": "2025-11-09T18:07:28.334Z",
+    "title": "Binghatti Grove JVC – 1 to 3 Bedroom Apartments for Sale",
+    "description": "Discover Binghatti Grove in Dubai’s heart. Offering 1 to 3-bedroom apartments starting from AED 1,099,999. Luxury & tranquility in perfect harmony.",
+    "canonical": "https://www.binghatti.com/en/projects/binghatti-grove",
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "assets": {
+    "images": [
+      "https://binghattiweb.imgix.net/grove_swimming-pool.jpg",
+      "https://binghattiweb.imgix.net/grove_outdoor-sitting-area.jpg",
+      "https://binghattiweb.imgix.net/grove_private-pool.jpg",
+      "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
+      "https://binghattiweb.imgix.net/grove_layout-1-bedroom.jpg",
+      "https://binghattiweb.imgix.net/grove_layout-2-bedroom.jpg",
+      "https://binghattiweb.imgix.net/grove_layout-3-bedroom.jpg",
+      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+      "https://binghattiweb.imgix.net/binghatti-grove-2.webp",
+      "https://binghattiweb.imgix.net/grove_footer-horizontal.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-grove-assets/binghatti-grove-brochure.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-grove-assets/binghatti-grove-projects-facts.pdf",
+      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-grove-assets/binghatti-grove-location.pdf"
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115672.50646640113!2d55.1393206959172!3d25.04201991064241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ddf120f9cf9%3A0x1d759d947303a04a!2sBinghatti%20Grove!5e0!3m2!1sen!2sae!4v1745586861760!5m2!1sen!2sae",
+      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "jumeirah-village-circle",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

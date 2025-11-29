@@ -1,0 +1,267 @@
+{
+  "projectName": {
+    "ar": "البيئة الرابعة",
+    "en": "Al Hebiah Fourth"
+  },
+  "developer": {
+    "ar": "بن غاطي",
+    "en": "Binghatti"
+  },
+  "developerSlug": "binghatti",
+  "location": {
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "البيئة الرابعة",
+      "en": "Al Hebiah Fourth"
+    },
+    "community": {
+      "ar": "البيئة الرابعة",
+      "en": "Al Hebiah Fourth"
+    },
+    "coordinates": {
+      "lat": 25.2134,
+      "lng": 55.2534
+    },
+    "address": {
+      "ar": "البيئة الرابعة، دبي",
+      "en": "Al Hebiah Fourth, Dubai, UAE"
+    }
+  },
+  "description": {
+    "ar": "تطوير مختلط متميز مع مناطق سكنية وتجارية في موقع استراتيجي",
+    "en": "Premium mixed-use development with residential and commercial zones in strategic location"
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقة",
+      "en": "Apartment"
+    },
+    {
+      "ar": "سكني",
+      "en": "Residential"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "priceRange": {
+    "min": 950000,
+    "max": 4800000,
+    "currency": "AED"
+  },
+  "status": "under-construction",
+  "deliveryDate": "Q3 2026",
+  "amenities": [
+    {
+      "ar": "منطقة تجارية",
+      "en": "Commercial Area"
+    },
+    {
+      "ar": "مطاعم ومقاهي",
+      "en": "Restaurants & Cafes"
+    },
+    {
+      "ar": "مركز تسوق",
+      "en": "Shopping Mall"
+    },
+    {
+      "ar": "محطات مترو",
+      "en": "Metro Stations"
+    },
+    {
+      "ar": "مواقف عامة",
+      "en": "Public Parking"
+    },
+    {
+      "ar": "واجهة مائية",
+      "en": "Waterfront View"
+    },
+    {
+      "ar": "نادي صحي",
+      "en": "Health Club"
+    },
+    {
+      "ar": "مرسى خاص",
+      "en": "Private Marina"
+    },
+    {
+      "ar": "منتجع صحي",
+      "en": "Spa & Wellness"
+    }
+  ],
+  "gallery": {
+    "images": [],
+    "videos": []
+  },
+  "floorPlans": [],
+  "features": {
+    "transportation": {
+      "ar": "قريب من محطات المترو والطرق السريعة الرئيسية",
+      "en": "Close to Metro stations and main highways"
+    },
+    "investmentHighlights": [
+      {
+        "ar": "موقع استراتيجي للأعمال",
+        "en": "Strategic business location"
+      },
+      {
+        "ar": "عوائد إيجار متوقعة 9-11%",
+        "en": "Expected rental yields 9-11%"
+      },
+      {
+        "ar": "إمكانية السكن والعمل في نفس المنطقة",
+        "en": "Live and work in same area possibility"
+      }
+    ],
+    "nearbyAttractions": [
+      {
+        "ar": "مركز دبي التجاري",
+        "en": "Dubai World Trade Centre"
+      },
+      {
+        "ar": "مركز دبي الدولي للمؤتمرات",
+        "en": "Dubai International Convention Centre"
+      },
+      {
+        "ar": "أبراج الإمارات",
+        "en": "Emirates Towers"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972",
+    "email": "info@binghatti.com",
+    "website": "https://www.binghatti.com"
+  },
+  "metadata": {
+    "communityType": {
+      "ar": "تطوير مختلط",
+      "en": "Mixed-Use Development"
+    },
+    "totalProjects": 16,
+    "totalDevelopments": 1,
+    "lastUpdated": "2025-11-10T18:57:41.118Z",
+    "dataSource": "binghatti-communities"
+  },
+  "developments": [
+    {
+      "name": {
+        "ar": "بن غاطي أكوارايس",
+        "en": "Binghatti Aquarise"
+      },
+      "slug": "binghatti-aquarise",
+      "category": "Luxury",
+      "totalUnits": 200,
+      "unitTypes": [
+        {
+          "type": {
+            "ar": "استوديو",
+            "en": "Studio"
+          },
+          "bedrooms": 0,
+          "size_range_sqft": "450-550",
+          "price_range_aed": "950,000 - 1,200,000",
+          "available_units": 30
+        },
+        {
+          "type": {
+            "ar": "غرفة نوم واحدة",
+            "en": "1 Bedroom"
+          },
+          "bedrooms": 1,
+          "size_range_sqft": "700-900",
+          "price_range_aed": "1,500,000 - 1,900,000",
+          "available_units": 60
+        },
+        {
+          "type": {
+            "ar": "غرفتي نوم",
+            "en": "2 Bedrooms"
+          },
+          "bedrooms": 2,
+          "size_range_sqft": "1,000-1,350",
+          "price_range_aed": "2,500,000 - 3,200,000",
+          "available_units": 70
+        },
+        {
+          "type": {
+            "ar": "ثلاث غرف نوم",
+            "en": "3 Bedrooms"
+          },
+          "bedrooms": 3,
+          "size_range_sqft": "1,500-1,900",
+          "price_range_aed": "3,800,000 - 4,800,000",
+          "available_units": 40
+        }
+      ],
+      "deliveryDate": "Q3 2026",
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "amenities": [
+        {
+          "ar": "واجهة مائية",
+          "en": "Waterfront View"
+        },
+        {
+          "ar": "نادي صحي",
+          "en": "Health Club"
+        },
+        {
+          "ar": "مرسى خاص",
+          "en": "Private Marina"
+        },
+        {
+          "ar": "منتجع صحي",
+          "en": "Spa & Wellness"
+        }
+      ]
+    }
+  ],
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "community": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

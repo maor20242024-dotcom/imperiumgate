@@ -1,0 +1,45 @@
+{
+  "provider": "binghatti",
+  "communities": [
+    "binghatti-hills",
+    "binghatti-hillside",
+    "business-bay",
+    "jumeirah-village-circle"
+  ],
+  "projects": [
+    "al-barasha-south-second",
+    "al-hebiah-fourth",
+    "binghatti-amberhall",
+    "binghatti-aquarise",
+    "binghatti-aurora",
+    "binghatti-circle",
+    "binghatti-dawn",
+    "binghatti-dusk",
+    "binghatti-elite",
+    "binghatti-flare",
+    "binghatti-ghost",
+    "binghatti-grove",
+    "binghatti-haven",
+    "binghatti-hillviews",
+    "binghatti-ivory",
+    "binghatti-jvc",
+    "binghatti-moonlight",
+    "binghatti-phoenix",
+    "binghatti-pinnacle",
+    "binghatti-royale",
+    "binghatti-ruby",
+    "binghatti-skyblade",
+    "binghatti-skyhall",
+    "binghatti-skyrise",
+    "binghatti-starlight",
+    "binghatti-twilight",
+    "downtown-dubai"
+  ],
+  "meta": {
+    "generatedAt": "2025-11-28T16:04:24Z",
+    "counts": {
+      "communities": 4,
+      "projects": 27
+    }
+  }
+}
