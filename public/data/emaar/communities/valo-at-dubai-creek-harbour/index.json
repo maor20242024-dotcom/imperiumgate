@@ -1,0 +1,177 @@
+{
+  "slug": "valo-at-dubai-creek-harbour",
+  "id": "383260",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "ميناء خور دبي",
+    "en": "Dubai Creek Harbour"
+  },
+  "location": {
+    "ar": "ميناء خور دبي",
+    "en": "Dubai Creek Harbour"
+  },
+  "latitude": 25.1833,
+  "longitude": 55.3519,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "فالو",
+    "en": "Valo"
+  },
+  "summary": {
+    "ar": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي.",
+    "en": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "فالو | ميناء خور دبي | إعمار العقارية",
+      "subtitle": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي."
+    },
+    "en": {
+      "title": "فالو | ميناء خور دبي | إعمار العقارية",
+      "subtitle": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي."
+    }
+  },
+  "description": {
+    "ar": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي.",
+    "en": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_4.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_4-1.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/valo-at-dubai-creek-harbour",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "فالو | ميناء خور دبي | إعمار العقارية",
+    "description": "إذ يبرز \"فالو\" في منطقة خور دبي العصرية كصرح عصري لافت، يتناغم جماله بشكل رائع مع أجواء الواجهة البحرية الهادئة التي تتكامل مع نبض دبي الحيوي.",
+    "canonical": "https://properties.emaar.com/ar/properties/valo-at-dubai-creek-harbour/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_4.jpg",
+    "modified_time": "2024-08-21T09:02:25+00:00",
+    "fetchedAt": "2025-11-09T12:15:07.395Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/BROCHURE_IMG_300X210-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/FEATURES_1200X655_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/FEATURES_1200X655_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_EXT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_EXT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_EXT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_INT_1-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_INT_2-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_INT_3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_MAIN.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-35.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_VIDA_CH.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COVE_DCH_WEBSITE_B_ATTRACTIONS_ADDRESS_CREEK.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-34.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2024/04/FEATURES_1200X655_1-1.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2024/04/FEATURES_1200X655_2-1.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2024/04/VALO_DCH_BROCHURE.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-creek-harbour",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "projects": [],
+  "masterplan": {}
+}

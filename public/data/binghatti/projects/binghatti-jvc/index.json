@@ -1,0 +1,386 @@
+{
+  "projectID": "binghatti-jvc",
+  "slug": "binghatti-jvc",
+  "developer": "Binghatti",
+  "projectName": {
+    "ar": "بينغاطي قرية جميرا الدائرية",
+    "en": "Binghatti Jumeirah Village Circle"
+  },
+  "auto_translated": true,
+  "heroImage": "",
+  "description": {
+    "ar": "Jumeirah Village Circle هو مشروع عقاري راقي من تطوير binghatti في Jumeirah Village Circle، دبي. يتميز المشروع بتصاميم معمارية عصرية ومرافق فاخرة تلبي أعلى المعايير العالمية.\n\nيوفر المشروع وحدات سكنية متنوعة from 0 to 3 bedrooms، مع تشطيبات عالية الجودة وبنية تحتية حديثة. يستمتع السكان بأسلوب حياة متطور مع مرافق متكاملة وخدمات استثنائية.\n\nيمثل Jumeirah Village Circle فرصة استثمارية ممتازة في واحدة من أرقى أحياء دبي، مع أنظمة أمنية متقدمة وخدمات شاملة تلبي احتياجات العائلات والمستثمرين.",
+    "en": "Jumeirah Village Circle is a premium real estate development by binghatti in Jumeirah Village Circle, Dubai. Binghatti is one of Dubai's leading property developers known for innovative architectural designs.\n\nThe project offers from 0 to 3 bedrooms, combining contemporary design with world-class amenities. Residents enjoy a sophisticated lifestyle with state-of-the-art facilities, stunning architecture, and prime location advantages.\n\nPerfect for families and investors alike, Jumeirah Village Circle represents an exceptional opportunity to own property in one of Dubai's most desirable neighborhoods. The development features high-quality finishes, modern infrastructure, and comprehensive security systems."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقة",
+      "en": "Apartment"
+    },
+    {
+      "ar": "سكني",
+      "en": "Residential"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "priceRange": {
+    "min": 900000,
+    "max": 4100000,
+    "currency": "AED"
+  },
+  "status": "under-construction",
+  "deliveryDate": "Q1 2026",
+  "amenities": [
+    {
+      "ar": "حديقة مركزية",
+      "en": "Central Park"
+    },
+    {
+      "ar": "مراكز تسوق",
+      "en": "Shopping Centers"
+    },
+    {
+      "ar": "مدارس دولية",
+      "en": "International Schools"
+    },
+    {
+      "ar": "مراكز طبية",
+      "en": "Medical Centers"
+    },
+    {
+      "ar": "مطاعم ومقاهي",
+      "en": "Restaurants & Cafes"
+    },
+    {
+      "ar": "تصميم دائري فريد",
+      "en": "Unique Circular Design"
+    },
+    {
+      "ar": "حدائق مطولة",
+      "en": "Landscaped Gardens"
+    },
+    {
+      "ar": "منطقة لعب الأطفال",
+      "en": "Children's Play Area"
+    },
+    {
+      "ar": "مركز اللياقة",
+      "en": "Fitness Center"
+    },
+    {
+      "ar": "مسبح لا متناهي على السطح",
+      "en": "Rooftop Infinity Pool"
+    },
+    {
+      "ar": "صالة رياضية متكاملة",
+      "en": "Fully-Equipped Gym"
+    },
+    {
+      "ar": "سبا وساونا",
+      "en": "Spa & Sauna"
+    },
+    {
+      "ar": "كونسيرج 24/7",
+      "en": "24/7 Concierge Service"
+    },
+    {
+      "ar": "أمن متقدم على مدار الساعة",
+      "en": "Advanced 24/7 Security"
+    },
+    {
+      "ar": "ردهة فندقية فاخرة",
+      "en": "Luxury Hotel-Style Lobby"
+    },
+    {
+      "ar": "مركز أعمال",
+      "en": "Business Center"
+    },
+    {
+      "ar": "قاعات اجتماعات",
+      "en": "Meeting Rooms"
+    },
+    {
+      "ar": "واي فاي عالي السرعة",
+      "en": "High-Speed WiFi"
+    },
+    {
+      "ar": "مصاعد عالية السرعة",
+      "en": "High-Speed Elevators"
+    },
+    {
+      "ar": "مراكز تسوق قريبة",
+      "en": "Nearby Shopping Centers"
+    },
+    {
+      "ar": "محلات تجارية",
+      "en": "Retail Outlets"
+    },
+    {
+      "ar": "سوبر ماركت",
+      "en": "Supermarket"
+    },
+    {
+      "ar": "مدارس قريبة",
+      "en": "Nearby Schools"
+    },
+    {
+      "ar": "روضة أطفال",
+      "en": "Kindergarten"
+    },
+    {
+      "ar": "حضانة أطفال",
+      "en": "Nursery"
+    },
+    {
+      "ar": "منطقة ألعاب آمنة للأطفال",
+      "en": "Safe Kids Play Zone"
+    },
+    {
+      "ar": "نظام منزل ذكي",
+      "en": "Smart Home System"
+    },
+    {
+      "ar": "دخول بدون مفتاح",
+      "en": "Keyless Entry"
+    }
+  ],
+  "gallery": {
+    "images": [],
+    "videos": []
+  },
+  "floorPlans": [
+    {
+      "type": {
+        "ar": "Studio",
+        "en": "Studio"
+      },
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "areaSqft": 450,
+      "areaSqm": 42,
+      "image": "/images/projects/binghatti/jumeirah-village-circle-floorplan-0br.jpg",
+      "pdf": "/documents/projects/binghatti/jumeirah-village-circle-floorplan-0br.pdf"
+    },
+    {
+      "type": {
+        "ar": "1 Bedroom",
+        "en": "1 Bedroom"
+      },
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqft": 850,
+      "areaSqm": 79,
+      "image": "/images/projects/binghatti/jumeirah-village-circle-floorplan-1br.jpg",
+      "pdf": "/documents/projects/binghatti/jumeirah-village-circle-floorplan-1br.pdf"
+    },
+    {
+      "type": {
+        "ar": "2 Bedroom",
+        "en": "2 Bedroom"
+      },
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqft": 1200,
+      "areaSqm": 111,
+      "image": "/images/projects/binghatti/jumeirah-village-circle-floorplan-2br.jpg",
+      "pdf": "/documents/projects/binghatti/jumeirah-village-circle-floorplan-2br.pdf"
+    },
+    {
+      "type": {
+        "ar": "3 Bedroom",
+        "en": "3 Bedroom"
+      },
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "areaSqft": 1550,
+      "areaSqm": 144,
+      "image": "/images/projects/binghatti/jumeirah-village-circle-floorplan-3br.jpg",
+      "pdf": "/documents/projects/binghatti/jumeirah-village-circle-floorplan-3br.pdf"
+    }
+  ],
+  "features": {
+    "transportation": {
+      "ar": "قريب من مطار آل مكتوم وشارع الشيخ زايد",
+      "en": "Close to Al Maktoum Airport and Sheikh Zayed Road"
+    },
+    "investmentHighlights": [
+      {
+        "ar": "منطقة عائلية مثالية",
+        "en": "Ideal family area"
+      },
+      {
+        "ar": "عوائد إيجار متوقعة 8-10%",
+        "en": "Expected rental yields 8-10%"
+      },
+      {
+        "ar": "أسعار تنافسية للعائلات",
+        "en": "Competitive family prices"
+      }
+    ],
+    "nearbyAttractions": [
+      {
+        "ar": "حديقة الإمارات",
+        "en": "Emirates Park"
+      },
+      {
+        "ar": "مول الإمارات",
+        "en": "Emirates Mall"
+      },
+      {
+        "ar": "مضمار دبي للجولف",
+        "en": "Dubai Golf Course"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0",
+    "email": "info@binghatti.com",
+    "website": "https://www.binghatti.com"
+  },
+  "metadata": {
+    "totalProjects": 16,
+    "totalUnits": 180,
+    "lastUpdated": "2025-11-10T18:51:41.094Z",
+    "dataSource": "binghatti-communities"
+  },
+  "developments": [
+    {
+      "name": {
+        "ar": "بن غاطي سيركل",
+        "en": "Binghatti Circle"
+      },
+      "slug": "binghatti-circle",
+      "category": "Premium",
+      "totalUnits": 180,
+      "unitTypes": [
+        {
+          "type": {
+            "ar": "استوديو",
+            "en": "Studio"
+          },
+          "bedrooms": 0,
+          "size_range_sqft": "400-500",
+          "price_range_aed": "900,000 - 1,100,000",
+          "available_units": 30
+        },
+        {
+          "type": {
+            "ar": "غرفة نوم واحدة",
+            "en": "1 Bedroom"
+          },
+          "bedrooms": 1,
+          "size_range_sqft": "650-800",
+          "price_range_aed": "1,300,000 - 1,600,000",
+          "available_units": 60
+        },
+        {
+          "type": {
+            "ar": "غرفتي نوم",
+            "en": "2 Bedrooms"
+          },
+          "bedrooms": 2,
+          "size_range_sqft": "950-1,200",
+          "price_range_aed": "2,200,000 - 2,800,000",
+          "available_units": 60
+        },
+        {
+          "type": {
+            "ar": "ثلاث غرف نوم",
+            "en": "3 Bedrooms"
+          },
+          "bedrooms": 3,
+          "size_range_sqft": "1,400-1,800",
+          "price_range_aed": "3,200,000 - 4,100,000",
+          "available_units": 30
+        }
+      ],
+      "deliveryDate": "Q1 2026",
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "amenities": [
+        {
+          "ar": "تصميم دائري فريد",
+          "en": "Unique Circular Design"
+        },
+        {
+          "ar": "حدائق مطولة",
+          "en": "Landscaped Gardens"
+        },
+        {
+          "ar": "منطقة لعب الأطفال",
+          "en": "Children's Play Area"
+        },
+        {
+          "ar": "مركز اللياقة",
+          "en": "Fitness Center"
+        }
+      ]
+    }
+  ],
+  "price": {
+    "currency": "AED",
+    "priceRange": {
+      "min": 764841,
+      "max": 5063160
+    },
+    "sqftPrice": 1700
+  },
+  "paymentPlan": {
+    "downPayment": 30,
+    "duringConstruction": 40,
+    "onHandover": 30,
+    "monthlyFromAED": 7333,
+    "postHandoverYears": 3
+  },
+  "handoverDate": "Q2 2026",
+  "lastUpdated": "2025-11-11T06:40:32.152Z",
+  "featuredImage": "https://binghattiweb.imgix.net/binghatti-exterior-luxury.webp?auto=format,compress",
+  "galleryImages": [],
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "jumeirah-village-circle",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "community": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

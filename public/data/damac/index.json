@@ -1,0 +1,36 @@
+{
+  "provider": "damac",
+  "communities": [
+    "akoya-oxygen",
+    "aykon-city",
+    "bay-by-cavalli",
+    "damac-bay",
+    "damac-hills",
+    "damac-hills-2",
+    "damac-islands",
+    "damac-lagoons",
+    "damac-riverside",
+    "dubai-maritime-city",
+    "heights",
+    "islands",
+    "sun-city"
+  ],
+  "projects": [
+    "casa",
+    "district",
+    "majestine",
+    "residenze",
+    "riverside",
+    "riverside-views-marine-3",
+    "safa-two",
+    "seacrest",
+    "volta"
+  ],
+  "meta": {
+    "generatedAt": "2025-11-28T16:04:23Z",
+    "counts": {
+      "communities": 13,
+      "projects": 9
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "expo-golf-villas-phase-v",
+  "id": "3744",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "دبي الجنوب",
+    "en": "Dubai South"
+  },
+  "location": {
+    "ar": "دبي الجنوب",
+    "en": "Dubai South"
+  },
+  "latitude": 24.8967,
+  "longitude": 55.1619,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "فلل",
+  "projectName": {
+    "ar": "فلل إكسبو جولف – المرحلة 5",
+    "en": "Expo Golf Villas Phase V"
+  },
+  "summary": {
+    "ar": "تعرّف على فلل إكسبو جولف 5 من إعمار العقارية واستمتع بمعيشة فاخرة مطلة على الحدائق والمنحدرات الخضراء",
+    "en": "Discover Expo Golf Villas 5 by Emaar Properties and enjoy luxurious living overlooking green gardens and slopes"
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "فلل إكسبو جولف المرحلة 5",
+      "subtitle": "فلل 3 و 4 غرف نوم"
+    },
+    "en": {
+      "title": "Expo Golf Villas Phase 5",
+      "subtitle": "3 and 4 Bedroom Villas"
+    }
+  },
+  "description": {
+    "ar": "تعرّف على فلل إكسبو جولف 5 من إعمار العقارية واستمتع بمعيشة فاخرة مطلة على الحدائق والمنحدرات الخضراء. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "en": "Discover Expo Golf Villas 5 by Emaar Properties and enjoy luxurious living overlooking green gardens and slopes. Visit our website for more information."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فلل",
+      "en": "Villas"
+    }
+  ],
+  "bedrooms": [
+    "3",
+    "4"
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": "",
+  "launchDate": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "views": [
+    {
+      "ar": "مطلة على الحدائق والمنحدرات الخضراء",
+      "en": "Overlooking green gardens and slopes"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": "",
+  "brochurePdfLink": {
+    "ar": "",
+    "en": ""
+  },
+  "videoLink": "",
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_interior_Bedroom4BR.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EmaarSouth2_Final_0021.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/expo-golf-villas-phase-v",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "meta": {
+    "title": "فلل إكسبو جولف المرحلة 5 | فلل 3 و 4 غرف نوم | إعمار العقارية",
+    "description": "تعرّف على فلل إكسبو جولف 5 من إعمار العقارية واستمتع بمعيشة فاخرة مطلة على الحدائق والمنحدرات الخضراء. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "canonical": "https://properties.emaar.com/ar/properties/expo-golf-villas-phase-v/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T13:17:49.745Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EmaarSouth2_Final_0021.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_interior_Kitchen4BR_update.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_interior_Living4BR_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_Final_0002.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_Final_0004.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_interior_Bedroom4BR.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Arqsix_EmaarSouth2_Final_0003-square.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Parkside4_Final_cam5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Parkside4_Final_cam7.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_SOUTH_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EXPO_GOLF_VILLAS5_2000x1125.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-expo-golf-villas-phase-v-en.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": null,
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "projects": [],
+  "masterplan": {}
+}

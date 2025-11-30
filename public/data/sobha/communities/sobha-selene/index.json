@@ -1,0 +1,66 @@
+{
+  "communityID": "sobha-selene",
+  "developerID": "sobha",
+  "name": {
+    "ar": "شوبا سيلين",
+    "en": "Sobha Selene"
+  },
+  "description": {
+    "ar": "مشاريع فاخرة.",
+    "en": "Luxury projects."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "sobha-selene",
+      "name": {
+        "ar": "شوبا سيلين",
+        "en": "Sobha Selene"
+      }
+    }
+  ],
+  "developer": "sobha",
+  "lastUpdated": "2025-11-01T18:39:45.381645",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "masterplan": {}
+}

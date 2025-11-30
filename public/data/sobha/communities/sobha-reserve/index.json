@@ -1,0 +1,66 @@
+{
+  "communityID": "sobha-reserve",
+  "developerID": "sobha",
+  "name": {
+    "ar": "شوبا ريزيرف",
+    "en": "Sobha Reserve"
+  },
+  "description": {
+    "ar": "مجتمع فلل في وادي الصفا.",
+    "en": "A villa community in Wadi Al Safa."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "sobha-reserve",
+      "name": {
+        "ar": "شوبا ريزيرف",
+        "en": "Sobha Reserve"
+      }
+    }
+  ],
+  "developer": "sobha",
+  "lastUpdated": "2025-11-01T18:48:01.407576",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "masterplan": {}
+}

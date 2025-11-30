@@ -1,0 +1,1563 @@
+{
+  "area": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "latitude": 25.1972,
+  "longitude": 55.2744,
+  "zoom": 12,
+  "projects": [
+    {
+      "name": {
+        "ar": "أيكون سيتي البرج B",
+        "en": "Aykon City Tower B"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/6thLwXKrSicTFf6HyhNQvW/86e09b03c426f8f98d580a38b1c155b3/AYKON_CITY_-_TOWER_B-Homepage_Hero_16x9.jpg",
+      "averagePriceAED": 981000,
+      "bedrooms": [
+        0,
+        1,
+        2
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Studio"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.181371,
+      "longitude": 55.252577,
+      "description": {
+        "ar": "يتربع هذا البرج الاستثنائي على موقع متميز في شارع الشيخ زايد، ويتألق بإطلالات بانورامية على أفق مدينة دبي وقناة دبي المائية وجسر التسامح، لتبدع مشهداً متكاملاً لمنطقة البرج الراقية.",
+        "en": "This exceptional tower boasts a prime location on Sheikh Zayed Road, shining with panoramic views of the Dubai skyline, Dubai Water Canal, and the Tolerance Bridge, creating an integrated scene of the prestigious Burj area."
+      }
+    },
+    {
+      "name": {
+        "ar": "مساكن باي غروف",
+        "en": "Bay Grove Residences"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/bay-grove-residences9617b604-2d85-4253-aa5a-de2e2c356486.jpg?sfvrsn=e0931b5b_1",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Apartments",
+        "Duplexes",
+        "Penthouses"
+      ],
+      "projectStatus": {
+        "ar": "على الخارطة",
+        "en": "New Launches"
+      },
+      "latitude": 25.30534093437127,
+      "longitude": 55.31961018650657,
+      "description": {
+        "ar": "حيث يقربك منزلك إلى الحياة على حافة البحر. اكتشف المعيشة على شاطئ البحر في مساكن باي غروف، الواقعة ضمن العنوان المائي الأكثر طلبًا في جزر دبي.",
+        "en": "Where your home is the connection to the environment, to yourself, in harmony. Bay Grove invites you to explore its vibrant residential ecosystem."
+      }
+    },
+    {
+      "name": {
+        "ar": "فلل باي، جزر دبي",
+        "en": "Bay Villas, Dubai Islands"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/desktop-02-100.jpg?sfvrsn=f97bb765_3",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "على المخطط",
+        "en": "New Launch"
+      },
+      "latitude": 25.312867,
+      "longitude": 55.327168,
+      "description": {
+        "ar": "اكتشف فلل باي في جزر دبي. اختر من بين 5 تصاميم فلل فاخرة مع حدائق خاصة ووسائل راحة عالمية المستوى.",
+        "en": "Bay Villas is the first step in sophisticated, connected living on Island B, combining natural beauty and prestigious amenities to create exceptional luxury in the heart of Dubai Islands."
+      }
+    },
+    {
+      "name": {
+        "ar": "فلل بيل إير في ذا ترامب إستايتس II",
+        "en": "Belair Villas The Trump Estates II"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/VuxuiXv1Sgl4bFZ3tFXC5/65068b5e2d28973083fd4538384b2a2d/Gallery_Collaborations_Trump_1.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+      "averagePriceAED": 1870000,
+      "bedrooms": [
+        "3-10 bedrooms"
+      ],
+      "propertyTypes": [
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.02081553,
+      "longitude": 55.25032269,
+      "description": {
+        "ar": "بيلير في ذا ترمب استايتس – المرحلة الثانية. استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات.",
+        "en": "Belair at The Trump Estates – Phase II. Invest in real estate with digital currencies and get a residency visa in the UAE."
+      }
+    },
+    {
+      "name": {
+        "ar": "قناة فرونت ريزيدنسز",
+        "en": "Canal Front Residences"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/spotlight/cf7-and-cf83.jpg?sfvrsn=4ad7828b_3",
+      "bedrooms": [
+        "1, 2, and 3 bedrooms"
+      ],
+      "propertyTypes": [
+        "apartment"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.1870517,
+      "longitude": 55.2452192,
+      "description": {
+        "ar": "استمتع بالمناظر الخلابة وتناول الطعام النابض بالحياة في قناة فرونت ريزيدنسز، منزلك المثالي على قناة دبي المائية مع أفضل المرافق الترفيهية.",
+        "en": "Located at Dubai Water Canal, just minutes from the sea, your apartment at Canal Front Residences will be finished to the highest standards."
+      }
+    },
+    {
+      "name": {
+        "ar": "كانال هايتس دي جريسوغونو",
+        "en": "Canal Heights de GRISOGONO"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3VkbkR33jbCjnhKneNXn7F/872cad678abcd72d6ab8f0232d980fe0/Homepage_Hero_16x9-1__13__1.webp",
+      "averagePriceAED": 3538000,
+      "bedrooms": [
+        2,
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.183729,
+      "longitude": 55.278555,
+      "description": {
+        "ar": "اكتشف وجهة تختبر فيها رفاهية العيش على الواجهة البحرية، صممت بإبداع علامة دي جريسوغونو العالمية وبإلهام من اللؤلؤ الأزرق.",
+        "en": "Discover a destination where you can experience the luxury of waterfront living, creatively designed by the global brand de GRISOGONO and inspired by the blue pearl."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسكن كانالسايد مارينا",
+        "en": "Canalside Marina Residences"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/2025-07/Desk%20banner%201440x618.jpg",
+      "averagePriceAED": 1340000,
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "خارج المخطط",
+        "en": "Off-Plan"
+      },
+      "latitude": 25.61472,
+      "longitude": 55.63444,
+      "description": {
+        "ar": "اكتشف مساكن كانالسايد مارينا في جزيرة شوبا سينيا، شقق فاخرة على الواجهة البحرية بغرفة نوم واحدة إلى ثلاث غرف نوم مع شواطئ هادئة ومرافق والمزيد.",
+        "en": "Embrace a lifestyle shaped by the flow of water and the charm of marina-front living. Discover Canalside Marina Residences at Sobha Siniya Island, luxury waterfront 1-3 bedroom apartments with serene beaches, amenities, and much more."
+      }
+    },
+    {
+      "name": {
+        "ar": "فلل كافالي إستيتس",
+        "en": "Cavalli Estates Villas"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/7yii6OkhdLpQpvS3ggSlVB/22cd2decdbe7d419530845778395ca48/3BR_05_-_DAMAC_Bay_2.jpg",
+      "averagePriceAED": 19000000,
+      "bedrooms": [
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.0479,
+      "longitude": 55.2343,
+      "description": {
+        "ar": "كافالي إستيتس تقدم فلل فاخرة للغاية في داماك هيلز، دبي. استثمر في هذه العقارات قيد الإنشاء بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات.",
+        "en": "Cavalli Estates offers ultra-luxury villas in DAMAC Hills, Dubai. Invest in these off-plan properties with cryptocurrency and secure a UAE residency visa."
+      }
+    },
+    {
+      "name": {
+        "ar": "تشيلسي ريزيدنسز",
+        "en": "Chelsea Residences"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3ACFCoKPvL8GqiFqFx2OpS/d552a0e2d40ed28eb708aef5c36a5add/Chelsea_Residences-Homepage_Hero_16x9.jpg",
+      "averagePriceAED": 2796000,
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.27971358,
+      "longitude": 55.25970954,
+      "description": {
+        "ar": "عبر شراكة عالمية مع نادي تشيلسي لكرة القدم، تقدم لك داماك أول مشروع سكني يحمل توقيع علامة من عالم كرة القدم في دبي.",
+        "en": "Through a global partnership with Chelsea Football Club, DAMAC presents the first residential project bearing the signature of a football brand in Dubai."
+      }
+    },
+    {
+      "name": {
+        "ar": "كلوب فيستا ماري",
+        "en": "Club Vista Mare"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4802.jpg?sfvrsn=7e6ca66f_3",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Penthouse"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.1145972,
+      "longitude": 55.1421662,
+      "description": {
+        "ar": "استمتع بتجربة كلوب فيستا ماري من نخيل - حياة راقية على الواجهة البحرية في نخلة جميرا مع وجهات طعام راقية وإطلالات خلابة.",
+        "en": "One of Palm Jumeirah’s most popular destinations for both residents and tourists, Club Vista Mare spans almost 50,000 square feet at ground level, with an additional 30,000 square feet of residential space on the first floor."
+      }
+    },
+    {
+      "name": {
+        "ar": "كومو ريزيدنسز",
+        "en": "Como Residences"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/como-residencesba2d50b8-c2c1-4897-9ca6-c26cdba91c08.jpg?sfvrsn=fdbc2dc2_1",
+      "averagePriceAED": 16000000,
+      "bedrooms": [
+        "2-7"
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "إطلاق جديد",
+        "en": "New Launch"
+      },
+      "latitude": 25.11088232908901,
+      "longitude": 55.14584995291465,
+      "description": {
+        "ar": "كومو ريزيدنسز هو مشروع سكني حصري جديد من المقرر أن يعيد تعريف أفق نخلة جميرا. يضم 76 طابقًا يحتوي على 76 مسكنًا فقط، ويبلغ ارتفاعه أكثر من 300 متر.",
+        "en": "Como Residences is a new exclusive residential development set to redefine the skyline of Palm Jumeirah. It boasts 76 storeys of just 76 residences, standing at over 300 metres tall."
+      }
+    },
+    {
+      "name": {
+        "ar": "كوتور بتوقيع كافالي",
+        "en": "Couture by Cavalli"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/4ktEnjPvHFLUK8p3D27FTa/32f635f7474b15c0baa945a8a08dbf63/Couture_by_Cavalli-Homepage_Hero_16x9-1_1.webp",
+      "averagePriceAED": 2190400,
+      "bedrooms": [
+        3,
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.188877,
+      "longitude": 55.243229,
+      "description": {
+        "ar": "تعرف على مجموعة استثنائية من المنازل الفاخرة التي تتناغم فيها التفاصيل العصرية مع روح الطبيعة في مشروع صمم لمن يعشق أسلوب الحياة الفاخر.",
+        "en": "Discover an exceptional collection of luxurious homes where modern details harmonize with the spirit of nature in a project designed for those who love a luxurious lifestyle."
+      }
+    },
+    {
+      "name": {
+        "ar": "كريك فيستاس",
+        "en": "Creek Vistas"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas.jpg.webp?itok=ZIJDT_Bd",
+      "averagePriceAED": 1930000,
+      "bedrooms": [
+        1,
+        2
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Off-plan"
+      },
+      "latitude": 25.1706,
+      "longitude": 55.2902,
+      "description": {
+        "ar": "تصميم بسيط مستوحى من متحف اللوفر ومتحف الفن الحديث. الحرفية الاستثنائية والتصميمات الداخلية الأنيقة هي خلاصة الحياة الفاخرة.",
+        "en": "Minimalist design inspired by the Louvre and the Museum of Modern Art. Phenomenal craftsmanship and sleek interiors are the epitome of luxurious living."
+      }
+    },
+    {
+      "name": {
+        "ar": "كريك فيستاس جراندي",
+        "en": "Creek Vistas Grande"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas%20grande.jpg.webp?itok=W-vReXEn",
+      "averagePriceAED": 2800000,
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "خارج الخطة",
+        "en": "Off Plan"
+      },
+      "latitude": 25.1683,
+      "longitude": 55.289,
+      "description": {
+        "ar": "كريك فيستاس جراندي هو بوابة مثالية لعالم سوبها هارتلاند المتكامل، ويجسد تمامًا ما يمثله المجتمع من أناقة وتصميم ورفاهية وراحة.",
+        "en": "Creek Vistas Grande is a perfect gateway to the self-contained world of Sobha Hartland and perfectly encapsulates what the community represents in terms of elegance, design, luxury, convenience."
+      }
+    },
+    {
+      "name": {
+        "ar": "مرتفعات فيستا كريك",
+        "en": "Creek Vistas Heights"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/1440x618-5-Creek%20Vista%20Heights.jpg.webp?itok=MIAiE365",
+      "averagePriceAED": 1620000,
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "",
+        "en": ""
+      },
+      "latitude": 25.1762244,
+      "longitude": 55.3116129,
+      "description": {
+        "ar": "بالارتقاء إلى ارتفاعات جديدة، تُعد \"كريك فيستاس هايتس\" تحفة معمارية ببرجين توأمين مصممين لضمان إطلالات بانورامية غير منقطعة بزاوية 360 درجة على برج خليفة ووسط مدينة دبي.",
+        "en": "Reaching onto newer altitudes, Creek Vistas Heights is a structural splendour with twin towers designed to ensure uninterrupted 360° views of Burj Khalifa and Downtown Dubai."
+      }
+    },
+    {
+      "name": {
+        "ar": "كريست غراند",
+        "en": "Crest Grande"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
+      "averagePriceAED": 4140000,
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء (مكتمل بنسبة 84.17% اعتبارًا من 7 مايو 2025)",
+        "en": "Under Construction (84.17% Completed as of May 7, 2025)"
+      },
+      "latitude": 25.177121,
+      "longitude": 55.30743,
+      "description": {
+        "ar": "استمتع بنمط حياة مستوحى من ميامي وسط صخب المدينة. يقدم مشروع كريست غراند من سوبها إطلالات خلابة على أفق دبي وبرج خليفة.",
+        "en": "Live a Miami-inspired lifestyle with waterfront apartments at Sobha’s Crest Grande apartments. Enjoy a Miami-inspired way of life amidst the hustle and bustle of the city."
+      }
+    },
+    {
+      "name": {
+        "ar": "داماك باي بتوقيع كافالي",
+        "en": "DAMAC Bay by Cavalli"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3BMc15bYR5mXPWDIG1cVX6/346ab79ae5713c75fac7b774383cfa9a/Damac_Bay-Homepage_Hero_16x9_1.webp",
+      "averagePriceAED": 3882000,
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Penthouse"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.092668,
+      "longitude": 55.143734,
+      "description": {
+        "ar": "اكتشف إبداعاً معمارياً يتألق بحضوره في 42 طابقاً، وتتكامل فيه الرفاهية مع إيقاع البحر وسحره.",
+        "en": "Discover an architectural masterpiece spanning 42 floors, where luxury integrates with the rhythm and charm of the sea."
+      }
+    },
+    {
+      "name": {
+        "ar": "داماك ماجستين",
+        "en": "DAMAC Majestine"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/1RKuF30Gz8uRLsdRODSNep/a156932dff705e6a6094a00dd0390db9/DAMAC_Majestine-Homepage_Hero_16x9.jpg",
+      "averagePriceAED": 909000,
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Studio"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.186472,
+      "longitude": 55.282063,
+      "description": {
+        "ar": "عِش أسلوب حياة عصري في داماك ماجستين، المشروع الذي تلتقي فيه الرفاهية بوسائل الراحة.",
+        "en": "Live a modern lifestyle at DAMAC Majestine, where luxury meets convenience."
+      }
+    },
+    {
+      "name": {
+        "ar": "داماك ريزيدنزيه",
+        "en": "DAMAC Residenze"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5MBvocOWsMkp8rQtswSOG2/487cbe2a42abdfd7d6bd42923c7ee5d8/DAMAC_Residenze-Homepage_Hero_9x16.jpg",
+      "averagePriceAED": 4738800,
+      "bedrooms": [
+        3
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Penthouse"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.08726,
+      "longitude": 55.145625,
+      "description": {
+        "ar": "داماك ريزيدنزيه هو مجموعة حصرية من الوحدات الفاخرة التي تتألق في الطوابق العلوية من مشروع داماك هايتس، الممتد على ارتفاع 84 طابقاً.",
+        "en": "DAMAC Residenze is an exclusive collection of luxury units shining on the upper floors of the 84-story DAMAC Heights project."
+      }
+    },
+    {
+      "name": {
+        "ar": "داماك ريفرسايد",
+        "en": "DAMAC Riverside"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/9KdIztI3bv5N3ndJeRxvy/d6295383558a89716f2c671edffe8d5b/703270586-653x685-en.jpg",
+      "averagePriceAED": 2499,
+      "bedrooms": [
+        1,
+        2
+      ],
+      "propertyTypes": [
+        "Villa",
+        "Apartment",
+        "Townhouse"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Off-plan"
+      },
+      "latitude": 24.9395,
+      "longitude": 55.4206,
+      "description": {
+        "ar": "داماك ريفرسايد هو مجتمع رئيسي طموح في دبي، مصمم لتقديم مزيج فريد من الحياة الفاخرة والهدوء الطبيعي.",
+        "en": "DAMAC Riverside is an ambitious master community in Dubai, designed to offer a unique blend of luxury living and natural serenity."
+      }
+    },
+    {
+      "name": {
+        "ar": "داماك فولتا تاور",
+        "en": "DAMAC Volta Tower"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/l6zTWR8jVhGFIhJly9uC6/eef02e624943e0c924906635aeed73fc/Volta-Homepage_Hero_16x9.jpg",
+      "averagePriceAED": 2496000,
+      "bedrooms": [
+        1,
+        2,
+        4
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.197507,
+      "longitude": 55.26698,
+      "description": {
+        "ar": "فولتا هو برج استثنائي يتربع على موقع متميز في شارع الشيخ زايد، وصمم لكل من يتبع أسلوب حياة حيوي ويرغب بأن يستمتع بلحظات أيامه الهادئة في الوقت ذاته.",
+        "en": "Volta is an exceptional tower located on a prime spot on Sheikh Zayed Road, designed for those who lead a dynamic lifestyle and wish to enjoy peaceful moments at the same time."
+      }
+    },
+    {
+      "name": {
+        "ar": "حدائق ديسكفري",
+        "en": "Discovery Gardens"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+      "bedrooms": [
+        0,
+        1,
+        2
+      ],
+      "propertyTypes": [
+        "Apartments",
+        "Studios"
+      ],
+      "projectStatus": {
+        "ar": "مكتمل",
+        "en": "Ready"
+      },
+      "latitude": 25.04134964773267,
+      "longitude": 55.14394791405374,
+      "description": {
+        "ar": "تجربة العيش الأخضر في حدائق ديسكفري، مجتمع مستوحى من الحدائق مع استوديوهات وشقق واسعة محاطة بساحات خضراء ذات طابع خاص.",
+        "en": "Experience green living at Discovery Gardens, a garden-inspired community with spacious studios and apartments surrounded by lush, themed courtyards."
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة ون",
+        "en": "District One"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/district-one8eda6661-df53-47ca-b970-9c2a1076b34f.jpg?sfvrsn=456d1639_1",
+      "bedrooms": [
+        "تتوفر خيارات متنوعة لوحدات سكنية تتراوح من غرفة نوم واحدة إلى 8 غرف نوم. تتضمن الشقق غرف نوم واحدة وغرفتين وثلاث غرف نوم، والفيلات من 4 و5 و6 غرف نوم، والقصور من 7 و8 غرف نوم. كما يقدم مشروع 'ديستريكت ون ويست' فيلات وقصور من 4 إلى 7 غرف نوم، و'لاجون فيوز' شقق وبنتهاوس وفيلات من غرفة نوم واحدة إلى 4 غرف نوم."
+      ],
+      "propertyTypes": [
+        "Villas",
+        "Mansions",
+        "Waterfront Residences",
+        "Plots"
+      ],
+      "projectStatus": {
+        "ar": "مجتمع راسخ",
+        "en": "قيد التطوير"
+      },
+      "latitude": 25.03465565999243,
+      "longitude": 55.17415430146091,
+      "description": {
+        "ar": "تقدم منطقة ون مزيجاً فريداً من خيارات المعيشة لأولئك الذين يقدرون التفرد والفخامة.",
+        "en": "District One offers a unique blend of living options for those who appreciate exclusivity and luxury."
+      }
+    },
+    {
+      "name": {
+        "ar": "إيلو 2 داماك هيلز 2",
+        "en": "ELO 2 DAMAC Hills 2"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/1JaYgqMZQP4uqYslyJ0osF/9b91cc1e66174dee5618f2e5f7f57522/653x685-AR__24_.jpg",
+      "averagePriceAED": 547000,
+      "bedrooms": [
+        "1, 2"
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Off-plan"
+      },
+      "latitude": 24.991407,
+      "longitude": 55.384879,
+      "description": {
+        "ar": "إيلو 2 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات.",
+        "en": "ELO 2 offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE."
+      }
+    },
+    {
+      "name": {
+        "ar": "شقق إيلو 3 داماك هيلز 2 للبيع في دبي",
+        "en": "ELO 3 Apartments DAMAC Hills 2 for Sale in Dubai"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/05cwlAz28n5EGdTz2YUlq/37d5f6f80f6c8ec51ce0c1f7cf17916d/653x685-AR__6_.jpg",
+      "averagePriceAED": 580000,
+      "bedrooms": [
+        "1 Bedroom",
+        "2 Bedrooms"
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Off-plan"
+      },
+      "latitude": 24.98758,
+      "longitude": 55.38479,
+      "description": {
+        "ar": "إيلو 3 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات.",
+        "en": "ELO 3 offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE."
+      }
+    },
+    {
+      "name": {
+        "ar": "إيفرغرينز",
+        "en": "Evergreens"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2NFLwkvZi9w04y7Uc13ud7/3d55b8084862312f08b4095926759f8e/44_Evergreens_-_AR.jpg",
+      "averagePriceAED": 550000,
+      "bedrooms": [
+        "1 and 2-bedroom apartments"
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Off-plan"
+      },
+      "latitude": 24.991407,
+      "longitude": 55.384879,
+      "description": {
+        "ar": "إيفرغرينز استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات.",
+        "en": "Evergreens offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE."
+      }
+    },
+    {
+      "name": {
+        "ar": "الميل الذهبي",
+        "en": "Golden Mile"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/golden-mile-3.jpg?sfvrsn=ad2be01f_1",
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.10696549600694,
+      "longitude": 55.147520952794395,
+      "description": {
+        "ar": "الميل الذهبي هو مجمع سكني يقع على الجذع الغربي لنخلة جميرا. المباني المترابطة المكونة من 11 طابقًا تتضمن مساحات تجارية ومكاتب تملك حر مع مساحة واسعة لوقوف السيارات.",
+        "en": "Features 1,2 and 3- bedroom apartments as well as a 3-bedroom penthouse. Facilities include a swimming pool, gymnasium and basement parking. Golden Mile is a residential complex set on the western trunk of Palm Jumeirah."
+      }
+    },
+    {
+      "name": {
+        "ar": "هاربر لايتس دي جريسوغونو",
+        "en": "Harbour Lights de GRISOGONO"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3IXi7C38MtNvDXuXskoxWo/91dac189a096174bc33c13b82e25aa95/Harbour_Lights-Homepage_Hero_16x9-1.jpg",
+      "averagePriceAED": 6666000,
+      "bedrooms": [
+        2
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "قيد الإنشاء"
+      },
+      "latitude": 25.272058,
+      "longitude": 55.268394,
+      "description": {
+        "ar": "أهلاً بك في هاربر لايتس، المشروع الذي يمنحك آفاقاً جديدة لجمال الحياة، والذي تعيش فيه أروع ما يقدمه لك البحر ونسائمه في 52 طابقاً سكنياً مع مجموعة فاخرة من الشقق السكنية.",
+        "en": "Welcome to Harbour Lights, a project that opens new horizons to the beauty of life, where you experience the best the sea and its breezes have to offer across 52 residential floors with a luxurious collection of apartments."
+      }
+    },
+    {
+      "name": {
+        "ar": "قرية جبل علي",
+        "en": "Jebel Ali Village"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/jebel-ali-village_banner.jpg?sfvrsn=160f8d5a_1",
+      "averagePriceAED": 2350000,
+      "bedrooms": [
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Villa",
+        "Townhouse"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.0364079,
+      "longitude": 55.1321073,
+      "description": {
+        "ar": "استمتع بالعيش الفاخر وسط المناظر الطبيعية الخضراء المورقة في قرية جبل علي من نخيل، منازل تاون هاوس جديدة للبيع مع مجموعة من المرافق.",
+        "en": "Experience luxury living amidst lush green landscapes at Jebel Ali Village by Nakheel, brand new townhouses for sale with a host of amenities."
+      }
+    },
+    {
+      "name": {
+        "ar": "جميرا هايتس",
+        "en": "Jumeirah Heights"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480be30ee655-ba50-4e90-b365-522756cfc0c4.jpg?sfvrsn=4cee6d20_3",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "مكتمل",
+        "en": "Ready"
+      },
+      "latitude": 25.065570501945555,
+      "longitude": 55.14493291103744,
+      "description": {
+        "ar": "استكشف جميرا هايتس من نخيل، حيث تقدم منازل عصرية مع إطلالات خلابة على البحيرة.",
+        "en": "Explore Nakheel's Jumeirah Heights, offering contemporary homes with breathtaking lake views."
+      }
+    },
+    {
+      "name": {
+        "ar": "جزر الجميرا",
+        "en": "Jumeirah Islands"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://nakheel-aut.sitefinity.cloud/images/nakheelcorporatelibraries/general/nakheel-view.jpg",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Villa",
+        "Townhouse",
+        "Apartment",
+        "Plot",
+        "Not Disclosed",
+        "Other",
+        "Business Center",
+        "Holiday Home",
+        "Kiosk",
+        "Office",
+        "Outdoor Area",
+        "Retail",
+        "School",
+        "Warehouse",
+        "Pent House"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.056950071417084,
+      "longitude": 55.15565910428631,
+      "description": {
+        "ar": "جزر الجميرا هي مجموعة فاخرة من 46 جزيرة تضم بحيرات خلابة. إنها مجتمع سكني مسور حصري ومتكامل يقع في موقع متميز في دبي.",
+        "en": "Jumeirah Islands is a luxury collection of 46 islands with scenic lakes. It is an exclusive, integrated residential gated community in a prime location in Dubai."
+      }
+    },
+    {
+      "name": {
+        "ar": "جميرا بارك",
+        "en": "Jumeirah Park"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-parkb8c4695e-8c71-48e4-8a76-fb61de41d17c.jpg?sfvrsn=345bdbda_1",
+      "bedrooms": [
+        3,
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.048824324734937,
+      "longitude": 55.15580867330667,
+      "description": {
+        "ar": "تعتبر جميرا بارك واحدة من أكثر المناطق السكنية المرغوبة في دبي، وتضم أكثر من 3000 فيلا فاخرة تقع بين الحدائق والمساحات الخضراء الشاسعة على مساحة 380 هكتارًا.",
+        "en": "One of Dubai’s most desirable residential districts, Jumeirah Park features over 3,000 luxury villas nestled among lush parks and green spaces across 380 hectares."
+      }
+    },
+    {
+      "name": {
+        "ar": "جميرا فيلج سيركل",
+        "en": "Jumeirah Village Circle"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-circle22eb321d-d2a2-4f25-af04-c78c854dede0.jpg?sfvrsn=5f5f8a4c_1",
+      "averagePriceAED": 280000,
+      "bedrooms": [
+        4
+      ],
+      "propertyTypes": [
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.062574679665367,
+      "longitude": 55.209365366467374,
+      "description": {
+        "ar": "جميرا فيلج سيركل هو مجتمع مترامي الأطراف يمتد على مساحة 560 هكتارًا، ويضم أكثر من 700 فيلا، منها 90 فيلا بأربع غرف نوم تم تسليمها في عام 2015.",
+        "en": "Spanning 560 hectares, Jumeirah Village Circle features over 700 villas, including 90 four-bedroom villas delivered in 2015, constructed in a circular pattern."
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jumeirah Village Triangle"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangledccfdd96-7433-4a38-870f-085f79169a6b.jpg?sfvrsn=4dfb86a7_1",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Villa",
+        "Townhouse",
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "",
+        "en": "Ready"
+      },
+      "latitude": 25.048909862385525,
+      "longitude": 55.189861975889364,
+      "description": {
+        "ar": "",
+        "en": "Serene Community with Spacious HomesJumeirah Village Triangle is a residential community situated between Sheikh Mohammed Bin Zayed Road and Al Khail Road in Dubai, with spacious villas and townhouses built in traditional Arabian and Mediterranean styles."
+      }
+    },
+    {
+      "name": {
+        "ar": "كيارا في داماك هيلز",
+        "en": "Kiara at DAMAC Hills"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5NKzeIGVvXpl9CkJbZ1hfk/1cf2195f3ac046aa2cdbbd07af0a9d66/kiara-at-damac-hills-hero-image-mobile.jpg",
+      "averagePriceAED": 540000,
+      "bedrooms": [
+        "Studio",
+        "1 Bedroom",
+        "2 Bedrooms",
+        "3 Bedrooms"
+      ],
+      "propertyTypes": [
+        "Apartments",
+        "Studios"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.019696,
+      "longitude": 55.24528,
+      "description": {
+        "ar": "كيارا في داماك هيلز. استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات.",
+        "en": "Kiara at DAMAC Hills. Invest in real estate with cryptocurrencies and get a residency visa in the UAE."
+      }
+    },
+    {
+      "name": {
+        "ar": "مارينا ريزيدنسز",
+        "en": "Marina Residences"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+      "bedrooms": [
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Penthouse"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.115037318459915,
+      "longitude": 55.13614978650672,
+      "description": {
+        "ar": "استمتع بتجربة مارينا ريزيدنسز من نخيل - حياة رائعة على الواجهة البحرية في نخلة جميرا مع شقق بغرفتي نوم وثلاث غرف نوم بالإضافة إلى بنتهاوس فاخرة.",
+        "en": "Experience Nakheel's Marina Residences - Spectacular waterside living on Palm Jumeirah with two and three-bedroom apartments and luxurious penthouses."
+      }
+    },
+    {
+      "name": {
+        "ar": "مساكن الفرجان",
+        "en": "Masakin Al Furjan"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480b.jpg?sfvrsn=ef94a18f_3",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Villa",
+        "Townhouse",
+        "Apartment",
+        "Plot",
+        "Not Disclosed",
+        "Other",
+        "Business Center",
+        "Holiday Home",
+        "Kiosk",
+        "Office",
+        "Outdoor Area",
+        "Retail",
+        "School",
+        "Warehouse",
+        "Pent House"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.030264421662057,
+      "longitude": 55.14891664232886,
+      "description": {
+        "ar": "اكتشف مساكن الفرجان من نخيل - استمتع بحياة مجتمعية مبهجة في أحد أسعد مجتمعات دبي مع المساحات الخضراء والمرافق.",
+        "en": "Discover Nakheel's Masakin Al Furjan - Experience joyful community living in one of Dubai's happiest communities with green spaces and amenities."
+      }
+    },
+    {
+      "name": {
+        "ar": "كانال فرونت ريزيدنسز",
+        "en": "Meydan"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/meydan-real-estate.jpg?sfvrsn=3c8c5ce8_1",
+      "averagePriceAED": 1377800,
+      "bedrooms": [],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "تم التسليم",
+        "en": "Handed over"
+      },
+      "latitude": 25.18957,
+      "longitude": 55.245248,
+      "description": {
+        "ar": "تقع شقق كانال فرونت ريزيدنسز على قناة دبي المائية، على بعد دقائق فقط من البحر، وسيتم تشطيبها بأعلى المعايير.",
+        "en": "Conceived by His Highness Sheikh Mohammed Bin Rashid Al Maktoum, UAE Vice President, Prime Minister, and Ruler of Dubai, Meydan has evolved beyond a world-class horseracing venue into an integrated city in the heart of Dubai."
+      }
+    },
+    {
+      "name": {
+        "ar": "مروج الفرجان",
+        "en": "Murooj Al Furjan"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0703.jpg?sfvrsn=e331a654_1",
+      "bedrooms": [
+        "متوفرة بـ 3، 4، و 5 غرف نوم (فلل ومنازل تاون هاوس)."
+      ],
+      "propertyTypes": [
+        "Villas"
+      ],
+      "projectStatus": {
+        "ar": "تم التسليم",
+        "en": "Delivered"
+      },
+      "latitude": 25.028309582211477,
+      "longitude": 55.14374939237027,
+      "description": {
+        "ar": "استكشف مروج الفرجان من نخيل - واحة خضراء من الفلل الحديثة بتصاميم واسعة وحدائق مجتمعية ومعيشة هادئة.",
+        "en": "When complete, Murooj Al Furjan will feature parks, private gardens and pedestrian friendly walkways, while also maximising indoor space with generous terraces and balconies."
+      }
+    },
+    {
+      "name": {
+        "ar": "فلل ند الشبا",
+        "en": "Nad Al Sheba Villas"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasfa559c82-ad5e-4714-aa39-74299b18ea2f.jpg?sfvrsn=437026d_1",
+      "averagePriceAED": 265000,
+      "bedrooms": [
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Villas"
+      ],
+      "projectStatus": {
+        "ar": "جاهز للتأجير",
+        "en": "Ready"
+      },
+      "latitude": 25.15993449709849,
+      "longitude": 55.377970933431804,
+      "description": {
+        "ar": "فلل ند الشبا هو مجتمع مسور يضم فيلات فاخرة جديدة بأربع وخمس غرف نوم على الطرازين المتوسطي والمغربي، محاطة بمساحات خضراء خارجية.",
+        "en": "Nad Al Sheba Villas is a gated community with luxurious new four and five bedroom Mediterranean and Moroccan style villas surrounded by green outdoor spaces."
+      }
+    },
+    {
+      "name": {
+        "ar": "أبراج بالم بيتش",
+        "en": "Palm Beach Towers"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/palm-beach-towers_banner.jpg?sfvrsn=5fae2987_1",
+      "bedrooms": [
+        "استوديو، 1, 2, 3 و 4 غرف نوم (شقق وبنتهاوس)"
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.11301848650939,
+      "longitude": 55.13827556710548,
+      "description": {
+        "ar": "اكتشف الحياة الاستثنائية في أبراج بالم بيتش في نخلة جميرا. احتضن أسلوب حياة نابضًا بالحياة مع موقع لا مثيل له ووسائل راحة ملهمة.",
+        "en": "Discover exceptional living at Palm Beach Towers on Palm Jumeirah. Embrace a vibrant lifestyle with unrivaled location and inspiring amenities."
+      }
+    },
+    {
+      "name": {
+        "ar": "نخلة جبل علي",
+        "en": "Palm Jebel Ali"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/pja-1920x1080-01.png?sfvrsn=70661267_1",
+      "averagePriceAED": 18000000,
+      "bedrooms": [
+        "5, 6, 7"
+      ],
+      "propertyTypes": [
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "إطلاق جديد",
+        "en": "Under Development/Construction"
+      },
+      "latitude": 25.009806,
+      "longitude": 54.988667,
+      "description": {
+        "ar": "ستتميز فيلات نخلة جبل علي بنوافذ ممتدة من الأرض حتى السقف، مما يتيح للسكان الاستمتاع بإطلالة بانورامية على الشواطئ، بالإضافة إلى لوحة ألوان ناعمة ومحايدة وتشطيبات فاخرة.",
+        "en": "The Future Is Palm Jebel Ali. Palm Jebel Ali villas will feature floor to ceiling windows, enabling residents to embrace a panoramic view of the beaches, as well as a soft and neutral palette and luxury finishes."
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Palm Jumeirah"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah4629cdc3-258c-48cc-b860-2c9f1c74cf6a.jpg?sfvrsn=968fc423_1",
+      "averagePriceAED": 700000,
+      "bedrooms": [
+        "Studio to 10 Bedrooms"
+      ],
+      "propertyTypes": [
+        "Apartments",
+        "Villas",
+        "Penthouses",
+        "Residential",
+        "Hotel"
+      ],
+      "projectStatus": {
+        "ar": "",
+        "en": "Ready"
+      },
+      "latitude": 25.116605681099326,
+      "longitude": 55.13517310604294,
+      "description": {
+        "ar": "",
+        "en": "Master developed by Nakheel, Palm Jumeirah is a symbol of Dubai’s vibrant growth and ambition. Stretching five kilometres into the Arabian Gulf, Palm Jumeirah takes on the shape of the date palm tree."
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Palma Residences"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/palma-residences-1240x480bb21c557f-816c-4203-ae2b-04b625621f5b.jpg?sfvrsn=80fb7fce_3",
+      "bedrooms": [
+        "4-bedroom and 5-bedroom units"
+      ],
+      "propertyTypes": [
+        "Townhouse",
+        "Villa"
+      ],
+      "projectStatus": {
+        "ar": "",
+        "en": "جاهز"
+      },
+      "latitude": 25.113321199565092,
+      "longitude": 55.147283898196314,
+      "description": {
+        "ar": "",
+        "en": "Experience beachfront living in Dubai at Nakheel's Palma Residences. Contemporary villas with stunning views of the Arabian Gulf and Dubai skyline."
+      }
+    },
+    {
+      "name": {
+        "ar": "صفا ون دي جريسوغونو",
+        "en": "Safa One de GRISOGONO"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2USlFD8x74dSu9re1GcmW4/65c466e6ad9e54bc810b66ce4fe85cb6/Safa_One_de_GRISOGONO-Homepage_Hero_16x9-1.jpg",
+      "averagePriceAED": 4319000,
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Duplex",
+        "Penthouse"
+      ],
+      "projectStatus": {
+        "ar": "قيد الإنشاء",
+        "en": "Under Construction"
+      },
+      "latitude": 25.18197863,
+      "longitude": 55.24932678,
+      "description": {
+        "ar": "مع موقع متميز في قلب مدينة دبي، يرسي صفا ون دي جريسوغونو معايير جديدة كلياً لحياة الرفاهية.",
+        "en": "With a prime location in the heart of Dubai, Safa One de GRISOGONO sets entirely new standards for luxury living."
+      }
+    },
+    {
+      "name": {
+        "ar": "شقق شورلاين",
+        "en": "Shoreline Apartments"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/shoreline-apartment59544433-8e3c-4acd-b809-95adfe4bc7ba.jpg?sfvrsn=f4a6d40_1",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Apartment",
+        "Pent House"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.10779,
+      "longitude": 55.14797,
+      "description": {
+        "ar": "اكتشف شقق شورلاين، مجمع حصري، يوفر وحدات سكنية من غرفة إلى ثلاث غرف نوم وبنتهاوس بإطلالات خلابة ووسائل راحة عالمية المستوى.",
+        "en": "Discover Shoreline Apartments, an exclusive complex, offering 1 to 3 bedroom residences and penthouses with stunning views and world-class amenities."
+      }
+    },
+    {
+      "name": {
+        "ar": "سكايسكيب ألتوس",
+        "en": "Skyscape Altius"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+      "averagePriceAED": 1750000,
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "خارج المخطط",
+        "en": "Off-plan"
+      },
+      "latitude": 25.1325,
+      "longitude": 55.2917,
+      "description": {
+        "ar": "ارتقِ بأسلوب حياتك إلى مستوى جديد من الفخامة في عنوان بارز. سكاي سكيب ألتوس، برج من 85 طابقًا يتميز بحرفية استثنائية، ويقدم مساكن حصرية.",
+        "en": "Elevate your lifestyle to a new level of luxury at a paramount address. Skyscape Altius, an 85-storey tower of exceptional craftsmanship, offering exclusive residences."
+      }
+    },
+    {
+      "name": {
+        "ar": "هالة الأفق",
+        "en": "Skyscape Aura"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+      "averagePriceAED": 1780000,
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "على الخارطة",
+        "en": "Off-plan"
+      },
+      "latitude": 25.1325,
+      "longitude": 55.2917,
+      "description": {
+        "ar": "نقدم لكم سكايسكيب أورا، إزاحته للستار تبشر بالفخامة والعظمة. بتصميمه الأنيق وحضوره المهيب، يأسر سكايسكيب أورا بسحر لا مثيل له.",
+        "en": "Introducing Skyscape Aura, its unveiling heralds sophistication and grandeur. With its sleek design and commanding presence, Skyscape Aura captivates with unparalleled charm."
+      }
+    },
+    {
+      "name": {
+        "ar": "صبحة سيهافن",
+        "en": "Sobha SeaHaven"
+      },
+      "developer": "Sobha Realty",
+      "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Seaheaven.jpg.webp?itok=ndbfrUWS",
+      "averagePriceAED": 4600000,
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Apartments"
+      ],
+      "projectStatus": {
+        "ar": "",
+        "en": "Under Construction"
+      },
+      "latitude": 25.0888,
+      "longitude": 55.1408,
+      "description": {
+        "ar": "صبحة سي هيفن وجهة فاخرة تطل على البحر في ميناء دبي، وتضم شققًا فائقة الفخامة بغرفة نوم واحدة إلى أربع غرف نوم.",
+        "en": "Sobha SeaHaven is a premium sea-facing destination at Dubai Harbour with ultra-luxury 1–4-bedroom apartments."
+      }
+    },
+    {
+      "name": {
+        "ar": "برج النخلة",
+        "en": "The Palm Tower"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-palm-towerf570287e-837e-4a74-a0bf-6a1139a7cad6.jpg?sfvrsn=ca6adb06_1",
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Villa",
+        "Townhouse",
+        "Apartment",
+        "Plot",
+        "Not Disclosed",
+        "Other",
+        "Business Center",
+        "Holiday Home",
+        "Kiosk",
+        "Office",
+        "Outdoor Area",
+        "Retail",
+        "School",
+        "Warehouse",
+        "Pent House"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.113960083174483,
+      "longitude": 55.13994584155773,
+      "description": {
+        "ar": "يُعد برج النخلة موطنًا للمساكن والمعالم السياحية، ويشمخ 52 طابقًا في السماء، ويقع في قلب نخلة جميرا.",
+        "en": "Home to residences and attractions, the Palm Tower soars 52 storeys into the sky, located at the heart of Palm Jumeirah."
+      }
+    },
+    {
+      "name": {
+        "ar": "جزر العالم",
+        "en": "The World"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islandsb59c8bbb-db48-405f-9a0c-3e9bbe66cabf.jpg?sfvrsn=91a7683e_1",
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "propertyTypes": [
+        "Islands",
+        "Villas",
+        "Apartments",
+        "Townhouses",
+        "Penthouses"
+      ],
+      "projectStatus": {
+        "ar": "null",
+        "en": "null"
+      },
+      "latitude": 25.2205602,
+      "longitude": 55.1218846,
+      "description": {
+        "ar": "وجهة عالمية رائدة. جزر العالم هي أرخبيل تم تخطيطه ليعكس قارات العالم.",
+        "en": "A Groundbreaking Global Destination The World Islands are an archipelago master-planned to mirror the world's continents."
+      }
+    },
+    {
+      "name": {
+        "ar": "تلال الفرجان",
+        "en": "Tilal Al Furjan"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---main-banner-1920x1080-2.jpg?sfvrsn=7f0f75df_1",
+      "bedrooms": [
+        4,
+        5
+      ],
+      "propertyTypes": [
+        "Villas"
+      ],
+      "projectStatus": {
+        "ar": "قيد التسليم",
+        "en": "Ready"
+      },
+      "latitude": 25.028585297712407,
+      "longitude": 55.14370567970489,
+      "description": {
+        "ar": "اكتشف أسلوب حياة راقٍ في تلال الفرجان، مجموعة حصرية من الفلل الفاخرة بوسائل راحة لا مثيل لها ومساحات خضراء واتصال سهل.",
+        "en": "Located within the Al Furjan master community, the collection of four and five bedroom villas at Tilal Al Furjan will offer residents an elevated lifestyle, stylish homes and a host of curated amenities."
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Veneto"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/veneto46857bb0-e4c5-4497-bc5e-142121a72f88.jpg?sfvrsn=2ded3bef_1",
+      "averagePriceAED": 175000,
+      "bedrooms": [
+        3,
+        4
+      ],
+      "propertyTypes": [
+        "Villas",
+        "Townhouses"
+      ],
+      "projectStatus": {
+        "ar": "",
+        "en": "Ready"
+      },
+      "latitude": 24.955362104654377,
+      "longitude": 54.996796841533765,
+      "description": {
+        "ar": "",
+        "en": "Discover Veneto at Dubai Waterfront, offering spacious 3-5 bedroom villas and townhouses with exceptional design, privacy, and a truly exclusive lifestyle."
+      }
+    },
+    {
+      "name": {
+        "ar": "فيرا ريزيدنسز",
+        "en": "Vera Residences"
+      },
+      "developer": "DAMAC Properties",
+      "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/8C3foJbzVocIKqMtsZun2/0a8e46822ad52ac0d1d8cc5023a18277/vera-residences-hero-image-mobile.jpg",
+      "averagePriceAED": 2118000,
+      "bedrooms": [
+        0,
+        1,
+        2
+      ],
+      "propertyTypes": [
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.187136,
+      "longitude": 55.282669,
+      "description": {
+        "ar": "وسط مجتمع سكني ينبض بالحياة في قلب دبي، يتألق فيرا ريزيدنسز بتصاميمه الأنيقة ووحداته الفاخرة ومرافقه عالمية المستوى.",
+        "en": "Amidst a vibrant residential community in the heart of Dubai, Vera Residences shines with its elegant designs, luxurious units, and world-class facilities."
+      }
+    },
+    {
+      "name": {
+        "ar": "قرية ورسان",
+        "en": "Warsan Village"
+      },
+      "developer": "Nakheel",
+      "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/warsan-village86875ae0-f31b-4cb2-a732-d690e36e4622.jpg?sfvrsn=7bcd648c_1",
+      "bedrooms": [
+        3
+      ],
+      "propertyTypes": [
+        "Townhouse",
+        "Retail",
+        "Apartment"
+      ],
+      "projectStatus": {
+        "ar": "جاهز",
+        "en": "Ready"
+      },
+      "latitude": 25.1557044,
+      "longitude": 55.4041309,
+      "description": {
+        "ar": "قرية ورسان هي مجمع سكني مسوّر وموجه للعائلات في دبي، يتميز بمنازل تاون هاوس حديثة بثلاث غرف نوم ومجموعة متنوعة من المرافق المحيطة، بما في ذلك نادي ورسان وسوق ورسان.",
+        "en": "Warsan Village is a gated, family-oriented community in Dubai featuring modern three-bedroom townhouses and a variety of neighbourhood facilities, including Warsan Clubhouse and Souk Warsan."
+      }
+    }
+  ],
+  "description": {
+    "ar": "تم عرض خريطة دبي بنجاح. يمكنك الآن استكشاف المشاريع أو طلب منطقة جديدة.",
+    "en": "Successfully displayed the map for Dubai. You can now explore the projects or request a new area."
+  }
+}

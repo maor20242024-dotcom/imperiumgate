@@ -1,0 +1,61 @@
+{
+  "provider": "nakheel",
+  "communities": [
+    "al-furjan",
+    "azure-residences",
+    "badrah",
+    "bay-grove-residences",
+    "bay-grove-residences-phase-4",
+    "bay-villas-dubai-islands",
+    "bay-villas-phase-2",
+    "discovery-gardens",
+    "dubai-islands",
+    "garden-apartments",
+    "garden-view-apartments",
+    "garden-view-villas",
+    "golden-mile",
+    "international-city",
+    "jebel-ali-village",
+    "jumeirah-heights",
+    "jumeirah-islands",
+    "jumeirah-lake-towers",
+    "jumeirah-park",
+    "jumeirah-village-circle",
+    "jumeirah-village-triangle",
+    "marina-residences",
+    "mohammed-bin-rashid-city",
+    "nad-al-sheba-villas",
+    "palm-jebel-ali",
+    "palm-jumeirah",
+    "palm-views",
+    "palma-residences",
+    "rixos-dubai-islands-residences",
+    "the-gardens",
+    "the-world",
+    "veneto",
+    "warsan-village"
+  ],
+  "projects": [
+    "atlantis-the-royal-residences",
+    "beach-villas",
+    "canal-front-residences",
+    "club-vista-mare",
+    "como-residences",
+    "district-one",
+    "masakin-al-furjan",
+    "meydan",
+    "murooj-al-furjan",
+    "palm-beach-towers",
+    "serenia-living",
+    "shoreline-apartments",
+    "the-palm-tower-residences",
+    "tilal-al-furjan"
+  ],
+  "meta": {
+    "generatedAt": "2025-11-28T16:04:24Z",
+    "counts": {
+      "communities": 33,
+      "projects": 14
+    }
+  }
+}

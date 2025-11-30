@@ -1,0 +1,61 @@
+{
+  "communityID": "the-world",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "العالم",
+    "en": "The World"
+  },
+  "description": {
+    "ar": "مجموعة جزر اصطناعية على شكل خريطة العالم",
+    "en": "Collection of artificial islands shaped like world map"
+  },
+  "location": {
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "area": {
+      "en": "",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    "the-world",
+    "the-world-islands"
+  ],
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "the-world",
+  "developer": "nakheel",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "masterplan": {}
+}

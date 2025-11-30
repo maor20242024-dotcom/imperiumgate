@@ -1,0 +1,67 @@
+{
+  "communityID": "jumeirah-village-circle",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "جميرا فيليج سيركل",
+    "en": "Jumeirah Village Circle"
+  },
+  "description": {
+    "ar": "مجتمع دائري مع شقق وفلل اقتصادية.",
+    "en": "A circular community with affordable apartments and villas."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "ibis",
+      "name": {
+        "ar": "إيبيس",
+        "en": "Ibis"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:48:01.282059",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "jumeirah-village-circle",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "masterplan": {}
+}

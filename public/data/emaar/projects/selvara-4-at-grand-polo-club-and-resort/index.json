@@ -1,0 +1,193 @@
+{
+  "slug": "selvara-4-at-grand-polo-club-and-resort",
+  "id": "420873",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": null
+  },
+  "location": {
+    "ar": "جراند بولو كلوب آند ريزورت",
+    "en": "Grand Polo Club and Resort"
+  },
+  "latitude": 25.0264,
+  "longitude": 55.3142,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "فلل",
+  "projectName": {
+    "ar": "سيلفارا 4",
+    "en": "Selvara 4"
+  },
+  "summary": {
+    "ar": "يقدّم سيلفارا 4 في جراند بولو كلوب آند ريزورت فللاً مكوّنة من 4 غرف نوم بتصاميم تنبض بالهدوء وتحتفي بالتواصل، تحيط بها الطبيعة وأجواء الأناقة.",
+    "en": "Selvara 4 at Grand Polo Club and Resort offers 4-bedroom villas with designs that exude tranquility and celebrate connection, surrounded by nature and elegant atmospheres."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "سيلفارا 4",
+      "subtitle": "جراند بولو كلوب آند ريزورت"
+    },
+    "en": {
+      "title": "Selvara 4",
+      "subtitle": "Grand Polo Club and Resort"
+    }
+  },
+  "description": {
+    "ar": "يقدّم سيلفارا 4 في جراند بولو كلوب آند ريزورت فللاً مكوّنة من 4 غرف نوم بتصاميم تنبض بالهدوء وتحتفي بالتواصل، تحيط بها الطبيعة وأجواء الأناقة.",
+    "en": "Selvara 4 at Grand Polo Club and Resort offers 4-bedroom villas with designs that exude tranquility and celebrate connection, surrounded by nature and elegant atmospheres."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فلل",
+      "en": "Villas"
+    }
+  ],
+  "bedrooms": [
+    "4"
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/HERO_1620X832_1-5.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/HERO_1620X832_1-4.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/selvara-4-at-grand-polo-club-and-resort",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "سيلفارا 4 | جراند بولو كلوب آند ريزورت | إعمار العقارية",
+    "description": "يقدّم سيلفارا 4 في جراند بولو كلوب آند ريزورت فللاً مكوّنة من 4 غرف نوم بتصاميم تنبض بالهدوء وتحتفي بالتواصل، تحيط بها الطبيعة وأجواء الأناقة.",
+    "canonical": "https://properties.emaar.com/ar/properties/selvara-4-at-grand-polo-club-and-resort/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/HERO_1620X832_1-5.jpg",
+    "fetchedAt": "2025-11-09T13:26:52.269Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/BROCHURE_IMG_300X210-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/FEATURES_1200X655_1-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/FEATURES_1200X655_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/PRO_EXT_1-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/PRO_EXT_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/PRO_EXT_3-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/PRO_INT_1-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/PRO_INT_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/08/PRO_INT_3-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_4-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_706X385_3-1.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2025/08/FEATURES_1200X655_1-2.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2025/08/FEATURES_1200X655_2-2.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2025/08/SELVARA4_GP_BROCHURE.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": null,
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

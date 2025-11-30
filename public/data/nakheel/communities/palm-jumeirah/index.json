@@ -1,0 +1,102 @@
+{
+  "communityID": "palm-jumeirah",
+  "developerID": "nakheel",
+  "name": {
+    "ar": "نخلة جميرا",
+    "en": "Palm Jumeirah"
+  },
+  "description": {
+    "ar": "جزيرة على شكل نخلة أيقونية مع فنادق وفلل شاطئية.",
+    "en": "An iconic palm-shaped island with hotels and beachfront villas."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "the-palm-tower",
+      "name": {
+        "ar": "ذا بالم تاور",
+        "en": "The Palm Tower"
+      }
+    },
+    {
+      "projectID": "seaview-residences",
+      "name": {
+        "ar": "سي فيو ريزيدنسز",
+        "en": "Sea View Residences"
+      }
+    },
+    {
+      "projectID": "como-residences",
+      "name": {
+        "ar": "كومو ريزيدنسز",
+        "en": "Como Residences"
+      }
+    },
+    {
+      "projectID": "club-vista-mare",
+      "name": {
+        "ar": "كلوب فيستا ماري",
+        "en": "Club Vista Mare"
+      }
+    },
+    {
+      "projectID": "shoreline-apartments",
+      "name": {
+        "ar": "شورلاين أبارتمنتس",
+        "en": "Shoreline Apartments"
+      }
+    },
+    {
+      "projectID": "palm-beach-towers",
+      "name": {
+        "ar": "بالم بيتش تاورز",
+        "en": "Palm Beach Towers"
+      }
+    }
+  ],
+  "developer": "nakheel",
+  "lastUpdated": "2025-11-01T18:48:01.280300",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "slug": "palm-jumeirah",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "masterplan": {}
+}

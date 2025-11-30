@@ -1,0 +1,66 @@
+{
+  "communityID": "sobha-seahaven",
+  "developerID": "sobha",
+  "name": {
+    "ar": "شوبا سي هافن",
+    "en": "Sobha SeaHaven"
+  },
+  "description": {
+    "ar": "مجتمع بحري فاخر.",
+    "en": "A luxury seafront community."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "منطقة غير محددة",
+      "en": "Unspecified Area"
+    },
+    "poiDistances": {}
+  },
+  "projects": [
+    {
+      "projectID": "sobha-seahaven",
+      "name": {
+        "ar": "شوبا سي هافن",
+        "en": "Sobha SeaHaven"
+      }
+    }
+  ],
+  "developer": "sobha",
+  "lastUpdated": "2025-11-01T18:48:01.286568",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "auto_translated": false,
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "masterplan": {}
+}

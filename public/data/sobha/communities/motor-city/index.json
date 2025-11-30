@@ -1,0 +1,44 @@
+{
+  "slug": "motor-city",
+  "name": {
+    "en": "Motor City",
+    "ar": "موتور سيتي"
+  },
+  "description": {
+    "en": "Motor City is a vibrant mixed-use district centered around automotive-themed avenues, offering residential, retail, and leisure lifestyles. Includes Sobha Orbis.",
+    "ar": "موتور سيتي هي منطقة متعددة الاستخدامات نابضة بالحياة تتمحور حول طرق ذات طابع سيارات، وتوفر أساليب حياة سكنية وتجارية وترفيهية. تشمل مشروع صوبا أوربس."
+  },
+  "heroImage": "/images/communities/motor-city/hero.jpg",
+  "galleryImages": [],
+  "developer": "sobha",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "projects": [],
+  "location": {
+    "lat": null,
+    "lng": null,
+    "area": ""
+  },
+  "masterplan": {}
+}

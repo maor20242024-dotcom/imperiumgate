@@ -1,0 +1,196 @@
+{
+  "slug": "mulberry",
+  "id": "3612",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "دبي هيلز استيت",
+    "en": "Dubai Hills Estate"
+  },
+  "location": {
+    "ar": "دبي هيلز استيت",
+    "en": "Dubai Hills Estate"
+  },
+  "latitude": 25.1027,
+  "longitude": 55.2494,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "ملبيري",
+    "en": "Mulberry"
+  },
+  "summary": {
+    "ar": "استمتع بتصاميم وديكورات عصرية ومستوى معيشي فاخر مع إطلالة ساحرة في ملبيري دبي هيلز استيت. تفضل بزيارتنا لمزيد من المعلومات حول شققنا المكونة من 3 غرف نوم.",
+    "en": "Enjoy contemporary designs and decorations with a luxurious lifestyle and stunning views in Mulberry Dubai Hills Estate. Visit us for more information about our 3-bedroom apartments."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "ملبيري",
+      "subtitle": "شقق للبيع دبي هيلز استيت"
+    },
+    "en": {
+      "title": "Mulberry",
+      "subtitle": "Apartments for Sale in Dubai Hills Estate"
+    }
+  },
+  "description": {
+    "ar": "استمتع بتصاميم وديكورات عصرية ومستوى معيشي فاخر مع إطلالة ساحرة في ملبيري دبي هيلز استيت. تفضل بزيارتنا لمزيد من المعلومات حول شققنا المكونة من 3 غرف نوم.",
+    "en": "Enjoy contemporary designs and decorations with a luxurious lifestyle and stunning views in Mulberry Dubai Hills Estate. Visit us for more information about our 3-bedroom apartments."
+  },
+  "propertyTypes": [
+    {
+      "ar": "شقق",
+      "en": "Apartments"
+    }
+  ],
+  "bedrooms": [
+    "3"
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [
+    {
+      "ar": "إطلالة ساحرة",
+      "en": "Stunning Views"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Final-view-NO.1.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": true,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/mulberry",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "ملبيري | شقق للبيع دبي هيلز استيت | إعمار العقارية",
+    "description": "استمتع بتصاميم وديكورات عصرية ومستوى معيشي فاخر مع إطلالة ساحرة في ملبيري دبي هيلز استيت. تفضل بزيارتنا لمزيد من المعلومات حول شققنا المكونة من 3 غرف نوم.",
+    "canonical": "https://properties.emaar.com/ar/properties/mulberry/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "fetchedAt": "2025-11-09T12:31:00.608Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Final-view-NO.1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Final-view-NO.5.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Mid-Rise-Apartmets-Living-Perspective-Option-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Final-view-NO.4.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Mid-Rise-Apartments-Master-Bedroom-Option-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Mid-Rise-Apartmets-Kitchen-Perspective-Option-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Final-view-NO.3-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DUBAI_HILLS_ESTATE_EN.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_01.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_02.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_03.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_04.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_05.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_07.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/Q2-2019_DUBAI-HILLS-ESTATES_DE-MULBERRY_09.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png"
+    ],
+    "videos": [],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-hills-estate",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

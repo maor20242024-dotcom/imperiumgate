@@ -1,0 +1,382 @@
+{
+  "projectID": "masakin-al-furjan",
+  "developerID": "nakheel",
+  "slug": "masakin-al-furjan",
+  "projectName": {
+    "ar": "مساكن الفرجان",
+    "en": "Masakin Al Furjan"
+  },
+  "description": {
+    "ar": "اكتشف مساكن الفرجان من نخيل - استمتع بحياة مجتمعية مبهجة في أحد أسعد مجتمعات دبي مع المساحات الخضراء والمرافق. في عام 2022، حصلت مساكن الفرجان على جائزة 'أسعد مجتمع سكني لهذا العام' في دبي. تتكون من سبعة مبانٍ منخفضة الارتفاع و 335 منزلًا. تتخلل المساحات الخضراء الوفيرة المجتمع، مما يوفر للمقيمين ملاذات هادئة للاسترخاء والتواصل مع الطبيعة.",
+    "en": "Discover Nakheel's Masakin Al Furjan - Experience joyful community living in one of Dubai's happiest communities with green spaces and amenities. In 2022, Masakin Al Furjan was awarded as the 'Happiest Residential Community of the Year' in Dubai. It consists of seven low-rise buildings and 335 homes. Abundant green spaces weave through the community, offering residents serene havens to unwind and connect with nature."
+  },
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "الفرجان",
+      "en": "Al Furjan"
+    },
+    "ar": "تقع مساكن الفرجان على بعد 3 دقائق من محطة مترو الفرجان، و 10 دقائق من ابن بطوطة مول، و 15 دقيقة من دبي مارينا، و 18 دقيقة من نخلة جميرا، و 24 دقيقة من مطار آل مكتوم الدولي (DWC)، و 28 دقيقة من وسط مدينة دبي.",
+    "en": "Masakin Al Furjan is located in one of Dubai's happiest communities, consisting of seven low-rise buildings and 335 homes with abundant green spaces. It is 3 minutes from Al Furjan Metro Station, 10 minutes from Ibn Battuta Mall, 15 minutes from Dubai Marina, 18 minutes from Palm Jumeirah, 24 minutes from Al Maktoum International Airport (DWC), and 28 minutes from Downtown Dubai.",
+    "poiDistances": {}
+  },
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "media": {
+    "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480b.jpg?sfvrsn=ef94a18f_3",
+    "galleryImages": [
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480b.jpg?sfvrsn=ef94a18f_3"
+      },
+      {
+        "src": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480a.jpg?sfvrsn=bd015b50_3"
+      }
+    ],
+    "videoLink": "https://www.nakheel.com/null",
+    "brochurePdfLink": "",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Pavilion"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Supermarket"
+      },
+      "description": {
+        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
+        "en": "A premium amenity providing exceptional experience for residents"
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
+        "en": "A safe and fun area for children equipped with entertaining and educational games"
+      }
+    }
+  ],
+  "unitTypes": [],
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "completionDate": "",
+  "deliveryDate": "null",
+  "launchDate": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "area": {
+    "ar": "الفرجان",
+    "en": "Al Furjan"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "developer": {
+    "ar": "نخيل العقارية",
+    "en": "Nakheel Properties"
+  },
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": "فيلا"
+    },
+    {
+      "en": "Townhouse",
+      "ar": "تاون هاوس"
+    },
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Plot",
+      "ar": "Plot"
+    },
+    {
+      "en": "Not Disclosed",
+      "ar": "Not Disclosed"
+    },
+    {
+      "en": "Other",
+      "ar": "Other"
+    },
+    {
+      "en": "Business Center",
+      "ar": "Business Center"
+    },
+    {
+      "en": "Holiday Home",
+      "ar": "Holiday Home"
+    },
+    {
+      "en": "Kiosk",
+      "ar": "Kiosk"
+    },
+    {
+      "en": "Office",
+      "ar": "Office"
+    },
+    {
+      "en": "Outdoor Area",
+      "ar": "Outdoor Area"
+    },
+    {
+      "en": "Retail",
+      "ar": "Retail"
+    },
+    {
+      "en": "School",
+      "ar": "School"
+    },
+    {
+      "en": "Warehouse",
+      "ar": "Warehouse"
+    },
+    {
+      "en": "Pent House",
+      "ar": "Pent House"
+    }
+  ],
+  "views": "Apartments on the ground floor have private gardens, and many of the other apartments in Masakin Al Furjan have garden views. Additionally, the residential apartments feature large balconies that offer unobstructed views of the scenery.",
+  "summary": {
+    "en": "Masakin Al Furjan offers premium living experience with exceptional amenities and strategic location in Al Furjan.",
+    "ar": "تقدم مساكن الفرجان تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في الفرجان."
+  },
+  "insights": {
+    "en": "Masakin Al Furjan represents a premium investment opportunity in Dubai, offering luxury living with strong potential for capital appreciation and rental returns in the strategic Al Furjan location.",
+    "ar": "تمثل مساكن الفرجان فرصة استثمارية متميزة في دبي، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في الفرجان."
+  },
+  "highlights": [],
+  "goldenVisaEligible": false,
+  "sellable": true,
+  "latitude": 25.030264421662057,
+  "longitude": 55.14891664232886,
+  "mapDescription": {
+    "ar": "موقع مساكن الفرجان مع نقاط الاهتمام القريبة ومسافاتها.",
+    "en": "Masakin Al Furjan"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Al Furjan Metro Station",
+        "ar": "Al Furjan Metro Station"
+      },
+      "distance": {
+        "en": "3 km",
+        "ar": "3 km"
+      },
+      "category": {
+        "en": "Metro Station",
+        "ar": "محطة مترو"
+      }
+    },
+    {
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": "Ibn Battuta Mall"
+      },
+      "distance": {
+        "en": "10 km",
+        "ar": "10 km"
+      },
+      "category": {
+        "en": "Shopping Mall",
+        "ar": "مركز تسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina",
+        "ar": "دبي مارينا"
+      },
+      "distance": {
+        "en": "15 km",
+        "ar": "15 km"
+      },
+      "category": {
+        "en": "Dubai Marina",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "نخلة جميرا"
+      },
+      "distance": {
+        "en": "18 km",
+        "ar": "18 km"
+      },
+      "category": {
+        "en": "Palm Jumeirah",
+        "ar": "معلم"
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum International Airport (DWC)",
+        "ar": "Al Maktoum International Airport (DWC)"
+      },
+      "distance": {
+        "en": "24 km",
+        "ar": "24 km"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "مطار"
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": "وسط مدينة دبي"
+      },
+      "distance": {
+        "en": "28 km",
+        "ar": "28 km"
+      },
+      "category": {
+        "en": "Downtown",
+        "ar": "معلم"
+      }
+    }
+  ],
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/masakin-al-furjan",
+  "sourceUrl": "",
+  "lastUpdated": "",
+  "id": "nakheel-Masakin_Al_Furjan",
+  "country": "United Arab Emirates",
+  "city": "Dubai",
+  "maxPriceAED": 0,
+  "minPriceAED": 0,
+  "projectCategory": "Community",
+  "heroCopy": {
+    "en": {
+      "title": "Masakin Al Furjan: Premium Living Experience",
+      "subtitle": "Luxury Residences with Exceptional Amenities in Al Furjan"
+    },
+    "ar": {
+      "title": "مساكن الفرجان: تجربة معيشية راقية",
+      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في الفرجان"
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "https://www.nakheel.com/null",
+  "name": {
+    "en": "Masakin Al Furjan",
+    "ar": "مساكن الفرجان"
+  },
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480b.jpg?sfvrsn=ef94a18f_3",
+  "auto_translated": false,
+  "fromCommunity": "al-furjan",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

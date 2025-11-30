@@ -1,0 +1,188 @@
+{
+  "slug": "seagate",
+  "id": "5428",
+  "developer": "Emaar",
+  "brand": "إعمار العقارية",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": "مرسى راشد لليخوت",
+    "en": "Mina Rashid"
+  },
+  "location": {
+    "ar": "مرسى راشد لليخوت",
+    "en": "Mina Rashid"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "سكني",
+  "projectName": {
+    "ar": "سي جيت",
+    "en": "Seagate"
+  },
+  "summary": {
+    "ar": "تعرّف على سي جيت في مرسى راشد لليخوت وتمتع بإطلالات المرسى. انطلق في نزهة على الممشى في ظلال أشجار النخيل.",
+    "en": "Discover Seagate in Mina Rashid and enjoy marina views. Take a stroll along the promenade in the shade of palm trees."
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "سي جيت",
+      "subtitle": "مرسي راشد لليخوت"
+    },
+    "en": {
+      "title": "Seagate",
+      "subtitle": "Mina Rashid"
+    }
+  },
+  "description": {
+    "ar": "تعرّف على سي جيت في مرسى راشد لليخوت وتمتع بإطلالات المرسى. انطلق في نزهة على الممشى في ظلال أشجار النخيل. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "en": "Discover Seagate in Mina Rashid and enjoy marina views. Take a stroll along the promenade in the shade of palm trees. Visit our website for more information."
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": 0,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [
+    {
+      "ar": "إطلالات المرسى",
+      "en": "Marina Views"
+    }
+  ],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MinaRashid-BEDROOM-60.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/190430_Whitespace_PortRashid_View05_Harbour_Fullres.jpg"
+  ],
+  "amenities": [],
+  "highlights": [],
+  "insights": {
+    "ar": null,
+    "en": null
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/properties/seagate",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "سي جيت | مرسي راشد لليخوت | إعمار العقارية",
+    "description": "تعرّف على سي جيت في مرسى راشد لليخوت وتمتع بإطلالات المرسى. انطلق في نزهة على الممشى في ظلال أشجار النخيل. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+    "canonical": "https://properties.emaar.com/ar/properties/seagate/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "modified_time": "2024-02-20T08:56:14+00:00",
+    "fetchedAt": "2025-11-09T13:40:37.081Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/190430_Whitespace_PortRashid_View05_Harbour_Fullres.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MinaRashid-BEDROOM-60.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MinaRashid-KITCHEN-50.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/Sirdhana.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/2500X1406_TDM-by-the-sea-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MinaRashid-LIVING-60.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/190430_Whitespace_PortRashid_View04_Marina_Fullres.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/Rashid_Yachts_Marina_LOGO-ARB.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/MR_SIRDHANA_2000x1125.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2020/02/Sirdhana.jpg",
+      "https://properties.emaar.com/wp-content/uploads/2020/03/2500X1406_TDM-by-the-sea-1.jpg"
+    ],
+    "videos": [],
+    "pdfs": [
+      "https://properties.emaar.com/wp-content/uploads/2020/06/SEAGATE_RYM_BROCHURE_AR.pdf"
+    ],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": null,
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

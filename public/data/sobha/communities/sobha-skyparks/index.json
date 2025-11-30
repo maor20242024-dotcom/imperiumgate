@@ -1,0 +1,252 @@
+{
+  "projectName": {
+    "en": "Sobha SkyParks",
+    "ar": "Sobha SkyParks"
+  },
+  "description": {
+    "en": "Rising over Sheikh Zayed Road, Sobha SkyParks is a 450-metre vertical masterpiece that reimagines luxury living in Dubai’s most coveted address. This iconic tower places you at the centre of the city’s most powerful axis, surrounded by business districts, fine dining, designer retail, cultural landmarks, and seamless connectivity all within minutes. With 1–3-bedroom residences and exclusive duplexes offering breathtaking views of the Arabian Sea, Downtown skyline, and the endless horizon, Sobha SkyParks delivers a lifestyle where motion meets calm, elevation meets openness, and every day unfolds above the clouds.",
+    "ar": "Rising over Sheikh Zayed Road, Sobha SkyParks is a 450-metre vertical masterpiece that reimagines luxury living in Dubai’s most coveted address. This iconic tower places you at the centre of the city’s most powerful axis, surrounded by business districts, fine dining, designer retail, cultural landmarks, and seamless connectivity all within minutes. With 1–3-bedroom residences and exclusive duplexes offering breathtaking views of the Arabian Sea, Downtown skyline, and the endless horizon, Sobha SkyParks delivers a lifestyle where motion meets calm, elevation meets openness, and every day unfolds above the clouds."
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Live",
+        "ar": ""
+      },
+      "description": {
+        "en": "At Sobha SkyParks, every residence is designed to feel open, calm and connected—with floor-to-ceiling windows, private balconies and breathtaking views in every direction. From sunrise over the Arabian Sea to glowing sunsets across the city, your everyday begins and ends with a horizon of possibility.​ At Sobha SkyParks, the sky isn’t just above you—it's part of how you live.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Entertainment",
+        "ar": ""
+      },
+      "description": {
+        "en": "From rooftop lounges to sky cinemas, sunset terraces, gaming zones, social clubs and event spaces, the tower is designed for connection and celebration. Spend your evenings in vibrant lounges with glittering skyline backdrops, host gatherings in elevated social spaces or unwind with live performances above the city lights.",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "city": "Dubai",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "country": "United Arab Emirates",
+  "deliveryDate": null,
+  "goldenVisaEligible": false,
+  "latitude": 25.1972,
+  "launchDate": null,
+  "location": {
+    "en": "Sheikh Zayed Road",
+    "ar": "شارع الشيخ زايد",
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "city": {
+      "en": "Dubai",
+      "ar": ""
+    },
+    "area": {
+      "en": "",
+      "ar": ""
+    },
+    "poiDistances": {}
+  },
+  "longitude": 55.2744,
+  "mapDescription": {
+    "en": "",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "en": "",
+    "ar": ""
+  },
+  "projectID": "410894",
+  "projectPageLink": "https://sobharealty.com/our-communities/sobha-skyparks/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    },
+    {
+      "en": "Duplexes",
+      "ar": "Duplexes"
+    }
+  ],
+  "sellable": true,
+  "views": [
+    "Arabian Sea",
+    "Downtown skyline",
+    "Endless Horizon"
+  ],
+  "slug": "sobha-skyparks",
+  "developer": "Sobha Realty",
+  "developerID": "sobha",
+  "status": "active",
+  "lastUpdated": "2025-11-02T06:07:05.768855",
+  "media": {
+    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1440%20x%20651%202x.png.webp?itok=lV19bYMs",
+    "galleryImages": [
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Desktop-1191x641.jpg.webp?itok=TLD1O43d"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Mobile-375x641.jpg.webp?itok=bHx6Lmlb"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Top%20left-420x566.jpg.webp?itok=ZEMha7Le"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Bottom%20left%20%20674x958.jpg.webp?itok=OFLXL6h5"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Top%20right-420x566%20%E2%80%93%201.jpg.webp?itok=RVzm4LsK"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Bottom%20right-674x994.jpg.webp?itok=AN_EiLBB"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Live-942x636.jpg.webp?itok=jeZ8awwR"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Entertainment-942x636%20%E2%80%93%202.jpg.webp?itok=I_QtUkLH"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Desktop-1418%20%C3%97%20771.jpg.webp?itok=AieBaTbL"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Mob-390x768.jpg.webp?itok=hneldwkM"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Sobha%20Park-Proximity%20image%20%E2%80%93%201.jpg.webp?itok=-5SmA3dW"
+      },
+      {
+        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Sobha%20Hartland%20mob%20%E2%80%93%201%20%281%29.jpg.webp?itok=EvzSstso"
+      }
+    ],
+    "brochurePdfLink": "https://sobharealty.com/null",
+    "3D_TourLink": null,
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectCategory": "Project",
+  "pricing": {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "minPriceAED": 0,
+    "maxPriceAED": 0,
+    "currency": "AED"
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "documents": {
+    "brochure": {
+      "en": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "Project Brochure"
+        }
+      ],
+      "ar": [
+        {
+          "url": "https://sobharealty.com/null",
+          "title": "كتيب المشروع"
+        }
+      ]
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "en": "Sobha SkyParks",
+    "ar": "شوبا سكاي باركس"
+  },
+  "sourceUrl": "https://sobharealty.com/properties-in-dubai/sobha-skyparks/",
+  "community": "business-bay",
+  "communityName": {
+    "en": "Business Bay",
+    "ar": "بيزنس باي"
+  },
+  "auto_translated": true,
+  "id": "sobha-skyparks",
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": null,
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:24Z"
+  },
+  "projects": [],
+  "masterplan": {}
+}

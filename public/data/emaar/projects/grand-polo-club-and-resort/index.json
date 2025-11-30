@@ -1,0 +1,260 @@
+{
+  "slug": "grand-polo-club-and-resort",
+  "id": null,
+  "developer": "Emaar",
+  "brand": "إعمار",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "area": {
+    "ar": null,
+    "en": null
+  },
+  "location": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "latitude": null,
+  "longitude": null,
+  "mapDescription": {
+    "ar": null,
+    "en": null
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "مجمع سكني",
+  "projectName": {
+    "ar": "جراند بولو كلوب آند ريزورت",
+    "en": "Grand Polo Club and Resort"
+  },
+  "summary": {
+    "ar": "جراند بولو كلوب آند ريزورت مجمّع جديد يضم فللاً فخمة مكوّنة من 3 و4 و5 غرف نوم في دبي؛ وسط أجواء الفروسية الساحرة، ومَرافق الصحة والعافية، ومراكز الاستجمام",
+    "en": "Grand Polo Club and Resort is a new community featuring luxury villas with 3, 4, and 5 bedrooms in Dubai; amidst charming equestrian atmosphere, health and wellness facilities, and recreation centers"
+  },
+  "heroCopy": {
+    "ar": {
+      "title": "جراند بولو كلوب آند ريزورت",
+      "subtitle": null
+    },
+    "en": {
+      "title": "Grand Polo Club and Resort",
+      "subtitle": null
+    }
+  },
+  "description": {
+    "ar": "يوفر جراند بولو كلوب آند ريزورت توازناً مثالياً بين الهدوء وسهولة الوصول. فهو يقع على بُعد 5 دقائق فقط من مطار آل مكتوم الدولي، و20 دقيقة من دبي هيلز استيت ودبي هيلز مول، و28 دقيقة من مرسى دبي (دبي مارينا) ودبي مارينا مول، و35 دقيقة فقط من وسط مدينة دبي ودبي مول. هذا الموقع الاستثنائي يضمن الوصول السلس إلى أبرز وجهات دبي، مع الحفاظ على أجواء الهدوء والخصوصية في منزلك. يضم جراند بولو كلوب آند ريزورت مجموعة حصرية من الفلل الفاخرة، بما يتراوح بين ثلاث وخمس غرف نوم. صُممت هذه الوحدات بعناية لتحتضن مساحات فسيحة، وإضاءة طبيعية غامرة، ولمسات معمارية راقية. وتتميز الفلل بخطوط أفقية وعمودية واضحة، تعكس إحساساً بالفخامة والرقي. كما يشمل المخطط الرئيسي مشاهد بانورامية للمساحات الخضراء والمروج الريفية، ليمنح السكان لوحة طبيعية تنبض بالحياة وتجسد أسلوب حياة فروسياً استثنائياً.",
+    "en": "Grand Polo Club and Resort provides an ideal balance between tranquility and easy access. It is located just 5 minutes from Al Maktoum International Airport, 20 minutes from Dubai Hills Estate and Dubai Hills Mall, 28 minutes from Dubai Marina and Dubai Marina Mall, and only 35 minutes from Downtown Dubai and Dubai Mall. This exceptional location ensures seamless access to Dubai's most prominent destinations while maintaining an atmosphere of calm and privacy in your home. Grand Polo Club and Resort features an exclusive collection of luxury villas, ranging from three to five bedrooms. These units are carefully designed to embrace spacious areas, abundant natural lighting, and elegant architectural touches. The villas feature clear horizontal and vertical lines that reflect a sense of luxury and sophistication. The master plan also includes panoramic views of green spaces and rural meadows, providing residents with a vibrant natural canvas that embodies an exceptional equestrian lifestyle."
+  },
+  "propertyTypes": [
+    {
+      "ar": "فيلا",
+      "en": "Villa"
+    }
+  ],
+  "bedrooms": [
+    "3",
+    "4",
+    "5"
+  ],
+  "propertyTypeLinks": [],
+  "paymentPlan": {
+    "ar": null,
+    "en": null
+  },
+  "minAreaSqft": 0,
+  "maxAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "maxAreaSqmt": 0,
+  "minPriceAED": null,
+  "maxPriceAED": null,
+  "deliveryDate": null,
+  "launchDate": null,
+  "projectStatus": {
+    "ar": null,
+    "en": null
+  },
+  "views": [],
+  "goldenVisaEligible": false,
+  "3D_TourLink": null,
+  "brochurePdfLink": {
+    "ar": null,
+    "en": null
+  },
+  "videoLink": null,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_HERO_IMG_1620X832.jpg"
+  ],
+  "amenities": [
+    {
+      "ar": "جراند بولو كلوب استيت",
+      "en": "Grand Polo Club Estate"
+    },
+    {
+      "ar": "مراكز مجتمعية",
+      "en": "Community Centers"
+    },
+    {
+      "ar": "نافورة الخيول الجامحة",
+      "en": "Wild Horse Fountain"
+    },
+    {
+      "ar": "الحدائق المزهرة",
+      "en": "Flowering Gardens"
+    },
+    {
+      "ar": "ملاعب كرة قدم",
+      "en": "Football Fields"
+    },
+    {
+      "ar": "ملاعب بادل",
+      "en": "Padel Courts"
+    },
+    {
+      "ar": "ملعب غولف مصغر",
+      "en": "Mini Golf Course"
+    },
+    {
+      "ar": "ممشى داخل الغابة",
+      "en": "Forest Walkway"
+    },
+    {
+      "ar": "حديقة مخصصة للكلاب",
+      "en": "Dog Park"
+    },
+    {
+      "ar": "الإسطبلات",
+      "en": "Stables"
+    },
+    {
+      "ar": "ساحات قفز عالمية المستوى",
+      "en": "World-Class Jumping Arenas"
+    },
+    {
+      "ar": "مرافق متطورة لتدريب الخيول",
+      "en": "Advanced Horse Training Facilities"
+    },
+    {
+      "ar": "مدرسة فروسية",
+      "en": "Equestrian School"
+    }
+  ],
+  "highlights": [
+    {
+      "ar": "موقع استراتيجي بالقرب من مطار آل مكتوم الدولي",
+      "en": "Strategic location near Al Maktoum International Airport"
+    },
+    {
+      "ar": "تصميم مستوحى من رياضة البولو والفروسية",
+      "en": "Design inspired by polo and equestrian sports"
+    },
+    {
+      "ar": "مساحات خضراء شاسعة",
+      "en": "Vast green spaces"
+    },
+    {
+      "ar": "مرافق رياضية وترفيهية متكاملة",
+      "en": "Integrated sports and recreational facilities"
+    },
+    {
+      "ar": "تصميم معماري فاخر",
+      "en": "Luxurious architectural design"
+    }
+  ],
+  "insights": {
+    "ar": "هذا المكان ليس مجرد مجمّع سكني، بل هو مساحة فخمة تجمع العمارة الملهَمة، والإطلالات البانورامية الآسرة، والتجارب الغنية. هنا، تُنسَج الرفاهية في تفاصيل الحياة اليومية. يوفر المجمّع إحساساً نادراً بالعزلة والسكينة، مع حفاظه على صلة وثيقة بكل ما هو مهم. فهو مشروع متكامل يقوم على ركائز الراحة، والطبيعة، والصحة، والتواصل، والترفيه. وبينما تظل الفروسية قلبه النابض، تنساب المساحات الخضراء عبر مناظره الطبيعية، لتربط بين المنازل، وتشجع على الحركة، وتغرس شعوراً عميقاً بالانتماء. إنه مكان صُمم ليعكس روح الخيل وإيقاعها، عبر مساحات رحبة مستوحاة من ملمس الطبيعة وألوان الأرض. وعلى امتداد 5.54 مليون متر مربع، تتجلى هذه الرؤية بأسلوب مهيب، ضمن احتفالية عصرية بإرث البولو العريق.",
+    "en": "This place is not just a residential community, but a luxurious space that combines inspiring architecture, captivating panoramic views, and rich experiences. Here, luxury is woven into the details of daily life. The community provides a rare sense of isolation and tranquility while maintaining a strong connection to everything that matters. It is an integrated project based on the pillars of comfort, nature, health, communication, and entertainment. While equestrianism remains its beating heart, green spaces flow through its landscapes, connecting homes, encouraging movement, and instilling a deep sense of belonging. It is a place designed to reflect the spirit and rhythm of horses, through spacious areas inspired by the texture of nature and earth tones. Across 5.54 million square meters, this vision is manifested in a majestic style, within a modern celebration of the ancient polo heritage."
+  },
+  "sellable": false,
+  "projectPageLink": "https://properties.emaar.com/ar/our-communities/grand-polo-club-and-resort",
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null
+  },
+  "meta": {
+    "title": "جراند بولو كلوب آند ريزورت | إعمار العقارية",
+    "description": "جراند بولو كلوب آند ريزورت مجمّع جديد يضم فللاً فخمة مكوّنة من 3 و4 و5 غرف نوم في دبي؛ وسط أجواء الفروسية الساحرة، ومَرافق الصحة والعافية، ومراكز الاستجمام",
+    "canonical": "https://properties.emaar.com/ar/our-communities/grand-polo-club-and-resort/",
+    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GP_BANNER_WEB_1920X1080.jpg",
+    "modified_time": "2025-09-24T09:14:59+00:00",
+    "fetchedAt": "2025-11-09T13:20:12.140Z",
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "assets": {
+    "images": [
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/05/small_villas_type_2a_rear_gpcr_2-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/05/JPG_medium_villas_type_2B_front_gpcr_villa_3D_render_by_VV.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/05/HERO_1620X832_9-2.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/05/HERO_1620X832_8-1.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/05/HERO_1620X832_3-16.jpg",
+      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/GRANDPOLO_MASTERPLAN_1400px.jpg",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
+      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
+      "https://properties.emaar.com/wp-content/uploads/2025/04/GRANDPOLO_MASTERPLAN_1400px.jpg"
+    ],
+    "videos": [
+      "https://properties.emaar.com/wp-content/uploads/2025/04/Community-page-video.mp4"
+    ],
+    "pdfs": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
+      "about:blank"
+    ]
+  },
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "fromCommunity": "dubai-creek-harbour",
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "community": "",
+  "status": "",
+  "handover": "",
+  "units": {
+    "minPriceAED": null,
+    "maxPriceAED": null,
+    "bedrooms": [],
+    "areaSqft": {
+      "min": null,
+      "max": null
+    }
+  }
+}

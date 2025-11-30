@@ -1,0 +1,86 @@
+{
+  "provider": "damac",
+  "community": "damac-lagoons",
+  "generatedAt": "2025-11-07T02:10:10.728Z",
+  "projects": [
+    {
+      "slug": "costa-brava",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "malta",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "mykonos",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "nice",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "portofino",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "santorini",
+      "name": null,
+      "status": null,
+      "types": null
+    },
+    {
+      "slug": "venice",
+      "name": null,
+      "status": null,
+      "types": null
+    }
+  ],
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "name": {
+    "en": "",
+    "ar": ""
+  },
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "tours": []
+  },
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "location": {
+    "lat": null,
+    "lng": null,
+    "area": ""
+  },
+  "masterplan": {}
+}

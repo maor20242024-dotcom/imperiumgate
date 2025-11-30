@@ -1,0 +1,174 @@
+{
+  "projectID": "riverside-views-marine-3",
+  "contact": {
+    "phone": "+971556628972",
+    "whatsapp": "+971556628972"
+  },
+  "description": {
+    "ar": "by DAMAC in Dubai, United Arab Emirates",
+    "en": "by DAMAC in Dubai, United Arab Emirates"
+  },
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "summary": {
+    "ar": "",
+    "en": ""
+  },
+  "insights": {
+    "ar": "",
+    "en": ""
+  },
+  "heroCopy": {
+    "title": {
+      "ar": "",
+      "en": ""
+    },
+    "subtitle": {
+      "ar": "",
+      "en": ""
+    },
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "propertyTypes": [],
+  "bedrooms": [],
+  "views": [],
+  "amenities": [],
+  "highlights": [],
+  "mapPointsOfInterest": [],
+  "buildings": [],
+  "units": [],
+  "priceAED": {},
+  "areaSizeSqft": {},
+  "projectPageLink": null,
+  "location": {
+    "country": {
+      "ar": "الإمارات العربية المتحدة",
+      "en": "United Arab Emirates"
+    },
+    "city": {
+      "ar": "دبي",
+      "en": "Dubai"
+    },
+    "area": {
+      "ar": "",
+      "en": ""
+    },
+    "lat": null,
+    "lng": null,
+    "poiDistances": {}
+  },
+  "slug": "riverside-views-marine-3",
+  "brand": "",
+  "projectCategory": "",
+  "developerID": "damac",
+  "developer": "Damac",
+  "community": "damac-riverside",
+  "communityName": {
+    "en": "Damac-Riverside",
+    "ar": "Damac-Riverside"
+  },
+  "status": "active",
+  "createdAt": "2025-11-01T18:48:01.308695",
+  "lastUpdated": "2025-11-01T18:48:01.308697",
+  "media": {
+    "heroImage": "",
+    "gallery": [],
+    "brochure": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "projectName": {
+    "en": "Riverside Views Marine 3",
+    "ar": "Riverside Views Marine 3"
+  },
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "goldenVisaEligible": false,
+  "sellable": false,
+  "latitude": null,
+  "longitude": null,
+  "documents": {
+    "brochure": {
+      "en": [],
+      "ar": []
+    },
+    "floorPlans": {
+      "en": [],
+      "ar": []
+    },
+    "masterplans": {
+      "en": [],
+      "ar": []
+    }
+  },
+  "videosLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "galleryLocalized": {
+    "en": [],
+    "ar": []
+  },
+  "heroImageLocalized": {
+    "en": "",
+    "ar": ""
+  },
+  "videoLink": "",
+  "name": {
+    "ar": "Riverside-Views-Marine-3",
+    "en": "Riverside-Views-Marine-3"
+  },
+  "auto_translated": true,
+  "aliases": [
+    "riverside-views-marine-4"
+  ],
+  "related_projects": [
+    "riverside-views-marine-3"
+  ],
+  "phases": [],
+  "meta": {
+    "updatedAt": "2025-11-28T16:04:23Z"
+  },
+  "id": "riverside-views-marine-3",
+  "fromCommunity": null,
+  "contact_points": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null,
+    "register_interest_url": null
+  },
+  "links": {
+    "official": "",
+    "map": "",
+    "brochure": ""
+  },
+  "handover": ""
+}
