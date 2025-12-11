@@ -148,7 +148,7 @@ export async function loadProject(developer: DeveloperKey, slug: string): Promis
   try {
     const response = await fetch(`/data/${developer}/${slug}.json`);
     if (!response.ok) return null;
-    
+
     const project = await response.json();
     return {
       ...project,
@@ -165,26 +165,26 @@ export async function loadProject(developer: DeveloperKey, slug: string): Promis
 export async function loadDeveloperProjects(developer: DeveloperKey): Promise<Project[]> {
   const projects: Project[] = [];
   const files = await fetchDeveloperSlugs(developer);
-  
+
   for (const slug of files) {
     const project = await loadProject(developer, slug);
     if (project) {
       projects.push(project);
     }
   }
-  
+
   return projects;
 }
 
 // Load all projects from all developers
 export async function loadAllProjects(): Promise<Project[]> {
   const allProjects: Project[] = [];
-  
+
   for (const developer of Object.keys(DEVELOPERS) as DeveloperKey[]) {
     const projects = await loadDeveloperProjects(developer);
     allProjects.push(...projects);
   }
-  
+
   return allProjects;
 }
 
@@ -192,7 +192,7 @@ export async function loadAllProjects(): Promise<Project[]> {
 function getLocalizedText(value: MaybeLocalized | undefined, fallback: string = ''): string {
   if (!value) return fallback;
   if (typeof value === 'string') return value;
-  return value.en || value.ar || fallback;
+  return (value as any).en || (value as any).ar || fallback;
 }
 
 // Convert projects to map markers
@@ -202,10 +202,10 @@ export function projectsToMapMarkers(projects: Project[]): MapMarker[] {
       // Only include projects with valid coordinates
       const lat = project.latitude;
       const lng = project.longitude;
-      return lat && lng && 
-             typeof lat === 'number' && typeof lng === 'number' &&
-             !isNaN(lat) && !isNaN(lng) && 
-             Math.abs(lat) > 0.001 && Math.abs(lng) > 0.001; // Avoid placeholder coordinates
+      return lat && lng &&
+        typeof lat === 'number' && typeof lng === 'number' &&
+        !isNaN(lat) && !isNaN(lng) &&
+        Math.abs(lat) > 0.001 && Math.abs(lng) > 0.001; // Avoid placeholder coordinates
     })
     .map(project => ({
       id: `${project.developer}-${project.slug}`,
@@ -231,16 +231,16 @@ export async function loadAllMapMarkers(): Promise<MapMarker[]> {
 // Get projects by location/area
 export function getProjectsByArea(projects: Project[], area: string): Project[] {
   return projects.filter(project => {
-    const location = typeof project.location === 'string' 
-      ? project.location 
-      : project.location?.en || '';
+    const location = typeof project.location === 'string'
+      ? project.location
+      : (project.location as any)?.en || '';
     return location.toLowerCase().includes(area.toLowerCase());
   });
 }
 
 // Get projects by developer
 export function getProjectsByDeveloper(projects: Project[], developer: string): Project[] {
-  return projects.filter(project => 
+  return projects.filter(project =>
     project.developer && project.developer.toLowerCase() === developer.toLowerCase()
   );
 }

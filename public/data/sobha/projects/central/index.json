@@ -1,234 +1,164 @@
 {
-  "projectName": {
-    "en": "Sobha Central",
-    "ar": "Sobha Central"
+  "slug": "central",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Central",
+  "name_ar": "Sobha Central",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.061084814751,
+    "lng": 55.133272031063
   },
-  "description": {
-    "en": "Sobha Central is a landmark residential community rising on Sheikh Zayed Road, Dubai’s most iconic corridor. This architectural giant unites six sleek and elegant towers around lush, elevated parks, a tech-powered retail mall, along with dedicated office space, and curated lifestyle amenities. Designed as a vibrant neighborhood, it off­ers panoramic views, seamless connectivity, and a complete living experience —bringing together everything residents need at their doorstep, in one place. This is where it all connects.",
-    "ar": "Sobha Central is a landmark residential community rising on Sheikh Zayed Road, Dubai’s most iconic corridor. This architectural giant unites six sleek and elegant towers around lush, elevated parks, a tech-powered retail mall, along with dedicated office space, and curated lifestyle amenities. Designed as a vibrant neighborhood, it off­ers panoramic views, seamless connectivity, and a complete living experience —bringing together everything residents need at their doorstep, in one place. This is where it all connects."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Live",
-        "ar": ""
-      },
-      "description": {
-        "en": "Discover the epitome of connected living at Sobha Central, where luxurious residences offer unparalleled comfort and panoramic vistas. Every residence is designed to capture the essence of the city while delivering an elevated lifestyle infused with sophistication and serenity.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Experience",
-        "ar": ""
-      },
-      "description": {
-        "en": "From premium office spaces, modern co-working areas & a business centre to fitness spaces and shaded green zones, everyday essentials flow seamlessly into one another — creating a community that feels alive, balanced, and built for the way people live and work. Every corner is purposefully placed — from the Grand Prayer Hall to the commercial gym, from boutique retail to the supermarket.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dine",
-        "ar": ""
-      },
-      "description": {
-        "en": "Sobha Central offers a plethora of vibrant dining options, from upscale restaurants to artisanal markets and boutique cafes blending international cuisine with local flavors all minutes away, just downstairs at the podium level and mall.",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "Sheikh Zayed Road",
-    "ar": "شارع الشيخ زايد"
-  },
-  "bedrooms": [
-    1,
-    2
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 0,
-  "launchDate": null,
-  "location": {
-    "en": "Sheikh Zayed Road, Dubai’s most iconic corridor",
-    "ar": "Sheikh Zayed Road, Dubai’s most iconic corridor",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Sheikh Zayed Road",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 0,
-  "mapDescription": {
-    "en": "RIGHT IN the Centre of Dubai",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "82948",
-  "projectPageLink": "https://sobharealty.com/our-communities/sobha-central/",
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
       "ar": "Apartments"
     }
   ],
-  "sellable": true,
-  "views": [
-    "panoramic views"
+  "bedrooms": [
+    1,
+    2
   ],
-  "slug": "central",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.758617",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Banner%201440x651%20%E2%80%93%201.jpg.webp?itok=7yn046pr",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/unnamed.jpg.webp?itok=AWHcmIoG"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/unnamed%20%281%29.jpg.webp?itok=oEMqu-DQ"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Common%20210283%20%E2%80%93%201_0.jpg.webp?itok=xtq8kuLZ"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Common%20337479%20%E2%80%93%201_1.jpg.webp?itok=FPCAaYMB"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Common%20210283%202%20%E2%80%93%201_0.jpg.webp?itok=uMkdmjFn"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Common%20337497%20%E2%80%93%201_0.jpg.webp?itok=q9TmC1a6"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/null",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": 5,
+  "area_sqm_max": null,
+  "area_sqft_min": 59,
+  "area_sqft_max": null,
+  "price_aed_min": 1800000,
+  "price_aed_max": 2644971,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Steam Room",
+      "ar": "غرفة بخار"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Barbeque Area",
+      "ar": "مكان مخصص للشواء"
+    },
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Central",
-    "ar": "شوبا سنترال"
-  },
-  "community": "sobha-central",
-  "communityName": {
-    "en": "Sobha Central",
-    "ar": "شوبا سنترال"
-  },
-  "auto_translated": true,
-  "id": "sobha-central",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Sobha Central is a landmark residential community rising on Sheikh Zayed Road, Dubai’s most iconic corridor. This architectural giant unites six sleek and elegant towers around lush, elevated parks, a tech-powered retail mall, along with dedicated office space, and curated lifestyle amenities. Designed as a vibrant neighborhood, it off­ers panoramic views, seamless connectivity, and a complete living experience —bringing together everything residents need at their doorstep, in one place. This is where it all connects.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-central/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.044836Z"
 }

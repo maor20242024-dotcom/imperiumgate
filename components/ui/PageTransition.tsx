@@ -46,7 +46,7 @@ export default function PageTransition({ children }: PageTransitionProps) {
     <>
       {/* Header always visible; SplashScreen is handled in RootLayout */}
       <Header />
-      
+
       <AnimatePresence mode="wait" initial={false}>
         <motion.div
           key={pathname}
@@ -54,8 +54,8 @@ export default function PageTransition({ children }: PageTransitionProps) {
           animate="in"
           exit="out"
           variants={pageVariants}
-          transition={pageTransition}
-          style={{ 
+          transition={pageTransition as any}
+          style={{
             minHeight: '100vh',
             position: 'relative',
           }}
@@ -75,7 +75,7 @@ export default function PageTransition({ children }: PageTransitionProps) {
           {children}
         </motion.div>
       </AnimatePresence>
-      
+
       <Footer />
     </>
   );

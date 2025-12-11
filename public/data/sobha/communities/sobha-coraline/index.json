@@ -1,66 +1,105 @@
 {
-  "communityID": "sobha-coraline",
-  "developerID": "sobha",
-  "name": {
-    "ar": "شوبا كورالين",
-    "en": "Sobha Coraline"
+  "slug": "sobha-coraline",
+  "developer": "Sobha",
+  "name_en": "Sobha Coraline",
+  "name_ar": "شوبا كورالين",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.610788788933,
+    "lng": 55.620568702523
   },
-  "description": {
-    "ar": "مجتمع مستوحى من الكورال.",
-    "en": "A coral-inspired community."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "Coraline Beach Residences",
+  "master_location_ar": "كورالاين بيتش ريزيدنسز",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A coral-inspired community.",
+  "description_ar": "مجتمع مستوحى من الكورال.",
+  "amenities": [
     {
-      "projectID": "sobha-coraline",
-      "name": {
-        "ar": "شوبا كورالين",
-        "en": "Sobha Coraline"
-      }
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Barbeque Area",
+      "ar": "مكان مخصص للشواء"
+    },
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
     }
   ],
-  "developer": "sobha",
-  "lastUpdated": "2025-11-01T18:48:01.435675",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "auto_translated": false,
-  "contact_points": {
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.008257Z"
 }

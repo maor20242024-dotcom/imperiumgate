@@ -1,200 +1,128 @@
 {
   "slug": "marina-place-1-at-rashid-yachts-marina",
-  "id": "395483",
   "developer": "Emaar",
-  "brand": "إعمار العقارية",
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "rashid-yachts-marina",
+  "name_en": "Marina Place 1",
+  "name_ar": "مارينا بليس 1",
+  "website": "https://properties.emaar.com/ar/properties/marina-place-1-at-rashid-yachts-marina",
+  "canonical_url": "https://properties.emaar.com/ar/properties/marina-place-1-at-rashid-yachts-marina",
+  "logo": "",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/HARBOUR_GATE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HILLCREST_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/CEDAR_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/DHE_PF_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/SAVANNA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/RIVANA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/ELVIRA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/01_HERO_EMERALD_HILLS.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/09/PALACE_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/CREEK_RISE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/PALACE_RESIDENCES_NORTH_DCH_WEBSITE_MAIN_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_HORIZON.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/11/THE_COVE_DCH_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DCR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/eden_hero_banner.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/LANDING_PAGE_HERO_16200x832-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.2547,
+    "lng": 55.2914
   },
-  "city": {
-    "ar": "دبي",
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": "مرسى راشد لليخوت",
-    "en": "Rashid Yachts Marina"
-  },
-  "location": {
-    "ar": "مرسى راشد لليخوت",
-    "en": "Rashid Yachts Marina"
-  },
-  "latitude": 25.2547,
-  "longitude": 55.2914,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": "سكني",
-  "projectName": {
-    "ar": "مارينا بليس 1",
-    "en": "Marina Place 1"
-  },
-  "summary": {
-    "ar": "اكتشف مجموعة من المساكن الرائعة في مارينا بليس، بدءاً من الشقق الدافئة بغرفة نوم واحدة ووصولاً إلى الشقق الرحبة المكوّنة من ثلاث غرف نوم، ومنازل التاون هاوس المكوّنة من ثلاث غرف نوم",
-    "en": "Discover a range of wonderful homes at Marina Place, from cozy one-bedroom apartments to spacious three-bedroom apartments and three-bedroom townhouses"
-  },
-  "heroCopy": {
-    "ar": {
-      "title": "مارينا بليس 1",
-      "subtitle": "مرسى راشد لليخوت"
-    },
-    "en": {
-      "title": "Marina Place 1",
-      "subtitle": "Rashid Yachts Marina"
-    }
-  },
-  "description": {
-    "ar": "اكتشف مجموعة من المساكن الرائعة في مارينا بليس، بدءاً من الشقق الدافئة بغرفة نوم واحدة ووصولاً إلى الشقق الرحبة المكوّنة من ثلاث غرف نوم، ومنازل التاون هاوس المكوّنة من ثلاث غرف نوم. تفضّل بزيارة موقعنا الإلكتروني لمزيدٍ من المعلومات.",
-    "en": "Discover a range of wonderful homes at Marina Place, from cozy one-bedroom apartments to spacious three-bedroom apartments and three-bedroom townhouses. Visit our website for more information."
-  },
-  "propertyTypes": [
+  "address_en": "Rashid Yachts Marina",
+  "address_ar": "مرسى راشد لليخوت",
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status": "",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
-      "ar": "شقق",
-      "en": "Apartments"
+      "en": "Apartments",
+      "ar": "شقق"
     },
     {
-      "ar": "تاون هاوس",
-      "en": "Townhouses"
+      "en": "Townhouses",
+      "ar": "تاون هاوس"
     }
   ],
   "bedrooms": [
-    "1",
-    "2",
-    "3"
+    1,
+    2,
+    3
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": null
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": null,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "minAreaSqft": 0,
-  "maxAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "maxAreaSqmt": 0,
-  "minPriceAED": 0,
-  "maxPriceAED": null,
-  "deliveryDate": null,
-  "launchDate": null,
-  "projectStatus": {
-    "ar": null,
-    "en": null
-  },
-  "views": [],
-  "goldenVisaEligible": false,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": null
-  },
-  "videoLink": null,
-  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/HERO_1620X832_3-1.jpg",
-  "galleryImages": [],
-  "amenities": [],
-  "highlights": [],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "sellable": false,
-  "projectPageLink": "https://properties.emaar.com/ar/properties/marina-place-1-at-rashid-yachts-marina",
-  "contact": {
-    "phone": null,
-    "whatsapp": null,
-    "email": null
-  },
-  "meta": {
-    "title": "مارينا بليس 1 | مرسى راشد لليخوت | إعمار العقارية",
-    "description": "اكتشف مجموعة من المساكن الرائعة في مارينا بليس، بدءاً من الشقق الدافئة بغرفة نوم واحدة ووصولاً إلى الشقق الرحبة المكوّنة من ثلاث غرف نوم، ومنازل التاون هاوس المكوّنة من ثلاث غرف نوم. تفضّل بزيارة موقعنا الإلكتروني لمزيدٍ من المعلومات.",
-    "canonical": "https://properties.emaar.com/ar/properties/marina-place-1-at-rashid-yachts-marina/",
-    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/HERO_1620X832_3-1.jpg",
-    "fetchedAt": "2025-11-09T13:33:06.843Z",
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "assets": {
-    "images": [
-      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/M1_BROCHURE_IMG_300X210.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/FEATURES_1200X655_1-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/FEATURES_1200X655_3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_EXT_1-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_EXT_2-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_EXT_3-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_EXT_4-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_EXT_5.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_EXT_6.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_INT_1-2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_INT_2-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/PRO_INT_3-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_440X570.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/COMM_IMG_706X385_4.jpg",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
-      "https://properties.emaar.com/wp-content/uploads/2024/11/FEATURES_1200X655_1-1.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2024/11/FEATURES_1200X655_3.jpg"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://properties.emaar.com/wp-content/uploads/2024/11/BROCHURE_MARINA_PLACE_RYM-.pdf"
-    ],
-    "iframes": [
-      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
-      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
-      "about:blank"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "rashid-yachts-marina",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Park",
+      "ar": "حديقة"
     }
-  }
+  ],
+  "features": [],
+  "description_en": "Discover a range of wonderful homes at Marina Place, from cozy one-bedroom apartments to spacious three-bedroom apartments and three-bedroom townhouses. Visit our website for more information.",
+  "description_ar": "اكتشف مجموعة من المساكن الرائعة في مارينا بليس، بدءاً من الشقق الدافئة بغرفة نوم واحدة ووصولاً إلى الشقق الرحبة المكوّنة من ثلاث غرف نوم، ومنازل التاون هاوس المكوّنة من ثلاث غرف نوم. تفضّل بزيارة موقعنا الإلكتروني لمزيدٍ من المعلومات.",
+  "brochure_url": "https://properties.emaar.com/wp-content/uploads/2024/11/BROCHURE_MARINA_PLACE_RYM-.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": false,
+  "golden_visa_eligible": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/properties/marina-place-1-at-rashid-yachts-marina"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T13:33:06.843Z",
+  "updated_at": "2025-11-30T18:47:07.660Z"
 }

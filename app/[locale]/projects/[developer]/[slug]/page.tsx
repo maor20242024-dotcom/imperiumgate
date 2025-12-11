@@ -1,3 +1,4 @@
+
 import AmenitiesGrid from '@/components/project/AmenitiesGrid';
 import ContactBlock from '@/components/project/ContactBlock';
 import DocsBlock from '@/components/project/DocsBlock';
@@ -16,87 +17,96 @@ import VideoBlock from '@/components/project/VideoBlock';
 import ROICalculator from '@/components/ui/ROICalculator';
 import { deriveProjectLatLon } from '@/lib/geo';
 import { type Locale } from '@/lib/i18n-utils';
-import { getAllProjectParams } from '@/lib/projects';
-import { getAllProjects } from '@/lib/data/store';
-import { selectProjects, filterProjects, sortProjects, relatedProjects } from '@/lib/data/filters';
-import { toLegacyProject, toLegacyProjects } from '@/lib/data/legacy';
-import type { Project } from '@/lib/data/schema';
+import type { Project } from '@/lib/types';
+import { getProjectDetails, getAllDevelopers, getDeveloperData } from '@/lib/developers';
+import { notFound } from 'next/navigation';
 
 // Dynamic rendering - no cache for instant navigation
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
 // Helper to handle translation objects or strings safely
+// Helper to handle translation objects or strings safely
 function translateText(
-  v?: { ar?: string; en?: string } | string,
+  v?: { ar?: string; en?: string } | string | { city?: string },
   locale: Locale = 'ar'
 ): string {
   if (!v) return '';
   if (typeof v === 'string') return v;
-  return v[locale] || v.en || v.ar || '';
+  if ('city' in v) return v.city || '';
+  return (v as any)[locale] || (v as any).en || (v as any).ar || '';
 }
 
 export async function generateStaticParams() {
-  // 🚀 ISR STATIC PARAMS: Generate static params with cached data
-  const projectParams = await getAllProjectParams();
-  return projectParams
-    .filter((p) => p.slug && p.slug.trim() !== '')
-    .flatMap((p) =>
-      ['ar', 'en'].map(locale => ({
-        locale,
-        developer: p.developer || 'unknown',
-        slug: p.slug,
-      }))
-    );
+  const devs = await getAllDevelopers();
+  const params: any[] = [];
+
+  for (const dev of devs) {
+    const projects = await getDeveloperData(dev, 'projects');
+    for (const p of projects) {
+      params.push({ locale: 'ar', developer: dev, slug: p.slug });
+      params.push({ locale: 'en', developer: dev, slug: p.slug });
+    }
+  }
+  return params;
 }
 
 export default async function ProjectDetail({ params }: { params: Promise<{ locale: Locale; developer: string; slug: string }> }) {
   const { locale = 'ar', developer, slug } = await params;
 
-  const canonical = selectProjects(await getAllProjects());
-  const matches = filterProjects(canonical, {
-    locale,
-    developerKey: developer,
-    projectSlug: slug,
-  });
+  // Fetch using new pipeline
+  const unifiedProject = await getProjectDetails(developer, slug);
 
-  const project = matches[0];
-
-  if (!project) {
-    const developerProjects = sortProjects(filterProjects(canonical, { locale, developerKey: developer }), locale);
-    const otherProjects = sortProjects(filterProjects(canonical, { locale }), locale);
-    return (
-      <ProjectNotFound
-        developer={developer}
-        slug={slug}
-        developerProjects={toLegacyProjects(developerProjects, locale)}
-        otherProjects={toLegacyProjects(otherProjects, locale)}
-      />
-    );
+  if (!unifiedProject) {
+    // Fallback or 404. Since we are fully migrating, 404 is appropriate if not found in new data.
+    // But preserving specific Not Found UI is good.
+    return <ProjectNotFound developer={developer} slug={slug} developerProjects={[]} otherProjects={[]} />;
   }
 
-  const legacyProject = toLegacyProject(project, locale);
-  const related = toLegacyProjects(relatedProjects(project, canonical, locale, 6), locale);
+  // Map Unified Data to Legacy Project Interface for backward compatibility with components
+  // unifiedProject.extra contains the fields from the original JSON (amenities, etc)
+  const legacyProject: Project = {
+    ...unifiedProject.extra, // Spread extra first - this is vital for legacy fields!
+    slug: unifiedProject.slug,
+    developer: unifiedProject.developer,
+    developerKey: developer, // important for links
+    projectName: unifiedProject.name,
+    // Map media to legacy fields
+    heroImage: (unifiedProject.media && unifiedProject.media.length > 0) ? unifiedProject.media[0] : unifiedProject.extra?.heroImage,
+    galleryImages: unifiedProject.media || unifiedProject.extra?.galleryImages || [],
+    // Ensure description is handled
+    description: unifiedProject.description || unifiedProject.extra?.description,
+    // Location
+    location: unifiedProject.location || unifiedProject.extra?.location,
+    // Pass other fields
+    ...unifiedProject // spread unified properties to ensure they are available
+  };
 
+  // Derive helpers
   const { lat, lon } = deriveProjectLatLon(legacyProject);
-
-  // Support both old and new schema
   const galleryImages: string[] = legacyProject.galleryImages ?? [];
   const hasGallery = galleryImages.length > 0;
   const has3D = !!(
     legacyProject.assets?.tour3d?.matterport ||
     legacyProject.assets?.tour3d?.propvr ||
-    legacyProject['3D_TourLink']
+    legacyProject['3D_TourLink'] ||
+    legacyProject.extra?.['3D_TourLink']
   );
-  const hasVideo = !!(legacyProject.hero?.type === 'video' || legacyProject.videoLink);
-  const hasPDF = !!(
-    legacyProject.assets?.brochure?.[locale as 'ar' | 'en'] ||
-    legacyProject.brochurePdfLink
-  );
+  const hasVideo = !!(legacyProject.hero?.type === 'video' || legacyProject.videoLink || (unifiedProject.hero_prefer === 'video'));
+
+  const brochure = legacyProject.assets?.brochure?.[locale] || legacyProject.brochurePdfLink || legacyProject.extra?.brochurePdfLink;
+  const hasPDF = !!brochure;
+
   const hasAmenities = !!legacyProject.amenities?.length;
   const hasInsights = !!legacyProject.insights;
   const hasNews = Array.isArray(legacyProject.news) && legacyProject.news.length > 0;
   const hasContact = !!legacyProject.contact;
+
+  // We are missing 'related' logic with new pipeline. 
+  // We can just show other projects from same developer for now?
+  // Or fetch related projects.
+  // For now empty list to prevent crash.
+  const related: any[] = [];
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-black via-zinc-950 to-black text-light">
@@ -120,9 +130,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
           <Gallery
             images={galleryImages}
             title={
-              translateText(legacyProject.projectName || legacyProject.names?.[locale], locale) ||
-              legacyProject.slug ||
-              legacyProject.slugs?.[locale]
+              translateText(legacyProject.projectName, locale) || legacyProject.slug
             }
           />
         </div>
@@ -145,12 +153,11 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
             tourUrl={
               legacyProject.assets?.tour3d?.matterport ||
               legacyProject.assets?.tour3d?.propvr ||
-              legacyProject['3D_TourLink']!
+              legacyProject['3D_TourLink'] ||
+              legacyProject.extra?.['3D_TourLink']
             }
             projectName={
-              translateText(legacyProject.projectName || legacyProject.names?.[locale], locale) ||
-              legacyProject.slug ||
-              legacyProject.slugs?.[locale]
+              translateText(legacyProject.projectName, locale) || legacyProject.slug
             }
             locale={locale}
           />
@@ -160,7 +167,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
       {hasVideo && (
         <div id="video" className="max-w-6xl mx-auto px-6 py-16">
           <VideoBlock
-            src={legacyProject.hero?.src || legacyProject.videoLink!}
+            src={legacyProject.hero?.src || legacyProject.videoLink || (unifiedProject.media && unifiedProject.media[0] ? unifiedProject.media[0] : '')}
             poster={
               legacyProject.hero?.poster ||
               legacyProject.heroImage ||
@@ -177,7 +184,7 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
             {locale === 'ar' ? '📍 الموقع' : '📍 Location'}
           </h2>
           <p className="text-gray-600 text-sm">
-            {locale === 'ar' 
+            {locale === 'ar'
               ? 'موقع المشروع على الخريطة'
               : 'Project location on the map'
             }
@@ -198,19 +205,17 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
         </div>
       )}
 
-  <div id="docs" className="max-w-6xl mx-auto px-6 py-16">
-    {hasPDF || hasGallery ? (
-      <DocsBlock
-        brochureUrl={legacyProject.assets?.brochure?.[locale as 'ar' | 'en'] || legacyProject.brochurePdfLink}
-        galleryImages={galleryImages}
-        projectName={
-          translateText(legacyProject.projectName || legacyProject.names?.[locale], locale) ||
-          legacyProject.slug ||
-          legacyProject.slugs?.[locale]
-        }
-      />
-    ) : null}
-  </div>
+      <div id="docs" className="max-w-6xl mx-auto px-6 py-16">
+        {(hasPDF || hasGallery) && (
+          <DocsBlock
+            brochureUrl={brochure}
+            galleryImages={galleryImages}
+            projectName={
+              translateText(legacyProject.projectName, locale) || legacyProject.slug
+            }
+          />
+        )}
+      </div>
 
       {hasInsights && (
         <div id="insights" className="max-w-6xl mx-auto px-6 py-16">
@@ -236,7 +241,6 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
           />
         </div>
       )}
-
 
       {related.length > 0 && (
         <div id="related" className="max-w-6xl mx-auto px-6 py-16">

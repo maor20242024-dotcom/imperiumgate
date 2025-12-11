@@ -1,0 +1,106 @@
+{
+  "slug": "binghatti-hills",
+  "developer": "Binghatti",
+  "community_slug": "",
+  "name_en": "Binghatti Hills",
+  "name_ar": "Binghatti Hills",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/binghatti-hills-footer-banner.webp",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/binghatti-hills-footer-banner.webp"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.084120412574222,
+    "lng": 55.276806446720016
+  },
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Dubai Science Park",
+  "location_ar": "",
+  "district_en": "Dubai Science Park",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2026",
+  "property_types": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 41,
+  "area_sqm_max": 125,
+  "area_sqft_min": 446,
+  "area_sqft_max": 1346,
+  "price_aed_min": 800000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "payment plan:",
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Fitness Center",
+      "ar": ""
+    },
+    {
+      "en": "Landscaped Gardens",
+      "ar": "حدائق طبيعية"
+    },
+    {
+      "en": "Family-friendly recreational areas",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Discover Binghatti Hills, where rolling hillsides inspire an architectural masterpiece. 1,2-bedroom apartments are available in this luxurious Dubai retreat.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hills-assets/binghatti-hills-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-hills"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.744Z"
+}

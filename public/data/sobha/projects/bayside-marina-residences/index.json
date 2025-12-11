@@ -1,0 +1,149 @@
+{
+  "slug": "bayside-marina-residences",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Bayside Marina Residences",
+  "name_ar": "Bayside Marina Residences",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.60906640021401,
+    "lng": 55.63266573919659
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": "Apartments"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 50,
+  "area_sqm_max": 200,
+  "area_sqft_min": 545,
+  "area_sqft_max": 2158,
+  "price_aed_min": 1360000,
+  "price_aed_max": 5770000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
+    },
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
+    },
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Double Glazed Windows",
+      "ar": "نوافذ زجاجية مزدوجة"
+    },
+    {
+      "en": "Centrally Air-Conditioned",
+      "ar": "نظام تبريد مركزي"
+    },
+    {
+      "en": "Central Heating",
+      "ar": "تدفئة مركزية"
+    },
+    {
+      "en": "Elevators in Building",
+      "ar": "مصاعد"
+    },
+    {
+      "en": "Parking Spaces",
+      "ar": "مواقف سيارات"
+    },
+    {
+      "en": "Jacuzzi",
+      "ar": "جاكوزي"
+    }
+  ],
+  "features": [],
+  "description_en": "Experience effortless luxury at Tower C - Marina Residences. Each unit is fully furnished, with every detail meticulously crafted for immediate comfort and style",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://sobharealty.com/properties-in-umm-al-quwain/bayside-marina-residences/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.031835Z"
+}

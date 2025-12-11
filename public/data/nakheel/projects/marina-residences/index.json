@@ -1,0 +1,156 @@
+{
+  "slug": "marina-residences",
+  "developer": "Nakheel",
+  "community_slug": "",
+  "name_en": "Marina Residences",
+  "name_ar": "مارينا ريزيدنسز",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480c.jpg?sfvrsn=88106499_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480a.jpg?sfvrsn=635c82e3_1"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.115037318459915,
+    "lng": 55.13614978650672
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Penthouse",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "bedrooms": [
+    1,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 7,
+  "area_sqm_max": null,
+  "area_sqft_min": 72,
+  "area_sqft_max": null,
+  "price_aed_min": 500000,
+  "price_aed_max": 2150000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Swimming Pools",
+      "ar": ""
+    },
+    {
+      "en": "Dog Parks",
+      "ar": ""
+    },
+    {
+      "en": "Gym",
+      "ar": "نادي رياضي"
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Parking Spaces",
+      "ar": "مواقف سيارات"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
+    }
+  ],
+  "features": [],
+  "description_en": "Experience Nakheel's Marina Residences - Spectacular waterside living on Palm Jumeirah with two and three-bedroom apartments and luxurious penthouses.",
+  "description_ar": "شقق في مارينا.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/marina-residences"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.997628Z"
+}

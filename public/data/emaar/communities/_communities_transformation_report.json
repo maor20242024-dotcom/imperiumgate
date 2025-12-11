@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-30T10:29:00.447Z",
+  "source": "/Users/rodolfmichail/tekon/_enriched_preview/emaar/communities",
+  "emarfull": "/Users/rodolfmichail/tekon/_enriched_preview/emarfull",
+  "output": "/Users/rodolfmichail/tekon/_enriched_preview/final_communities",
+  "stats": {
+    "total": 13,
+    "success": 13,
+    "enriched": 0,
+    "errors": []
+  }
+}

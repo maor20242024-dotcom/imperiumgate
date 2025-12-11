@@ -24,6 +24,19 @@ export default async function DevelopersPage({
     })
   );
 
+  // Helper to safely get localized string
+  const getLocalized = (obj: any, loc: string): string => {
+    if (!obj) return '';
+    if (typeof obj === 'string') return obj;
+    // Check if expected key exists and is a string
+    const val = obj[loc];
+    if (typeof val === 'string') return val;
+    // Fallback to en or any string property
+    if (typeof obj.en === 'string') return obj.en;
+    if (typeof obj.ar === 'string') return obj.ar;
+    return JSON.stringify(val); // Last resort debug
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-black via-zinc-950 to-black text-light">
       <div className="max-w-7xl mx-auto px-6 py-16">
@@ -50,7 +63,7 @@ export default async function DevelopersPage({
                 <div className="relative h-24 mb-6 flex items-center justify-center">
                   <Image
                     src={developer.logoWhite}
-                    alt={developer.name[locale as Locale]}
+                    alt={getLocalized(developer.name, locale)}
                     width={200}
                     height={96}
                     className="object-contain filter brightness-90 group-hover:brightness-110 transition-all"
@@ -60,13 +73,13 @@ export default async function DevelopersPage({
 
               {/* Name */}
               <h2 className="text-2xl font-bold text-gold mb-2 text-center">
-                {developer.name[locale as Locale]}
+                {getLocalized(developer.name, locale)}
               </h2>
 
               {/* Description */}
-              {developer.description?.[locale as Locale] && (
+              {developer.description && (
                 <p className="text-gray-400 text-sm mb-4 text-center">
-                  {developer.description[locale as Locale]}
+                  {getLocalized(developer.description, locale)}
                 </p>
               )}
 

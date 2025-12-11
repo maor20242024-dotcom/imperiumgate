@@ -1,254 +1,197 @@
 {
-  "projectName": {
-    "en": "Sobha Elwood",
-    "ar": "Sobha Elwood"
-  },
-  "description": {
-    "en": "Discover Sobha Elwood, a luxurious villa community offering 4 to 6 bedroom villas surrounded by green living. Explore the variety of villas and modern amenities! Sobha Elwood, a massive development spanning 10 million sq. ft., is elegantly situated within a serene and sustainable environment, where 10,000+ trees adorn 26% of the site area. Embodying the ethos of ‘The Canvas of Nature,’ Sobha Elwood epitomises luxury living. Each residence is a meticulously designed masterpiece, seamlessly integrating with the lush surroundings. The landscape (with dedicated 47% open space and parks) and parks here are inspired by the world's seven largest forests - from the Baobab to the Amazon rainforest - showcasing an array of trees from the most mystical and enchanting woodlands. This exclusive community features premium villas in 4, 5, and 6-bedroom configurations, each crafted to envelop residents in a tranquil and natural environment. Here, every breath is enriched with pristine air, and every step taken within this community draws you deeper into nature’s sublime embrace.",
-    "ar": "Discover Sobha Elwood, a luxurious villa community offering 4 to 6 bedroom villas surrounded by green living. Explore the variety of villas and modern amenities! Sobha Elwood, a massive development spanning 10 million sq. ft., is elegantly situated within a serene and sustainable environment, where 10,000+ trees adorn 26% of the site area. Embodying the ethos of ‘The Canvas of Nature,’ Sobha Elwood epitomises luxury living. Each residence is a meticulously designed masterpiece, seamlessly integrating with the lush surroundings. The landscape (with dedicated 47% open space and parks) and parks here are inspired by the world's seven largest forests - from the Baobab to the Amazon rainforest - showcasing an array of trees from the most mystical and enchanting woodlands. This exclusive community features premium villas in 4, 5, and 6-bedroom configurations, each crafted to envelop residents in a tranquil and natural environment. Here, every breath is enriched with pristine air, and every step taken within this community draws you deeper into nature’s sublime embrace."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Live",
-        "ar": ""
-      },
-      "description": {
-        "en": "Crafting a Lifestyle of Your Dreams. Experience luxury living in expansive 4, 5, and 6-bedroom villas nestled amongst greenest community of the town.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Entertainment",
-        "ar": ""
-      },
-      "description": {
-        "en": "Leisure that Refreshes Your Soul. Indulge in a wealth of amenities designed for endless fun and relaxation.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dine",
-        "ar": ""
-      },
-      "description": {
-        "en": "Feast on Luxurious Delicacies. Savour exquisite dining experiences in the sports café inside the community.",
-        "ar": ""
-      }
-    }
+  "slug": "elwood",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Elwood",
+  "name_ar": "Sobha Elwood",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-08/Banner-1440x619%20%CE%93%C3%87%C3%B4%201.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-08/Banner-1440x619%20%CE%93%C3%87%C3%B4%201.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2016.jpg.webp?itok=VmjAN-r6",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2015.jpg.webp?itok=-9WLfbrg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2017.jpg.webp?itok=BwunEMQR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2028.jpg.webp?itok=lPBQhw_J",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2029.jpg.webp?itok=23KZJDSE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2014.jpg.webp?itok=WotkdEdi",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2018.jpg.webp?itok=zfRRkmK4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2019.jpg.webp?itok=OzocxY6o",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2020.jpg.webp?itok=lNDquSoK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2022.jpg.webp?itok=5KYuzXGp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2023.jpg.webp?itok=ccA2SGsW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2024.jpg.webp?itok=uKzfQxyE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2025.jpg.webp?itok=URcVkKId",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2026.jpg.webp?itok=ttPpkkSJ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2027.jpg.webp?itok=Z0JpK5GQ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2021.jpg.webp?itok=_LTYlDJh",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery1.jpg.webp?itok=7wtT1OEE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery2.jpg.webp?itok=AFXkyOnn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery3.jpg.webp?itok=_Yvg4-GD",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery4.jpg.webp?itok=b_tdAx2l",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery5.jpg.webp?itok=Y2rLKKQk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery6.jpg.webp?itok=9jEZS2mT"
   ],
-  "area": {
-    "en": "10 Million Sq. Ft. Development",
-    "ar": ""
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.023187628421,
+    "lng": 55.447068814157
   },
-  "bedrooms": [
-    4,
-    5,
-    6
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "",
-  "goldenVisaEligible": false,
-  "latitude": 0,
-  "launchDate": "",
-  "location": {
-    "en": "elegantly situated within a serene and sustainable environment in Dubai, offering quick access to major roads and public transport options.",
-    "ar": "elegantly situated within a serene and sustainable environment in Dubai, offering quick access to major roads and public transport options.",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "10 Million Sq. Ft. Development",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 0,
-  "mapDescription": {
-    "en": "Seamless Connectivity Redefined",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "341",
-  "projectPageLink": "https://sobharealty.com/our-communities/sobha-elwood/",
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Villas",
-      "ar": "Villas"
+      "ar": ""
     }
   ],
-  "sellable": true,
-  "views": [
-    "Lush surroundings",
-    "Nature’s sublime embrace",
-    "Green environment",
-    "Peaceful"
+  "bedrooms": [
+    4,
+    5
   ],
-  "slug": "elwood",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.733304",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Community%20Banner%201440x651.jpg.webp?itok=wEuoXPHO",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Elwood.png.webp?itok=uVqpBje3"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/1440x775.jpg.webp?itok=GpSe_jkB"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/337x479.jpg.webp?itok=kDlGmmIj"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/210x283%202.jpg.webp?itok=CMRDleOt"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/210x283%20%E2%80%93%207.jpg.webp?itok=fV5MR-U4"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/337x497.jpg.webp?itok=yf12gHkN"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/TYPE%205B%20COURTYARD%20%281%29.jpg.webp?itok=QRuDa7_w"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Entertainment.jpg.webp?itok=Yn6Kj00S"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Dine.jpg.webp?itok=611YN6Vl"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/desktop_4.jpg.webp?itok=cdXctUva"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Sobha%20Elwood%20%E2%80%93%201.jpg.webp?itok=9vRjFx4z"
-      }
-    ],
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": 60,
+  "area_sqm_max": 668,
+  "area_sqft_min": 650,
+  "area_sqft_max": 7186,
+  "price_aed_min": 9000000,
+  "price_aed_max": 14000000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Adventure Walk",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Cricket pitch",
+      "ar": ""
+    },
+    {
+      "en": "COMMUNITY GARDEN",
+      "ar": ""
+    },
+    {
+      "en": "Dog park",
+      "ar": ""
+    },
+    {
+      "en": "Massive Clubhouse",
+      "ar": ""
+    },
+    {
+      "en": "Fitness & Wellness Decks",
+      "ar": ""
+    },
+    {
+      "en": "Community pavillion",
+      "ar": ""
+    },
+    {
+      "en": "Hammock court",
+      "ar": ""
+    },
+    {
+      "en": "Treehouse",
+      "ar": ""
+    },
+    {
+      "en": "Wadi",
+      "ar": ""
+    },
+    {
+      "en": "Forest play park",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Elwood",
-    "ar": "شوبا إلوود"
-  },
-  "sourceUrl": "https://sobharealty.com/properties-in-dubai/sobha-elwood/",
-  "community": "sobha-elwood",
-  "communityName": {
-    "en": "Sobha Elwood",
-    "ar": "شوبا إلوود"
-  },
-  "auto_translated": true,
-  "id": "sobha-elwood",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Discover Sobha Elwood, a luxurious villa community offering 4 to 6 bedroom villas surrounded by green living. Explore the variety of villas and modern amenities! Sobha Elwood, a massive development spanning 10 million sq. ft., is elegantly situated within a serene and sustainable environment, where 10,000+ trees adorn 26% of the site area. Embodying the ethos of ‘The Canvas of Nature,’ Sobha Elwood epitomises luxury living. Each residence is a meticulously designed masterpiece, seamlessly integrating with the lush surroundings. The landscape (with dedicated 47% open space and parks) and parks here are inspired by the world's seven largest forests - from the Baobab to the Amazon rainforest - showcasing an array of trees from the most mystical and enchanting woodlands. This exclusive community features premium villas in 4, 5, and 6-bedroom configurations, each crafted to envelop residents in a tranquil and natural environment. Here, every breath is enriched with pristine air, and every step taken within this community draws you deeper into nature’s sublime embrace.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-01/Sobha%20Elwood%20Brochure-compressed.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-elwood/",
+    "https://sobharealty.com/properties-in-dubai/sobha-elwood/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.016386Z"
 }

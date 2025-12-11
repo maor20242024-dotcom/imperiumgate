@@ -1,200 +1,124 @@
 {
   "slug": "may",
-  "id": "352309",
   "developer": "Emaar",
-  "brand": "Emaar Properties",
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "arabian-ranches",
+  "name_en": "May",
+  "name_ar": "ماي",
+  "website": "https://properties.emaar.com/ar/properties/may",
+  "canonical_url": "https://properties.emaar.com/ar/properties/may",
+  "logo": "",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/HARBOUR_GATE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HILLCREST_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/CEDAR_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/DHE_PF_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/SAVANNA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/RIVANA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/ELVIRA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/01_HERO_EMERALD_HILLS.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/09/PALACE_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/CREEK_RISE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/PALACE_RESIDENCES_NORTH_DCH_WEBSITE_MAIN_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_HORIZON.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/11/THE_COVE_DCH_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DCR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/eden_hero_banner.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/LANDING_PAGE_HERO_16200x832-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg"
+  ],
+  "video_url": "https://properties.emaar.com/wp-content/uploads/2023/05/MAY-ARIII_Launch_AR_16x9_Web.mp4",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.0453,
+    "lng": 55.2931
   },
-  "city": {
-    "ar": "دبي",
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": "المرابع العربية 3",
-    "en": "Arabian Ranches 3"
-  },
-  "location": {
-    "ar": "المرابع العربية 3",
-    "en": "Arabian Ranches 3"
-  },
-  "latitude": 25.0453,
-  "longitude": 55.2931,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": "Townhouses",
-  "projectName": {
-    "ar": "ماي",
-    "en": "May"
-  },
-  "summary": {
-    "ar": "اكتشف منازل ماي في المرابع العربية 3 وتمتع بتاون هاوس مناسب للعائلات مع إطلالة على المناظر الطبيعية الساحرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
-    "en": "Discover May homes in Arabian Ranches 3 and enjoy family-friendly townhouses with charming natural views. Visit our website for more information."
-  },
-  "heroCopy": {
-    "ar": {
-      "title": "ماي",
-      "subtitle": "المرابع العربية 3"
-    },
-    "en": {
-      "title": "May",
-      "subtitle": "Arabian Ranches 3"
-    }
-  },
-  "description": {
-    "ar": "اكتشف منازل ماي في المرابع العربية 3 وتمتع بتاون هاوس مناسب للعائلات مع إطلالة على المناظر الطبيعية الساحرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
-    "en": "Discover May homes in Arabian Ranches 3 and enjoy family-friendly townhouses with charming natural views. Visit our website for more information."
-  },
-  "propertyTypes": [
+  "address_en": "Arabian Ranches 3",
+  "address_ar": "المرابع العربية 3",
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status": "",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "2023-05-08",
+  "property_types": [
     {
-      "ar": "تاون هاوس",
-      "en": "Townhouse"
+      "en": "Townhouse",
+      "ar": "تاون هاوس"
     }
   ],
   "bedrooms": [],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": null
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": null,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "minAreaSqft": 0,
-  "maxAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "maxAreaSqmt": 0,
-  "minPriceAED": 0,
-  "maxPriceAED": null,
-  "deliveryDate": null,
-  "launchDate": "2023-05-08",
-  "projectStatus": {
-    "ar": null,
-    "en": null
-  },
-  "views": [],
-  "goldenVisaEligible": false,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": null
-  },
-  "videoLink": null,
-  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_HERO_2.jpg",
-  "galleryImages": [],
-  "amenities": [],
-  "highlights": [],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "sellable": null,
-  "projectPageLink": "https://properties.emaar.com/ar/properties/may",
-  "contact": {
-    "phone": null,
-    "whatsapp": null,
-    "email": null
-  },
-  "meta": {
-    "title": "ماي | المرابع العربية 3 | إعمار العقارية",
-    "description": "اكتشف منازل ماي في المرابع العربية 3 وتمتع بتاون هاوس مناسب للعائلات مع إطلالة على المناظر الطبيعية الساحرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
-    "og_title": "ماي | المرابع العربية 3 | إعمار العقارية",
-    "og_description": "اكتشف منازل ماي في المرابع العربية 3 وتمتع بتاون هاوس مناسب للعائلات مع إطلالة على المناظر الطبيعية الساحرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
-    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_HERO_2.jpg",
-    "canonical_url": "https://properties.emaar.com/ar/properties/may/",
-    "hreflang": {
-      "en": "https://properties.emaar.com/en/properties/may/",
-      "ar": "https://properties.emaar.com/ar/properties/may/",
-      "ru": "https://properties.emaar.com/ru/properties/may/",
-      "x-default": "https://properties.emaar.com/en/properties/may/"
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Park",
+      "ar": "حديقة"
     },
-    "fetchedAt": "2025-11-09T10:17:41.152Z",
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "assets": {
-    "images": [
-      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_BROCHURE.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_PROPERTY_FEATURE_1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_PROPERTY_FEATURE_2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_EXTERIOR_2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_EXTERIOR_3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_EXTERIOR_1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_INTERIOR_3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_INTERIOR_4.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_INTERIOR_1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_INTERIOR_2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-32.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMM_IMG_706X385_1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMM_IMG_706X385_2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMM_IMG_706X385_3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-31.jpg",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
-      "https://properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_PROPERTY_FEATURE_1.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_WEBSITE_PROPERTY_FEATURE_2.jpg"
-    ],
-    "videos": [
-      "https://properties.emaar.com/wp-content/uploads/2023/05/MAY-ARIII_Launch_AR_16x9_Web.mp4"
-    ],
-    "pdfs": [
-      "https://properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_BROCHURE.pdf"
-    ],
-    "iframes": [
-      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
-      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
-      "about:blank"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "arabian-ranches",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
+    {
+      "en": "Playground",
+      "ar": "ملعب"
     }
-  }
+  ],
+  "features": [],
+  "description_en": "Discover May homes in Arabian Ranches 3 and enjoy family-friendly townhouses with charming natural views. Visit our website for more information.",
+  "description_ar": "اكتشف منازل ماي في المرابع العربية 3 وتمتع بتاون هاوس مناسب للعائلات مع إطلالة على المناظر الطبيعية الساحرة. تفضّل بزيارة موقعنا لمزيد من المعلومات.",
+  "brochure_url": "https://properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_BROCHURE.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": false,
+  "golden_visa_eligible": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/properties/may"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T10:17:41.152Z",
+  "updated_at": "2025-11-30T18:47:07.663Z"
 }

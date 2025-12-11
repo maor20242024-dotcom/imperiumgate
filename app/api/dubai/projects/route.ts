@@ -13,7 +13,7 @@ export async function GET() {
   // Assuming the client expects a list of projects, potentially with a video link.
   const formattedProjects = dubaiProjects.map(p => ({
     src: p.videoLink || '', // Assuming videoLink is directly available or needs to be derived
-    name: typeof p.projectName === 'string' ? p.projectName : (p.projectName?.en || p.projectName?.ar || ''), // Handle MaybeLocalized type
+    name: typeof p.projectName === 'string' ? p.projectName : ((p.projectName as any)?.en || (p.projectName as any)?.ar || ''), // Handle MaybeLocalized type
     developer: p.developer, // Use developer instead of developerSlug
     slug: p.slug,
     // Add other fields as needed by the client that were in the original 'Slide' type

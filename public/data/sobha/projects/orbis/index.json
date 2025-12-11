@@ -1,240 +1,158 @@
 {
-  "projectName": {
-    "en": "Sobha Orbis",
-    "ar": "Sobha Orbis"
+  "slug": "orbis",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Orbis",
+  "name_ar": "Sobha Orbis",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Orbis_0.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Orbis_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/L%20%282%29-.jpg.webp?itok=O3UJMp8l",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/A%20%282%29-.jpg.webp?itok=61WZlm62",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/A%20%283%29-.jpg.webp?itok=tpW24eqP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%281%29-.jpg.webp?itok=jTXiSHmP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%282%29-.jpg.webp?itok=Ylu8aM7-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%283%29-.jpg.webp?itok=Egg_EAqT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%284%29-.jpg.webp?itok=FsDIYOyw"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.0475,
+    "lng": 55.2346
   },
-  "description": {
-    "en": "Step into the world of Sobha Orbis, set against the vibrant backdrop of Dubai Motor City. Rising gracefully, Sobha Orbis is a beacon of modern urban living, inviting those who seek unmatched refinement and elegance. From its sleek architecture to the exquisite details of its interiors, every element across the seven towers of Sobha Orbis has been carefully crafted to exude timeless luxury. Indulge in a realm where extravagance has no bounds, where each resort-style amenity is designed to fulfil your every desire, and every moment resonates with grandeur.",
-    "ar": "Step into the world of Sobha Orbis, set against the vibrant backdrop of Dubai Motor City. Rising gracefully, Sobha Orbis is a beacon of modern urban living, inviting those who seek unmatched refinement and elegance. From its sleek architecture to the exquisite details of its interiors, every element across the seven towers of Sobha Orbis has been carefully crafted to exude timeless luxury. Indulge in a realm where extravagance has no bounds, where each resort-style amenity is designed to fulfil your every desire, and every moment resonates with grandeur."
-  },
-  "amenities": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
-      "name": {
-        "en": "Live",
-        "ar": ""
-      },
-      "description": {
-        "en": "Sobha Orbis stands tall with its seven stunning towers, elegantly sculpted to rise amid Dubai's vibrant cityscape. Offering a selection of 1, 1.5, and 2-bedroom residences, Sobha Orbis is crafted for those who seek an elevated lifestyle with every detail considered. This architectural marvel seamlessly blends luxury with practicality, boasting excellent connectivity to D63, allowing residents to navigate Dubai effortlessly. At Sobha Orbis, urban sophistication meets thoughtful design, setting a new standard for modern living in the heart of Dubai Motor City.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dine-In",
-        "ar": ""
-      },
-      "description": {
-        "en": "At Sobha Orbis, dining is an experience to savour at the dedicated food and beverage street and retail zone. Residents can indulge in a diverse range of culinary options, from casual eateries to fine dining restaurants, all designed to satisfy every palate. This vibrant dining hub fosters a sense of community and convenience, allowing residents to enjoy delectable meals and socialise just moments from their doorstep. Whether you're in the mood for a quick bite or a leisurely meal, Sobha Orbis offers a delightful array of dining choices to elevate your everyday living.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Entertainment",
-        "ar": ""
-      },
-      "description": {
-        "en": "Enjoy unmatched convenience with an array of 40+ resort-style amenities right at your doorstep. Whether you seek relaxation or recreation, Sobha Orbis offers endless options tailored to your lifestyle. Dive into the refreshing waters of the resort-style pool, find tranquillity in the lush, landscaped gardens, or stay energised at the state-of-the-art fitness centre and clubhouse—all within a short stroll from your home.",
-        "ar": ""
-      }
+      "en": "Apartments",
+      "ar": ""
     }
   ],
-  "area": {
-    "en": "Motor City",
-    "ar": "موتور سيتي"
-  },
   "bedrooms": [
     1,
     2
   ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
+  "units_count": null,
+  "area_sqm_min": 8,
+  "area_sqm_max": null,
+  "area_sqft_min": 91,
+  "area_sqft_max": null,
+  "price_aed_min": 1000000,
+  "price_aed_max": 2010000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "jacuzzi",
+      "ar": ""
+    },
+    {
+      "en": "kids play area",
+      "ar": ""
+    },
+    {
+      "en": "BBQ ZONE",
+      "ar": ""
+    },
+    {
+      "en": "RESORT STYLE POOL",
+      "ar": ""
+    },
+    {
+      "en": "Panoramic green views",
+      "ar": ""
+    },
+    {
+      "en": "Retail Zone",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Step into the world of Sobha Orbis, set against the vibrant backdrop of Dubai Motor City. Rising gracefully, Sobha Orbis is a beacon of modern urban living, inviting those who seek unmatched refinement and elegance. From its sleek architecture to the exquisite details of its interiors, every element across the seven towers of Sobha Orbis has been carefully crafted to exude timeless luxury. Indulge in a realm where extravagance has no bounds, where each resort-style amenity is designed to fulfil your every desire, and every moment resonates with grandeur.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-11/11.%20Sobha%20Orbis.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "",
-  "goldenVisaEligible": false,
-  "latitude": 25.0475,
-  "launchDate": "",
-  "location": {
-    "en": "Dubai Motor City",
-    "ar": "Dubai Motor City",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Motor City",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.2346,
-  "mapDescription": {
-    "en": "A WORLD in Its Own",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [],
-  "maxAreaSqft": 348182,
-  "maxAreaSqmt": 32348,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "paymentPlan": {
-    "en": "Attractive Payment Plans",
-    "ar": ""
-  },
-  "projectID": "392",
-  "projectPageLink": "https://sobharealty.com/our-communities/sobha-orbis/",
-  "projectStatus": {
-    "en": "Off-plan",
-    "ar": "Off-plan"
-  },
-  "propertyTypes": [
-    {
-      "en": "Apartments",
-      "ar": "Apartments"
-    },
-    {
-      "en": "Residential Units",
-      "ar": "Residential Units"
-    }
-  ],
-  "sellable": false,
-  "views": [
-    "panoramic city views",
-    "lush green surroundings"
-  ],
-  "slug": "orbis",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.759514",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Banner_2.jpg.webp?itok=G2tWRawx",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Desktop_3.jpg.webp?itok=P0lAGm0l"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mobile_4.jpg.webp?itok=qnvL0aE8"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Common_1.jpg.webp?itok=4UDGX-pm"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Comon.jpg.webp?itok=O2xuPY4t"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Commo.jpg.webp?itok=UevFQTvF"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/image_1.jpg.webp?itok=MOXriNW8"
-      }
-    ],
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Orbis",
-    "ar": "شوبا أوربيس"
-  },
-  "sourceUrl": "https://sobharealty.com/properties-in-dubai/sobha-orbis/",
-  "community": "sobha-orbis",
-  "communityName": {
-    "en": "Sobha Orbis",
-    "ar": "شوبا أوربيس"
-  },
-  "auto_translated": true,
-  "id": "sobha-orbis",
-  "fromCommunity": "motor-city",
-  "contact_points": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-orbis/",
+    "https://sobharealty.com/properties-in-dubai/sobha-orbis/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.020373Z"
 }

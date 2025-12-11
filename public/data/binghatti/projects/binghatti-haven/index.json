@@ -1,72 +1,39 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-haven",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Haven",
+  "name_ar": "Binghatti Haven",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/haven_outdoor-sitting-area.jpg",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/haven_outdoor-sitting-area.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.05137774554234,
+    "lng": 55.15722454203021
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Dubai Sports City"
-  },
-  "location": {
-    "ar": null,
-    "en": "Dubai Sports City",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "Dubai Sports City"
-    }
-  },
-  "latitude": 25.05137774554234,
-  "longitude": 55.15722454203021,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Haven",
-    "en": "Binghatti Haven",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Binghatti Haven is a masterpiece located in Dubai Sports City, providing the perfect harmony between ambitious living and serene tranquility while still being a part of a dynamic district. If you're seeking a distinguished project that combines luxury, sports lifestyle, and investment potential, Binghatti Haven presents an unmissable opportunity for both families and investors."
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Dubai Sports City",
+  "location_ar": "",
+  "district_en": "Dubai Sports City",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "Q1 2026",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
@@ -75,196 +42,70 @@
     2,
     3
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "20% down payment, 50% during construction, 30% on completion"
-  },
-  "minAreaSqft": 384,
-  "maxAreaSqft": 1550,
-  "minAreaSqmt": 36,
-  "maxAreaSqmt": 144,
-  "minPriceAED": 715000,
-  "maxPriceAED": null,
-  "deliveryDate": "Q1 2026",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "تحت الإنشاء",
-    "en": "Under Construction"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-haven-assets/binghatti-haven-brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
-  "heroImage": "https://binghattiweb.imgix.net/haven_outdoor-sitting-area.jpg",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/haven_outdoor-sitting-area.jpg",
-    "https://binghattiweb.imgix.net/haven_swimming-pool-Deck.jpg",
-    "https://binghattiweb.imgix.net/haven_swimming-pool.jpg",
-    "https://binghattiweb.imgix.net/haven_tennis-basketball-courts.jpg",
-    "https://binghattiweb.imgix.net/haven_layout-1-bedroom.jpg",
-    "https://binghattiweb.imgix.net/haven_layout-2-bedroom.jpg",
-    "https://binghattiweb.imgix.net/haven_layout-3-bedroom.jpg",
-    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-    "https://binghattiweb.imgix.net/binghatti-haven-1.webp",
-    "https://binghattiweb.imgix.net/binghatti-haven-3.webp",
-    "https://binghattiweb.imgix.net/binghatti-haven-4.webp",
-    "https://binghattiweb.imgix.net/haven_footer-horizontal.jpg"
-  ],
+  "units_count": null,
+  "area_sqm_min": 36,
+  "area_sqm_max": 144,
+  "area_sqft_min": 384,
+  "area_sqft_max": 1550,
+  "price_aed_min": 715000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "20% down payment, 50% during construction, 30% on completion",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Swimming Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Gymnasium"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Gymnasium",
+      "ar": "نادي رياضي"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Kids Play Area"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Landscaped Gardens"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Landscaped Gardens",
+      "ar": "حدائق طبيعية"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Barbecue Area"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Barbecue Area",
+      "ar": "منطقة شواء"
     }
   ],
-  "highlights": [
-    {
-      "ar": null,
-      "en": "Strategic Location in Dubai Sports City with golf course views"
-    },
-    {
-      "ar": null,
-      "en": "Fully furnished apartments"
-    },
-    {
-      "ar": null,
-      "en": "26 residential floors with 1 basement level, 3 podium levels, and a roof"
-    },
-    {
-      "ar": null,
-      "en": "Premium connectivity - 15 minutes from Dubai International Airport"
-    },
-    {
-      "ar": null,
-      "en": "Sports-centric lifestyle"
-    }
-  ],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-haven",
+  "features": [],
+  "description_en": "Binghatti Haven is a masterpiece located in Dubai Sports City, providing the perfect harmony between ambitious living and serene tranquility while still being a part of a dynamic district. If you're seeking a distinguished project that combines luxury, sports lifestyle, and investment potential, Binghatti Haven presents an unmissable opportunity for both families and investors.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-haven-assets/binghatti-haven-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:07:58.009Z",
-    "title": "Binghatti Haven Sports City – Studio to 3 Bedroom Apartments",
-    "description": "Discover Binghatti Haven in Dubai’s vibrant district. Offering 1 to 3-bedroom apartments starting from AED 750K, this residence balances ambition with serene living.",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-haven",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-haven"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/haven_outdoor-sitting-area.jpg",
-      "https://binghattiweb.imgix.net/haven_swimming-pool-Deck.jpg",
-      "https://binghattiweb.imgix.net/haven_swimming-pool.jpg",
-      "https://binghattiweb.imgix.net/haven_tennis-basketball-courts.jpg",
-      "https://binghattiweb.imgix.net/haven_layout-1-bedroom.jpg",
-      "https://binghattiweb.imgix.net/haven_layout-2-bedroom.jpg",
-      "https://binghattiweb.imgix.net/haven_layout-3-bedroom.jpg",
-      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/binghatti-haven-1.webp",
-      "https://binghattiweb.imgix.net/binghatti-haven-3.webp",
-      "https://binghattiweb.imgix.net/binghatti-haven-4.webp",
-      "https://binghattiweb.imgix.net/haven_footer-horizontal.jpg"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-haven-assets/binghatti-haven-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-haven-assets/binghatti-haven-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-haven-assets/binghatti-haven-floor-plans.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-haven-assets/binghatti-haven-location.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d81786.57137962824!2d55.15722454203021!3d25.05137774554234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6d6ecaa1de29%3A0x5b0e7655fc891c79!2sBinghatti%20Haven!5e0!3m2!1sen!2sae!4v1745583402669!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": null,
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.743Z"
 }

@@ -1,418 +1,158 @@
 {
-  "projectName": {
-    "en": "Sobha Hartland Greens",
-    "ar": "Sobha Hartland Greens"
-  },
-  "description": {
-    "en": "Sobha Hartland Greens comprises a stunning bouquet of six mid-rise buildings set against the backdrop of plush greenery infused with the charms of city life. This residential masterpiece is located in close proximity to some of the estate’s most vibrant districts and is home to a selection of exclusive boutiques.",
-    "ar": "Sobha Hartland Greens comprises a stunning bouquet of six mid-rise buildings set against the backdrop of plush greenery infused with the charms of city life. This residential masterpiece is located in close proximity to some of the estate’s most vibrant districts and is home to a selection of exclusive boutiques."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "SWIMMING POOL",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "world-class gym",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "kids play area",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "retail space",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Cycling Track",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sports Arena",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    }
+  "slug": "hartland-greens",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Hartland Greens",
+  "name_ar": "Sobha Hartland Greens",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20Greens.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20Greens.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Night%20Render.jpg.webp?itok=jxqaskiT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_Dining%204%20bed.jpg.webp?itok=TlAOwIXI",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_Bldg%203%20Park%20View%20-%2001-01.jpg.webp?itok=133HkAt3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_BathRoom.jpg.webp?itok=_3Gv1qsF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_4Bed%20Duplex-01-06.jpg.webp?itok=5ZatJREu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20Landscape%20Pool%20granite%20%281%29%20%281%29_6.jpg.webp?itok=D5bhkAHr",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20landscape%20cam7_3.jpg.webp?itok=vADe6NEm",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20%20Bolevard%20view-012-04.jpg.webp?itok=QkWqBL4C"
   ],
-  "area": {
-    "en": "Mohammed Bin Rashid City",
-    "ar": ""
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1767078,
+    "lng": 55.3107527
   },
-  "bedrooms": [
-    1,
-    2,
-    3,
-    4
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 25.1767078,
-  "launchDate": null,
-  "location": {
-    "en": "Mohammed Bin Rashid City",
-    "ar": "Mohammed Bin Rashid City",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Mohammed Bin Rashid City",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3107527,
-  "mapDescription": {
-    "en": "Vibrant Living, Nearby Essentials",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "4 km",
-        "ar": "4 km"
-      },
-      "category": {
-        "en": "Education",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Airport",
-        "ar": "مطار"
-      }
-    },
-    {
-      "name": {
-        "en": "BUSINESS BAY",
-        "ar": "BUSINESS BAY"
-      },
-      "distance": {
-        "en": "13 km",
-        "ar": "13 km"
-      },
-      "category": {
-        "en": "Business District",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "THE DUBAI MALL",
-        "ar": "THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "14 km",
-        "ar": "14 km"
-      },
-      "category": {
-        "en": "Shopping Mall",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
-        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
-        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
-      },
-      "distance": {
-        "en": "7 km",
-        "ar": "7 km"
-      },
-      "category": {
-        "en": "Nature Reserve",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MEYDAN RACECOURSE",
-        "ar": "MEYDAN RACECOURSE"
-      },
-      "distance": {
-        "en": "13 km",
-        "ar": "13 km"
-      },
-      "category": {
-        "en": "Sports/Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI FRAME",
-        "ar": "DUBAI FRAME"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI OPERA",
-        "ar": "DUBAI OPERA"
-      },
-      "distance": {
-        "en": "19 km",
-        "ar": "19 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "30 km",
-        "ar": "30 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    }
-  ],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "58",
-  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-hartland-greens/",
-  "projectStatus": {
-    "en": "On Plan",
-    "ar": "On Plan"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
-      "ar": "Apartments"
+      "ar": ""
     }
   ],
-  "sellable": false,
-  "views": [],
-  "slug": "hartland-greens",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.741287",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Hartland%20Greens.jpg.webp?itok=ubOJFvuN",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Night%20Render.jpg.webp?itok=jxqaskiT"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_Dining%204%20bed.jpg.webp?itok=TlAOwIXI"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_Bldg%203%20Park%20View%20-%2001-01.jpg.webp?itok=133HkAt3"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_BathRoom.jpg.webp?itok=_3Gv1qsF"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_4Bed%20Duplex-01-06.jpg.webp?itok=5ZatJREu"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20Landscape%20Pool%20granite%20%281%29%20%281%29_6.jpg.webp?itok=D5bhkAHr"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20landscape%20cam7_3.jpg.webp?itok=vADe6NEm"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20%20Bolevard%20view-012-04.jpg.webp?itok=QkWqBL4C"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-10/hartland-greens-brochure_0.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "bedrooms": [
+    1,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 22,
+  "area_sqm_max": null,
+  "area_sqft_min": 237,
+  "area_sqft_max": null,
+  "price_aed_min": 1600000,
+  "price_aed_max": 5999999,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-10/hartland-greens-brochure_0.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-10/hartland-greens-brochure_0.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "world-class gym",
+      "ar": ""
+    },
+    {
+      "en": "kids play area",
+      "ar": ""
+    },
+    {
+      "en": "retail space",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Hartland Greens",
-    "ar": "Sobha Hartland Greens"
-  },
-  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-hartland-greens/",
-  "auto_translated": true,
-  "id": "sobha-hartland-greens",
-  "fromCommunity": "mohammed-bin-rashid-city",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Sobha Hartland Greens comprises a stunning bouquet of six mid-rise buildings set against the backdrop of plush greenery infused with the charms of city life. This residential masterpiece is located in close proximity to some of the estate’s most vibrant districts and is home to a selection of exclusive boutiques.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-10/hartland-greens-brochure_0.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-hartland-greens/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.031337Z"
 }

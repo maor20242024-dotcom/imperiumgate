@@ -1,117 +1,167 @@
 {
-  "name": {
-    "en": "Verde by Sobha",
-    "ar": "فيردي باي سوبها"
-  },
   "slug": "sobha-verde",
-  "developer": "Sobha Realty",
-  "description": {
-    "ar": "من المقرر أن يكون فيردي من سوبها أحد أطول الأبراج السكنية، وهو تحفة معمارية توفر إطلالات خلابة على جزيرة جميرا ومجتمعات فلل الإمارات هيلز من جهة، وملعب الإمارات للجولف من جهة أخرى. تتميز هذه المنازل الرائعة بوسائل راحة عالمية المستوى، وهي مصممة لتناسب الذوق الرفيع للمسافرين الدائمين. فيردي من سوبها هو برج سكني فاخر للغاية مكون من 66 طابقًا في منطقة دبي المرغوبة، أبراج بحيرات جميرا (JLT)، ويضم شققًا من غرفة نوم واحدة إلى ثلاث غرف نوم.",
-    "en": "Set to be one of the tallest residential towers, Verde by Sobha is an architectural marvel that offers splendid views of Jumeirah Island and Emirates Hills villa communities on one side and the Emirates golf course on the other. Featuring world-class amenities, these exquisite homes are designed to suit the discerning taste of the globetrotters. Verde by Sobha is a 66-storeyed uber-luxury residential tower in Dubai’s coveted district, JLT, with 1 to 3 - bedroom apartments."
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Verde",
+  "name_ar": "Sobha Verde",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/1440x618_0.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/1440x618_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/2.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/3.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/4_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/5.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/6_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/7_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015380_1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015382_1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015381_1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015387.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015383_15.jpg.webp"
+  ],
+  "video_url": "https://sobharealty.com/digitalwalkthrough/sobhaverde/1br/?v=1",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": -1.0,
+    "lng": -1.0
   },
-  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/1440x618_0.jpg",
-  "videoLink": "https://sobharealty.com/digitalwalkthrough/sobhaverde/1br/?v=1",
-  "media": {
-    "gallery": [
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/1.jpg.webp",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/2.jpg.webp",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/3.jpg.webp",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/4_0.jpg.webp",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/5.jpg.webp",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/6_0.jpg.webp",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/7_0.jpg.webp",
-      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015380_1.jpg.webp",
-      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015382_1.jpg.webp",
-      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015381_1.jpg.webp",
-      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015387.jpg.webp",
-      "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015383_15.jpg.webp"
-    ],
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/1.jpg.webp",
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 8,
+  "area_sqm_max": 186,
+  "area_sqft_min": 81,
+  "area_sqft_max": 2000,
+  "price_aed_min": 1700000,
+  "price_aed_max": 2450000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "documents": {
-    "brochure": {
-      "en": [
-        "https://sobharealty.com/sites/default/files/2024-11/20.%20Verde%20By%20Sobha.pdf"
-      ],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "GYMNASIUM",
+      "ar": ""
+    },
+    {
+      "en": "F&B AND RETAIL ARENA",
+      "ar": ""
+    },
+    {
+      "en": "BBQ SPACES",
+      "ar": ""
+    },
+    {
+      "en": "RELAXATION DECKS",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "developerID": "sobha",
-  "location": {
-    "country": {
-      "ar": "",
-      "en": ""
-    },
-    "city": {
-      "ar": "",
-      "en": ""
-    },
-    "area": {
-      "ar": "",
-      "en": ""
-    },
-    "poiDistances": {}
-  },
-  "auto_translated": true,
-  "id": "sobha-verde",
-  "projectName": {
-    "en": "Sobha Verde",
-    "ar": "Sobha Verde"
-  },
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Set to be one of the tallest residential towers, Verde by Sobha is an architectural marvel that offers splendid views of Jumeirah Island and Emirates Hills villa communities on one side and the Emirates golf course on the other. Featuring world-class amenities, these exquisite homes are designed to suit the discerning taste of the globetrotters. Verde by Sobha is a 66-storeyed uber-luxury residential tower in Dubai’s coveted district, JLT, with 1 to 3 - bedroom apartments.",
+  "description_ar": "من المقرر أن يكون فيردي من سوبها أحد أطول الأبراج السكنية، وهو تحفة معمارية توفر إطلالات خلابة على جزيرة جميرا ومجتمعات فلل الإمارات هيلز من جهة، وملعب الإمارات للجولف من جهة أخرى. تتميز هذه المنازل الرائعة بوسائل راحة عالمية المستوى، وهي مصممة لتناسب الذوق الرفيع للمسافرين الدائمين. فيردي من سوبها هو برج سكني فاخر للغاية مكون من 66 طابقًا في منطقة دبي المرغوبة، أبراج بحيرات جميرا (JLT)، ويضم شققًا من غرفة نوم واحدة إلى ثلاث غرف نوم.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-11/20.%20Verde%20By%20Sobha.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [
+    "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-verde/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  },
-  "amenities": []
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.013942Z"
 }

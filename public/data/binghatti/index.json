@@ -1,45 +1,368 @@
 {
+  "contact": {
+    "phone": "+971567022702",
+    "whatsapp": "+971567022702"
+  },
   "provider": "binghatti",
+  "generatedAt": "2025-11-17T21:48:15.303Z",
   "communities": [
-    "binghatti-hills",
-    "binghatti-hillside",
-    "business-bay",
-    "jumeirah-village-circle"
+    {
+      "slug": "al-barasha-south-second",
+      "name": {
+        "ar": null,
+        "en": "al-barasha-south-second"
+      }
+    },
+    {
+      "slug": "al-hebiah-fourth",
+      "name": {
+        "ar": null,
+        "en": "al-hebiah-fourth"
+      }
+    },
+    {
+      "slug": "business-bay",
+      "name": {
+        "ar": null,
+        "en": "business-bay"
+      }
+    },
+    {
+      "slug": "downtown-dubai",
+      "name": {
+        "ar": null,
+        "en": "downtown-dubai"
+      }
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": {
+        "ar": null,
+        "en": "jumeirah-village-circle"
+      }
+    }
   ],
   "projects": [
-    "al-barasha-south-second",
-    "al-hebiah-fourth",
-    "binghatti-amberhall",
-    "binghatti-aquarise",
-    "binghatti-aurora",
-    "binghatti-circle",
-    "binghatti-dawn",
-    "binghatti-dusk",
-    "binghatti-elite",
-    "binghatti-flare",
-    "binghatti-ghost",
-    "binghatti-grove",
-    "binghatti-haven",
-    "binghatti-hillviews",
-    "binghatti-ivory",
-    "binghatti-jvc",
-    "binghatti-moonlight",
-    "binghatti-phoenix",
-    "binghatti-pinnacle",
-    "binghatti-royale",
-    "binghatti-ruby",
-    "binghatti-skyblade",
-    "binghatti-skyhall",
-    "binghatti-skyrise",
-    "binghatti-starlight",
-    "binghatti-twilight",
-    "downtown-dubai"
-  ],
-  "meta": {
-    "generatedAt": "2025-11-28T16:04:24Z",
-    "counts": {
-      "communities": 4,
-      "projects": 27
+    {
+      "slug": "aquarise",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Aquarise"
+      },
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "community": "business-bay"
+    },
+    {
+      "slug": "aurora",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Aurora"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "binghatti-amberhall",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Amberhall"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "circle",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Circle"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "dawn",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Dawn"
+      },
+      "status": {
+        "ar": "جاهز للسكن",
+        "en": "Ready"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "dusk",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Dusk"
+      },
+      "status": {
+        "ar": "جاهز للسكن",
+        "en": "Ready"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "elite",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Elite"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "flare",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Flare"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "ghost",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Ghost"
+      },
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      }
+    },
+    {
+      "slug": "grove",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Grove"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "haven",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Haven"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "hills",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Hills"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "hillside",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Hillside"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "hillviews",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Hillviews"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "ivory",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Ivory"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "jvc",
+      "name": {
+        "ar": null,
+        "en": "binghatti-jvc"
+      },
+      "status": {
+        "ar": null,
+        "en": "under-construction"
+      }
+    },
+    {
+      "slug": "moonlight",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Moonlight"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "phoenix",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Phoenix"
+      },
+      "status": {
+        "ar": "جاهز للسكن",
+        "en": "Ready"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "pinnacle",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Pinnacle"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "royale",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Royale"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "ruby",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Ruby"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "jumeirah-village-circle"
+    },
+    {
+      "slug": "skyblade",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Skyblade"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "downtown-dubai"
+    },
+    {
+      "slug": "skyhall",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Skyhall"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "business-bay"
+    },
+    {
+      "slug": "skyrise",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Skyrise"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      },
+      "community": "business-bay"
+    },
+    {
+      "slug": "starlight",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Starlight"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "twilight",
+      "name": {
+        "ar": null,
+        "en": "Binghatti Twilight"
+      },
+      "status": {
+        "ar": "تحت الإنشاء",
+        "en": "Under Construction"
+      }
+    },
+    {
+      "slug": "jvc",
+      "name": {
+        "ar": null,
+        "en": "jvc"
+      },
+      "status": {
+        "ar": null,
+        "en": "under-construction"
+      }
+    },
+    {
+      "slug": "one-by-binghatti",
+      "name": {
+        "ar": null,
+        "en": "One by Binghatti"
+      },
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "community": "business-bay"
     }
-  }
+  ]
 }

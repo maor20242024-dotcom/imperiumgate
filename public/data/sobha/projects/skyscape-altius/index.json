@@ -1,466 +1,179 @@
 {
-  "projectName": {
-    "en": "Skyscape Altius",
-    "ar": "Skyscape Altius"
+  "slug": "skyscape-altius",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Skyscape Altius",
+  "name_ar": "Skyscape Altius",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675.jpg.webp?itok=cpNPCiLY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675%203.jpg.webp?itok=Mp99vAIk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675%202.jpg.webp?itok=Hh0j5A2I"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1325,
+    "lng": 55.2917
   },
-  "description": {
-    "en": "Elevate your lifestyle to a new level of luxury at a paramount address. Skyscape Altius, an 85-storey tower of exceptional craftsmanship, offering exclusive residences with 1, 1.5, 2, 2.5, and 3-bedroom homes.",
-    "ar": "Elevate your lifestyle to a new level of luxury at a paramount address. Skyscape Altius, an 85-storey tower of exceptional craftsmanship, offering exclusive residences with 1, 1.5, 2, 2.5, and 3-bedroom homes."
-  },
-  "amenities": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2028-12-31",
+  "launch_date": "2024-11-26",
+  "property_types": [
     {
-      "name": {
-        "en": "kids play area",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "INFINITY POOL",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Library and Reading Room",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "YOGA ZONE",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sports Court",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "jacuzzi",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Steam and Sauna",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Indoor and Outdoor gym",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Co-working space",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Gardening zone",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Submerged seating pool",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "ZEN GARDEN",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
+      "en": "Apartments",
+      "ar": ""
     }
   ],
-  "area": {
-    "en": "Sobha Hartland II",
-    "ar": ""
-  },
   "bedrooms": [
     1,
     2,
     3,
     4
   ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
+  "units_count": null,
+  "area_sqm_min": 72,
+  "area_sqm_max": 268,
+  "area_sqft_min": 777,
+  "area_sqft_max": 2886,
+  "price_aed_min": 1750000,
+  "price_aed_max": 7940000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "kids play area",
+      "ar": ""
+    },
+    {
+      "en": "INFINITY POOL",
+      "ar": ""
+    },
+    {
+      "en": "Library and Reading Room",
+      "ar": ""
+    },
+    {
+      "en": "YOGA ZONE",
+      "ar": ""
+    },
+    {
+      "en": "Sports Court",
+      "ar": ""
+    },
+    {
+      "en": "jacuzzi",
+      "ar": ""
+    },
+    {
+      "en": "Steam and Sauna",
+      "ar": ""
+    },
+    {
+      "en": "Indoor and Outdoor gym",
+      "ar": ""
+    },
+    {
+      "en": "Co-working space",
+      "ar": "مساحة عمل مشتركة"
+    },
+    {
+      "en": "Gardening zone",
+      "ar": ""
+    },
+    {
+      "en": "Submerged seating pool",
+      "ar": ""
+    },
+    {
+      "en": "ZEN GARDEN",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Elevate your lifestyle to a new level of luxury at a paramount address. Skyscape Altius, an 85-storey tower of exceptional craftsmanship, offering exclusive residences with 1, 1.5, 2, 2.5, and 3-bedroom homes.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "2028-12-31",
-  "goldenVisaEligible": false,
-  "latitude": 25.1723744,
-  "launchDate": null,
-  "location": {
-    "en": "",
-    "ar": "",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Sobha Hartland II",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3295953,
-  "mapDescription": {
-    "en": "The Best of City, All within Minutes",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "DOWNTOWN DUBAI",
-        "ar": "DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Transportation",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BUSINESS BAY",
-        "ar": "BUSINESS BAY"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Business District",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Education",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DUBAI MALL",
-        "ar": "BURJ KHALIFA & DUBAI MALL"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
-        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
-      },
-      "distance": {
-        "en": "5 km",
-        "ar": "5 km"
-      },
-      "category": {
-        "en": "Nature Reserve",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MEYDAN RACECOURSE",
-        "ar": "MEYDAN RACECOURSE"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI FRAME",
-        "ar": "DUBAI FRAME"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI OPERA",
-        "ar": "DUBAI OPERA"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "25 km",
-        "ar": "25 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 2886,
-  "maxAreaSqmt": 268,
-  "maxPriceAED": 7940000,
-  "minAreaSqft": 777,
-  "minAreaSqmt": 72,
-  "minPriceAED": 1750000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "288",
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/skyscape-altius/",
-  "projectStatus": {
-    "en": "Off-Plan",
-    "ar": "Off-Plan"
-  },
-  "propertyTypes": [
-    {
-      "en": "Apartments",
-      "ar": "Apartments"
-    }
-  ],
-  "sellable": true,
-  "views": [
-    "Lagoon",
-    "Downtown Dubai"
-  ],
-  "slug": "skyscape-altius",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.730233",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675.jpg.webp?itok=cpNPCiLY"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675%203.jpg.webp?itok=Mp99vAIk"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675%202.jpg.webp?itok=Hh0j5A2I"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 1750000,
-    "maxPriceAED": 7940000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Skyscape Altius",
-    "ar": "سكايسكيب ألتوس"
-  },
-  "sourceUrl": "https://sobharealty.com/properties-in-dubai/skyscape-altius/",
-  "auto_translated": true,
-  "id": "skyscape-altius",
-  "fromCommunity": "sobha-hartland",
-  "contact_points": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/skyscape-altius/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.021753Z"
 }

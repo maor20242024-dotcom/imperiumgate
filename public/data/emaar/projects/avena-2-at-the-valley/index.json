@@ -1,0 +1,126 @@
+{
+  "slug": "avena-2-at-the-valley",
+  "developer": "Emaar",
+  "community_slug": "the-valley",
+  "name_en": "Avena 2 at The Valley",
+  "name_ar": "آفينا في ذا فالي",
+  "website": "https://properties.emaar.com/ar/properties/avena-2-at-the-valley",
+  "canonical_url": "https://properties.emaar.com/ar/properties/avena-2-at-the-valley",
+  "logo": "",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/HARBOUR_GATE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HILLCREST_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/CEDAR_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/DHE_PF_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/SAVANNA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/RIVANA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/ELVIRA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/01_HERO_EMERALD_HILLS.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/09/PALACE_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/CREEK_RISE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/PALACE_RESIDENCES_NORTH_DCH_WEBSITE_MAIN_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_HORIZON.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/11/THE_COVE_DCH_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DCR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/eden_hero_banner.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/LANDING_PAGE_HERO_16200x832-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.0375,
+    "lng": 55.3675
+  },
+  "address_en": "The Valley",
+  "address_ar": "ذا فالي",
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status": "",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Villas",
+      "ar": "فلل"
+    }
+  ],
+  "bedrooms": [
+    4
+  ],
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": null,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Park",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Playground",
+      "ar": "ملعب"
+    }
+  ],
+  "features": [],
+  "description_en": "Avena 2 at The Valley is a luxurious villa community where modern lifestyle meets serene nature. This charming community features elegant, spacious four-bedroom villas designed to offer sustainable living in harmony with the environment.",
+  "description_ar": "آفينا في ذا فالي هي مجمّع فلل فخم حيث يلتقي أسلوب الحياة العصري بلمسة الطبيعة الهادئة. يتميز هذه المجتمع الساحر بالفلل الأنيقة الفسيحةة ذات أربع غرف نوم، مصمّمة لتقديم نمط عيش مستدام ومتناغم مع البيئة.",
+  "brochure_url": "https://properties.emaar.com/wp-content/uploads/2024/07/AVENA_THE_VALLEY_BROCHURE_AR-1.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": false,
+  "golden_visa_eligible": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/properties/avena-2-at-the-valley"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T13:53:30.994Z",
+  "updated_at": "2025-11-30T18:47:07.632Z"
+}

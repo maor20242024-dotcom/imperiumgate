@@ -1,0 +1,119 @@
+{
+  "slug": "azure-residences",
+  "developer": "Nakheel",
+  "community_slug": "",
+  "name_en": "Azure Residences",
+  "name_ar": "أزور ريزيدنسز",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences41557084-01b7-4fae-97ac-4fb72df490f3.jpg?sfvrsn=b8cb9788_1",
+  "images_gallery": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences41557084-01b7-4fae-97ac-4fb72df490f3.jpg?sfvrsn=b8cb9788_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residencesd4214546-1904-4390-b0fc-1a1401a05a5c.jpg?sfvrsn=8ccfc3df_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences1e7710b2-8da3-4d06-bd87-5e2862483f11.jpg?sfvrsn=7119a21e_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences-interiors-(18).jpg?sfvrsn=8b56dfc4_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences4.jpg?sfvrsn=2cede5ba_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences5.jpg?sfvrsn=c01ea03_3"
+  ],
+  "video_url": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/azure-residences.mp4?sfvrsn=b69e6648_1",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.107201838282503,
+    "lng": 55.152492937850944
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "completed",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Penthouse",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "bedrooms": [
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 10,
+  "area_sqm_max": null,
+  "area_sqft_min": 106,
+  "area_sqft_max": null,
+  "price_aed_min": 3330000,
+  "price_aed_max": 5900000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Swimming Pool",
+      "ar": "مسبح لا متناهي"
+    },
+    {
+      "en": "Parking Spaces",
+      "ar": "مواقف سيارات"
+    },
+    {
+      "en": "Rooftop Gym",
+      "ar": "نادي رياضي على السطح"
+    },
+    {
+      "en": "Supermarket",
+      "ar": "سوبر ماركت"
+    },
+    {
+      "en": "Beach Access",
+      "ar": "إطلالة على الشاطئ"
+    },
+    {
+      "en": "24/7 Security",
+      "ar": "أمن 24/7"
+    }
+  ],
+  "features": [],
+  "description_en": "Azure Residences is a stylish waterfront residential building on the eastern shoreline of Palm Jumeirah. A thriving community of luxury beachfront apartments, the development also houses a selection of dining outlets with unparalleled views across the Arabian Gulf, Palm Jumeirah and Dubai’s world-famous landmarks. It has its own sea facing infinity pool, a rooftop gym, a supermarket, ample parking space, and more. The luxurious residence is complemented by a rooftop gym and direct access to the beach. Combining the elements of great living and attention to detail, the ten-storey complex features modern apartments, with expansive private terraces offering panoramic views of the water and Dubai skyline. With interiors finished to an exceptional standard, from premium marble floors and luxury fittings in the kitchen and bathrooms, to an energy efficient cooling system, every aspect has been carefully considered to provide the ultimate in modern luxury living. Azure Residences offers a range of first-class amenities for a remarkable beachfront lifestyle.",
+  "description_ar": "شقق شاطئية فاخرة.",
+  "brochure_url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/azure-residences.pdf?sfvrsn=630bb779_1",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/azureresidences"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.994442Z"
+}

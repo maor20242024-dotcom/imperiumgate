@@ -1,115 +1,174 @@
 {
-  "name": {
-    "en": "Pristine Beach Residences",
-    "ar": "مساكن شاطئ بريستين"
-  },
   "slug": "pristine-beach-residences",
-  "developer": "Sobha Realty",
-  "description": {
-    "en": "Pristine Beach Residences is a blend of contemporary elegance with the serenity of beachfront living. Positioned at the very entrance of Sobha Siniya Island, this last cluster of Beach Residences is seamlessly connected via the 1.7 km bridge to the mainland. Surrounded by stunning views of the Arabian Sea while being cocooned in lush greenery, Pristine Beach Residences is minutes away from 2 luxurious resorts. Discover effortless living in Tower A's exquisite 1 & 2-bedroom fully furnished residences. Each residence is thoughtfully designed for comfort and unparalleled style. Simply pack your bags and step into a life of pure sophistication and ease. Wake up to the rhythm of the waves, unwind on golden shores, or embrace the thrill of beachside adventures. Whether seeking tranquillity or connection, these beachfront residences offer a life where every sunrise inspires, and every sunset feels like home.",
-    "ar": "مساكن شاطئ بريستين هي مزيج من الأناقة المعاصرة مع صفاء الحياة على شاطئ البحر. تقع هذه المجموعة الأخيرة من المساكن الشاطئية عند مدخل جزيرة شوبا سينيا، وتتصل بسلاسة عبر جسر بطول 1.7 كيلومتر بالبر الرئيسي. محاطة بإطلالات خلابة على بحر العرب بينما تحتضنها المساحات الخضراء المورقة، مساكن شاطئ بريستين على بعد دقائق من منتجعين فاخرين. اكتشف الحياة السهلة في مساكن البرج A الفاخرة المكونة من غرفة نوم واحدة وغرفتي نوم مفروشة بالكامل. تم تصميم كل مسكن بعناية لتوفير الراحة والأسلوب الذي لا مثيل له. ببساطة احزم حقائبك وادخل إلى حياة من الرقي والراحة المطلقة. استيقظ على إيقاع الأمواج، استرخِ على الشواطئ الذهبية، أو استمتع بإثارة مغامرات الشاطئ. سواء كنت تبحث عن الهدوء أو التواصل، تقدم هذه المساكن الشاطئية حياة حيث يلهم كل شروق شمس، ويشعر كل غروب وكأنه منزل."
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Pristine Beach Residences",
+  "name_ar": "Pristine Beach Residences",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner-1440x618-7.jpg.webp?itok=sBrCDUco",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner-1440x618-7.jpg.webp?itok=sBrCDUco",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-69_0.jpg.webp?itok=qRaFZQ3-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2072.jpg.webp?itok=sg00si8w",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-44.jpg.webp?itok=rmaVIXQm",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-45.jpg.webp?itok=20pwzJ3X",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-3-%282%29.jpg.webp?itok=_9LPURD-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-46-%282%29.jpg.webp?itok=h4M3hA-q",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-54.jpg.webp?itok=ZprtjS4U",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-55.jpg.webp?itok=SYiep6jp"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.601733422264,
+    "lng": 55.623110899718
   },
-  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner-1440x618-7.jpg.webp?itok=sBrCDUco",
-  "videoLink": "https://www.youtube.com/watch?v=sI91-e_HhS0",
-  "media": {
-    "gallery": [
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-69_0.jpg.webp?itok=qRaFZQ3-",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2072.jpg.webp?itok=sg00si8w",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-44.jpg.webp?itok=rmaVIXQm",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-45.jpg.webp?itok=20pwzJ3X",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-3-%282%29.jpg.webp?itok=_9LPURD-",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-46-%282%29.jpg.webp?itok=h4M3hA-q",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-54.jpg.webp?itok=ZprtjS4U",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-55.jpg.webp?itok=SYiep6jp"
-    ],
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-69_0.jpg.webp?itok=qRaFZQ3-",
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 4,
+  "area_sqm_max": 80,
+  "area_sqft_min": 48,
+  "area_sqft_max": 865,
+  "price_aed_min": 1429272,
+  "price_aed_max": 2758015,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "documents": {
-    "brochure": {
-      "en": [
-        "https://sobharealty.com/sites/default/files/2025-05/Brochure%20-%20Pristine%20Beach%20Residences.pdf"
-      ],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "INFINITY SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "CHILDREN’S PLAY AREAS",
+      "ar": ""
+    },
+    {
+      "en": "Landscaped Courtyards",
+      "ar": ""
+    },
+    {
+      "en": "Yacht club",
+      "ar": ""
+    },
+    {
+      "en": "LAGOON BEACH",
+      "ar": ""
+    },
+    {
+      "en": "ADVENTURE WATER SPORTS",
+      "ar": ""
+    },
+    {
+      "en": "Natural Beach",
+      "ar": ""
+    },
+    {
+      "en": "Jogging Loop",
+      "ar": ""
+    },
+    {
+      "en": "Indoor Gym",
+      "ar": ""
+    },
+    {
+      "en": "Indoor Movie Theatre",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [
-      "https://www.youtube.com/watch?v=sI91-e_HhS0"
-    ],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "developerID": "sobha",
-  "location": {
-    "country": {
-      "ar": "",
-      "en": ""
-    },
-    "city": {
-      "ar": "",
-      "en": ""
-    },
-    "area": {
-      "ar": "",
-      "en": ""
-    },
-    "poiDistances": {}
-  },
-  "auto_translated": true,
-  "id": "pristine-beach-residences",
-  "projectName": {
-    "en": "Pristine Beach Residences",
-    "ar": "Pristine Beach Residences"
-  },
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Pristine Beach Residences is a blend of contemporary elegance with the serenity of beachfront living. Positioned at the very entrance of Sobha Siniya Island, this last cluster of Beach Residences is seamlessly connected via the 1.7 km bridge to the mainland. Surrounded by stunning views of the Arabian Sea while being cocooned in lush greenery, Pristine Beach Residences is minutes away from 2 luxurious resorts. Discover effortless living in Tower A's exquisite 1 & 2-bedroom fully furnished residences. Each residence is thoughtfully designed for comfort and unparalleled style. Simply pack your bags and step into a life of pure sophistication and ease. Wake up to the rhythm of the waves, unwind on golden shores, or embrace the thrill of beachside adventures. Whether seeking tranquillity or connection, these beachfront residences offer a life where every sunrise inspires, and every sunset feels like home.",
+  "description_ar": "مساكن شاطئ بريستين هي مزيج من الأناقة المعاصرة مع صفاء الحياة على شاطئ البحر. تقع هذه المجموعة الأخيرة من المساكن الشاطئية عند مدخل جزيرة شوبا سينيا، وتتصل بسلاسة عبر جسر بطول 1.7 كيلومتر بالبر الرئيسي. محاطة بإطلالات خلابة على بحر العرب بينما تحتضنها المساحات الخضراء المورقة، مساكن شاطئ بريستين على بعد دقائق من منتجعين فاخرين. اكتشف الحياة السهلة في مساكن البرج A الفاخرة المكونة من غرفة نوم واحدة وغرفتي نوم مفروشة بالكامل. تم تصميم كل مسكن بعناية لتوفير الراحة والأسلوب الذي لا مثيل له. ببساطة احزم حقائبك وادخل إلى حياة من الرقي والراحة المطلقة. استيقظ على إيقاع الأمواج، استرخِ على الشواطئ الذهبية، أو استمتع بإثارة مغامرات الشاطئ. سواء كنت تبحث عن الهدوء أو التواصل، تقدم هذه المساكن الشاطئية حياة حيث يلهم كل شروق شمس، ويشعر كل غروب وكأنه منزل.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-05/Brochure%20-%20Pristine%20Beach%20Residences.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/pristine-beach-residences/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  },
-  "amenities": []
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.038371Z"
 }

@@ -1,72 +1,39 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-hillviews",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Hillviews",
+  "name_ar": "Binghatti Hillviews",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/hillviews_artificialbeach.jpg",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/hillviews_artificialbeach.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.015775592307705,
+    "lng": 55.15376154468632
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Dubai Science Park"
-  },
-  "location": {
-    "ar": null,
-    "en": "Dubai Science Park",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "Dubai Science Park"
-    }
-  },
-  "latitude": 25.015775592307705,
-  "longitude": 55.15376154468632,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Hillviews",
-    "en": "Binghatti Hillviews",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Binghatti Hillviews is a 37 floor residential tower in Dubai Science Park, offering panoramic views of the city's dynamic landscape from all of its units. It offers 1,552 thoughtfully designed apartments to meet all different lifestyles and needs. Residents can also enjoy a strategic location, with convenient access to major roads and nearby entertainment areas."
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Dubai Science Park",
+  "location_ar": "",
+  "district_en": "Dubai Science Park",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "Q4 2026",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
@@ -74,167 +41,62 @@
     1,
     2
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "20% down payment, 50% during construction, 30% on project completion"
-  },
-  "minAreaSqft": 410,
-  "maxAreaSqft": 1382,
-  "minAreaSqmt": 38,
-  "maxAreaSqmt": 128,
-  "minPriceAED": 800000,
-  "maxPriceAED": null,
-  "deliveryDate": "Q4 2026",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "تحت الإنشاء",
-    "en": "Under Construction"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
-  "heroImage": "https://binghattiweb.imgix.net/hillviews_artificialbeach.jpg",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/hillviews_artificialbeach.jpg",
-    "https://binghattiweb.imgix.net/hillviews_swimmingpool.jpg",
-    "https://binghattiweb.imgix.net/hillviews_layout_studio.jpg",
-    "https://binghattiweb.imgix.net/hillviews_layout_one_bedroom.jpg",
-    "https://binghattiweb.imgix.net/hillviews_layout_two_bedroom.jpg",
-    "https://binghattiweb.imgix.net/bedroom-img.webp",
-    "https://binghattiweb.imgix.net/hillviews_footer_horizontal.jpg"
-  ],
+  "units_count": null,
+  "area_sqm_min": 38,
+  "area_sqm_max": 128,
+  "area_sqft_min": 410,
+  "area_sqft_max": 1382,
+  "price_aed_min": 800000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "20% down payment, 50% during construction, 30% on project completion",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Swimming Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Parking"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Parking",
+      "ar": "مواقف سيارات"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Spa"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Spa",
+      "ar": "سبا"
     }
   ],
-  "highlights": [
-    {
-      "ar": null,
-      "en": "37 floor residential tower"
-    },
-    {
-      "ar": null,
-      "en": "1,552 thoughtfully designed apartments"
-    },
-    {
-      "ar": null,
-      "en": "Panoramic views of Dubai's skyline"
-    },
-    {
-      "ar": null,
-      "en": "Strategic location in Dubai Science Park"
-    },
-    {
-      "ar": null,
-      "en": "Convenient access to major roads and entertainment areas"
-    }
-  ],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-hillviews",
+  "features": [],
+  "description_en": "Binghatti Hillviews is a 37 floor residential tower in Dubai Science Park, offering panoramic views of the city's dynamic landscape from all of its units. It offers 1,552 thoughtfully designed apartments to meet all different lifestyles and needs. Residents can also enjoy a strategic location, with convenient access to major roads and nearby entertainment areas.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:10:55.930Z",
-    "title": "Binghatti Hillviews Science Park – Studio to 2BR Apartments",
-    "description": "Discover Binghatti Hillviews project, an architectural masterpiece in Dubai Science Park - Luxury studios, 1 & 2-bedroom apartments with premium amenities.",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-hillviews",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-hillviews"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/hillviews_artificialbeach.jpg",
-      "https://binghattiweb.imgix.net/hillviews_swimmingpool.jpg",
-      "https://binghattiweb.imgix.net/hillviews_layout_studio.jpg",
-      "https://binghattiweb.imgix.net/hillviews_layout_one_bedroom.jpg",
-      "https://binghattiweb.imgix.net/hillviews_layout_two_bedroom.jpg",
-      "https://binghattiweb.imgix.net/bedroom-img.webp",
-      "https://binghattiweb.imgix.net/hillviews_footer_horizontal.jpg"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-floor-plans.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-location.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d175554.92657423322!2d55.276806446720016!3d25.084120412574222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ffda5c9b53d%3A0xa20f6de57fba29f0!2sBinghatti%20Hills!5e0!3m2!1sen!2sae!4v1744899314157!5m2!1sen!2sae",
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103444.77063777477!2d55.15376154468632!3d25.015775592307705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6f4a1f005589%3A0x8c3f659aba57948!2sBinghatti%20Hillviews!5e0!3m2!1sen!2sae!4v1745586158420!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": null,
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.744Z"
 }

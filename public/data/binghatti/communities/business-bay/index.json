@@ -1,268 +1,89 @@
 {
-  "projectName": {
-    "ar": "الخليج التجاري",
-    "en": "Business Bay"
+  "slug": "business-bay",
+  "developer": "Binghatti",
+  "name_en": "Business Bay",
+  "name_ar": "بيزنس باي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.1867,
+    "lng": 55.2664
   },
-  "developer": {
-    "ar": "بن غاطي",
-    "en": "Binghatti"
-  },
-  "developerSlug": "binghatti",
-  "location": {
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "الخليج التجاري",
-      "en": "Business Bay"
-    },
-    "community": {
-      "ar": "الخليج التجاري",
-      "en": "Business Bay"
-    },
-    "coordinates": {
-      "lat": 25.1856,
-      "lng": 55.2644
-    },
-    "address": {
-      "ar": "الخليج التجاري، دبي",
-      "en": "Business Bay, Dubai, UAE"
-    }
-  },
-  "description": {
-    "ar": "قلب دبي التجاري والمالي مع أبراج حديثة وقناة دبي",
-    "en": "Dubai's commercial and financial heart with modern towers and Dubai Canal"
-  },
-  "propertyTypes": [
-    {
-      "ar": "شقة",
-      "en": "Apartment"
-    },
-    {
-      "ar": "سكني",
-      "en": "Residential"
-    }
-  ],
-  "bedrooms": [
-    1,
-    2,
-    3,
-    4
-  ],
-  "priceRange": {
-    "min": 2500000,
-    "max": 12500000,
-    "currency": "AED"
-  },
-  "status": "under-construction",
-  "deliveryDate": "Q4 2026",
+  "location_en": "Central Dubai, near Dubai Canal.",
+  "location_ar": "وسط دبي، بالقرب من قناة دبي.",
+  "district_en": "Central Dubai, near Dubai Canal.",
+  "district_ar": "وسط دبي، بالقرب من قناة دبي.",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Dubai's commercial and financial heart with modern towers and Dubai Canal",
+  "description_ar": "قلب دبي التجاري والمالي مع أبراج حديثة وقناة دبي",
   "amenities": [
     {
-      "ar": "قناة دبي",
-      "en": "Dubai Canal"
+      "en": "Dubai Canal",
+      "ar": "قناة دبي"
     },
     {
-      "ar": "مسار المشاة",
-      "en": "Pedestrian Walkway"
+      "en": "Pedestrian Walkway",
+      "ar": "مسار المشاة"
     },
     {
-      "ar": "مركز المؤتمرات",
-      "en": "Conference Center"
+      "en": "Conference Center",
+      "ar": "مركز المؤتمرات"
     },
     {
-      "ar": "مطاعم راقية",
-      "en": "Fine Dining Restaurants"
+      "en": "Fine Dining Restaurants",
+      "ar": "مطاعم راقية"
     },
     {
-      "ar": "متاجر فاخرة",
-      "en": "Luxury Boutiques"
+      "en": "Luxury Boutiques",
+      "ar": "متاجر فاخرة"
     },
     {
-      "ar": "إطلالة على القناة",
-      "en": "Canal View"
+      "en": "Canal View",
+      "ar": "إطلالة على القناة"
     },
     {
-      "ar": "خدمة كونسيرج 24/7",
-      "en": "24/7 Concierge Service"
+      "en": "24/7 Concierge Service",
+      "ar": "خدمة كونسيرج 24/7"
     },
     {
-      "ar": "موقف خاص",
-      "en": "Valet Parking"
+      "en": "Valet Parking",
+      "ar": "موقف خاص"
     },
     {
-      "ar": "صالة سينما خاصة",
-      "en": "Private Cinema"
+      "en": "Private Cinema",
+      "ar": "صالة سينما خاصة"
     },
     {
-      "ar": "غرفة خمر",
-      "en": "Wine Cellar"
+      "en": "Wine Cellar",
+      "ar": "غرفة خمر"
     }
   ],
-  "gallery": {
-    "images": [],
-    "videos": []
-  },
-  "floorPlans": [],
-  "features": {
-    "transportation": {
-      "ar": "مترو الخليج التجاري ومحطة الحافلات",
-      "en": "Business Bay Metro and Bus Station"
-    },
-    "investmentHighlights": [
-      {
-        "ar": "قلب الأعمال في دبي",
-        "en": "Dubai's business heart"
-      },
-      {
-        "ar": "عوائد إيجار متوقعة 7-9%",
-        "en": "Expected rental yields 7-9%"
-      },
-      {
-        "ar": "إمكانية الحصول على تأشيرة ذهبية",
-        "en": "Golden Visa eligibility"
-      }
-    ],
-    "nearbyAttractions": [
-      {
-        "ar": "برج خليفة",
-        "en": "Burj Khalifa"
-      },
-      {
-        "ar": "مول الإمارات",
-        "en": "Dubai Mall"
-      },
-      {
-        "ar": "مركز دبي المالي الدولي",
-        "en": "DIFC"
-      }
-    ]
-  },
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
   "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972",
-    "email": "info@binghatti.com",
-    "website": "https://www.binghatti.com"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "metadata": {
-    "communityType": {
-      "ar": "منطقة أعمال ومالية",
-      "en": "Business & Financial District"
-    },
-    "totalProjects": 16,
-    "totalDevelopments": 1,
-    "lastUpdated": "2025-11-10T18:57:41.119Z",
-    "dataSource": "binghatti-communities"
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "developments": [
-    {
-      "name": {
-        "ar": "بن غاطي أورورا",
-        "en": "Binghatti Aurora"
-      },
-      "slug": "binghatti-aurora",
-      "category": "Ultra-Luxury",
-      "totalUnits": 300,
-      "unitTypes": [
-        {
-          "type": {
-            "ar": "غرفة نوم واحدة",
-            "en": "1 Bedroom"
-          },
-          "bedrooms": 1,
-          "size_range_sqft": "750-950",
-          "price_range_aed": "2,500,000 - 3,200,000",
-          "available_units": 80
-        },
-        {
-          "type": {
-            "ar": "غرفتي نوم",
-            "en": "2 Bedrooms"
-          },
-          "bedrooms": 2,
-          "size_range_sqft": "1,200-1,600",
-          "price_range_aed": "4,200,000 - 5,800,000",
-          "available_units": 100
-        },
-        {
-          "type": {
-            "ar": "ثلاث غرف نوم",
-            "en": "3 Bedrooms"
-          },
-          "bedrooms": 3,
-          "size_range_sqft": "1,800-2,400",
-          "price_range_aed": "6,500,000 - 8,500,000",
-          "available_units": 80
-        },
-        {
-          "type": {
-            "ar": "أربع غرف نوم",
-            "en": "4 Bedrooms"
-          },
-          "bedrooms": 4,
-          "size_range_sqft": "2,500-3,200",
-          "price_range_aed": "9,500,000 - 12,500,000",
-          "available_units": 40
-        }
-      ],
-      "deliveryDate": "Q4 2026",
-      "status": {
-        "ar": "تحت الإنشاء",
-        "en": "Under Construction"
-      },
-      "amenities": [
-        {
-          "ar": "إطلالة على القناة",
-          "en": "Canal View"
-        },
-        {
-          "ar": "خدمة كونسيرج 24/7",
-          "en": "24/7 Concierge Service"
-        },
-        {
-          "ar": "موقف خاص",
-          "en": "Valet Parking"
-        },
-        {
-          "ar": "صالة سينما خاصة",
-          "en": "Private Cinema"
-        },
-        {
-          "ar": "غرفة خمر",
-          "en": "Wine Cellar"
-        }
-      ]
-    }
-  ],
-  "latitude": 25.1867,
-  "longitude": 55.2664,
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "projects": [],
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T18:47:07.711Z"
 }

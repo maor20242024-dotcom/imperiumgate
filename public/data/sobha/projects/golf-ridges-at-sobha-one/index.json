@@ -1,420 +1,170 @@
 {
-  "projectName": {
-    "en": "Golf Ridges at Sobha One",
-    "ar": "Golf Ridges at Sobha One"
+  "slug": "golf-ridges-at-sobha-one",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Golf Ridges at Sobha One",
+  "name_ar": "Golf Ridges at Sobha One",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-06/Mask%20Group%2015272.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-06/Mask%20Group%2015272.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/1006x608.jpg.webp?itok=qWRcerDQ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/Balcony%20%281%29_5.jpg.webp?itok=81t-cgZV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Sobha%20One%20-%20Morning%20Shot.jpg.webp?itok=TP6YQZgx",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/Dining%20room%202.jpg.webp?itok=UwtczlGo",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/living%20room.jpg.webp?itok=7SFE_LEu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/nightoverview01.jpg.webp?itok=brt1-T3B",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-01-PP-PPTP.jpg.webp?itok=B3f2GUUQ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-02-PP-PPTP.jpg.webp?itok=SWMU1Ctn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-03-PP-PPTP%20%281%29.jpg.webp?itok=EUmPHsEc",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-05-PP-01-PPTP.jpg.webp?itok=cqtZvjrG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/Side%20Shot%20-%20Dusk%20%281%29.jpg.webp?itok=TU8CbVQw"
+  ],
+  "video_url": "https://sobharealty.com/sites/default/files/2024-10/Sobha%201440x618.mp4",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.165039,
+    "lng": 55.334752
   },
-  "description": {
-    "en": "Golf Ridges at Sobha One redefines fine living with golf course facing villaments. The first of its kind in the region, it brings together the best of a luxury villa, duplex, and master community.",
-    "ar": "Golf Ridges at Sobha One redefines fine living with golf course facing villaments. The first of its kind in the region, it brings together the best of a luxury villa, duplex, and master community."
-  },
-  "amenities": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2025-10-15",
+  "launch_date": "2025-05-01",
+  "property_types": [
     {
-      "name": {
-        "en": "18 Hole pitch & putt golf course",
-        "ar": ""
-      },
-      "description": {
-        "en": "18 Hole pitch & putt golf course",
-        "ar": ""
-      }
+      "en": "Apartments",
+      "ar": ""
     },
     {
-      "name": {
-        "en": "Clubhouse",
-        "ar": ""
-      },
-      "description": {
-        "en": "Clubhouse",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BBQ & dining areas",
-        "ar": ""
-      },
-      "description": {
-        "en": "BBQ & dining areas",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Yoga Garden",
-        "ar": ""
-      },
-      "description": {
-        "en": "Yoga Garden",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Rock climbing",
-        "ar": ""
-      },
-      "description": {
-        "en": "Rock climbing",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Cycling Track",
-        "ar": ""
-      },
-      "description": {
-        "en": "Cycling Track",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sports Arena",
-        "ar": ""
-      },
-      "description": {
-        "en": "Sports Arena",
-        "ar": ""
-      }
+      "en": "Villaments",
+      "ar": ""
     }
   ],
-  "area": {
-    "en": "Ras Al Khor",
-    "ar": ""
-  },
   "bedrooms": [
     4,
     5
   ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
+  "units_count": null,
+  "area_sqm_min": 8,
+  "area_sqm_max": 238,
+  "area_sqft_min": 81,
+  "area_sqft_max": 2562,
+  "price_aed_min": 5000000,
+  "price_aed_max": 10000000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "18 - Hole pitch & putt golf course",
+      "ar": ""
+    },
+    {
+      "en": "BBQ SPACES",
+      "ar": ""
+    },
+    {
+      "en": "GYM",
+      "ar": ""
+    },
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "4 THEMED COURTYARDS",
+      "ar": ""
+    },
+    {
+      "en": "SKY TERRACE",
+      "ar": ""
+    },
+    {
+      "en": "RETAIL SPACE",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Nestled near Ras Al Khor Road, Sobha One is a serene retreat offering breathtaking views. Gaze north to see the tranquil Creek waters and the iconic Burj Khalifa, with Downtown to the west. Spanning over 1.5 million square feet, this development showcases lush golf courses and vibrant cityscapes, inviting you to experience its beauty from every angle. With five interconnected towers rising from 30 to 65 stories, Sobha One offers a range of luxurious living options, including 1 to 4-bedroom apartments and 3 to 4-bedroom duplexes, creating a harmonious blend of elegance and tranquillity.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-03/sobha-one-oppdoc-en.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 25.1842161,
-  "launchDate": null,
-  "location": {
-    "en": "Ras Al Khor",
-    "ar": "Ras Al Khor",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Ras Al Khor",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3403051,
-  "mapDescription": {
-    "en": "Vibrant Living, Nearby Essentials",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "17 km",
-        "ar": "17 km"
-      },
-      "category": {
-        "en": "Education",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "13 km",
-        "ar": "13 km"
-      },
-      "category": {
-        "en": "Transport",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BUSINESS BAY",
-        "ar": "BUSINESS BAY"
-      },
-      "distance": {
-        "en": "13 km",
-        "ar": "13 km"
-      },
-      "category": {
-        "en": "Business District",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "THE DUBAI MALL",
-        "ar": "THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Shopping",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
-        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "17 km",
-        "ar": "17 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
-        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
-      },
-      "distance": {
-        "en": "9 km",
-        "ar": "9 km"
-      },
-      "category": {
-        "en": "Nature/Wildlife",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MEYDAN RACECOURSE",
-        "ar": "MEYDAN RACECOURSE"
-      },
-      "distance": {
-        "en": "13 km",
-        "ar": "13 km"
-      },
-      "category": {
-        "en": "Leisure/Sports",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI FRAME",
-        "ar": "DUBAI FRAME"
-      },
-      "distance": {
-        "en": "17 km",
-        "ar": "17 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI OPERA",
-        "ar": "DUBAI OPERA"
-      },
-      "distance": {
-        "en": "20 km",
-        "ar": "20 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "30 km",
-        "ar": "30 km"
-      },
-      "category": {
-        "en": "Landmark/Island",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 10000000,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 5000000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "41",
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/golf-ridges-at-sobha-one/",
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "propertyTypes": [
-    {
-      "en": "Villaments",
-      "ar": "Villaments"
-    }
-  ],
-  "sellable": true,
-  "views": [
-    "Golf Course",
-    "Lagoon"
-  ],
-  "slug": "golf-ridges-at-sobha-one",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.769935",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Golf%20ridge.jpg",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_5.jpg.webp"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015383_3.jpg.webp"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015384_2.jpg.webp"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015385_1.jpg.webp"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015386.jpg.webp"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/12.%20Golf%20Ridges%20at%20Sobha%20One.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 5000000,
-    "maxPriceAED": 10000000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-11/12.%20Golf%20Ridges%20at%20Sobha%20One.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-11/12.%20Golf%20Ridges%20at%20Sobha%20One.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Golf Ridges at Sobha One",
-    "ar": "Golf Ridges at Sobha One"
-  },
-  "sourceUrl": "https://sobharealty.com/properties-in-dubai/golf-ridges-at-sobha-one/",
-  "auto_translated": true,
-  "id": "golf-ridges-at-sobha-one",
-  "fromCommunity": null,
-  "contact_points": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/golf-ridges-at-sobha-one/",
+    "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-one/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.046527Z"
 }

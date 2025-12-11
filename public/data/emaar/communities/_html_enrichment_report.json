@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-11-30T10:51:52.848Z",
+  "source": {
+    "communities": "/Users/rodolfmichail/tekon/_enriched_preview/final_communities",
+    "emarfull": "/Users/rodolfmichail/tekon/_enriched_preview/emarfull"
+  },
+  "stats": {
+    "total": 13,
+    "enriched": 3,
+    "fields": {
+      "map_zoom": 0,
+      "seo_description": 3,
+      "seo_title": 3
+    },
+    "total_enrichments": 6
+  }
+}

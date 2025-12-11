@@ -1,67 +1,57 @@
 {
-  "communityID": "the-gardens",
-  "developerID": "nakheel",
-  "name": {
-    "ar": "ذا جاردنز",
-    "en": "The Gardens"
+  "slug": "the-gardens",
+  "developer": "Nakheel",
+  "name_en": "The Gardens",
+  "name_ar": "ذا جاردنز",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.042292857481,
+    "lng": 55.127074354462
   },
-  "description": {
-    "ar": "مجتمع سكني خضراء.",
-    "en": "A green residential community."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "The Gardens",
+  "master_location_ar": "الحدائق",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A green residential community.",
+  "description_ar": "مجتمع سكني خضراء.",
+  "amenities": [
     {
-      "projectID": "the-gardens",
-      "name": {
-        "ar": "ذا جاردنز",
-        "en": "The Gardens"
-      }
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
+    },
+    {
+      "en": "Centrally Air-Conditioned",
+      "ar": "نظام تبريد مركزي"
     }
   ],
-  "developer": "nakheel",
-  "lastUpdated": "2025-11-01T18:48:01.359208",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "auto_translated": false,
-  "slug": "the-gardens",
-  "contact_points": {
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.925980Z"
 }

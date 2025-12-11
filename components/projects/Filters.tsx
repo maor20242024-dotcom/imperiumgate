@@ -61,7 +61,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
     const areas = initial.map(p => {
       const area = p.area;
       if (typeof area === 'string') return area;
-      if (area && typeof area === 'object') return area[locale] || area.en || '';
+      if (area && typeof area === 'object') return (area as any)[locale] || (area as any).en || '';
       return '';
     }).filter(Boolean);
     return [...new Set(areas)].sort();
@@ -71,7 +71,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
     const statuses = initial.map(p => {
       const status = p.projectStatus;
       if (typeof status === 'string') return status;
-      if (status && typeof status === 'object') return status[locale] || status.en || '';
+      if (status && typeof status === 'object') return (status as any)[locale] || (status as any).en || '';
       return '';
     }).filter(Boolean);
     return [...new Set(statuses)].sort();
@@ -79,28 +79,28 @@ export default function Filters({ initial }: { initial: Project[] }) {
 
   const filtered = useMemo(() => {
     return initial.filter(p => {
-      const name = typeof p.projectName === 'string' ? p.projectName : (p.projectName?.[locale] || p.projectName?.en || '');
+      const name = typeof p.projectName === 'string' ? p.projectName : ((p.projectName as any)?.[locale] || (p.projectName as any)?.en || '');
       const hitQ = !q || name.toLowerCase().includes(q.toLowerCase());
       const hitDev = !dev || (p.developer || '').toLowerCase() === dev.toLowerCase();
-      
+
       // إصلاح فلتر السعر - يجب أن يكون السعر >= الأدنى و <= الأقصى
       const projectMinPrice = p.minPriceAED || 0;
       const projectMaxPrice = p.maxPriceAED || 0;
       const minOk = !min || projectMinPrice >= Number(min);
       const maxOk = !max || (projectMaxPrice > 0 && projectMaxPrice <= Number(max));
-      
+
       const bedOk = !beds || (Array.isArray(p.bedrooms) && p.bedrooms.some(b => String(b) === beds));
-      
+
       // معالجة المنطقة
       const projectArea = p.area;
-      const areaString = typeof projectArea === 'string' ? projectArea : (projectArea?.[locale] || projectArea?.en || '');
+      const areaString = typeof projectArea === 'string' ? projectArea : ((projectArea as any)?.[locale] || (projectArea as any)?.en || '');
       const areaOk = !area || areaString.toLowerCase() === area.toLowerCase();
-      
+
       // معالجة الحالة
       const projectStatus = p.projectStatus;
-      const statusString = typeof projectStatus === 'string' ? projectStatus : (projectStatus?.[locale] || projectStatus?.en || '');
+      const statusString = typeof projectStatus === 'string' ? projectStatus : ((projectStatus as any)?.[locale] || (projectStatus as any)?.en || '');
       const statusOk = !status || statusString.toLowerCase() === status.toLowerCase();
-      
+
       return hitQ && hitDev && minOk && maxOk && bedOk && areaOk && statusOk;
     });
   }, [initial, q, dev, min, max, beds, area, status, locale]);
@@ -121,7 +121,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4">
         {/* البحث */}
         <div className="relative sm:col-span-2 lg:col-span-1">
-          <input 
+          <input
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base"
             placeholder={locale === 'ar' ? '🔍 ابحث عن مشروع...' : '🔍 Search projects...'}
             value={q}
@@ -242,7 +242,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-4">
         {/* السعر الأدنى */}
         <div className="relative">
-          <input 
+          <input
             type="number"
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base"
             placeholder={locale === 'ar' ? '💰 السعر الأدنى (AED)' : '💰 Min Price (AED)'}
@@ -253,7 +253,7 @@ export default function Filters({ initial }: { initial: Project[] }) {
 
         {/* السعر الأقصى */}
         <div className="relative">
-          <input 
+          <input
             type="number"
             className="w-full bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:border-gold transition-colors text-sm md:text-base"
             placeholder={locale === 'ar' ? '💰 السعر الأقصى (AED)' : '💰 Max Price (AED)'}
@@ -304,10 +304,10 @@ export default function Filters({ initial }: { initial: Project[] }) {
         <div className="text-white/70 text-sm md:text-base">
           {locale === 'ar' ? 'تم العثور على' : 'Found'} <span className="text-gold font-semibold">{filtered.length}</span> {locale === 'ar' ? 'مشروع' : 'project'}{filtered.length !== 1 ? (locale === 'ar' ? 'ات' : 's') : ''}
         </div>
-        <LuxuryButton 
-          variant="primary" 
-          size="md" 
-          className="rounded-lg font-semibold w-full sm:w-auto" 
+        <LuxuryButton
+          variant="primary"
+          size="md"
+          className="rounded-lg font-semibold w-full sm:w-auto"
           onClick={clearFilters}
         >
           {locale === 'ar' ? '🗑️ مسح الكل' : '🗑️ Clear All'}

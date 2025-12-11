@@ -1,72 +1,39 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-ruby",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Ruby",
+  "name_ar": "Binghatti Ruby",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.044542432934065,
+    "lng": 55.146303764723946
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Jumeirah Village Circle"
-  },
-  "location": {
-    "ar": null,
-    "en": "JVC",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "Jumeirah Village Circle"
-    }
-  },
-  "latitude": 25.044542432934065,
-  "longitude": 55.146303764723946,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Ruby",
-    "en": "Binghatti Ruby",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Binghatti Ruby's elegance is inspired by gemstones. This luxury development is designed for modern lifestyles, offering a one-of-a-kind, unique architectural design that is easily recognizable in the JVC area, making it perfect for both investors seeking strong return on investment and families looking for their dream home. Experience Binghatti Ruby, a masterpiece of light and fire in Dubai. A sanctuary of brilliance and calm."
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "JVC",
+  "location_ar": "",
+  "district_en": "JVC",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "Q1 2026",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
@@ -74,181 +41,66 @@
     1,
     2
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "20% down payment, 50% during construction, 30% on completion"
-  },
-  "minAreaSqft": 362,
-  "maxAreaSqft": 1161,
-  "minAreaSqmt": 34,
-  "maxAreaSqmt": 108,
-  "minPriceAED": 700000,
-  "maxPriceAED": null,
-  "deliveryDate": "Q1 2026",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "تحت الإنشاء",
-    "en": "Under Construction"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-ruby-assets/binghatti-ruby-brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
-  "heroImage": "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65",
-    "https://binghattiweb.imgix.net/ruby_swimming_pool.jpg?auto=format,compress&q=65",
-    "https://binghattiweb.imgix.net/ruby_play_area.jpg?auto=format,compress&q=65",
-    "https://binghattiweb.imgix.net/ruby_twod_layout_studio.jpg",
-    "https://binghattiweb.imgix.net/ruby_layout_one_bedroom.jpg",
-    "https://binghattiweb.imgix.net/ruby_layout_two_bedroom.jpg",
-    "https://binghattiweb.imgix.net/ruby_layout_three_bedroom.jpg",
-    "https://binghattiweb.imgix.net/bedroom-img.webp",
-    "https://binghattiweb.imgix.net/ruby_footer_horizontal.jpg?auto=format,compress&q=65"
-  ],
+  "units_count": null,
+  "area_sqm_min": 34,
+  "area_sqm_max": 108,
+  "area_sqft_min": 362,
+  "area_sqft_max": 1161,
+  "price_aed_min": 700000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "20% down payment, 50% during construction, 30% on completion",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Swimming Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Parking"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Parking",
+      "ar": "مواقف سيارات"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Spa"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Spa",
+      "ar": "سبا"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Infinity Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح لا متناهي"
     }
   ],
-  "highlights": [
-    {
-      "ar": null,
-      "en": "Easily recognizable design – inspired by ruby gemstones, creating a masterpiece of light and fire"
-    },
-    {
-      "ar": null,
-      "en": "Prime Location – Settled in Jumeirah Village Circle (JVC), one of Dubai's most popular destinations"
-    },
-    {
-      "ar": null,
-      "en": "Strategic Connectivity – Just 6 minutes from Dubai Hills Mall, 17 minutes from Burj Khalifa, and close to many other landmarks"
-    },
-    {
-      "ar": null,
-      "en": "18 residential floors, 4 parking levels, and a roof"
-    },
-    {
-      "ar": null,
-      "en": "Mixed-use development offering luxury apartments, offices and retail shops"
-    }
-  ],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-ruby",
+  "features": [],
+  "description_en": "Binghatti Ruby's elegance is inspired by gemstones. This luxury development is designed for modern lifestyles, offering a one-of-a-kind, unique architectural design that is easily recognizable in the JVC area, making it perfect for both investors seeking strong return on investment and families looking for their dream home. Experience Binghatti Ruby, a masterpiece of light and fire in Dubai. A sanctuary of brilliance and calm.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-ruby-assets/binghatti-ruby-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:14:32.704Z",
-    "title": "Binghatti Ruby JVC – Studio to 2 Bedroom Apartments for Sale",
-    "description": "Experience Binghatti Ruby, a masterpiece of light and fire in Dubai. Offering 1 to 3-bedroom apartments starting from AED 695K. A sanctuary of brilliance and calm.",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-ruby",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-ruby"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65",
-      "https://binghattiweb.imgix.net/ruby_swimming_pool.jpg?auto=format,compress&q=65",
-      "https://binghattiweb.imgix.net/ruby_play_area.jpg?auto=format,compress&q=65",
-      "https://binghattiweb.imgix.net/ruby_twod_layout_studio.jpg",
-      "https://binghattiweb.imgix.net/ruby_layout_one_bedroom.jpg",
-      "https://binghattiweb.imgix.net/ruby_layout_two_bedroom.jpg",
-      "https://binghattiweb.imgix.net/ruby_layout_three_bedroom.jpg",
-      "https://binghattiweb.imgix.net/bedroom-img.webp",
-      "https://binghattiweb.imgix.net/ruby_footer_horizontal.jpg?auto=format,compress&q=65"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-ruby-assets/binghatti-ruby-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-ruby-assets/binghatti-ruby-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-ruby-assets/binghatti-ruby-floor-plans.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-ruby-assets/binghatti-ruby-location.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d175554.92657423322!2d55.276806446720016!3d25.084120412574222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ffda5c9b53d%3A0xa20f6de57fba29f0!2sBinghatti%20Hills!5e0!3m2!1sen!2sae!4v1744899314157!5m2!1sen!2sae",
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d82407.94485829066!2d55.146303764723946!3d25.044542432934065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6da92c9461cb%3A0x3ff84790d3755bf6!2sBinghatti%20Ruby!5e0!3m2!1sen!2sae!4v1745567849080!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "jumeirah-village-circle",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.746Z"
 }

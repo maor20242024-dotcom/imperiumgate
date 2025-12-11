@@ -1,72 +1,39 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-circle",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Circle",
+  "name_ar": "Binghatti Circle",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.060959105456625,
+    "lng": 55.179076345723516
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "JVC"
-  },
-  "location": {
-    "ar": null,
-    "en": "Jumeirah Village Circle",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "JVC"
-    }
-  },
-  "latitude": 25.060959105456625,
-  "longitude": 55.179076345723516,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Circle",
-    "en": "Binghatti Circle",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Studio, 1, 2 & 3 BR apartments for sale in Binghatti Circle, JVC Dubai. A premium residential project offering modern living in a prime family-friendly location."
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Jumeirah Village Circle",
+  "location_ar": "",
+  "district_en": "Jumeirah Village Circle",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2027",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
@@ -75,177 +42,66 @@
     2,
     3
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "payment plan structure is:"
-  },
-  "minAreaSqft": 847,
-  "maxAreaSqft": 847,
-  "minAreaSqmt": 79,
-  "maxAreaSqmt": 79,
-  "minPriceAED": 674999,
-  "maxPriceAED": null,
-  "deliveryDate": "2027",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "تحت الإنشاء",
-    "en": "Under Construction"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
-  "heroImage": "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp",
-    "https://binghattiweb.imgix.net/binghatti-circle-amenties-1.webp?auto=format,compress&q=65",
-    "https://binghattiweb.imgix.net/binghatti-circle-amenties-2.webp?auto=format,compress&q=65",
-    "https://binghattiweb.imgix.net/binghatti-circle-studio-layout.webp",
-    "https://binghattiweb.imgix.net/binghatti-circle-one-bedroom-layout.webp",
-    "https://binghattiweb.imgix.net/binghatti-circle-two-bedroom-layout.webp",
-    "https://binghattiweb.imgix.net/binghatti-circle-three-bedroom-layout.webp",
-    "https://binghattiweb.imgix.net/binghatti-circle-11.webp",
-    "https://binghattiweb.imgix.net/binghatti-circle-footer.webp"
-  ],
+  "units_count": null,
+  "area_sqm_min": 79,
+  "area_sqm_max": 79,
+  "area_sqft_min": 847,
+  "area_sqft_max": 847,
+  "price_aed_min": 674999,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "payment plan structure is:",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Swimming Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Fitness Center"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Fitness Center",
+      "ar": ""
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Landscaped Outdoor Areas"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Landscaped Outdoor Areas",
+      "ar": ""
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Family-friendly Spaces"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Family-friendly Spaces",
+      "ar": ""
     }
   ],
-  "highlights": [
-    {
-      "ar": null,
-      "en": "Contemporary apartments designed for modern urban living"
-    },
-    {
-      "ar": null,
-      "en": "Prime family-friendly location in JVC"
-    },
-    {
-      "ar": null,
-      "en": "Multiple residential floors with dedicated parking and amenity levels"
-    },
-    {
-      "ar": null,
-      "en": "Convenient access to major roads, shopping destinations, and city landmarks"
-    }
-  ],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-circle",
+  "features": [],
+  "description_en": "Studio, 1, 2 & 3 BR apartments for sale in Binghatti Circle, JVC Dubai. A premium residential project offering modern living in a prime family-friendly location.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:02:40.837Z",
-    "title": "Binghatti Circle JVC – Studio to 3 Bedroom Apartments for Sale",
-    "description": "Studio, 1, 2 & 3 BR apartments for sale in Binghatti Circle, JVC Dubai. A premium residential project offering modern living in a prime family-friendly location.",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-circle",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-circle"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp",
-      "https://binghattiweb.imgix.net/binghatti-circle-amenties-1.webp?auto=format,compress&q=65",
-      "https://binghattiweb.imgix.net/binghatti-circle-amenties-2.webp?auto=format,compress&q=65",
-      "https://binghattiweb.imgix.net/binghatti-circle-studio-layout.webp",
-      "https://binghattiweb.imgix.net/binghatti-circle-one-bedroom-layout.webp",
-      "https://binghattiweb.imgix.net/binghatti-circle-two-bedroom-layout.webp",
-      "https://binghattiweb.imgix.net/binghatti-circle-three-bedroom-layout.webp",
-      "https://binghattiweb.imgix.net/binghatti-circle-11.webp",
-      "https://binghattiweb.imgix.net/binghatti-circle-footer.webp"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-floor-plans.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-location.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115554.4861775229!2d55.21706659286809!3d25.166854353886798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69cbe987368d%3A0x29d0ae84c05d3d36!2sBinghatti%20Aquarise!5e0!3m2!1sen!2sae!4v1746546106639!5m2!1sen!2sae",
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60873.96031330269!2d55.179076345723516!3d25.060959105456625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c13916f2055bdeb%3A0x8f78dd09d62e07aa!2sBinghatti%20Circle!5e0!3m2!1sen!2sae!4v1750831676217!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "jumeirah-village-circle",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.741Z"
 }

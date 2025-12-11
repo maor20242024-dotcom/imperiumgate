@@ -1,349 +1,160 @@
 {
-  "projectName": {
-    "en": "Sobha Reserve",
-    "ar": "Sobha Reserve"
-  },
-  "description": {
-    "en": "Discover Sobha Reserve, the ideal green gated community, offering luxurious villas for sale in Dubai ranging from 4-5 bedrooms. Explore more with Sobha Realty!",
-    "ar": "Discover Sobha Reserve, the ideal green gated community, offering luxurious villas for sale in Dubai ranging from 4-5 bedrooms. Explore more with Sobha Realty!"
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Private Swimming Pool",
-        "ar": ""
-      },
-      "description": {
-        "en": "Each villa in the community has a private swimming pool for personal use.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Static Outdoor Gym",
-        "ar": ""
-      },
-      "description": {
-        "en": "The outdoor gym that encourages residents to incorporate exercise into their daily routines while enjoying the fresh air.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Zen Garden",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Yoga Garden",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BBQ Stations",
-        "ar": ""
-      },
-      "description": {
-        "en": "A vibrant hub where residents can enjoy outdoor cooking in a relaxed, communal atmosphere.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Amphitheatre",
-        "ar": ""
-      },
-      "description": {
-        "en": "A dynamic venue designed to bring residents together.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Beach Volleyball",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Half Basketball Court",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Multi-use Court",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Paddle Tennis",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Rock Climbing",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Obstacle/Course Ropes",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Cricket Pitch",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Skate Park",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    }
+  "slug": "reserve",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Reserve",
+  "name_ar": "Sobha Reserve",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20reserve.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20reserve.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_1.jpg.webp?itok=sYdXx2J7",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015318.jpg.webp?itok=RQ_IFId5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015248_1.jpg.webp?itok=Wft1Jn4O",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_1.jpg.webp?itok=gO5GXLe0",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015319.jpg.webp?itok=QrOB0WrZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015320.jpg.webp?itok=bgqpZiaZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015325.jpg.webp?itok=3Vnc7jiM",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015326.jpg.webp?itok=jDIFZRau"
   ],
-  "area": {
-    "en": "Dubailand",
-    "ar": ""
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.0167,
+    "lng": 55.3167
   },
-  "bedrooms": [
-    4,
-    5
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "goldenVisaEligible": true,
-  "location": {
-    "en": "Dubailand",
-    "ar": "Dubailand",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Dubailand",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "mapDescription": {
-    "en": "RIGHT IN the Centre of Dubai",
-    "ar": ""
-  },
-  "maxAreaSqft": 3470000,
-  "maxAreaSqmt": 322361,
-  "minAreaSqft": 4900,
-  "minAreaSqmt": 455,
-  "minPriceAED": 7700000,
-  "projectID": "117",
-  "projectPageLink": "https://sobharealty.com/our-communities/sobha-reserve/",
-  "projectStatus": {
-    "en": "On Plan",
-    "ar": "On Plan"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Villas",
-      "ar": "Villas"
+      "ar": ""
     }
   ],
-  "sellable": true,
-  "mapPointsOfInterest": [],
-  "slug": "reserve",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.760649",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_2.jpg.webp?itok=yIzLUint",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img_0.jpg.webp?itok=UZORzId6"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img%20mobile_0.jpg.webp?itok=2ocOVBFw"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1_0.jpg.webp?itok=UeJZOdWn"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479_4.jpg.webp?itok=15jwmov8"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497_0.jpg.webp?itok=5lad73Vl"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283_0.jpg.webp?itok=LQTLY6sd"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_4.jpg.webp?itok=pOXTwg87"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertinement_0.jpg.webp?itok=FSV9r9pc"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_7.jpg.webp?itok=PDCLIXyH"
-      }
-    ],
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "bedrooms": [
+    4,
+    5,
+    6
+  ],
+  "units_count": null,
+  "area_sqm_min": 455,
+  "area_sqm_max": null,
+  "area_sqft_min": 4900,
+  "area_sqft_max": null,
+  "price_aed_min": 7700000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 7700000,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "maxPriceAED": 0,
-  "latitude": 25.0167,
-  "longitude": 55.3167,
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "BARBECUE AREA",
+      "ar": ""
+    },
+    {
+      "en": "Zen Garden",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR CINEMA",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Reserve",
-    "ar": "شوبا ريزيرف"
-  },
-  "sourceUrl": "https://sobharealty.com/villas-for-sale-in-dubai/sobha-reserve/",
-  "community": "sobha-reserve",
-  "communityName": {
-    "en": "Sobha Reserve",
-    "ar": "شوبا ريزيرف"
-  },
-  "auto_translated": true,
-  "id": "sobha-reserve",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "A curvilinear villa community of 3.47 million sq. ft. located in Wadi Al Safa 2, Dubailand with 4 and 5 Bedroom villas. An exquisite abode with a niche set of exquisite villas situated in the heart of an idyllic green luxury gated community that encompasses bouldering walls, exotic flower-patterned clusters and tree-lined walkways. The size of each villa starts from 4,900 sq. ft.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-11/35.%20Sobha%20Reserve%20-%2011%20Dec.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-reserve/",
+    "https://sobharealty.com/villas-for-sale-in-dubai/sobha-reserve/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.042858Z"
 }

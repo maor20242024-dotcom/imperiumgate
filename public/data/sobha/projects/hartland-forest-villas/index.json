@@ -1,339 +1,117 @@
 {
-  "projectName": {
-    "en": "Sobha Hartland Forest Villas",
-    "ar": "Sobha Hartland Forest Villas"
+  "slug": "hartland-forest-villas",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Hartland Forest Villas",
+  "name_ar": "Sobha Hartland Forest Villas",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1764146,
+    "lng": 55.3073117
   },
-  "description": {
-    "en": "Become one with nature in your very own forest villa located right in the centre of Dubai. Experience privacy like never before in Sobha Hartland’s most exclusive development, while immersed in a spellbinding forest scenery. With a host of modern-day luxuries there for the taking, this gated community represents the perfect blend of the natural and the contemporary.",
-    "ar": "Become one with nature in your very own forest villa located right in the centre of Dubai. Experience privacy like never before in Sobha Hartland’s most exclusive development, while immersed in a spellbinding forest scenery. With a host of modern-day luxuries there for the taking, this gated community represents the perfect blend of the natural and the contemporary."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Customisable facades",
-        "ar": ""
-      },
-      "description": {
-        "en": "Customisable facades",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Private Swimming Pool",
-        "ar": ""
-      },
-      "description": {
-        "en": "Private Swimming Pool",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Ultra Luxe Features",
-        "ar": ""
-      },
-      "description": {
-        "en": "Ultra Luxe Features",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "300 Species of Trees & Plants",
-        "ar": ""
-      },
-      "description": {
-        "en": "300 Species of Trees & Plants",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Cycling Track",
-        "ar": ""
-      },
-      "description": {
-        "en": "Cycling Track",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sports Arena",
-        "ar": ""
-      },
-      "description": {
-        "en": "Sports Arena",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "Mohammed Bin Rashid City",
-    "ar": ""
-  },
-  "bedrooms": [
-    4,
-    5
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 25.1764146,
-  "launchDate": null,
-  "location": {
-    "en": "Mohammed Bin Rashid City, Dubai",
-    "ar": "Mohammed Bin Rashid City, Dubai",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Mohammed Bin Rashid City",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3073117,
-  "mapDescription": {
-    "en": "Vibrant Living, Nearby Essentials",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "3 km",
-        "ar": "3 km"
-      },
-      "category": {
-        "en": "Schools",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Airport",
-        "ar": "مطار"
-      }
-    },
-    {
-      "name": {
-        "en": "THE DUBAI MALL",
-        "ar": "THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "13 km",
-        "ar": "13 km"
-      },
-      "category": {
-        "en": "Mall",
-        "ar": "مول"
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
-        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "29 km",
-        "ar": "29 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    }
-  ],
-  "maxAreaSqft": 9581,
-  "maxAreaSqmt": 890,
-  "maxPriceAED": 15000000,
-  "minAreaSqft": 6153,
-  "minAreaSqmt": 571,
-  "minPriceAED": 10000000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "64",
-  "projectPageLink": "https://sobharealty.com/villas-for-sale-in-dubai/forest-villas/",
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Villa",
       "ar": "Villa"
     }
   ],
-  "sellable": true,
-  "views": [],
-  "slug": "hartland-forest-villas",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.754254",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Hartland%20forest%20villas.jpg",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_12.jpg.webp?itok=9VP2dK2a"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_11.jpg.webp?itok=PONJUYKT"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_13.jpg.webp?itok=GjvSgP3b"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015395_2.jpg.webp?itok=qkUaJydb"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015397.jpg.webp?itok=FmJEmFzy"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015396.jpg.webp?itok=Jris2aLW"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/forest-villas-master-brochure_1.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "bedrooms": [
+    4,
+    5,
+    7
+  ],
+  "units_count": null,
+  "area_sqm_min": 571,
+  "area_sqm_max": 890,
+  "area_sqft_min": 6153,
+  "area_sqft_max": 9581,
+  "price_aed_min": 10000000,
+  "price_aed_max": 15000000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 10000000,
-    "maxPriceAED": 15000000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-03/forest-villas-master-brochure_1.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-03/forest-villas-master-brochure_1.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Barbeque Area",
+      "ar": "مكان مخصص للشواء"
+    },
+    {
+      "en": "Number of Bathrooms",
+      "ar": "عدد دورات المياه"
+    },
+    {
+      "en": "Number of Bedrooms",
+      "ar": "عدد الغرف"
+    },
+    {
+      "en": "Parking Spaces",
+      "ar": "مواقف سيارات"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Hartland Forest Villas",
-    "ar": "Sobha Hartland Forest Villas"
-  },
-  "auto_translated": true,
-  "id": "sobha-hartland-forest-villas",
-  "fromCommunity": "mohammed-bin-rashid-city",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Become one with nature in your very own forest villa located right in the centre of Dubai. Experience privacy like never before in Sobha Hartland’s most exclusive development, while immersed in a spellbinding forest scenery. With a host of modern-day luxuries there for the taking, this gated community represents the perfect blend of the natural and the contemporary.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/villas-for-sale-in-dubai/forest-villas/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.043399Z"
 }

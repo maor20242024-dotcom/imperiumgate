@@ -1,178 +1,137 @@
 {
-  "projectID": "florine-beach-residences",
-  "developerID": "sobha",
   "slug": "florine-beach-residences",
-  "projectName": {
-    "en": "Florine-Beach-Residences",
-    "ar": "Florine-Beach-Residences"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Florine-Beach-Residences",
+  "name_ar": "Florine-Beach-Residences",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.606499528941,
+    "lng": 55.631062947545
   },
-  "description": {
-    "ar": "",
-    "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [],
+  "bedrooms": [
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 7,
+  "area_sqm_max": null,
+  "area_sqft_min": 78,
+  "area_sqft_max": null,
+  "price_aed_min": 1972772,
+  "price_aed_max": 4982000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "location": {
-    "country": {
-      "ar": "",
-      "en": "United Arab Emirates"
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
     },
-    "city": {
-      "ar": "",
-      "en": "Dubai"
+    {
+      "en": "First Aid Medical Center",
+      "ar": "مركز للإسعافات الأولية"
     },
-    "area": {
-      "ar": "",
-      "en": ""
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
     },
-    "ar": "",
-    "en": "",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "currency": "AED",
-    "maxPriceAED": 0
-  },
-  "media": {
-    "heroImage": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Laundry Facility",
+      "ar": "خدمة غسيل ملابس"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
+    },
+    {
+      "en": "Day Care Center",
+      "ar": "مركز رعاية أطفال"
+    },
+    {
+      "en": "Cleaning Services",
+      "ar": "خدمات تنظيف"
     }
-  },
-  "amenities": [],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "completionDate": "",
-  "sourceUrl": "",
-  "lastUpdated": "2025-11-01T18:48:02.208717",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "brand": "Sobha",
-  "id": "florine-beach-residences",
-  "area": {
-    "ar": "",
-    "en": ""
-  },
-  "bedrooms": [],
+  ],
+  "features": [],
+  "description_en": "",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "",
-    "whatsapp": ""
-  },
-  "deliveryDate": "",
-  "goldenVisaEligible": false,
-  "launchDate": "",
-  "longitude": 0,
-  "mapDescription": {
-    "ar": "",
-    "en": ""
-  },
-  "mapPointsOfInterest": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "projectPageLink": null,
-  "projectStatus": {
-    "ar": "",
-    "en": ""
-  },
-  "propertyTypes": [],
-  "sellable": false,
-  "views": [],
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "highlights": [],
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "latitude": 0,
-  "projectCategory": "Building",
-  "developer": "Sobha Realty",
-  "community": "delphine-beach-residences",
-  "communityName": {
-    "en": "Delphine-Beach-Residences",
-    "ar": "Delphine-Beach-Residences"
-  },
-  "status": "active",
-  "createdAt": "2025-11-01T18:48:02.208716",
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Florine-Beach-Residences",
-    "ar": "Florine-Beach-Residences"
-  },
-  "auto_translated": false,
-  "contact_points": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.026714Z"
 }

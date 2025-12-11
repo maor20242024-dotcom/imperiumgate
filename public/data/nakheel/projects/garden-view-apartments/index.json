@@ -1,0 +1,158 @@
+{
+  "slug": "garden-view-apartments",
+  "developer": "Nakheel",
+  "community_slug": "",
+  "name_en": "Garden View Apartments",
+  "name_ar": "جاردن فيو أبارتمنتس",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.024769324449,
+    "lng": 55.359007938377
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 6,
+  "area_sqm_max": null,
+  "area_sqft_min": 63,
+  "area_sqft_max": null,
+  "price_aed_min": 890000,
+  "price_aed_max": 3500000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
+    },
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
+    },
+    {
+      "en": "First Aid Medical Center",
+      "ar": "مركز للإسعافات الأولية"
+    },
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Prayer Room",
+      "ar": "غرفة صلاة"
+    },
+    {
+      "en": "Laundry Room",
+      "ar": "غرفة غسيل"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "ATM Facility",
+      "ar": "توفر أجهزة السحب الآلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Steam Room",
+      "ar": "غرفة بخار"
+    },
+    {
+      "en": "Laundry Facility",
+      "ar": "خدمة غسيل ملابس"
+    }
+  ],
+  "features": [],
+  "description_en": "Apartments with garden views.",
+  "description_ar": "شقق مع إطلالات على الحدائق.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.988729Z"
+}

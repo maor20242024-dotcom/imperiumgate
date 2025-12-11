@@ -1,465 +1,129 @@
 {
-  "projectName": {
-    "en": "Skyscape Avenue",
-    "ar": "Skyscape Avenue"
+  "slug": "skyscape-avenue",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Skyscape Avenue",
+  "name_ar": "Skyscape Avenue",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "null",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1723744,
+    "lng": 55.3295953
   },
-  "description": {
-    "en": "Skyscape Avenue takes inspiration from the celestial canvas above, capturing the dynamic essence of city life within its name. It symbolises our dedication to harmonising architectural excellence with nature's grandeur. Here, Skyscape epitomises our vision for a living environment that embodies boundless horizons and infinite potential.",
-    "ar": "Skyscape Avenue takes inspiration from the celestial canvas above, capturing the dynamic essence of city life within its name. It symbolises our dedication to harmonising architectural excellence with nature's grandeur. Here, Skyscape epitomises our vision for a living environment that embodies boundless horizons and infinite potential."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "kids play area",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "INFINITY POOL",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Library and Reading Room",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "YOGA ZONE",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sports Court",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "jacuzzi",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Steam and Sauna",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Indoor and Outdoor gym",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Co-working space",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Gardening zone",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Submerged seating pool",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "ZEN GARDEN",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "Sobha Hartland II",
-    "ar": ""
-  },
-  "bedrooms": [
-    1,
-    2,
-    3
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "2028-12-31",
-  "goldenVisaEligible": false,
-  "latitude": 25.1723744,
-  "launchDate": null,
-  "location": {
-    "en": "",
-    "ar": "",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Sobha Hartland II",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3295953,
-  "mapDescription": {
-    "en": "The Best of City, All within Minutes",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "DOWNTOWN DUBAI",
-        "ar": "DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Transportation",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BUSINESS BAY",
-        "ar": "BUSINESS BAY"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Business District",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Education",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DUBAI MALL",
-        "ar": "BURJ KHALIFA & DUBAI MALL"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
-        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
-      },
-      "distance": {
-        "en": "5 km",
-        "ar": "5 km"
-      },
-      "category": {
-        "en": "Nature Reserve",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MEYDAN RACECOURSE",
-        "ar": "MEYDAN RACECOURSE"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI FRAME",
-        "ar": "DUBAI FRAME"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI OPERA",
-        "ar": "DUBAI OPERA"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "25 km",
-        "ar": "25 km"
-      },
-      "category": {
-        "en": "City Landmark",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 2062,
-  "maxAreaSqmt": 191,
-  "maxPriceAED": 4990000,
-  "minAreaSqft": 762,
-  "minAreaSqmt": 70,
-  "minPriceAED": 1770000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "255",
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/skyscape-avenue/",
-  "projectStatus": {
-    "en": "Off-Plan",
-    "ar": "Off-Plan"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
       "ar": "Apartments"
     }
   ],
-  "sellable": true,
-  "views": [
-    "Lagoon",
-    "Downtown Dubai"
+  "bedrooms": [
+    1,
+    2,
+    3
   ],
-  "slug": "skyscape-avenue",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.727950",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_24.jpg.webp?itok=ib9YdYhO"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_19.jpg.webp?itok=RCEbHGuE"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015383_11.jpg.webp?itok=D4aI6yx8"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-07/skyscape-avenue-opp-doc.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": 70,
+  "area_sqm_max": 191,
+  "area_sqft_min": 762,
+  "area_sqft_max": 2062,
+  "price_aed_min": 1770000,
+  "price_aed_max": 4990000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 1770000,
-    "maxPriceAED": 4990000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-07/skyscape-avenue-opp-doc.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-07/skyscape-avenue-opp-doc.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "[object Object]",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Skyscape Avenue",
-    "ar": "Skyscape Avenue"
-  },
-  "sourceUrl": "https://sobharealty.com/properties-in-dubai/skyscape-avenue/",
-  "auto_translated": true,
-  "id": "skyscape-avenue",
-  "fromCommunity": "sobha-hartland",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Skyscape Avenue takes inspiration from the celestial canvas above, capturing the dynamic essence of city life within its name. It symbolises our dedication to harmonising architectural excellence with nature's grandeur. Here, Skyscape epitomises our vision for a living environment that embodies boundless horizons and infinite potential.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/skyscape-avenue/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.037925Z"
 }

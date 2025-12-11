@@ -5,16 +5,17 @@ export type Locale = 'ar' | 'en';
 
 export const SUPPORTED_LOCALES: readonly Locale[] = (
   process.env.NEXT_PUBLIC_SUPPORTED_LANGUAGES ?? 'ar,en'
-).split(',').map(s=>s.trim().toLowerCase()).filter(Boolean) as Locale[];
+).split(',').map(s => s.trim().toLowerCase()).filter(Boolean) as Locale[];
 
 export function normalizeLocale(x?: string): Locale {
-  return (x||'').toLowerCase().startsWith('ar') ? 'ar' : 'en';
+  return (x || '').toLowerCase().startsWith('ar') ? 'ar' : 'en';
 }
 
-export function t(v?: {ar?:string; en?:string} | string, locale: Locale = 'ar'): string {
+export function t(v?: { ar?: string; en?: string } | string | { city?: string }, locale: Locale = 'ar'): string {
   if (!v) return '';
   if (typeof v === 'string') return v;
-  return v[locale] || v.en || v.ar || '';
+  if ('city' in v) return v.city || '';
+  return (v as any)[locale] || (v as any).en || (v as any).ar || '';
 }
 
 // Legacy alias

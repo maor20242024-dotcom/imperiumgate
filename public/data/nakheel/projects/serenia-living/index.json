@@ -1,157 +1,92 @@
 {
   "slug": "serenia-living",
-  "id": "nakheel-Serenia_Living",
-  "projectName": {
-    "ar": "سيرينيا ليفينج",
-    "en": "Serenia Living"
+  "developer": "Nakheel",
+  "community_slug": "",
+  "name_en": "Serenia Living",
+  "name_ar": "سيرينيا ليفينج",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.124548718588,
+    "lng": 55.112465055707
   },
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "description": {
-    "ar": "سيرينيا ليفينج في نخلة جميرا",
-    "en": "Serenia Living offering luxury waterfront living in Palm Jumeirah"
-  },
-  "amenities": [],
-  "area": {
-    "ar": "نخلة جميرا",
-    "en": "Palm Jumeirah"
-  },
-  "bedrooms": [],
-  "brand": "Nakheel",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "deliveryDate": null,
-  "developer": {
-    "ar": "نخيل العقارية",
-    "en": "Nakheel Properties"
-  },
-  "goldenVisaEligible": false,
-  "heroImage": "",
-  "latitude": 0,
-  "launchDate": null,
-  "location": {
-    "ar": "نخلة جميرا، دبي",
-    "en": "Palm Jumeirah, Dubai",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": "نخلة جميرا",
-      "en": "Palm Jumeirah"
-    },
-    "poiDistances": {}
-  },
-  "longitude": 0,
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "projectCategory": "Building",
-  "projectPageLink": "https://www.nakheel.com",
-  "projectStatus": {
-    "ar": "قيد الإنشاء",
-    "en": "Under Construction"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartment",
       "ar": "شقة"
     }
   ],
-  "sellable": true,
-  "summary": {
-    "en": "Serenia Living offers premium living experience in Palm Jumeirah",
-    "ar": "سيرينيا ليفينج تقدم تجربة معيشية راقية في نخلة جميرا"
+  "bedrooms": [
+    2,
+    4
+  ],
+  "units_count": null,
+  "area_sqm_min": 56,
+  "area_sqm_max": null,
+  "area_sqft_min": 604,
+  "area_sqft_max": null,
+  "price_aed_min": 7950000,
+  "price_aed_max": 73000000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "views": [],
-  "media": {
-    "heroImage": "",
-    "galleryImages": [],
-    "videoLink": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Centrally Air-Conditioned",
+      "ar": "نظام تبريد مركزي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Parking Spaces",
+      "ar": "مواقف سيارات"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "name": {
-    "ar": "سيرينيا ليفينج",
-    "en": "Serenia Living"
-  },
-  "auto_translated": false,
-  "fromCommunity": "palm-jumeirah",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Serenia Living offering luxury waterfront living in Palm Jumeirah",
+  "description_ar": "سيرينيا ليفينج في نخلة جميرا",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://www.nakheel.com"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.981714Z"
 }

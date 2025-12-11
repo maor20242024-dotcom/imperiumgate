@@ -1,166 +1,177 @@
 {
-  "projectID": "aura",
-  "developerID": "sobha",
   "slug": "aura",
-  "projectName": {
-    "en": "Aura",
-    "ar": "Aura"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Aura",
+  "name_ar": "Aura",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/372x274.jpg.webp?itok=3HskIVSE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_17.jpg.webp?itok=mY2zhjfq",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015401.jpg.webp?itok=CyhjKag1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015398_0.jpg.webp?itok=hAHJ2DOs"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1325,
+    "lng": 55.2917
   },
-  "description": {
-    "ar": "وصف غير متوفر",
-    "en": "Description not available"
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "en": "",
-    "ar": "",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "media": {
-    "heroImage": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2028-12-31",
+  "launch_date": "2024-11-26",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    4
+  ],
+  "units_count": null,
+  "area_sqm_min": 21,
+  "area_sqm_max": 187,
+  "area_sqft_min": 223,
+  "area_sqft_max": 2008,
+  "price_aed_min": 5500000,
+  "price_aed_max": 8500000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "amenities": [],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "completionDate": "",
-  "developer": "Sobha Realty",
-  "community": "sobha-hartland-ii",
-  "communityName": {
-    "en": "Sobha-Hartland-Ii",
-    "ar": "Sobha-Hartland-Ii"
-  },
-  "status": "active",
-  "createdAt": "2025-11-01T18:48:01.406826",
-  "lastUpdated": "2025-11-01T18:48:01.406827",
-  "projectCategory": "Project",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "area": {
-    "en": "",
-    "ar": ""
-  },
-  "mapDescription": {
-    "en": "",
-    "ar": ""
-  },
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "kids play area",
+      "ar": ""
+    },
+    {
+      "en": "INFINITY POOL",
+      "ar": ""
+    },
+    {
+      "en": "Library and Reading Room",
+      "ar": ""
+    },
+    {
+      "en": "YOGA ZONE",
+      "ar": ""
+    },
+    {
+      "en": "Sports Court",
+      "ar": ""
+    },
+    {
+      "en": "jacuzzi",
+      "ar": ""
+    },
+    {
+      "en": "Steam and Sauna",
+      "ar": ""
+    },
+    {
+      "en": "Indoor and Outdoor gym",
+      "ar": ""
+    },
+    {
+      "en": "Co-working space",
+      "ar": "مساحة عمل مشتركة"
+    },
+    {
+      "en": "Gardening zone",
+      "ar": ""
+    },
+    {
+      "en": "Submerged seating pool",
+      "ar": ""
+    },
+    {
+      "en": "ZEN GARDEN",
+      "ar": ""
     }
-  },
-  "mapPointsOfInterest": [],
-  "propertyTypes": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "goldenVisaEligible": false,
-  "sellable": false,
-  "latitude": null,
-  "longitude": null,
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Aura",
-    "ar": "أورا"
-  },
-  "auto_translated": false,
-  "id": "aura",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Introducing Skyscape Aura, its unveiling heralds sophistication and grandeur. With its sleek design and commanding presence, Skyscape Aura captivates with unparalleled charm. Welcome to the new era where every silhouette is infused with the spirit of architectural excellence.",
+  "description_ar": "وصف غير متوفر",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-09/skyscape-aura-10-jun.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/skyscape-aura/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.044277Z"
 }

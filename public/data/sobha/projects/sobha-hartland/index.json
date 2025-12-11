@@ -1,0 +1,161 @@
+{
+  "slug": "sobha-hartland",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Hartland",
+  "name_ar": "Sobha Hartland",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img.jpg.webp?itok=Fc8Etbg8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img%20mobile.jpg.webp?itok=HuZM3aqR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283.jpg.webp?itok=2uXfiXOR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497.jpg.webp?itok=cGFG3ug3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479.jpg.webp?itok=OeaYeMA_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1.jpg.webp?itok=5JNgidMN",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_5.jpg.webp?itok=bp6a0gZU",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015254.jpg.webp?itok=4aQuEctS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertainment_4.jpg.webp?itok=uc0HUGfs",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_8.jpg.webp?itok=jnm8qHHl",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banne%20mobile_0.jpg.webp?itok=8f6W3qwY"
+  ],
+  "video_url": "",
+  "tour_3d_url": "null",
+  "coordinates": {
+    "lat": 25.1633,
+    "lng": 55.2894
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    },
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Townhouses",
+      "ar": ""
+    }
+  ],
+  "bedrooms": [
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 92,
+  "area_sqm_max": null,
+  "area_sqft_min": 1000,
+  "area_sqft_max": null,
+  "price_aed_min": 1000000,
+  "price_aed_max": 999999999,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Live",
+      "ar": ""
+    },
+    {
+      "en": "Learn",
+      "ar": ""
+    },
+    {
+      "en": "Entertainment",
+      "ar": ""
+    },
+    {
+      "en": "Dine",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai.",
+  "description_ar": "تقدم  تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في .",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-hartland/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.027689Z"
+}

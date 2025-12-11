@@ -36,23 +36,11 @@ export default function DocsBlock({ brochureUrl, galleryImages = [], projectName
             <div className="flex gap-3">
               <LuxuryButton
                 onClick={() => setShowPDF(!showPDF)}
-                className="flex-1 flex items-center justify-center gap-2"
+                className="w-full flex items-center justify-center gap-2"
               >
                 <Eye className="w-5 h-5" />
-                {showPDF ? 'إخفاء | Hide' : 'عرض | View'}
+                {showPDF ? 'إخفاء الكتيب | Hide Brochure' : 'عرض الكتيب | View Brochure'}
               </LuxuryButton>
-              <a
-                href={brochureUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                download
-                className="flex-1"
-              >
-                <LuxuryButton className="w-full flex items-center justify-center gap-2">
-                  <Download className="w-5 h-5" />
-                  تحميل | Download
-                </LuxuryButton>
-              </a>
             </div>
           </div>
         )}
@@ -71,11 +59,12 @@ export default function DocsBlock({ brochureUrl, galleryImages = [], projectName
       </div>
 
       {showPDF && brochureUrl && (
-        <div className="mt-6 rounded-lg overflow-hidden border border-[var(--gold)]">
+        <div className="mt-6 rounded-lg overflow-hidden border border-[var(--gold)] bg-zinc-900 h-[800px] w-full relative">
           <iframe
-            src={brochureUrl}
-            className="w-full h-[800px]"
+            src={`/api/proxy/pdf?url=${encodeURIComponent(brochureUrl)}#toolbar=0&navpanes=0&scrollbar=0`}
+            className="w-full h-full"
             title={`${projectName} Brochure`}
+            style={{ border: 'none' }}
           />
         </div>
       )}

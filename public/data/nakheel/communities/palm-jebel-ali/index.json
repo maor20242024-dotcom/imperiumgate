@@ -1,179 +1,167 @@
 {
-  "communityID": "palm-jebel-ali",
-  "developerID": "nakheel",
-  "name": {
-    "ar": "نخلة جبل علي",
-    "en": "Palm Jebel Ali"
+  "slug": "palm-jebel-ali",
+  "developer": "Nakheel",
+  "name_en": "Palm Jebel Ali",
+  "name_ar": "نخلة جبل علي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/pja-1920x1080-01.png?sfvrsn=70661267_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/pja-1920x1080-01.png?sfvrsn=70661267_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/pja-1920x1080-02.png?sfvrsn=87c81c_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_1.jpg?sfvrsn=5f7de477_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_2.jpg?sfvrsn=51404f57_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_3.jpg?sfvrsn=5e467166_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_4.jpg?sfvrsn=828c1a47_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_5.jpg?sfvrsn=71449ce5_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_6.jpg?sfvrsn=94157430_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_7.jpg?sfvrsn=399e8a1a_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/nakheel-collection/palm-jebel-ali_vc_8.jpg?sfvrsn=1ed7cec3_1"
+  ],
+  "video_url": "https://nakheel.com/videos/nakheelcorporatelibraries/default-video-library/palm-jebel-ali.mp4?sfvrsn=a35b6dcb_6",
+  "coordinates": {
+    "lat": 25.009806,
+    "lng": 54.988667
   },
-  "description": {
-    "ar": "جزيرة نخلة أكبر مع فلل شاطئية فاخرة.",
-    "en": "A larger palm island with luxury beachfront villas."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "Frond L",
+  "master_location_ar": "سعفة L",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "The Future Is Palm Jebel Ali. Palm Jebel Ali villas will feature floor to ceiling windows, enabling residents to embrace a panoramic view of the beaches, as well as a soft and neutral palette and luxury finishes to create a tranquil atmosphere in the exclusive private frond neighbourhoods. Health and wellbeing will be integrated into daily life on the fronds, offering residents an active lifestyle with wide walkable streets and pocketed parks which allow pedestrians and cyclists to access the beach easily. The frond streetscape will have an emphasis on greenery and comfort, providing lush landscaped streets with ample shading from trees.",
+  "description_ar": "جزيرة نخلة أكبر مع فلل شاطئية فاخرة.",
+  "amenities": [
     {
-      "projectID": "villa-cobalt",
-      "name": {
-        "ar": "فيلا كوبالت",
-        "en": "Villa Cobalt"
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
     {
-      "projectID": "the-beach-collection-villas-phase-2",
-      "name": {
-        "ar": "فلل مجموعة الشاطئ المرحلة 2",
-        "en": "The Beach Collection Villas Phase 2"
-      }
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
     {
-      "projectID": "palm-jebel-ali-frond-j",
-      "name": {
-        "ar": "نخلة جبل علي فروند ج",
-        "en": "Palm Jebel Ali Frond J"
-      }
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
     {
-      "projectID": "villa-pacific-breeze",
-      "name": {
-        "ar": "فيلا باسيفيك بريز",
-        "en": "Villa Pacific Breeze"
-      }
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
     },
     {
-      "projectID": "palm-jebel-ali-frond-b",
-      "name": {
-        "ar": "نخلة جبل علي فروند ب",
-        "en": "Palm Jebel Ali Frond B"
-      }
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
     },
     {
-      "projectID": "palm-jebel-ali-frond-c",
-      "name": {
-        "ar": "نخلة جبل علي فروند سي",
-        "en": "Palm Jebel Ali Frond C"
-      }
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
     },
     {
-      "projectID": "the-coral-collection-villas",
-      "name": {
-        "ar": "فلل مجموعة الكورال",
-        "en": "The Coral Collection Villas"
-      }
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
     },
     {
-      "projectID": "the-beach-collection-villas",
-      "name": {
-        "ar": "فلل مجموعة الشاطئ",
-        "en": "The Beach Collection Villas"
-      }
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
     },
     {
-      "projectID": "villa-wave-crest",
-      "name": {
-        "ar": "فيلا ويف كريست",
-        "en": "Villa Wave Crest"
-      }
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
     },
     {
-      "projectID": "villa-ocean-whisper",
-      "name": {
-        "ar": "فيلا أوشن ويسبر",
-        "en": "Villa Ocean Whisper"
-      }
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
     },
     {
-      "projectID": "villa-cyan-sky",
-      "name": {
-        "ar": "فيلا سيان سكاي",
-        "en": "Villa Cyan Sky"
-      }
+      "en": "Hotels & Resorts",
+      "ar": ""
     },
     {
-      "projectID": "villa-blue-horizon",
-      "name": {
-        "ar": "فيلا بلو هورايزون",
-        "en": "Villa Blue Horizon"
-      }
+      "en": "Lifestyle Malls",
+      "ar": ""
     },
     {
-      "projectID": "palm-jebel-ali-frond-l",
-      "name": {
-        "ar": "نخلة جبل علي فروند إل",
-        "en": "Palm Jebel Ali Frond L"
-      }
+      "en": "Leisure Parks",
+      "ar": ""
     },
     {
-      "projectID": "palm-jebel-ali-frond-p",
-      "name": {
-        "ar": "نخلة جبل علي فروند بي",
-        "en": "Palm Jebel Ali Frond P"
-      }
+      "en": "Waterfront Promenade",
+      "ar": ""
     },
     {
-      "projectID": "palm-jebel-ali-frond-k",
-      "name": {
-        "ar": "نخلة جبل علي فروند كاي",
-        "en": "Palm Jebel Ali Frond K"
-      }
+      "en": "Beach Clubs",
+      "ar": ""
     },
     {
-      "projectID": "palm-jebel-ali-frond-i",
-      "name": {
-        "ar": "نخلة جبل علي فروند آي",
-        "en": "Palm Jebel Ali Frond I"
-      }
+      "en": "Yacht Club",
+      "ar": ""
     },
     {
-      "projectID": "palm-central-private-residences",
-      "name": {
-        "ar": "بالم سنترال برايفت ريزيدنسز",
-        "en": "Palm Central Private Residences"
-      }
+      "en": "Sports & Wellness",
+      "ar": ""
     }
   ],
-  "developer": "nakheel",
-  "lastUpdated": "2025-11-01T18:44:10.051047",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "nearby_landmarks": [
+    {
+      "name_en": "Life Pharmacy Metro Station",
+      "name_ar": "",
+      "distance": "16 minutes",
+      "category": "Metro Station"
+    },
+    {
+      "name_en": "Ibn Battuta Mall",
+      "name_ar": "",
+      "distance": "19 minutes",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "Al Maktoum International Airport (DWC)",
+      "name_ar": "",
+      "distance": "24 minutes",
+      "category": "Airport"
+    },
+    {
+      "name_en": "Expo City",
+      "name_ar": "",
+      "distance": "24 minutes",
+      "category": "Destination Pin"
+    },
+    {
+      "name_en": "Dubai marina",
+      "name_ar": "",
+      "distance": "25 minutes",
+      "category": "Dubai Marina"
+    },
+    {
+      "name_en": "Palm Jumeirah",
+      "name_ar": "",
+      "distance": "27 minutes",
+      "category": "Palm Jumeirah"
     }
-  },
-  "auto_translated": false,
-  "slug": "palm-jebel-ali",
-  "contact_points": {
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-collections/palmjebelali"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.978456Z"
 }

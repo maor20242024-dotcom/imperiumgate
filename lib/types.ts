@@ -1,6 +1,19 @@
 export type Locale = 'ar' | 'en';
 export type LocalizedString = { ar?: string; en?: string };
-export type MaybeLocalized = string | LocalizedString;
+export type LocationObject = { city?: string; lat?: number; lng?: number };
+export type MaybeLocalized = string | LocalizedString | LocationObject;
+
+export interface Community {
+  slug: string;
+  developer: string;
+  name: string;
+  description: string;
+  media: string[];
+  hero_prefer: 'image' | 'video';
+  location?: { lat: number; lng: number; city?: string };
+  type: 'community';
+  extra: Record<string, any>;
+}
 
 export interface Amenity {
   name: LocalizedString;
@@ -32,17 +45,31 @@ export interface Project {
   slug: string;
   id?: string;
   developer?: string;
+  developer_slug?: string; // New field
 
-  projectName: MaybeLocalized;
+  projectName: MaybeLocalized; // Old field, mapped from 'name' in data? No, new data uses 'name'
+  name?: string; // New field
+
+
+
   country?: MaybeLocalized;
   city?: MaybeLocalized;
   area?: MaybeLocalized;
   location?: MaybeLocalized;
 
-  description?: MaybeLocalized;
+  description?: MaybeLocalized; // Old field
   summary?: MaybeLocalized;
   insights?: MaybeLocalized;
-  
+
+  hero_prefer?: 'image' | 'video'; // New field
+  media?: string[]; // New field
+  extra?: Record<string, any>; // New field
+  community?: string | { key: string; slugs: { en: string; ar: string } };
+  community_slug?: string;
+  type?: 'project'; // New field
+  units?: any[]; // New field
+
+
   amenities?: Amenity[];
   mapDescription?: MaybeLocalized;
   mapPointsOfInterest?: MapPOI[];
@@ -83,6 +110,6 @@ export interface Project {
 
   news?: NewsItem[];
   contact?: Contact;
-  
+
   [k: string]: any;
 }

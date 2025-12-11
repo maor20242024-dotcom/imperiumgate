@@ -1,506 +1,150 @@
 {
-  "projectID": "crest-grande",
-  "developerID": "sobha",
   "slug": "crest-grande",
-  "projectName": {
-    "en": "Crest Grande",
-    "ar": "كريست غراند"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Crest Grande",
+  "name_ar": "كريست غراند",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2097.jpg.webp?itok=dAiJJqjY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2096.jpg.webp?itok=2PStd_Ld",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2095.jpg.webp?itok=Y967mEsw",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2094.jpg.webp?itok=RWApF5mn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2093.jpg.webp?itok=EUiVECT4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2092.jpg.webp?itok=MBgNwLXZ"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.177121,
+    "lng": 55.30743
   },
-  "description": {
-    "ar": "وصف غير متوفر",
-    "en": "Description not available"
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "en": "Mohammed Bin Rashid City",
-    "ar": "Mohammed Bin Rashid City",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 4140000,
-    "maxPriceAED": 5650000,
-    "currency": "AED"
-  },
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2097.jpg.webp?itok=dAiJJqjY"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2096.jpg.webp?itok=2PStd_Ld"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2095.jpg.webp?itok=Y967mEsw"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2094.jpg.webp?itok=RWApF5mn"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2093.jpg.webp?itok=EUiVECT4"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2092.jpg.webp?itok=MBgNwLXZ"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "amenities": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
-      "name": {
-        "ar": "",
-        "en": "INDOOR & OUTDOOR GYM"
-      },
-      "description": {
-        "ar": "",
-        "en": ""
-      }
-    },
-    {
-      "name": {
-        "ar": "",
-        "en": "ADULTS & KIDS SWIMMING POOL"
-      },
-      "description": {
-        "ar": "",
-        "en": ""
-      }
-    },
-    {
-      "name": {
-        "ar": "",
-        "en": "RETAIL & RESTAURANTS"
-      },
-      "description": {
-        "ar": "",
-        "en": ""
-      }
-    },
-    {
-      "name": {
-        "ar": "",
-        "en": "BBQ spaces"
-      },
-      "description": {
-        "ar": "",
-        "en": ""
-      }
-    },
-    {
-      "name": {
-        "en": "INDOOR & OUTDOOR GYM",
-        "ar": ""
-      },
-      "description": {
-        "en": "INDOOR & OUTDOOR GYM",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "ADULTS & KIDS SWIMMING POOL",
-        "ar": ""
-      },
-      "description": {
-        "en": "ADULTS & KIDS SWIMMING POOL",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "RETAIL & RESTAURANTS",
-        "ar": ""
-      },
-      "description": {
-        "en": "RETAIL & RESTAURANTS",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BBQ spaces",
-        "ar": ""
-      },
-      "description": {
-        "en": "BBQ spaces",
-        "ar": ""
-      }
+      "en": "Apartments",
+      "ar": ""
     }
   ],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "خطة دفع 60/40 (60% أثناء الإنشاء، 40% بعد التسليم لمدة سنتين)",
-    "en": "60/40 payment plan (60% during construction, 40% post-handover for 2 years)"
-  },
-  "completionDate": "",
-  "developer": "Sobha Realty",
-  "id": "sobha-crest-grande",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "area": {
-    "ar": "مدينة محمد بن راشد",
-    "en": "Mohammed Bin Rashid City"
-  },
   "bedrooms": [
     1,
     2,
     3,
     4
   ],
+  "units_count": null,
+  "area_sqm_min": 67,
+  "area_sqm_max": 251,
+  "area_sqft_min": 726,
+  "area_sqft_max": 2709,
+  "price_aed_min": 4140000,
+  "price_aed_max": 5650000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "INDOOR & OUTDOOR GYM",
+      "ar": ""
+    },
+    {
+      "en": "ADULTS & KIDS SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "RETAIL & RESTAURANTS",
+      "ar": ""
+    },
+    {
+      "en": "BBQ spaces",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Live a Miami-inspired lifestyle with waterfront apartments at Sobha’s Crest Grande apartments. Enjoy a Miami-inspired way of life amidst the hustle and bustle of the city. Offering stunning views of the Dubai Skyline and the Burj Khalifa, Sobha Crest Grande offers an immersive cosmopolitan island lifestyle surrounded by calming waterways and untouched nature.",
+  "description_ar": "وصف غير متوفر",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+971 800 999 999",
-    "whatsapp": "+97180076242"
-  },
-  "deliveryDate": "June 2026",
-  "goldenVisaEligible": false,
-  "launchDate": "September 1, 2022",
-  "longitude": 55.30743,
-  "latitude": 25.177121,
-  "mapDescription": {
-    "ar": "يقع في مدينة محمد بن راشد، بالقرب من المعالم الرئيسية.",
-    "en": "Crest Grande is located in Sobha Hartland, Mohammed Bin Rashid City, Dubai, within the Waterfront District, at the intersection of Ras Al Khor Rd and Al Ain Rd. It offers easy access to major landmarks such as Downtown Dubai, Burj Khalifa, Ras Al Khor Wildlife Sanctuary, Dubai Marina, and Dubai International Airport."
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "5 km",
-        "ar": "5 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "17 km",
-        "ar": "17 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "THE DUBAI MALL",
-        "ar": "THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
-        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "27 km",
-        "ar": "27 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "SHEIKH ZAYED ROAD",
-        "ar": "SHEIKH ZAYED ROAD"
-      },
-      "distance": {
-        "en": "21 km",
-        "ar": "21 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "MALL OF THE EMIRATES",
-        "ar": "MALL OF THE EMIRATES"
-      },
-      "distance": {
-        "en": "20 km",
-        "ar": "20 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "Sobha Hartland & 2 International Schools",
-        "ar": "Sobha Hartland & 2 International Schools"
-      },
-      "distance": {
-        "en": "5 km",
-        "ar": "5 km"
-      },
-      "category": {
-        "en": "Schools",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dubai International Airport",
-        "ar": "Dubai International Airport"
-      },
-      "distance": {
-        "en": "17 km",
-        "ar": "17 km"
-      },
-      "category": {
-        "en": "Transportation",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "The Dubai Mall",
-        "ar": "The Dubai Mall"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Shopping",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Burj Khalifa & Downtown Dubai",
-        "ar": "Burj Khalifa & Downtown Dubai"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Attractions",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Palm Jumeirah",
-        "ar": "Palm Jumeirah"
-      },
-      "distance": {
-        "en": "27 km",
-        "ar": "27 km"
-      },
-      "category": {
-        "en": "Attractions",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sheikh Zayed Road",
-        "ar": "شارع الشيخ زايد"
-      },
-      "distance": {
-        "en": "21 km",
-        "ar": "21 km"
-      },
-      "category": {
-        "en": "Roads",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Mall of the Emirates",
-        "ar": "Mall of the Emirates"
-      },
-      "distance": {
-        "en": "20 km",
-        "ar": "20 km"
-      },
-      "category": {
-        "en": "Shopping",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 2709,
-  "maxAreaSqmt": 251,
-  "maxPriceAED": 5650000,
-  "minAreaSqft": 726,
-  "minAreaSqmt": 67,
-  "minPriceAED": 4140000,
-  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/crest-grande/",
-  "projectStatus": {
-    "ar": "قيد الإنشاء (مكتمل بنسبة 84.17% اعتبارًا من 7 May 2025)",
-    "en": "Under Construction (84.17% Completed as of May 7, 2025)"
-  },
-  "propertyTypes": [
-    {
-      "en": "Apartments",
-      "ar": "Apartments"
-    }
-  ],
-  "sellable": true,
-  "views": [
-    {
-      "en": "Dubai Skyline",
-      "ar": "Dubai Skyline"
-    },
-    {
-      "en": "Burj Khalifa",
-      "ar": "برج خليفة"
-    },
-    "Dubai Skyline",
-    "Burj Khalifa"
-  ],
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "highlights": [],
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "projectCategory": "Project",
-  "status": "active",
-  "lastUpdated": "2025-11-02T05:21:40.705854",
-  "brand": "Sobha Realty",
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Crest Grande",
-    "ar": "كريست غراند"
-  },
-  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/crest-grande/",
-  "community": "sobha-hartland",
-  "communityName": {
-    "en": "Sobha Hartland",
-    "ar": "شوبا هارتلاند"
-  },
-  "auto_translated": true,
-  "contact_points": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": "mohammed-bin-rashid-city",
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/apartments-for-sale-in-dubai/crest-grande/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.035303Z"
 }

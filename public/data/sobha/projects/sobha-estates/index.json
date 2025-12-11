@@ -1,0 +1,181 @@
+{
+  "slug": "sobha-estates",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Estates",
+  "name_ar": "سوبها إستيتس",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20estates.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20estates.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_9.jpg.webp?itok=dwOByWzf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_18.jpg.webp?itok=5_5qkdFu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_12.jpg.webp?itok=_83j5Vnf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_18.jpg.webp?itok=Z6pg1AcX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015365.jpg.webp?itok=fTobuQnr",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015366_0.jpg.webp?itok=31czRYth",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015367_0.jpg.webp?itok=cFYcQIG9"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1781064,
+    "lng": 55.3285028
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Villas",
+      "ar": ""
+    }
+  ],
+  "bedrooms": [
+    5,
+    6
+  ],
+  "units_count": null,
+  "area_sqm_min": 781,
+  "area_sqm_max": 788,
+  "area_sqft_min": 8413,
+  "area_sqft_max": 8490,
+  "price_aed_min": 25780000,
+  "price_aed_max": 25780000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Lagoon",
+      "ar": ""
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Boardwalk",
+      "ar": ""
+    },
+    {
+      "en": "GYM",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
+    },
+    {
+      "en": "Forest Walks",
+      "ar": ""
+    },
+    {
+      "en": "Skate Park",
+      "ar": ""
+    },
+    {
+      "en": "Seasonal Gardens",
+      "ar": ""
+    },
+    {
+      "en": "Tree lined walkways",
+      "ar": ""
+    },
+    {
+      "en": "Forest Landscapes",
+      "ar": ""
+    },
+    {
+      "en": "Jogging track",
+      "ar": "مسار الجري"
+    }
+  ],
+  "features": [],
+  "description_en": "A private gated villa community with tree-lined walkways in grand forest landscapes. Sobha Estates is an exclusive, private gated villa community within the prestigious Sobha Hartland II, designed for those who seek the perfect blend of luxury, privacy, and nature. This exceptional community features a collection of meticulously crafted 5 and 6-bedroom villas, each spanning over 8,000 sq. ft. The villas are thoughtfully positioned to offer breathtaking views of expansive greenery, creating an environment that truly allows you to experience nature’s bounty in its full glory, including a forest landscape with tree-lined walkways and shared streets. With three spacious floors, including a rooftop terrace and a grand entrance court, each villa provides an unparalleled living experience.",
+  "description_ar": "مجمع فلل خاص مسور بممرات تصطف على جانبيها الأشجار في مناظر طبيعية غابية فخمة. سوبها إستيتس هو مجمع فلل حصري خاص مسور يقع داخل سوبها هارتلاند II المرموق، مصمم لأولئك الذين يبحثون عن المزيج المثالي بين الفخامة والخصوصية والطبيعة. يتميز هذا المجمع الاستثنائي بمجموعة من الفلل المصممة بدقة والمكونة من 5 و 6 غرف نوم، تمتد كل منها على مساحة تزيد عن 8000 قدم مربع. تم وضع الفلل بعناية لتوفر إطلالات خلابة على المساحات الخضراء الشاسعة، مما يخلق بيئة تتيح لك حقًا تجربة وفرة الطبيعة بكل مجدها، بما في ذلك منظر طبيعي غابي مع ممرات تصطف على جانبيها الأشجار وشوارع مشتركة. بفضل ثلاثة طوابق واسعة، بما في ذلك شرفة على السطح وساحة مدخل فخمة، توفر كل فيلا تجربة معيشية لا مثيل لها.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-03/hartland-ii-oppdoc1.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://sobharealty.com/villas-for-sale-in-dubai/sobha-estates/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.019670Z"
+}

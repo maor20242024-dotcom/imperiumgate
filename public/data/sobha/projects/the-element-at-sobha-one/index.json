@@ -1,442 +1,156 @@
 {
-  "projectName": {
-    "en": "The Element at Sobha One",
-    "ar": "The Element at Sobha One"
-  },
-  "description": {
-    "en": "The Element at Sobha One opens the gateway to nature’s sanctuary, where tranquillity and harmony intertwine. Imagine standing at the pinnacle of architectural brilliance, where every detail has been crafted to elevate your living experience with breathtaking 270° panoramic views overlooking the Ras Al Khor Wildlife Sanctuary, Dubai Skyline & world-class golf course. The Element offers a curated collection of 1 to 4 bedroom residences that provide a harmonious blend of modern sophistication and timeless appeal, with each residence featuring unparalleled vistas.",
-    "ar": "The Element at Sobha One opens the gateway to nature’s sanctuary, where tranquillity and harmony intertwine. Imagine standing at the pinnacle of architectural brilliance, where every detail has been crafted to elevate your living experience with breathtaking 270° panoramic views overlooking the Ras Al Khor Wildlife Sanctuary, Dubai Skyline & world-class golf course. The Element offers a curated collection of 1 to 4 bedroom residences that provide a harmonious blend of modern sophistication and timeless appeal, with each residence featuring unparalleled vistas."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Kids Play Area",
-        "ar": "منطقة لعب للأطفال"
-      },
-      "description": {
-        "en": "Kids Play Area",
-        "ar": "منطقة لعب للأطفال"
-      }
-    },
-    {
-      "name": {
-        "en": "BBQ & Dining Area",
-        "ar": ""
-      },
-      "description": {
-        "en": "BBQ & Dining Area",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Jacuzzi",
-        "ar": ""
-      },
-      "description": {
-        "en": "Jacuzzi",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Outdoor Gym",
-        "ar": ""
-      },
-      "description": {
-        "en": "Outdoor Gym",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Business Lounge",
-        "ar": ""
-      },
-      "description": {
-        "en": "Business Lounge",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "RoofTop Lounge",
-        "ar": ""
-      },
-      "description": {
-        "en": "RoofTop Lounge",
-        "ar": ""
-      }
-    }
+  "slug": "the-element-at-sobha-one",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "The Element at Sobha One",
+  "name_ar": "The Element at Sobha One",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20Desk.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20Desk.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2043.jpg.webp?itok=svv5xpCc",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/Gallerydesk_0.jpg.webp?itok=5u8NSAAq",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2040.jpg.webp?itok=4Qpz0Gg8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/Gallerydesk.jpg.webp?itok=U4q2PnZ1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2041.jpg.webp?itok=Jx_ozWVO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2042_0.jpg.webp?itok=fuawaRdT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2046.jpg.webp?itok=aTbM4JYa"
   ],
-  "area": {
-    "en": "Ras Al Khor",
-    "ar": ""
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1842161,
+    "lng": 55.3403051
   },
-  "bedrooms": [
-    1,
-    2,
-    3,
-    4
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 25.1842161,
-  "launchDate": null,
-  "location": {
-    "en": "Ras Al Khor Wildlife Sanctuary, Dubai Skyline & world-class golf course",
-    "ar": "Ras Al Khor Wildlife Sanctuary, Dubai Skyline & world-class golf course",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Ras Al Khor",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3403051,
-  "mapDescription": {
-    "en": "",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Schools",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Airport",
-        "ar": "مطار"
-      }
-    },
-    {
-      "name": {
-        "en": "BUSINESS BAY",
-        "ar": "BUSINESS BAY"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Business Area",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "THE DUBAI MALL",
-        "ar": "THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Shopping Mall",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
-        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
-        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
-      },
-      "distance": {
-        "en": "5 km",
-        "ar": "5 km"
-      },
-      "category": {
-        "en": "Nature/Sanctuary",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MEYDAN RACECOURSE",
-        "ar": "MEYDAN RACECOURSE"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Sports/Leisure",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI FRAME",
-        "ar": "DUBAI FRAME"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI OPERA",
-        "ar": "DUBAI OPERA"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "25 km",
-        "ar": "25 km"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    }
-  ],
-  "maxAreaSqft": 2445,
-  "maxAreaSqmt": 227,
-  "maxPriceAED": 5100000,
-  "minAreaSqft": 729,
-  "minAreaSqmt": 67,
-  "minPriceAED": 1840000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "4463",
-  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/the-element/",
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
-      "ar": "Apartments"
+      "ar": ""
     }
   ],
-  "sellable": true,
-  "views": [
-    "Ras Al Khor Wildlife Sanctuary",
-    "Dubai Skyline",
-    "world-class golf course"
+  "bedrooms": [
+    1
   ],
-  "slug": "the-element-at-sobha-one",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.749904",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20Desk.jpg",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%2013.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%2011.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%209.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%2014.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%2010.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%2012.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2025-02/372x274%20%E2%80%93%2015.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2043.jpg.webp?itok=svv5xpCc"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/Gallerydesk_0.jpg.webp?itok=5u8NSAAq"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2040.jpg.webp?itok=4Qpz0Gg8"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/Gallerydesk.jpg.webp?itok=U4q2PnZ1"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2041.jpg.webp?itok=Jx_ozWVO"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2042_0.jpg.webp?itok=fuawaRdT"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2046.jpg.webp?itok=aTbM4JYa"
-      }
-    ],
-    "3D_TourLink": "https://sobharealty.com/digitalwalkthrough/sobha_the_element/1br/?v=1",
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": 67,
+  "area_sqm_max": 227,
+  "area_sqft_min": 729,
+  "area_sqft_max": 2445,
+  "price_aed_min": 1840000,
+  "price_aed_max": 5100000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 1840000,
-    "maxPriceAED": 5100000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
+    },
+    {
+      "en": "BBQ & Dining Area",
+      "ar": ""
+    },
+    {
+      "en": "Jacuzzi",
+      "ar": "جاكوزي"
+    },
+    {
+      "en": "Outdoor Gym",
+      "ar": ""
+    },
+    {
+      "en": "Business Lounge",
+      "ar": ""
+    },
+    {
+      "en": "RoofTop Lounge",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "The Element at Sobha One",
-    "ar": "The Element at Sobha One"
-  },
-  "auto_translated": true,
-  "id": "the-element-at-sobha-one",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "The Element at Sobha One opens the gateway to nature’s sanctuary, where tranquillity and harmony intertwine. Imagine standing at the pinnacle of architectural brilliance, where every detail has been crafted to elevate your living experience with breathtaking 270° panoramic views overlooking the Ras Al Khor Wildlife Sanctuary, Dubai Skyline & world-class golf course. The Element offers a curated collection of 1 to 4 bedroom residences that provide a harmonious blend of modern sophistication and timeless appeal, with each residence featuring unparalleled vistas.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/apartments-for-sale-in-dubai/the-element/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.047855Z"
 }

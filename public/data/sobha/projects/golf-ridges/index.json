@@ -1,165 +1,161 @@
 {
-  "projectID": "golf-ridges",
-  "developerID": "sobha",
   "slug": "golf-ridges",
-  "projectName": {
-    "en": "Golf Ridges",
-    "ar": "جولف ريدجز"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Golf Ridges",
+  "name_ar": "جولف ريدجز",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Golf%20ridge.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Golf%20ridge.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015280_1.jpg.webp?itok=3Chx-bGU",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_4.jpg.webp?itok=nrN9GrqO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015248_2.jpg.webp?itok=XrXTcUrL",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015284_1.jpg.webp?itok=9ffyrv4x",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_5.jpg.webp?itok=vmExpmZD",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015278_2.jpg.webp?itok=ZIyg4f8y",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015282_1.jpg.webp?itok=sHiI0OPk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_5.jpg.webp?itok=VlGMiKGO"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.016735083275,
+    "lng": 55.204386272808
   },
-  "description": {
-    "ar": "وصف غير متوفر",
-    "en": "Description not available"
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "en": "",
-    "ar": "",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "media": {
-    "heroImage": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Villaments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    5
+  ],
+  "units_count": null,
+  "area_sqm_min": 67,
+  "area_sqm_max": null,
+  "area_sqft_min": 717,
+  "area_sqft_max": null,
+  "price_aed_min": 23395000,
+  "price_aed_max": 25999999,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "amenities": [],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "completionDate": "",
-  "developer": "Sobha Realty",
-  "projectCategory": "Project",
-  "status": "active",
-  "lastUpdated": "2025-11-02T05:21:40.708876",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "area": {
-    "en": "",
-    "ar": ""
-  },
-  "mapDescription": {
-    "en": "",
-    "ar": ""
-  },
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "18 Hole pitch & putt golf course",
+      "ar": ""
+    },
+    {
+      "en": "Clubhouse",
+      "ar": ""
+    },
+    {
+      "en": "BBQ & dining areas",
+      "ar": ""
+    },
+    {
+      "en": "Yoga Garden",
+      "ar": ""
+    },
+    {
+      "en": "Rock climbing",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
     }
-  },
-  "mapPointsOfInterest": [],
-  "propertyTypes": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "goldenVisaEligible": false,
-  "sellable": false,
-  "latitude": null,
-  "longitude": null,
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Golf Ridges",
-    "ar": "جولف ريدجز"
-  },
-  "community": "mohammed-bin-rashid-city",
-  "communityName": {
-    "en": "Mohammed Bin Rashid City",
-    "ar": "مدينة محمد بن راشد"
-  },
-  "auto_translated": false,
-  "id": "golf-ridges",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Wake up to the beauty of a lush golf course at Golf Ridges at Sobha One—where luxury meets nature with the region’s first golf-course-facing villaments. These 54 exclusive homes blend the elegance of a villa with the convenience of duplex living, offering private lifts, stunning views of an 18-hole pitch and putt golf course, and direct parking.Beyond your doorstep, a tranquil lagoon offers a peaceful retreat amidst lush greenery. With 4 and 5-bedroom options, this development in Sobha One, Ras Al Khor delivers an unmatched blend of luxury, nature, and the ultimate golf lifestyle.",
+  "description_ar": "وصف غير متوفر",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-11/12.%20Golf%20Ridges%20at%20Sobha%20One.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/golf-ridges-at-sobha-one/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.029990Z"
 }

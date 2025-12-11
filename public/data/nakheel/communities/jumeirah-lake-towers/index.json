@@ -1,67 +1,57 @@
 {
-  "communityID": "jumeirah-lake-towers",
-  "developerID": "nakheel",
-  "name": {
-    "ar": "أبراج بحيرات جميرا",
-    "en": "Jumeirah Lake Towers"
+  "slug": "jumeirah-lake-towers",
+  "developer": "Nakheel",
+  "name_en": "Jumeirah Lake Towers",
+  "name_ar": "أبراج بحيرات جميرا",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.071289705325,
+    "lng": 55.145272693198
   },
-  "description": {
-    "ar": "أبراج شاهقة حول بحيرات.",
-    "en": "High-rises around lakes."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "Saba Tower 2",
+  "master_location_ar": "برج سابا 2",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "High-rises around lakes.",
+  "description_ar": "أبراج شاهقة حول بحيرات.",
+  "amenities": [
     {
-      "projectID": "falcon-tower",
-      "name": {
-        "ar": "فالكون تاور",
-        "en": "Falcon Tower"
-      }
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
     }
   ],
-  "developer": "nakheel",
-  "lastUpdated": "2025-11-01T18:48:01.363982",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "auto_translated": false,
-  "slug": "jumeirah-lake-towers",
-  "contact_points": {
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.923757Z"
 }

@@ -1,3 +1,4 @@
+import '../globals.css'
 import AIConcierge from '@/components/ui/AIConcierge'
 import RouteProgress from '@/components/ui/RouteProgress'
 import ImperiumRouteLoader from '@/components/ui/ImperiumRouteLoader'

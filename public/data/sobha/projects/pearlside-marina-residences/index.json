@@ -1,308 +1,125 @@
 {
-  "projectName": {
-    "en": "Pearlside Marina Residences",
-    "ar": "Pearlside Marina Residences"
+  "slug": "pearlside-marina-residences",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Pearlside Marina Residences",
+  "name_ar": "Pearlside Marina Residences",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.60906640021401,
+    "lng": 55.63266573919659
   },
-  "description": {
-    "en": "At Pearlside Marina Residences, life flows with clarity and purpose.",
-    "ar": "At Pearlside Marina Residences, life flows with clarity and purpose."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "GOLF COURSE",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MOTORISED SEAWATER BODY",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "YACHT CLUB WITH BOAT MOORING",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SHOPPING MALL",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "VIBRANT NIGHTLIFE",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "LUSH PARKS & LANDSCAPED GARDENS",
-        "ar": ""
-      },
-      "description": {
-        "en": "",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "Sobha Siniya Island",
-    "ar": ""
-  },
-  "bedrooms": [
-    1,
-    2,
-    3
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "2030-03-01",
-  "goldenVisaEligible": false,
-  "latitude": 25.60906640021401,
-  "launchDate": null,
-  "location": {
-    "en": "Sobha Siniya Island",
-    "ar": "Sobha Siniya Island",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Umm Al Quwain",
-      "ar": ""
-    },
-    "area": {
-      "en": "Sobha Siniya Island",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.63266573919659,
-  "mapDescription": {
-    "en": "Vibrant Living, Nearby Essentials",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "MARJAN ISLAND",
-        "ar": "MARJAN ISLAND"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SHARJAH",
-        "ar": "SHARJAH"
-      },
-      "distance": {
-        "en": "30 km",
-        "ar": "30 km"
-      },
-      "category": {
-        "en": "",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI",
-        "ar": "DUBAI"
-      },
-      "distance": {
-        "en": "50 km",
-        "ar": "50 km"
-      },
-      "category": {
-        "en": "",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 1298,
-  "maxAreaSqmt": 120,
-  "maxPriceAED": 6170000,
-  "minAreaSqft": 463,
-  "minAreaSqmt": 43,
-  "minPriceAED": 1380000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "314789",
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/pearlside-marina-residence/",
-  "projectStatus": {
-    "en": "Off-plan",
-    "ar": "Off-plan"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
       "ar": "Apartments"
     }
   ],
-  "sellable": true,
-  "views": [
-    "Open Sea Views"
+  "bedrooms": [
+    1,
+    2,
+    3
   ],
-  "slug": "pearlside-marina-residences",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.771079",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Listing%20372x274%20%E2%80%93%2039.jpg.webp?itok=iWlXP9Ab",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Listing%20372x274%20%E2%80%93%2039.jpg.webp?itok=iWlXP9Ab"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Listing%20372x274%20%E2%80%93%2038.jpg.webp?itok=Ts3-nDGZ"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Listing%20372x274%20%E2%80%93%2037.jpg.webp?itok=8Y95jATl"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Listing%20372x274%20%E2%80%93%2036.jpg.webp?itok=r8ZVRWCD"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": 43,
+  "area_sqm_max": 120,
+  "area_sqft_min": 463,
+  "area_sqft_max": 1298,
+  "price_aed_min": 1380000,
+  "price_aed_max": 6170000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 1380000,
-    "maxPriceAED": 6170000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Barbeque Area",
+      "ar": "مكان مخصص للشواء"
+    },
+    {
+      "en": "Day Care Center",
+      "ar": "مركز رعاية أطفال"
+    },
+    {
+      "en": "Cleaning Services",
+      "ar": "خدمات تنظيف"
+    },
+    {
+      "en": "Jacuzzi",
+      "ar": "جاكوزي"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Pearlside Marina Residences",
-    "ar": "Pearlside Marina Residences"
-  },
-  "auto_translated": true,
-  "id": "pearlside-marina-residences",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "At Pearlside Marina Residences, life flows with clarity and purpose.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/pearlside-marina-residence/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.017194Z"
 }

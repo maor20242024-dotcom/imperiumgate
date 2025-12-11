@@ -1,72 +1,39 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-pinnacle",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Pinnacle",
+  "name_ar": "Binghatti Pinnacle",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/binghatti-pinnacle-hero-banner.webp",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/binghatti-pinnacle-hero-banner.webp"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.21258928118754,
+    "lng": 55.292494480281896
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Al Jaddaf"
-  },
-  "location": {
-    "ar": null,
-    "en": "Al Jaddaf",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "Al Jaddaf"
-    }
-  },
-  "latitude": 25.21258928118754,
-  "longitude": 55.292494480281896,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Pinnacle",
-    "en": "Binghatti Pinnacle",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Binghatti Pinnacle in Al Jaddaf, Dubai — Premium 1 to 3 BR apartments with modern design, and luxury amenities"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Al Jaddaf",
+  "location_ar": "",
+  "district_en": "Al Jaddaf",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "Q4 2025",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
@@ -74,157 +41,54 @@
     2,
     3
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "10% deposit on signing the contract, 50% during the construction phase, 40% upon completion"
-  },
-  "minAreaSqft": 879,
-  "maxAreaSqft": 1523,
-  "minAreaSqmt": 82,
-  "maxAreaSqmt": 141,
-  "minPriceAED": 1449999,
-  "maxPriceAED": null,
-  "deliveryDate": "Q4 2025",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "تحت الإنشاء",
-    "en": "Under Construction"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-pinnacle-assets/binghatti-pinnacle-brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
-  "heroImage": "https://binghattiweb.imgix.net/binghatti-pinnacle-hero-banner.webp",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-hero-banner.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-amenties-1.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-amenties-2.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-bedroom-1.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-bedroom-2.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-1.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-2.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-3.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-4.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-living-room-1.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-living-room-2.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-living-room-3.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-lobby-1.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-lobby-2.webp",
-    "https://binghattiweb.imgix.net/binghatti-pinnacle-lobby-3.webp",
-    "https://binghattiweb.imgix.net/twilight-lobby-3.webp",
-    "https://www.binghatti.com/en/assets/img/binghatti-pinnacle-one-bedroom-layout.webp",
-    "https://www.binghatti.com/en/assets/img/binghatti-pinnacle-two-bedroom-layout.webp",
-    "https://www.binghatti.com/en/assets/img/binghatti-pinnacle-three-bedroom-layout.webp",
-    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg"
-  ],
+  "units_count": null,
+  "area_sqm_min": 82,
+  "area_sqm_max": 141,
+  "area_sqft_min": 879,
+  "area_sqft_max": 1523,
+  "price_aed_min": 1449999,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "10% deposit on signing the contract, 50% during the construction phase, 40% upon completion",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Spa"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Spa",
+      "ar": "سبا"
     }
   ],
-  "highlights": [],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-pinnacle",
+  "features": [],
+  "description_en": "Binghatti Pinnacle in Al Jaddaf, Dubai — Premium 1 to 3 BR apartments with modern design, and luxury amenities",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-pinnacle-assets/binghatti-pinnacle-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:13:09.547Z",
-    "title": "Binghatti Pinnacle Al Jaddaf | 1–3 Bedroom Apartments in Dubai",
-    "description": "Binghatti Pinnacle in Al Jaddaf, Dubai — Premium 1 to 3 BR apartments with modern design, and luxury amenities",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-pinnacle",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-pinnacle"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-hero-banner.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-amenties-1.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-amenties-2.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-bedroom-1.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-bedroom-2.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-1.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-2.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-3.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-exterior-4.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-living-room-1.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-living-room-2.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-living-room-3.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-lobby-1.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-lobby-2.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-lobby-3.webp",
-      "https://binghattiweb.imgix.net/twilight-lobby-3.webp",
-      "https://www.binghatti.com/en/assets/img/binghatti-pinnacle-one-bedroom-layout.webp",
-      "https://www.binghatti.com/en/assets/img/binghatti-pinnacle-two-bedroom-layout.webp",
-      "https://www.binghatti.com/en/assets/img/binghatti-pinnacle-three-bedroom-layout.webp",
-      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-2.webp",
-      "https://binghattiweb.imgix.net/bedroom-img.webp",
-      "https://binghattiweb.imgix.net/binghatti-pinnacle-footer.webp"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-pinnacle-assets/binghatti-pinnacle-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-pinnacle-assets/binghatti-pinnacle-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-twilight-assets/binghatti-twilight-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-pinnacle-assets/binghatti-pinnacle-floor-plans.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-pinnacle-assets/binghatti-pinnacle-project-location.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115554.4861775229!2d55.21706659286809!3d25.166854353886798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69cbe987368d%3A0x29d0ae84c05d3d36!2sBinghatti%20Aquarise!5e0!3m2!1sen!2sae!4v1746546106639!5m2!1sen!2sae",
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42020.09121488759!2d55.292494480281896!3d25.21258928118754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d7d3a393bb5%3A0xc85b556eff1e6be4!2sBinghatti%20Pinnacle!5e0!3m2!1sen!2sae!4v1751271797460!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": null,
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.746Z"
 }

@@ -1,167 +1,122 @@
 {
-  "projectID": "creek-vistas-reserve",
-  "developerID": "sobha",
   "slug": "creek-vistas-reserve",
-  "projectName": {
-    "en": "Creek-Vistas-Reserve",
-    "ar": "Creek-Vistas-Reserve"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Creek-Vistas-Reserve",
+  "name_ar": "Creek-Vistas-Reserve",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.179868578691,
+    "lng": 55.304122131253
   },
-  "description": {
-    "ar": "وصف غير متوفر",
-    "en": "Description not available"
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 5,
+  "area_sqm_max": null,
+  "area_sqft_min": 55,
+  "area_sqft_max": null,
+  "price_aed_min": 1200000,
+  "price_aed_max": 1700000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "en": "",
-    "ar": "",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "media": {
-    "heroImage": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "[object Object]",
+      "ar": ""
     }
-  },
-  "amenities": [],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "completionDate": "",
-  "developer": "Sobha Realty",
-  "community": "sobha-hartland",
-  "communityName": {
-    "en": "Sobha-Hartland",
-    "ar": "Sobha-Hartland"
-  },
-  "status": "active",
-  "createdAt": "2025-11-01T18:48:01.332378",
-  "lastUpdated": "2025-11-01T18:48:01.332379",
-  "projectCategory": "Project",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "area": {
-    "en": "",
-    "ar": ""
-  },
-  "mapDescription": {
-    "en": "",
-    "ar": ""
-  },
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "mapPointsOfInterest": [],
-  "propertyTypes": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "goldenVisaEligible": false,
-  "sellable": false,
-  "latitude": null,
-  "longitude": null,
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Creek Vistas Reservé",
-    "ar": "كرييك فيستاس ريزيرفي"
-  },
-  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/creek-vistas-reserve/",
-  "auto_translated": false,
-  "id": "creek-vistas-reserve",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Description not available",
+  "description_ar": "وصف غير متوفر",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.012525Z"
 }

@@ -1,187 +1,119 @@
 {
   "slug": "golf-acres-at-emaar-south",
-  "id": "396235",
   "developer": "Emaar",
-  "brand": "إعمار العقارية",
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "emaar-south",
+  "name_en": "Golf Acres",
+  "name_ar": "جولف إيكرز",
+  "website": "https://properties.emaar.com/ar/properties/golf-acres-at-emaar-south",
+  "canonical_url": "https://properties.emaar.com/ar/properties/golf-acres-at-emaar-south",
+  "logo": "",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/HARBOUR_GATE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HILLCREST_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/CEDAR_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/DHE_PF_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/SAVANNA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/RIVANA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/ELVIRA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/01_HERO_EMERALD_HILLS.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/09/PALACE_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/CREEK_RISE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/PALACE_RESIDENCES_NORTH_DCH_WEBSITE_MAIN_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_HORIZON.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/11/THE_COVE_DCH_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DCR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/eden_hero_banner.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/LANDING_PAGE_HERO_16200x832-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 24.8967,
+    "lng": 55.1619
   },
-  "city": {
-    "ar": "دبي",
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": "إعمار الجنوب",
-    "en": "Emaar South"
-  },
-  "location": {
-    "ar": "إعمار الجنوب",
-    "en": "Emaar South"
-  },
-  "latitude": 24.8967,
-  "longitude": 55.1619,
-  "mapDescription": {
-    "ar": "",
-    "en": ""
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": "سكني",
-  "projectName": {
-    "ar": "جولف إيكرز",
-    "en": "Golf Acres"
-  },
-  "summary": {
-    "ar": "تعرف على جولف إكريس في إعمار الجنوب، حيث أن منزلك ليس مجرد مكان للعيش؛ بل هو ملاذ يبعث على الهدوء والإلهام. اكتشف منزلك الجديد اليوم.",
-    "en": "Discover Golf Acres at Emaar South, where your home is not just a place to live; it's a sanctuary that inspires tranquility and inspiration. Discover your new home today."
-  },
-  "heroCopy": {
-    "ar": {
-      "title": "جولف إيكرز | إعمار الجنوب | إعمار العقارية",
-      "subtitle": "تعرف على جولف إكريس في إعمار الجنوب، حيث أن منزلك ليس مجرد مكان للعيش؛ بل هو ملاذ يبعث على الهدوء والإلهام. اكتشف منزلك الجديد اليوم."
-    },
-    "en": {
-      "title": "Golf Acres | Emaar South | Emaar Properties",
-      "subtitle": "Discover Golf Acres at Emaar South, where your home is not just a place to live; it's a sanctuary that inspires tranquility and inspiration. Discover your new home today."
-    }
-  },
-  "description": {
-    "ar": "تعرف على جولف إكريس في إعمار الجنوب، حيث أن منزلك ليس مجرد مكان للعيش؛ بل هو ملاذ يبعث على الهدوء والإلهام. اكتشف منزلك الجديد اليوم.",
-    "en": "Discover Golf Acres at Emaar South, where your home is not just a place to live; it's a sanctuary that inspires tranquility and inspiration. Discover your new home today."
-  },
-  "propertyTypes": [],
-  "bedrooms": [],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "minAreaSqft": 0,
-  "maxAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "maxAreaSqmt": 0,
-  "minPriceAED": 0,
-  "maxPriceAED": null,
-  "deliveryDate": "",
-  "launchDate": "",
-  "projectStatus": {
-    "ar": "",
-    "en": ""
-  },
-  "views": [],
-  "goldenVisaEligible": false,
-  "3D_TourLink": "",
-  "brochurePdfLink": {
-    "ar": "",
-    "en": ""
-  },
-  "videoLink": "",
-  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/HERO_1620X832_1-2.jpg",
-  "galleryImages": [],
-  "amenities": [],
-  "highlights": [],
-  "insights": {
-    "ar": "",
-    "en": ""
-  },
-  "sellable": false,
-  "projectPageLink": "https://properties.emaar.com/ar/properties/golf-acres-at-emaar-south",
-  "contact": {
-    "phone": "",
-    "whatsapp": "",
-    "email": ""
-  },
-  "meta": {
-    "title": "جولف إيكرز | إعمار الجنوب | إعمار العقارية",
-    "description": "تعرف على جولف إكريس في إعمار الجنوب، حيث أن منزلك ليس مجرد مكان للعيش؛ بل هو ملاذ يبعث على الهدوء والإلهام. اكتشف منزلك الجديد اليوم.",
-    "canonical": "https://properties.emaar.com/ar/properties/golf-acres-at-emaar-south/",
-    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/HERO_1620X832_1-2.jpg",
-    "modified_time": "2025-02-27T13:24:06+00:00",
-    "fetchedAt": "2025-11-09T13:01:42.026Z",
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "assets": {
-    "images": [
-      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/BROCHURE_IMG_300X210-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/FEATURES_1200X655_2-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/FEATURES_1200X655_3-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_EXT_1-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_EXT_2-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_EXT_3-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_EXT_4-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_EXT_5-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_INT_1-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_INT_2-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/12/PRO_INT_3-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMM_IMG.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Golf.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Kids-Play-ares.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Community-Park.jpg",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left-w.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right-w.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/Emaar_Ar_logo.png",
-      "https://properties.emaar.com/wp-content/uploads/2024/12/FEATURES_1200X655_2-3.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2024/12/FEATURES_1200X655_3-1.jpg"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://properties.emaar.com/wp-content/uploads/2024/12/GOLF_ACRES_ES_BROCHURE.pdf"
-    ],
-    "iframes": [
-      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
-      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
-      "about:blank"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "emaar-south",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
+  "address_en": "Emaar South",
+  "address_ar": "إعمار الجنوب",
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
   "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [],
+  "bedrooms": [],
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": null,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Park",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Playground",
+      "ar": "ملعب"
     }
-  }
+  ],
+  "features": [],
+  "description_en": "Discover Golf Acres at Emaar South, where your home is not just a place to live; it's a sanctuary that inspires tranquility and inspiration. Discover your new home today.",
+  "description_ar": "تعرف على جولف إكريس في إعمار الجنوب، حيث أن منزلك ليس مجرد مكان للعيش؛ بل هو ملاذ يبعث على الهدوء والإلهام. اكتشف منزلك الجديد اليوم.",
+  "brochure_url": "https://properties.emaar.com/wp-content/uploads/2024/12/GOLF_ACRES_ES_BROCHURE.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": false,
+  "golden_visa_eligible": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/properties/golf-acres-at-emaar-south"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T13:01:42.026Z",
+  "updated_at": "2025-11-30T18:47:07.648Z"
 }

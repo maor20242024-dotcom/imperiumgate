@@ -7,9 +7,7 @@ const __dirname = path.dirname(__filename);
 // next.config.mjs
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  typedRoutes: true,
-  // Ensure Next.js traces files from the correct project root
-  outputFileTracingRoot: __dirname,
+
   images: {
     // Allow local proxy route with query strings for next/image
     // This fixes: `next/image` Un-configured localPatterns for /api/proxy/file?url=...
@@ -89,7 +87,7 @@ const nextConfig = {
     imageSizes: [128, 256, 384],
     formats: ['image/avif', 'image/webp'],
   },
-  
+
   reactStrictMode: true,
   poweredByHeader: false,
 
@@ -130,7 +128,7 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['swiper', 'framer-motion', 'lucide-react'],
   },
-  
+
   // Compression and optimization
   compress: true,
 };

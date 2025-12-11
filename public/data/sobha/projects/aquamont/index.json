@@ -1,575 +1,187 @@
 {
   "slug": "aquamont",
-  "id": "sobha-sobha-aquamont",
-  "projectName": {
-    "en": "Sobha Aquamont",
-    "ar": "سوبها أكوامونت"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Aquamont",
+  "name_ar": "سوبها أكوامونت",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2025-04/Banner%201440x618%20%E2%80%93%204_3.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2025-04/Banner%201440x618%20%E2%80%93%204_3.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery5_0.jpg.webp?itok=oZEHNp6P",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob5.jpg.webp?itok=9VpZAa-V",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery2_0.jpg.webp?itok=TDti8cT-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob2.jpg.webp?itok=AlLyu9wF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery1_0.jpg.webp?itok=2cfhvfRO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob1.jpg.webp?itok=MtXlTyqE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery6_0.jpg.webp?itok=U7ltm_dM",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob6.jpg.webp?itok=CGenRuqR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery3_0.jpg.webp?itok=l7MwHY0c",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob3.jpg.webp?itok=gPDdfgkW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery4_0.jpg.webp?itok=rCG6Nkvo",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob4.jpg.webp?itok=6Q3b2LrB",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery7_0.jpg.webp?itok=tFHto4GO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob7.jpg.webp?itok=cYwUdaPz",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery8_0.jpg.webp?itok=zW491cXn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob8.jpg.webp?itok=m-Ik-gkQ"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.556407,
+    "lng": 55.5362661
   },
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "description": {
-    "ar": "يستهل سوبها أكوامونت حقبة جديدة من الحياة الساحلية الراقية في قلب وسط مدينة أم القيوين. يقع هذا الجيب الحصري على الواجهة البحرية على طول شاطئ استثنائي يبلغ طوله 11 كم - مع 7 كم من الشواطئ البكر وحدائق الشاطئ المنسقة - ويوفر إحساسًا نادرًا بالمساحة والصفاء والرقي. يضم مساكن شاطئية مصممة بشكل لا تشوبه شائبة من غرفة نوم واحدة وغرفتي نوم، إلى جانب دوبلكسات واسعة من 3 غرف نوم، كل منزل هو امتداد سلس للمحيط - مصمم لالتقاط إيقاع الأمواج وتدفق الضوء والأفق اللامحدود. يُنظر إلى سوبها أكوامونت على أنه 'الأفق بجانب الشاطئ'، حيث تلتقي الأناقة المعاصرة بالجمال الطبيعي للبحر. تجتمع الإطلالات البانورامية والهندسة المعمارية السائلة والتصميم البديهي معًا لخلق ملاذ من الهدوء، مما يوفر للمقيمين أسلوب حياة راقٍ متجذر في الاتصال والعافية والأناقة الخالدة.",
-    "en": "Sobha Aquamont ushers in a new era of refined coastal living in the heart of Downtown Umm Al Quwain. Set along an extraordinary 11-km shoreline—with 7 km of pristine beaches and curated beach parks—this exclusive waterfront enclave offers a rare sense of space, serenity, and sophistication.Featuring impeccably crafted 1- and 2-bedroom beachfront residences, along with expansive 3-bedroom duplexes, each home is a seamless extension of the ocean—designed to capture the rhythm of the waves, the flow of light, and the boundless horizon.Envisioned as the “Skyline by the Shore,” Sobha Aquamont is where contemporary elegance meets the natural beauty of the sea. Panoramic vistas, fluid architecture, and intuitive design come together to create a sanctuary of calm, offering residents an elevated lifestyle rooted in connection, wellness, and timeless style."
-  },
-  "amenities": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
-      "name": {
-        "ar": "مسار الغابة",
-        "en": "JUNGLE TRAIL"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
+      "en": "Apartments",
+      "ar": ""
     },
     {
-      "name": {
-        "ar": "سينما في الهواء الطلق",
-        "en": "OUTDOOR CINEMA"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
-    },
-    {
-      "name": {
-        "ar": "حديقة النزهات",
-        "en": "PICNIC LAWN"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
-    },
-    {
-      "name": {
-        "ar": "منطقة الشواء",
-        "en": "BARBECUE AREA"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
-    },
-    {
-      "name": {
-        "ar": "منطقة استرخاء مظللة",
-        "en": "SHADED RELAXATION ZONE"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
-    },
-    {
-      "name": {
-        "ar": "منطقة لعب للأطفال",
-        "en": "KIDS PLAY AREA"
-      },
-      "description": {
-        "ar": "منطقة آمنة وممتعة للأطفال مزودة بألعاب ترفيهية وتعليمية",
-        "en": "A safe and fun area for children equipped with entertaining and educational games"
-      }
-    },
-    {
-      "name": {
-        "ar": "صالة رياضية خارجية",
-        "en": "OUTDOOR GYM"
-      },
-      "description": {
-        "ar": "مركز لياقة بدنية مجهز بأحدث الأجهزة الرياضية",
-        "en": "A fitness center equipped with the latest sports equipment"
-      }
-    },
-    {
-      "name": {
-        "ar": "سطح سرير مبلل",
-        "en": "Wet Bed Deck"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
-    },
-    {
-      "name": {
-        "ar": "جاكوزي",
-        "en": "Jacuzzi"
-      },
-      "description": {
-        "ar": "وسيلة راحة راقية توفر تجربة استثنائية للمقيمين",
-        "en": "A premium amenity providing exceptional experience for residents"
-      }
-    },
-    {
-      "name": {
-        "ar": "حمام سباحة",
-        "en": "SWIMMING POOL"
-      },
-      "description": {
-        "ar": "مسبح فاخر للاستجمام والترفيه مع إطلالات خلابة",
-        "en": "A luxurious swimming pool for recreation and entertainment with stunning views"
-      }
-    },
-    {
-      "name": {
-        "en": "JUNGLE TRAIL",
-        "ar": ""
-      },
-      "description": {
-        "en": "Jungle Trail",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "OUTDOOR CINEMA",
-        "ar": ""
-      },
-      "description": {
-        "en": "Outdoor Cinema",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PICNIC LAWN",
-        "ar": ""
-      },
-      "description": {
-        "en": "Picnic Lawn",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BARBECUE AREA",
-        "ar": ""
-      },
-      "description": {
-        "en": "Barbecue Area",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SHADED RELAXATION ZONE",
-        "ar": ""
-      },
-      "description": {
-        "en": "Shaded Relaxation Zone",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "KIDS PLAY AREA",
-        "ar": "منطقة لعب للأطفال"
-      },
-      "description": {
-        "en": "Kids Play Area",
-        "ar": "منطقة لعب للأطفال"
-      }
-    },
-    {
-      "name": {
-        "en": "OUTDOOR GYM",
-        "ar": ""
-      },
-      "description": {
-        "en": "Outdoor Gym",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Wet Bed Deck",
-        "ar": ""
-      },
-      "description": {
-        "en": "Wet Bed Deck",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Jacuzzi",
-        "ar": ""
-      },
-      "description": {
-        "en": "Jacuzzi",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SWIMMING POOL",
-        "ar": ""
-      },
-      "description": {
-        "en": "Swimming Pool",
-        "ar": ""
-      }
+      "en": "Duplexes",
+      "ar": ""
     }
   ],
-  "area": {
-    "ar": "وسط مدينة أم القيوين",
-    "en": "Downtown Umm Al Quwain"
-  },
   "bedrooms": [
     1,
     2,
     3
   ],
-  "brand": "Sobha Realty",
+  "units_count": null,
+  "area_sqm_min": 52,
+  "area_sqm_max": 205,
+  "area_sqft_min": 565,
+  "area_sqft_max": 2211,
+  "price_aed_min": 1110000,
+  "price_aed_max": 5010000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "JUNGLE TRAIL",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR CINEMA",
+      "ar": ""
+    },
+    {
+      "en": "PICNIC LAWN",
+      "ar": ""
+    },
+    {
+      "en": "BARBECUE AREA",
+      "ar": ""
+    },
+    {
+      "en": "SHADED RELAXATION ZONE",
+      "ar": ""
+    },
+    {
+      "en": "KIDS PLAY AREA",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR GYM",
+      "ar": ""
+    },
+    {
+      "en": "Wet Bed Deck",
+      "ar": ""
+    },
+    {
+      "en": "Jacuzzi",
+      "ar": "جاكوزي"
+    },
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Sobha Aquamont ushers in a new era of refined coastal living in the heart of Downtown Umm Al Quwain. Set along an extraordinary 11-km shoreline—with 7 km of pristine beaches and curated beach parks—this exclusive waterfront enclave offers a rare sense of space, serenity, and sophistication.Featuring impeccably crafted 1- and 2-bedroom beachfront residences, along with expansive 3-bedroom duplexes, each home is a seamless extension of the ocean—designed to capture the rhythm of the waves, the flow of light, and the boundless horizon.Envisioned as the “Skyline by the Shore,” Sobha Aquamont is where contemporary elegance meets the natural beauty of the sea. Panoramic vistas, fluid architecture, and intuitive design come together to create a sanctuary of calm, offering residents an elevated lifestyle rooted in connection, wellness, and timeless style.",
+  "description_ar": "يستهل سوبها أكوامونت حقبة جديدة من الحياة الساحلية الراقية في قلب وسط مدينة أم القيوين. يقع هذا الجيب الحصري على الواجهة البحرية على طول شاطئ استثنائي يبلغ طوله 11 كم - مع 7 كم من الشواطئ البكر وحدائق الشاطئ المنسقة - ويوفر إحساسًا نادرًا بالمساحة والصفاء والرقي. يضم مساكن شاطئية مصممة بشكل لا تشوبه شائبة من غرفة نوم واحدة وغرفتي نوم، إلى جانب دوبلكسات واسعة من 3 غرف نوم، كل منزل هو امتداد سلس للمحيط - مصمم لالتقاط إيقاع الأمواج وتدفق الضوء والأفق اللامحدود. يُنظر إلى سوبها أكوامونت على أنه 'الأفق بجانب الشاطئ'، حيث تلتقي الأناقة المعاصرة بالجمال الطبيعي للبحر. تجتمع الإطلالات البانورامية والهندسة المعمارية السائلة والتصميم البديهي معًا لخلق ملاذ من الهدوء، مما يوفر للمقيمين أسلوب حياة راقٍ متجذر في الاتصال والعافية والأناقة الخالدة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-05/Sobha%20Aquamont_Downtown%20UAQ_1.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+971 800 999 999",
-    "whatsapp": "https://api.whatsapp.com/send?phone=97180076242&text=Hi Sobha Team, I am interested in your luxury properties. Can you please provide more details?"
-  },
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 25.556407,
-  "launchDate": null,
-  "location": {
-    "ar": "وسط مدينة أم القيوين",
-    "en": "Downtown Umm Al Quwain",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Umm Al Quwain",
-      "ar": "أم القيوين"
-    },
-    "area": {
-      "en": "Downtown Umm Al Quwain",
-      "ar": "وسط مدينة أم القيوين"
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.5362661,
-  "mapDescription": {
-    "ar": "",
-    "en": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "DUBAI",
-        "ar": "دبي"
-      },
-      "distance": {
-        "en": "40 km",
-        "ar": "40 km"
-      },
-      "category": {
-        "en": "City",
-        "ar": "مدينة"
-      }
-    },
-    {
-      "name": {
-        "en": "MARJAN ISLAND",
-        "ar": "جزيرة المرجان"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Island",
-        "ar": "جزيرة"
-      }
-    },
-    {
-      "name": {
-        "en": "SHARJAH",
-        "ar": "الشارقة"
-      },
-      "distance": {
-        "en": "30 km",
-        "ar": "30 km"
-      },
-      "category": {
-        "en": "City",
-        "ar": "مدينة"
-      }
-    },
-    {
-      "name": {
-        "en": "Burj Khalifa",
-        "ar": "برج خليفة"
-      },
-      "distance": {
-        "en": "47.8 km (48 min)",
-        "ar": "47.8 كم (48 دقيقة)"
-      },
-      "category": {
-        "en": "Landmark",
-        "ar": "معلم"
-      }
-    },
-    {
-      "name": {
-        "en": "Sobha Aquamont",
-        "ar": "Sobha Aquamont"
-      },
-      "distance": {
-        "en": "0 m",
-        "ar": "0 m"
-      },
-      "category": {
-        "en": "City",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI",
-        "ar": "DUBAI"
-      },
-      "distance": {
-        "en": "40 km",
-        "ar": "40 km"
-      },
-      "category": {
-        "en": "City",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MARJAN ISLAND",
-        "ar": "MARJAN ISLAND"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Island",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SHARJAH",
-        "ar": "SHARJAH"
-      },
-      "distance": {
-        "en": "30 km",
-        "ar": "30 km"
-      },
-      "category": {
-        "en": "City",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 2211,
-  "maxAreaSqmt": 205,
-  "maxPriceAED": 5010000,
-  "minAreaSqft": 565,
-  "minAreaSqmt": 52,
-  "minPriceAED": 1110000,
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/sobha-aquamont/",
-  "projectStatus": {
-    "ar": "",
-    "en": ""
-  },
-  "propertyTypes": [
-    {
-      "en": "Apartments",
-      "ar": "شقق"
-    },
-    {
-      "en": "Duplexes",
-      "ar": "دوبلكس"
-    },
-    {
-      "en": "Apartments",
-      "ar": "Apartments"
-    },
-    {
-      "en": "Duplexes",
-      "ar": "Duplexes"
-    }
-  ],
-  "sellable": true,
-  "views": [
-    {
-      "en": "Panoramic",
-      "ar": "بانورامية"
-    },
-    {
-      "en": "Coastal",
-      "ar": "ساحلية"
-    }
-  ],
-  "projectID": "sobha-sobha-aquamont",
-  "projectCategory": "Project",
-  "summary": {
-    "en": "Sobha Aquamont offers premium living experience with exceptional amenities and strategic location in Downtown Umm Al Quwain.",
-    "ar": "تقدم سوبها أكوامونت تجربة معيشية راقية مع وسائل راحة استثنائية وموقع استراتيجي في وسط مدينة أم القيوين."
-  },
-  "heroCopy": {
-    "en": {
-      "title": "Sobha Aquamont: Premium Living Experience",
-      "subtitle": "Luxury Residences with Exceptional Amenities in Downtown Umm Al Quwain"
-    },
-    "ar": {
-      "title": "سوبها أكوامونت: تجربة معيشية راقية",
-      "subtitle": "مساكن فاخرة مع وسائل راحة استثنائية في وسط مدينة أم القيوين"
-    }
-  },
-  "insights": {
-    "en": "Sobha Aquamont represents a premium investment opportunity in Umm Al Quwain, offering luxury living with strong potential for capital appreciation and rental returns in the strategic Downtown Umm Al Quwain location.",
-    "ar": "تمثل سوبها أكوامونت فرصة استثمارية متميزة في أم القيوين، حيث تقدم عيشًا فاخرًا مع إمكانات قوية لتقدير رأس المال والعوائد الإيجارية في الموقع الاستراتيجي في وسط مدينة أم القيوين."
-  },
-  "developerID": "sobha",
-  "highlights": [],
-  "developer": "Sobha Realty",
-  "status": "active",
-  "lastUpdated": "2025-11-02T05:21:40.712764",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/2025-04/Banner%201440x618%20%E2%80%93%204_3.jpg",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery5_0.jpg.webp?itok=oZEHNp6P"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob5.jpg.webp?itok=9VpZAa-V"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery2_0.jpg.webp?itok=TDti8cT-"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob2.jpg.webp?itok=AlLyu9wF"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery1_0.jpg.webp?itok=2cfhvfRO"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob1.jpg.webp?itok=MtXlTyqE"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery6_0.jpg.webp?itok=U7ltm_dM"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob6.jpg.webp?itok=CGenRuqR"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery3_0.jpg.webp?itok=l7MwHY0c"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob3.jpg.webp?itok=gPDdfgkW"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery4_0.jpg.webp?itok=rCG6Nkvo"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob4.jpg.webp?itok=6Q3b2LrB"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery7_0.jpg.webp?itok=tFHto4GO"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob7.jpg.webp?itok=cYwUdaPz"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery8_0.jpg.webp?itok=zW491cXn"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob8.jpg.webp?itok=m-Ik-gkQ"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-05/Sobha%20Aquamont_Downtown%20UAQ_1.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 1110000,
-    "maxPriceAED": 5010000,
-    "currency": "AED"
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2025-05/Sobha%20Aquamont_Downtown%20UAQ_1.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2025-05/Sobha%20Aquamont_Downtown%20UAQ_1.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Aquamont",
-    "ar": "سوبها أكوامونت"
-  },
-  "sourceUrl": "https://sobharealty.com/properties-in-dubai/sobha-aquamont/",
-  "auto_translated": true,
-  "contact_points": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/sobha-aquamont/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.013260Z"
 }

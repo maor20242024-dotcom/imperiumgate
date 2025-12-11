@@ -1,131 +1,28 @@
 {
-  "projectName": {
-    "en": "Sobha Hartland II",
-    "ar": "Sobha Hartland II"
+  "slug": "hartland-ii",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Hartland II",
+  "name_ar": "Sobha Hartland II",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.178544844567,
+    "lng": 55.31178837911
   },
-  "description": {
-    "en": "Explore Sobha Hartland II, a luxury waterfront residential green community, offering 5 to 6 bedroom villas and 1 to 4 bedroom apartments. Discover more! Sobha Hartland II marks the next chapter in the remarkable success of Sobha Hartland, redefining luxury living across 8 million square feet. Located near its predecessor, this exceptional community seamlessly blends urban convenience with natural beauty, offering residents easy access to the city’s top malls, business districts, and attractions, while providing a peaceful escape in a vibrant, centrally connected sanctuary. Sobha Hartland II is a private, gated community where nature’s splendor thrives, offering an extraordinary lifestyle that transcends the ordinary and immerses you in unparalleled luxury.",
-    "ar": "Explore Sobha Hartland II, a luxury waterfront residential green community, offering 5 to 6 bedroom villas and 1 to 4 bedroom apartments. Discover more! Sobha Hartland II marks the next chapter in the remarkable success of Sobha Hartland, redefining luxury living across 8 million square feet. Located near its predecessor, this exceptional community seamlessly blends urban convenience with natural beauty, offering residents easy access to the city’s top malls, business districts, and attractions, while providing a peaceful escape in a vibrant, centrally connected sanctuary. Sobha Hartland II is a private, gated community where nature’s splendor thrives, offering an extraordinary lifestyle that transcends the ordinary and immerses you in unparalleled luxury."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Live",
-        "ar": ""
-      },
-      "description": {
-        "en": "Sobha Hartland II is a stunning mixed-use community featuring lush green spaces and sustainable amenities. It offers a harmonious blend of residential and recreational options, creating an ideal urban living environment intertwined with nature. Within this community is Sobha Estates, an exclusive gated villa enclave offering luxurious 5- and 6-bedroom villas. This private retreat emphasises both luxury and privacy, surrounded by vibrant greenery and serene waterways. The Riverside Crescent, Skyscape and Skyvue residences further enhance the appeal. Riverside Crescent features six unique towers for waterfront living, while Skyscape, comprising Aura, Altius, and Avenue boasts stunning views of the lagoon and Dubai Downtown and Skyvue consists of three towers overlooking the iconic Dubai skyline and Ras Al Khor wildlife sanctuary. Together, they redefine urban sophistication and luxury living in Dubai.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Entertainment",
-        "ar": ""
-      },
-      "description": {
-        "en": "The amenities are thoughtfully designed to cater to your every need and desire, providing a holistic living experience. Enjoy a 40-seater indoor movie theatre, relax in the sensory and zen gardens, and stay active with battle ropes, jumping blocks, and an aerobic zone. The community also features a dedicated gardening zone and spaces for chess and carrom, ensuring there's always something exciting to enrich your life.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dine",
-        "ar": ""
-      },
-      "description": {
-        "en": "A vibrant community hub with diverse dine-in restaurants and cafés, each offering a unique ambiance and cuisine to suit every palate. Whether you're craving gourmet dishes crafted by world-class chefs or a casual coffee with friends, the community has it all. The BBQ area, surrounded by lush greenery, invites you to relax and savour the simple joys of life—great food and an unforgettable dining experience under the open sky.",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "8 Million Sq. Ft.",
-    "ar": ""
-  },
-  "bedrooms": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "location": {
-    "en": "Located in the heart of Dubai, near Sobha Hartland.",
-    "ar": "Located in the heart of Dubai, near Sobha Hartland.",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "8 Million Sq. Ft.",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "mapDescription": {
-    "en": "RIGHT IN the Centre of Dubai",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "Live",
-        "ar": "Live"
-      },
-      "distance": {
-        "en": "",
-        "ar": ""
-      },
-      "category": {
-        "en": "Live",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Entertainment",
-        "ar": "Entertainment"
-      },
-      "distance": {
-        "en": "",
-        "ar": ""
-      },
-      "category": {
-        "en": "Entertainment",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dine",
-        "ar": "Dine"
-      },
-      "distance": {
-        "en": "",
-        "ar": ""
-      },
-      "category": {
-        "en": "Dine",
-        "ar": ""
-      }
-    }
-  ],
-  "projectID": "114",
-  "projectPageLink": "https://sobharealty.com/our-communities/sobha-hartland-2/",
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
       "ar": "Apartments"
@@ -135,149 +32,97 @@
       "ar": "Villas"
     }
   ],
-  "views": [
-    "Lagoon",
-    "Dubai Downtown",
-    "Dubai skyline",
-    "Ras Al Khor wildlife sanctuary"
+  "bedrooms": [
+    1,
+    2
   ],
-  "slug": "hartland-ii",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.766981",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Hartland%202%20community%20Desk%20banner.jpg.webp?itok=nH6Zgrj0",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img_2.jpg.webp?itok=yLiNGOH8"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497_2.jpg.webp?itok=szC8Vhv8"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283_2.jpg.webp?itok=S5QGSMWk"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1_2.jpg.webp?itok=hPaxvDpI"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479_6.jpg.webp?itok=IPkOZU23"
-      }
-    ],
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": 7,
+  "area_sqm_max": null,
+  "area_sqft_min": 78,
+  "area_sqft_max": null,
+  "price_aed_min": 1750000,
+  "price_aed_max": 2850000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "goldenVisaEligible": false,
-  "sellable": false,
-  "latitude": null,
-  "longitude": null,
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Sobha Hartland II",
-    "ar": "Sobha Hartland II"
-  },
-  "auto_translated": true,
-  "community": "sobha-hartland-ii",
-  "communityName": {
-    "ar": "شوبا هارتلاند 2",
-    "en": "Sobha Hartland II"
-  },
-  "id": "sobha-hartland-ii",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Explore Sobha Hartland II, a luxury waterfront residential green community, offering 5 to 6 bedroom villas and 1 to 4 bedroom apartments. Discover more! Sobha Hartland II marks the next chapter in the remarkable success of Sobha Hartland, redefining luxury living across 8 million square feet. Located near its predecessor, this exceptional community seamlessly blends urban convenience with natural beauty, offering residents easy access to the city’s top malls, business districts, and attractions, while providing a peaceful escape in a vibrant, centrally connected sanctuary. Sobha Hartland II is a private, gated community where nature’s splendor thrives, offering an extraordinary lifestyle that transcends the ordinary and immerses you in unparalleled luxury.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": "sobha-hartland",
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-hartland-2/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.024302Z"
 }

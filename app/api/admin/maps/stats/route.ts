@@ -14,7 +14,7 @@ export async function GET() {
       try {
         const developerDir = path.join(dataDir, developer);
         const files = await fs.readdir(developerDir);
-        
+
         for (const file of files) {
           if (file.endsWith('.json')) {
             try {
@@ -36,24 +36,24 @@ export async function GET() {
     // حساب الإحصائيات
     const stats = {
       total: allProjects.length,
-      withCoordinates: allProjects.filter(p => 
-        typeof p.latitude === 'number' && 
-        typeof p.longitude === 'number' && 
-        p.latitude !== 0 && 
+      withCoordinates: allProjects.filter(p =>
+        typeof p.latitude === 'number' &&
+        typeof p.longitude === 'number' &&
+        p.latitude !== 0 &&
         p.longitude !== 0 &&
         !isNaN(p.latitude) &&
         !isNaN(p.longitude)
       ).length,
-      withoutCoordinates: allProjects.filter(p => 
-        !p.latitude || 
-        !p.longitude || 
-        p.latitude === 0 || 
+      withoutCoordinates: allProjects.filter(p =>
+        !p.latitude ||
+        !p.longitude ||
+        p.latitude === 0 ||
         p.longitude === 0 ||
         isNaN(p.latitude as number) ||
         isNaN(p.longitude as number)
       ).length,
-      withPOIs: allProjects.filter(p => 
-        p.mapPointsOfInterest && 
+      withPOIs: allProjects.filter(p =>
+        p.mapPointsOfInterest &&
         Object.keys(p.mapPointsOfInterest).length > 0
       ).length,
       byDeveloper: {} as Record<string, number>,
@@ -69,9 +69,9 @@ export async function GET() {
 
     // حساب التوزيع حسب الحالة
     allProjects.forEach(project => {
-      const status = typeof project.projectStatus === 'string' 
-        ? project.projectStatus 
-        : project.projectStatus?.en || 'Unknown';
+      const status = typeof project.projectStatus === 'string'
+        ? project.projectStatus
+        : (project.projectStatus as any)?.en || 'Unknown';
       stats.byStatus[status] = (stats.byStatus[status] || 0) + 1;
     });
 
@@ -84,8 +84,8 @@ export async function GET() {
   } catch (error) {
     console.error('Error calculating map stats:', error);
     return NextResponse.json(
-      { 
-        success: false, 
+      {
+        success: false,
         error: 'Failed to calculate map statistics',
         stats: {
           total: 0,

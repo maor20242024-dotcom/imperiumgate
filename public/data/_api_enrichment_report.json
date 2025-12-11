@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-30T12:41:02.167Z",
+  "elapsed_minutes": 6.7,
+  "api_calls_used": 281,
+  "api_calls_remaining": 9719,
+  "sobha_projects": {
+    "total": 61,
+    "enriched": 57,
+    "enrichments": 1404,
+    "skipped": 0
+  },
+  "nakheel_projects": {
+    "total": 27,
+    "enriched": 27,
+    "enrichments": 743,
+    "skipped": 0
+  },
+  "sobha_communities": {
+    "total": 16,
+    "enriched": 16,
+    "enrichments": 554,
+    "skipped": 0
+  },
+  "nakheel_communities": {
+    "total": 19,
+    "enriched": 19,
+    "enrichments": 603,
+    "skipped": 0
+  },
+  "total_enrichments": 3304
+}

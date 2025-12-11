@@ -1,111 +1,156 @@
 {
-  "name": {
-    "en": "The Serene",
-    "ar": "The Serene"
-  },
   "slug": "serene",
-  "developer": "Sobha Realty",
-  "description": {
-    "en": "Strategically located in the heart of Sobha Central, The Serene offers a modern urban lifestyle with a sense of calm and balance.",
-    "ar": "Strategically located in the heart of Sobha Central, The Serene offers a modern urban lifestyle with a sense of calm and balance."
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Serene",
+  "name_ar": "Serene",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2025-08/Banner%201440x618%20%E2%80%93%2014.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2025-08/Banner%201440x618%20%E2%80%93%2014.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2087.jpg.webp?itok=S0KEmkNq",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2086.jpg.webp?itok=ZZpycO-P",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2085.jpg.webp?itok=6h0htA5q",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2084.jpg.webp?itok=061OwMU4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2083.jpg.webp?itok=JaMNXarG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2082.jpg.webp?itok=IYL0KQZJ"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.039428419705,
+    "lng": 55.145628426103
   },
-  "heroImage": "https://sobharealty.com/sites/default/files/2025-08/Banner%201440x618%20%E2%80%93%2014.jpg",
-  "videoLink": "",
-  "media": {
-    "gallery": [
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2087.jpg.webp?itok=S0KEmkNq",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2086.jpg.webp?itok=ZZpycO-P",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2085.jpg.webp?itok=6h0htA5q",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2084.jpg.webp?itok=061OwMU4",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2083.jpg.webp?itok=JaMNXarG",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2082.jpg.webp?itok=IYL0KQZJ"
-    ],
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2087.jpg.webp?itok=S0KEmkNq",
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 3,
+  "area_sqm_max": 81,
+  "area_sqft_min": 37,
+  "area_sqft_max": 872,
+  "price_aed_min": 750000,
+  "price_aed_max": 1230000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "documents": {
-    "brochure": {
-      "en": [
-        "https://sobharealty.com/sites/default/files/2025-08/SOBHA%20CENTRAL%20-%20THE%20SERENE%20BROCHURE_0.pdf"
-      ],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "LEISURE POOL",
+      "ar": ""
+    },
+    {
+      "en": "CALISTHENIC GYM",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR CINEMA",
+      "ar": ""
+    },
+    {
+      "en": "OPEN AMPHITHEATRE",
+      "ar": ""
+    },
+    {
+      "en": "FAMILY BBQ & GATHERING SPACE",
+      "ar": ""
+    },
+    {
+      "en": "KIDS PLAY AREA",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "developerID": "sobha",
-  "location": {
-    "country": {
-      "ar": "",
-      "en": ""
-    },
-    "city": {
-      "ar": "",
-      "en": ""
-    },
-    "area": {
-      "ar": "",
-      "en": ""
-    },
-    "poiDistances": {}
-  },
-  "auto_translated": true,
-  "id": "serene",
-  "projectName": {
-    "en": "Serene",
-    "ar": "Serene"
-  },
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Strategically located in the heart of Sobha Central, The Serene offers a modern urban lifestyle with a sense of calm and balance.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-08/SOBHA%20CENTRAL%20-%20THE%20SERENE%20BROCHURE_0.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/serene/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  },
-  "amenities": []
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.047400Z"
 }

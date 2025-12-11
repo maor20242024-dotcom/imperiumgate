@@ -1,172 +1,144 @@
 {
-  "communityID": "sobha-hartland",
-  "developerID": "sobha",
-  "name": {
-    "ar": "شوبا هارتلاند",
-    "en": "Sobha Hartland"
+  "slug": "hartland",
+  "developer": "Sobha",
+  "name_en": "Sobha Hartland",
+  "name_ar": "شوبا هارتلاند",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.175921208561,
+    "lng": 55.304189248576
   },
-  "description": {
-    "ar": "مجتمع ساحلي مساحته 8 ملايين قدم مربع مع شقق وفلل فاخرة.",
-    "en": "An 8 million sq ft waterfront community with luxury apartments and villas."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "Hartland Waves",
+  "master_location_ar": "هارتلاند ويفز",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai.",
+  "description_ar": "مجتمع ساحلي مساحته 8 ملايين قدم مربع مع شقق وفلل فاخرة.",
+  "amenities": [
     {
-      "projectID": "sobha-one",
-      "name": {
-        "ar": "شوبا ون",
-        "en": "Sobha One"
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
     {
-      "projectID": "crest-grande",
-      "name": {
-        "ar": "كريست غراند",
-        "en": "Crest Grande"
-      }
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
     {
-      "projectID": "creek-vistas",
-      "name": {
-        "ar": "كريك فيستاس",
-        "en": "Creek Vistas"
-      }
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
     {
-      "projectID": "one-park-avenue",
-      "name": {
-        "ar": "ون بارك أفينيو",
-        "en": "One Park Avenue"
-      }
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
     },
     {
-      "projectID": "hartland-quad-homes",
-      "name": {
-        "ar": "هارتلاند كواد هومز",
-        "en": "Hartland Quad Homes"
-      }
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
     },
     {
-      "projectID": "hartland-waterfront-villas",
-      "name": {
-        "ar": "هارتلاند ووترفرونت فلل",
-        "en": "Hartland Waterfront Villas"
-      }
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
     },
     {
-      "projectID": "hartland-afflux-apartments",
-      "name": {
-        "ar": "هارتلاند أفلوكس أبارتمنتس",
-        "en": "Hartland Afflux Apartments"
-      }
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
     },
     {
-      "projectID": "garden-house",
-      "name": {
-        "ar": "جاردن هاوس",
-        "en": "Garden House"
-      }
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
     },
     {
-      "projectID": "the-s-tower",
-      "name": {
-        "ar": "ذا إس تاور",
-        "en": "The S Tower"
-      }
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
     },
     {
-      "projectID": "the-crest",
-      "name": {
-        "ar": "ذا كريست",
-        "en": "The Crest"
-      }
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
     },
     {
-      "projectID": "creek-vista-grande",
-      "name": {
-        "ar": "كريك فيستا غراند",
-        "en": "Creek Vista Grande"
-      }
+      "en": "2 PRIVATE GARDENS",
+      "ar": ""
     },
     {
-      "projectID": "waves-opulence",
-      "name": {
-        "ar": "وايفز أوبولنس",
-        "en": "Waves Opulence"
-      }
+      "en": "PRIVATE GARAGE",
+      "ar": ""
     },
     {
-      "projectID": "creek-vistas-reserve",
-      "name": {
-        "ar": "كريك فيستاس ريزيرف",
-        "en": "Creek Vistas Reserve"
-      }
+      "en": "COMMUNITY TRIANGULAR PARK",
+      "ar": ""
     },
     {
-      "projectID": "gardenia-villas",
-      "name": {
-        "ar": "جاردينيا فلل",
-        "en": "Gardenia Villas"
-      }
+      "en": "INTERNATIONAL SCHOOLS",
+      "ar": ""
     },
     {
-      "projectID": "forest-villas",
-      "name": {
-        "ar": "فوريست فلل",
-        "en": "Forest Villas"
-      }
+      "en": "Cycling Track",
+      "ar": ""
     },
     {
-      "projectID": "hartland-greens-apartment",
-      "name": {
-        "ar": "هارتلاند غرينز أبارتمنت",
-        "en": "Hartland Greens Apartment"
-      }
+      "en": "Sports Arena",
+      "ar": ""
     }
   ],
-  "developer": "sobha",
-  "lastUpdated": "2025-11-01T18:48:01.310970",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "nearby_landmarks": [
+    {
+      "name_en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+      "name_ar": "",
+      "distance": "3 MINUTES",
+      "category": "Education"
+    },
+    {
+      "name_en": "DUBAI INTERNATIONAL AIRPORT",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "Airport"
+    },
+    {
+      "name_en": "THE DUBAI MALL",
+      "name_ar": "",
+      "distance": "14 MINUTES",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "Landmark"
+    },
+    {
+      "name_en": "PALM JUMEIRAH",
+      "name_ar": "",
+      "distance": "29 MINUTES",
+      "category": "Landmark"
     }
-  },
-  "auto_translated": false,
-  "slug": "hartland",
-  "contact_points": {
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.004380Z"
 }

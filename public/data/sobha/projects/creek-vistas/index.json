@@ -1,113 +1,125 @@
 {
-  "name": {
-    "en": "Creek Vistas",
-    "ar": "كريك فيستاس"
-  },
   "slug": "creek-vistas",
-  "developer": "Sobha Realty",
-  "description": {
-    "en": "Minimalist design inspired by the Louvre and the Museum of Modern Art. Phenomenal craftsmanship and sleek interiors are the epitome of luxurious living. Creek Vistas is a modern-day work of art in itself, comprising 28-storey twin towers that offer breathtaking views of the serene Dubai Canal and other iconic landmarks.",
-    "ar": "تصميم بسيط مستوحى من متحف اللوفر ومتحف الفن الحديث. الحرفية الاستثنائية والتصميمات الداخلية الأنيقة هي خلاصة الحياة الفاخرة. كريك فيستاس هو عمل فني بحد ذاته، يتكون من برجين توأمين من 28 طابقاً يوفران إطلالات خلابة على قناة دبي الهادئة والمعالم الأيقونية الأخرى."
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha Creek Vistas",
+  "name_ar": "Sobha Creek Vistas",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas.jpg.webp?itok=ZIJDT_Bd",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas.jpg.webp?itok=ZIJDT_Bd",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_8.jpg.webp?itok=WVRbznhD",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_8.jpg.webp?itok=l7Ft7yk7",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_6.jpg.webp?itok=FTYw_VL_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_3.jpg.webp?itok=O0y5wgn5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_2.jpg.webp?itok=BVhN0Tn9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_2.jpg.webp?itok=6CuPYPFE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_4.jpg.webp?itok=tznoRaF2",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015346.jpg.webp?itok=rs8mu9M5"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1683,
+    "lng": 55.289
   },
-  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas.jpg.webp?itok=ZIJDT_Bd",
-  "videoLink": "Not found specifically for the original Creek Vistas project, many videos refer to newer phases like Creek Vistas Heights or Grande.",
-  "media": {
-    "gallery": [
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_8.jpg.webp?itok=WVRbznhD",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_8.jpg.webp?itok=l7Ft7yk7",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_6.jpg.webp?itok=FTYw_VL_",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_3.jpg.webp?itok=O0y5wgn5",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_2.jpg.webp?itok=BVhN0Tn9",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_2.jpg.webp?itok=6CuPYPFE",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_4.jpg.webp?itok=tznoRaF2",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015346.jpg.webp?itok=rs8mu9M5"
-    ],
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_8.jpg.webp?itok=WVRbznhD",
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2025-07-17",
+  "launch_date": "2025-07-17",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 7,
+  "area_sqm_max": 153,
+  "area_sqft_min": 78,
+  "area_sqft_max": 1647,
+  "price_aed_min": 1199999,
+  "price_aed_max": 1780000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "documents": {
-    "brochure": {
-      "en": [
-        "/sites/default/files/2024-03/cvh-opp-doc.pdf"
-      ],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Gym",
+      "ar": "نادي رياضي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "24- concierge hour",
+      "ar": ""
+    },
+    {
+      "en": "Fine dining and retail",
+      "ar": ""
+    },
+    {
+      "en": "CHILDREN'S PLAYGROUND",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "developerID": "sobha",
-  "location": {
-    "country": {
-      "ar": "",
-      "en": ""
-    },
-    "city": {
-      "ar": "",
-      "en": ""
-    },
-    "area": {
-      "ar": "",
-      "en": ""
-    },
-    "poiDistances": {}
-  },
-  "auto_translated": true,
-  "id": "sobha-creek-vistas",
-  "projectName": {
-    "en": "Sobha Creek Vistas",
-    "ar": "Sobha Creek Vistas"
-  },
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Minimalist design inspired by the Louvre and the Museum of Modern Art. Phenomenal craftsmanship and sleek interiors are the epitome of luxurious living. Creek Vistas is a modern-day work of art in itself, comprising 28-storey twin towers that offer breathtaking views of the serene Dubai Canal and other iconic landmarks.",
+  "description_ar": "تصميم بسيط مستوحى من متحف اللوفر ومتحف الفن الحديث. الحرفية الاستثنائية والتصميمات الداخلية الأنيقة هي خلاصة الحياة الفاخرة. كريك فيستاس هو عمل فني بحد ذاته، يتكون من برجين توأمين من 28 طابقاً يوفران إطلالات خلابة على قناة دبي الهادئة والمعالم الأيقونية الأخرى.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-03/cvh-opp-doc.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [
+    "https://sobharealty.com/apartments-for-sale-in-dubai/creek-vistas-grande/",
+    "https://sobharealty.com/apartments-for-sale-in-dubai/creek-vistas-heights/",
+    "https://sobharealty.com/apartments-for-sale-in-dubai/creek-vistas-reserve/",
+    "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-creek-vistas/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  },
-  "amenities": []
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.034453Z"
 }

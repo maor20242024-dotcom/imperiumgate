@@ -1,38 +1,16 @@
-# Dependencies
 node_modules
-
-# Build outputs
 .next
-.turbo
+out
 dist
 build
-out
+.DS_Store
+*.log
+report/
+archive/
+public/developers/
 
-# Environment
+# Security
 .env
 .env.local
-.env.production.local
-.env.development.local
-
-# Debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# TypeScript
-*.tsbuildinfo
-next-env.d.ts
-
-# Vercel
-.vercel
-
-# IDE
-.vscode
-.idea
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
+.env.*
+!.env.example

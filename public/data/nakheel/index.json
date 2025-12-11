@@ -1,61 +1,267 @@
 {
-  "provider": "nakheel",
+  "developer": "NAKHEEL",
+  "total_communities": 19,
+  "total_projects": 27,
   "communities": [
-    "al-furjan",
-    "azure-residences",
-    "badrah",
-    "bay-grove-residences",
-    "bay-grove-residences-phase-4",
-    "bay-villas-dubai-islands",
-    "bay-villas-phase-2",
-    "discovery-gardens",
-    "dubai-islands",
-    "garden-apartments",
-    "garden-view-apartments",
-    "garden-view-villas",
-    "golden-mile",
-    "international-city",
-    "jebel-ali-village",
-    "jumeirah-heights",
-    "jumeirah-islands",
-    "jumeirah-lake-towers",
-    "jumeirah-park",
-    "jumeirah-village-circle",
-    "jumeirah-village-triangle",
-    "marina-residences",
-    "mohammed-bin-rashid-city",
-    "nad-al-sheba-villas",
-    "palm-jebel-ali",
-    "palm-jumeirah",
-    "palm-views",
-    "palma-residences",
-    "rixos-dubai-islands-residences",
-    "the-gardens",
-    "the-world",
-    "veneto",
-    "warsan-village"
+    {
+      "slug": "al-furjan",
+      "name_en": "Al Furjan",
+      "name_ar": "الفرجان"
+    },
+    {
+      "slug": "badrah",
+      "name_en": "Badrah",
+      "name_ar": "بدرة"
+    },
+    {
+      "slug": "discovery-gardens",
+      "name_en": "Discovery Gardens",
+      "name_ar": "ديسكفري جاردنز"
+    },
+    {
+      "slug": "dubai-islands",
+      "name_en": "Dubai Islands",
+      "name_ar": "جزر دبي"
+    },
+    {
+      "slug": "international-city",
+      "name_en": "International City",
+      "name_ar": "إنترناشونال سيتي"
+    },
+    {
+      "slug": "jebel-ali-village",
+      "name_en": "Jebel Ali Village",
+      "name_ar": "قرية جبل علي"
+    },
+    {
+      "slug": "jumeirah-heights",
+      "name_en": "Jumeirah Heights",
+      "name_ar": "جميرا هايتس"
+    },
+    {
+      "slug": "jumeirah-islands",
+      "name_en": "Jumeirah Islands",
+      "name_ar": "جزر جميرا"
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name_en": "Jumeirah Lake Towers",
+      "name_ar": "أبراج بحيرات جميرا"
+    },
+    {
+      "slug": "jumeirah-park",
+      "name_en": "Jumeirah Park",
+      "name_ar": "جميرا بارك"
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name_en": "Jumeirah Village Circle",
+      "name_ar": "جميرا فيليج سيركل"
+    },
+    {
+      "slug": "jumeirah-village-triangle",
+      "name_en": "Jumeirah Village Triangle",
+      "name_ar": "جميرا فيليج تريانغل"
+    },
+    {
+      "slug": "nad-al-sheba-villas",
+      "name_en": "Nad Al Sheba Villas",
+      "name_ar": "فلل ند الشبا"
+    },
+    {
+      "slug": "palm-jebel-ali",
+      "name_en": "Palm Jebel Ali",
+      "name_ar": "نخلة جبل علي"
+    },
+    {
+      "slug": "palm-jumeirah",
+      "name_en": "Palm Jumeirah",
+      "name_ar": "نخلة جميرا"
+    },
+    {
+      "slug": "the-gardens",
+      "name_en": "The Gardens",
+      "name_ar": "ذا جاردنز"
+    },
+    {
+      "slug": "the-world",
+      "name_en": "The World",
+      "name_ar": "العالم"
+    },
+    {
+      "slug": "veneto",
+      "name_en": "Veneto",
+      "name_ar": "فينيتو"
+    },
+    {
+      "slug": "warsan-village",
+      "name_en": "Warsan Village",
+      "name_ar": "وارسان فيليج"
+    }
   ],
   "projects": [
-    "atlantis-the-royal-residences",
-    "beach-villas",
-    "canal-front-residences",
-    "club-vista-mare",
-    "como-residences",
-    "district-one",
-    "masakin-al-furjan",
-    "meydan",
-    "murooj-al-furjan",
-    "palm-beach-towers",
-    "serenia-living",
-    "shoreline-apartments",
-    "the-palm-tower-residences",
-    "tilal-al-furjan"
-  ],
-  "meta": {
-    "generatedAt": "2025-11-28T16:04:24Z",
-    "counts": {
-      "communities": 33,
-      "projects": 14
+    {
+      "slug": "atlantis-the-royal-residences",
+      "name_en": "Atlantis The Royal Residences",
+      "name_ar": "أتلانتس ذا رويال للمساكن",
+      "community_slug": ""
+    },
+    {
+      "slug": "azure-residences",
+      "name_en": "Azure Residences",
+      "name_ar": "أزور ريزيدنسز",
+      "community_slug": ""
+    },
+    {
+      "slug": "bay-grove-residences",
+      "name_en": "Bay Grove Residences",
+      "name_ar": "مساكن باي غروف",
+      "community_slug": ""
+    },
+    {
+      "slug": "bay-grove-residences-phase-4",
+      "name_en": "Bay Grove Residences Phase 4",
+      "name_ar": "مساكن باي غروف - المرحلة الرابعة",
+      "community_slug": ""
+    },
+    {
+      "slug": "bay-villas-dubai-islands",
+      "name_en": "Dubai Islands",
+      "name_ar": "فلل باي، جزر دبي",
+      "community_slug": ""
+    },
+    {
+      "slug": "bay-villas-phase-2",
+      "name_en": "Bay Villas Phase 2",
+      "name_ar": "باي فيلاز - المرحلة الثانية",
+      "community_slug": ""
+    },
+    {
+      "slug": "beach-villas",
+      "name_en": "Beach Villas",
+      "name_ar": "فلل الشاطئ",
+      "community_slug": ""
+    },
+    {
+      "slug": "canal-front-residences",
+      "name_en": "Canal Front Residences",
+      "name_ar": "قناة فرونت ريزيدنسز",
+      "community_slug": ""
+    },
+    {
+      "slug": "club-vista-mare",
+      "name_en": "Club Vista Mare",
+      "name_ar": "كلوب فيستا ماري",
+      "community_slug": ""
+    },
+    {
+      "slug": "como-residences",
+      "name_en": "Como Residences",
+      "name_ar": "كومو ريزيدنسز",
+      "community_slug": ""
+    },
+    {
+      "slug": "district-one",
+      "name_en": "District One West",
+      "name_ar": "منطقة ون",
+      "community_slug": ""
+    },
+    {
+      "slug": "garden-apartments",
+      "name_en": "Garden Apartments",
+      "name_ar": "جاردن أبارتمنتس",
+      "community_slug": ""
+    },
+    {
+      "slug": "garden-view-apartments",
+      "name_en": "Garden View Apartments",
+      "name_ar": "جاردن فيو أبارتمنتس",
+      "community_slug": ""
+    },
+    {
+      "slug": "garden-view-villas",
+      "name_en": "Garden View Villas",
+      "name_ar": "جاردن فيو فلل",
+      "community_slug": ""
+    },
+    {
+      "slug": "golden-mile",
+      "name_en": "Golden Mile",
+      "name_ar": "جولدن مايل",
+      "community_slug": ""
+    },
+    {
+      "slug": "marina-residences",
+      "name_en": "Marina Residences",
+      "name_ar": "مارينا ريزيدنسز",
+      "community_slug": ""
+    },
+    {
+      "slug": "masakin-al-furjan",
+      "name_en": "Masakin Al Furjan",
+      "name_ar": "مساكن الفرجان",
+      "community_slug": ""
+    },
+    {
+      "slug": "meydan",
+      "name_en": "Meydan",
+      "name_ar": "ميدان",
+      "community_slug": ""
+    },
+    {
+      "slug": "murooj-al-furjan",
+      "name_en": "Murooj Al Furjan",
+      "name_ar": "مروج الفرجان",
+      "community_slug": ""
+    },
+    {
+      "slug": "palm-beach-towers",
+      "name_en": "Palm Beach Towers",
+      "name_ar": "أبراج بالم بيتش",
+      "community_slug": ""
+    },
+    {
+      "slug": "palm-views",
+      "name_en": "Palm Views",
+      "name_ar": "بالم فيوز",
+      "community_slug": ""
+    },
+    {
+      "slug": "palma-residences",
+      "name_en": "Palma Residences",
+      "name_ar": "بالما ريزيدنسز",
+      "community_slug": ""
+    },
+    {
+      "slug": "rixos-dubai-islands-residences",
+      "name_en": "Rixos Dubai Islands Residences",
+      "name_ar": "ريكسوس جزر دبي للمساكن",
+      "community_slug": ""
+    },
+    {
+      "slug": "serenia-living",
+      "name_en": "Serenia Living",
+      "name_ar": "سيرينيا ليفينج",
+      "community_slug": ""
+    },
+    {
+      "slug": "shoreline-apartments",
+      "name_en": "Shoreline Apartments",
+      "name_ar": "شقق شورلاين",
+      "community_slug": ""
+    },
+    {
+      "slug": "the-palm-tower-residences",
+      "name_en": "The Palm Tower",
+      "name_ar": "مساكن برج النخلة",
+      "community_slug": ""
+    },
+    {
+      "slug": "tilal-al-furjan",
+      "name_en": "Tilal Al Furjan",
+      "name_ar": "تلال الفرجان",
+      "community_slug": ""
     }
-  }
+  ],
+  "updated_at": "2025-11-30T19:55:10.056157Z"
 }

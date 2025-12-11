@@ -1,418 +1,165 @@
 {
-  "projectName": {
-    "en": "Skyvue Solair",
-    "ar": "Skyvue Solair"
+  "slug": "skyvue-solair",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Skyvue Solair",
+  "name_ar": "Skyvue Solair",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.175669,
+    "lng": 55.3242951
   },
-  "description": {
-    "en": "Skyvue Solair, a unique gem, stands as the inaugural tower in the esteemed Skyvue cluster, marking the beginning of limitless possibilities. Skyvue Solair presents a collection of distinguished 1, 1.5, 2 and 3 bed residences and exceptional amenities, offering an unparalleled living experience in a seamlessly connected environment.",
-    "ar": "Skyvue Solair, a unique gem, stands as the inaugural tower in the esteemed Skyvue cluster, marking the beginning of limitless possibilities. Skyvue Solair presents a collection of distinguished 1, 1.5, 2 and 3 bed residences and exceptional amenities, offering an unparalleled living experience in a seamlessly connected environment."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "LEISURE POOL & INFINITY POOL",
-        "ar": ""
-      },
-      "description": {
-        "en": "LEISURE POOL & INFINITY POOL",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "KIDS PLAY AREA",
-        "ar": "منطقة لعب للأطفال"
-      },
-      "description": {
-        "en": "KIDS PLAY AREA",
-        "ar": "منطقة لعب للأطفال"
-      }
-    },
-    {
-      "name": {
-        "en": "OPEN CINEMA AREA",
-        "ar": ""
-      },
-      "description": {
-        "en": "OPEN CINEMA AREA",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SKATE PARK",
-        "ar": ""
-      },
-      "description": {
-        "en": "SKATE PARK",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "OPEN SEATING AREA",
-        "ar": ""
-      },
-      "description": {
-        "en": "OPEN SEATING AREA",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "OPEN GATHERING",
-        "ar": ""
-      },
-      "description": {
-        "en": "OPEN GATHERING",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "Sobha Hartland II",
-    "ar": ""
-  },
-  "bedrooms": [
-    2,
-    3
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "2029-03-31",
-  "goldenVisaEligible": false,
-  "latitude": 25.175669,
-  "launchDate": null,
-  "location": {
-    "en": "Sobha Hartland II",
-    "ar": "Sobha Hartland II",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": ""
-    },
-    "area": {
-      "en": "Sobha Hartland II",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.3242951,
-  "mapDescription": {
-    "en": "The Best of City, All within Minutes",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Education",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Airport",
-        "ar": "مطار"
-      }
-    },
-    {
-      "name": {
-        "en": "BUSINESS BAY",
-        "ar": "BUSINESS BAY"
-      },
-      "distance": {
-        "en": "12 km",
-        "ar": "12 km"
-      },
-      "category": {
-        "en": "Business",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DOWNTOWN DUBAI",
-        "ar": "DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "City Center",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BURJ KHALIFA & THE DUBAI MALL",
-        "ar": "BURJ KHALIFA & THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Attraction",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
-        "ar": "RAS AL KHOR WILDLIFE SANCTUARY"
-      },
-      "distance": {
-        "en": "5 km",
-        "ar": "5 km"
-      },
-      "category": {
-        "en": "Nature",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "MEYDAN RACE COURSE",
-        "ar": "MEYDAN RACE COURSE"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Leisure",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI FRAME",
-        "ar": "DUBAI FRAME"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Attraction",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI OPERA",
-        "ar": "DUBAI OPERA"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Culture",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "25 km",
-        "ar": "25 km"
-      },
-      "category": {
-        "en": "Attraction",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 2288,
-  "maxAreaSqmt": 212,
-  "maxPriceAED": 5670000,
-  "minAreaSqft": 755,
-  "minAreaSqmt": 70,
-  "minPriceAED": 1830000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "409",
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/skyvue-solair/",
-  "projectStatus": {
-    "en": "Off-plan",
-    "ar": "Off-plan"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
       "ar": "Apartments"
     }
   ],
-  "sellable": false,
-  "views": [],
-  "slug": "skyvue-solair",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.726861",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Solair%20listing.jpg.webp?itok=7ldOS7nq",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Solair%20listing.jpg.webp?itok=7ldOS7nq"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Listing.jpg.webp?itok=kR-WSC4F"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274%20%E2%80%93%204.jpg.webp?itok=RniuT79q"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274%20%E2%80%93%206.jpg.webp?itok=ssfR9HMY"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274%20%E2%80%93%207.jpg.webp?itok=wXNh6Iik"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274.jpg.webp?itok=5f2FzkMk"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274%20%E2%80%93%205.jpg.webp?itok=-NYrwUOC"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274%20%E2%80%93%202.jpg.webp?itok=Eq31imXI"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/372x274%20%E2%80%93%201.jpg.webp?itok=zNQHpzHY"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/SKYVUE%20SOLAIR-%20OPP%20DOC.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 70,
+  "area_sqm_max": 212,
+  "area_sqft_min": 755,
+  "area_sqft_max": 2288,
+  "price_aed_min": 1830000,
+  "price_aed_max": 5670000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 1830000,
-    "maxPriceAED": 5670000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-11/SKYVUE%20SOLAIR-%20OPP%20DOC.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-11/SKYVUE%20SOLAIR-%20OPP%20DOC.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Steam Room",
+      "ar": "غرفة بخار"
+    },
+    {
+      "en": "Facilities for Disabled",
+      "ar": "تسهيلات لأصحاب الهمم"
+    },
+    {
+      "en": "Study Room",
+      "ar": "غرفة دراسة"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
+    },
+    {
+      "en": "Double Glazed Windows",
+      "ar": "نوافذ زجاجية مزدوجة"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Skyvue Solair",
-    "ar": "Skyvue Solair"
-  },
-  "auto_translated": true,
-  "id": "skyvue-solair",
-  "fromCommunity": "sobha-hartland",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Skyvue Solair, a unique gem, stands as the inaugural tower in the esteemed Skyvue cluster, marking the beginning of limitless possibilities. Skyvue Solair presents a collection of distinguished 1, 1.5, 2 and 3 bed residences and exceptional amenities, offering an unparalleled living experience in a seamlessly connected environment.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/skyvue-solair/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.026275Z"
 }

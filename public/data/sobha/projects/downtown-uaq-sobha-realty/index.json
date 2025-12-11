@@ -1,266 +1,128 @@
 {
-  "projectName": {
-    "en": "Downtown UAQ | Sobha Realty",
-    "ar": "Downtown UAQ | Sobha Realty"
+  "slug": "downtown-uaq-sobha-realty",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Downtown UAQ | Sobha Realty",
+  "name_ar": "Downtown UAQ | Sobha Realty",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.5492,
+    "lng": 55.6025
   },
-  "description": {
-    "en": "Designed for seamless living, Downtown UAQ | Sobha Realty blends modern convenience with coastal charm. Community hubs, open promenades, and cultural landmarks shape a walkable cityscape where every turn invites connection and discovery. From boutique shopping and art galleries to wellness spaces and waterfront cafés, life here is curated for comfort and inspiration. Every destination is thoughtfully placed—keeping you close to the people, places, and moments that matter. With the horizon as your backdrop, this is where every day feels like a new beginning.",
-    "ar": "Designed for seamless living, Downtown UAQ | Sobha Realty blends modern convenience with coastal charm. Community hubs, open promenades, and cultural landmarks shape a walkable cityscape where every turn invites connection and discovery. From boutique shopping and art galleries to wellness spaces and waterfront cafés, life here is curated for comfort and inspiration. Every destination is thoughtfully placed—keeping you close to the people, places, and moments that matter. With the horizon as your backdrop, this is where every day feels like a new beginning."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Beach & Beach Park",
-        "ar": ""
-      },
-      "description": {
-        "en": "7 KM Beach & Beach Park",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Unique Districts",
-        "ar": ""
-      },
-      "description": {
-        "en": "3 Unique Districts",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Live",
-        "ar": ""
-      },
-      "description": {
-        "en": "Luxurious beachfront residences offering unparalleled comfort and panoramic Arabian Sea views.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Dine in",
-        "ar": ""
-      },
-      "description": {
-        "en": "Vibrant dining options, from upscale waterfront restaurants to artisanal markets, blending international cuisine with local flavors.",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Experience",
-        "ar": ""
-      },
-      "description": {
-        "en": "Dynamic coastal lifestyle with luxury resorts, wellness centers, marinas, cultural landmarks, and outdoor adventures.",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "24 Million Sq. Ft.",
-    "ar": ""
-  },
-  "bedrooms": [],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": null,
-  "goldenVisaEligible": false,
-  "latitude": 25.5492,
-  "launchDate": null,
-  "location": {
-    "en": "Umm Al Quwain",
-    "ar": "أم القيوين",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Umm Al Quwain",
-      "ar": ""
-    },
-    "area": {
-      "en": "24 Million Sq. Ft.",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.6025,
-  "mapDescription": {
-    "en": "UAE’s Coastal City With 11 KM Shoreline. View on Map: https://maps.app.goo.gl/PAKhrRTGBk9pZxG99",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [],
-  "maxAreaSqft": -1,
-  "maxAreaSqmt": -1,
-  "maxPriceAED": -1,
-  "minAreaSqft": -1,
-  "minAreaSqmt": -1,
-  "minPriceAED": -1,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "75629",
-  "projectPageLink": "https://sobharealty.com/our-communities/uaq-downtown/",
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartments",
       "ar": "Apartments"
     }
   ],
-  "sellable": true,
-  "views": [
-    "Arabian Sea views"
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
   ],
-  "slug": "downtown-uaq-sobha-realty",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.742312",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Banner%201440x651_0.jpg.webp?itok=pfFoD2Bj",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/1440x775.png.webp?itok=tMPZWtzB"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/390x667.png.webp?itok=MeP9ETbZ"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Common%20337479.jpg.webp?itok=RohJLN_-"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Common%20210283.png.webp?itok=uN47TroC"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Common%20210283%202.jpg.webp?itok=iuq-D6Ri"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Common%20337497.png.webp?itok=xcccVqmT"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Live%20942x636.jpg.webp?itok=jqrBGUL2"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Dine%20942x636%20%E2%80%93%202.jpg.webp?itok=AgOag-d7"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-04/Entertinment%20942x636%20%E2%80%93%201.jpg.webp?itok=BceVbGta"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/null",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": null,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": -1,
-    "maxPriceAED": -1,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/null",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/null",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Downtown UAQ | Sobha Realty",
-    "ar": "Downtown UAQ | Sobha Realty"
-  },
-  "auto_translated": true,
-  "id": "downtown-uaq-sobha-realty",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Designed for seamless living, Downtown UAQ | Sobha Realty blends modern convenience with coastal charm. Community hubs, open promenades, and cultural landmarks shape a walkable cityscape where every turn invites connection and discovery. From boutique shopping and art galleries to wellness spaces and waterfront cafés, life here is curated for comfort and inspiration. Every destination is thoughtfully placed—keeping you close to the people, places, and moments that matter. With the horizon as your backdrop, this is where every day feels like a new beginning.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/our-communities/uaq-downtown/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.022847Z"
 }

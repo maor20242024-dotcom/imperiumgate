@@ -1,111 +1,159 @@
 {
-  "name": {
-    "en": "Pearlside Marina Residences",
-    "ar": "مساكن بيرلسايد مارينا"
-  },
   "slug": "pearlside-marina-residence",
-  "developer": "Sobha Realty",
-  "description": {
-    "ar": "في مساكن بيرلسايد مارينا، تتدفق الحياة بوضوح وهدف. يقع هذا التجمع الجديد على حافة الماء، وهو مصمم لتوفير اتصال سلس وراحة فائقة ونمط حياة بحري راقٍ. يقدم هذا التجمع مجموعة من المساكن الفاخرة المكونة من غرفة نوم واحدة إلى ثلاث غرف نوم مع وصول مباشر إلى القناة التي تفتح على بحر العرب. استمتع بموقع متميز مع جسر للمشاة مخصص يربط مباشرة بمجتمع مساكن المارينا الرئيسي، مما يضمن سهولة الوصول إلى مناطق البيع بالتجزئة وتناول الطعام والترفيه. تدعو منصة واسعة مليئة بالمناطق الطبيعية إلى نزهات هادئة وتجمعات هادئة ولحظات في الهواء الطلق. تحيط بها المياه والخضرة والروابط السلسة، مساكن بيرلسايد مارينا هي المكان الذي تشعر فيه الحياة اليومية بالانفتاح والتوازن والانسجام الجميل مع بيئتها الجزيرة.",
-    "en": "At Pearlside Marina Residences, life flows with clarity and purpose. Positioned at the water’s edge, this new cluster is designed for seamless connectivity, elevated comfort, and an enhanced marina lifestyle. This cluster offers a collection of refined 1 to 3-bedroom residences with direct access to the canal that opens to the Arabian Sea. Enjoy prime location with a dedicated footbridge connecting directly to the main Marina Residences community ensuring effortless access to retail, dining, and leisure zones. A wide podium filled with landscaped areas invites calm strolls, quiet gatherings, and open-air moments. Surrounded by water, greenery, and smooth connections, Pearlside Marina Residences is where everyday living feels open, balanced, and beautifully in tune with its island setting."
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Pearlside Marina Residence",
+  "name_ar": "Pearlside Marina Residence",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Banner%201440x618%20%E2%80%93%2013.jpg.webp?itok=CatkFxqS",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Banner%201440x618%20%E2%80%93%2013.jpg.webp?itok=CatkFxqS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2077.jpg.webp?itok=zxdmVDL6",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2078.jpg.webp?itok=Ma8okaYf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2079.jpg.webp?itok=zjGPrvz9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2080.jpg.webp?itok=5hdMqLNC"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.614346820334,
+    "lng": 55.639352088773
   },
-  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Banner%201440x618%20%E2%80%93%2013.jpg.webp?itok=CatkFxqS",
-  "videoLink": "https://www.youtube.com/watch?v=7XG0Z6lH5_0",
-  "media": {
-    "gallery": [
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2077.jpg.webp?itok=zxdmVDL6",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2078.jpg.webp?itok=Ma8okaYf",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2079.jpg.webp?itok=zjGPrvz9",
-      "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2080.jpg.webp?itok=5hdMqLNC"
-    ],
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2077.jpg.webp?itok=zxdmVDL6",
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "2025-08-28",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
     }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 7,
+  "area_sqm_max": 201,
+  "area_sqft_min": 72,
+  "area_sqft_max": 2164,
+  "price_aed_min": 1376984,
+  "price_aed_max": 6168253,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "documents": {
-    "brochure": {
-      "en": [
-        "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf"
-      ],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "LAGOON BEACH",
+      "ar": ""
+    },
+    {
+      "en": "GOLF COURSE",
+      "ar": ""
+    },
+    {
+      "en": "YACHT CLUB WITH BOAT MOORING",
+      "ar": ""
+    },
+    {
+      "en": "LUSH PARKS & LANDSCAPED GARDENS",
+      "ar": ""
+    },
+    {
+      "en": "VIBRANT NIGHTLIFE",
+      "ar": ""
+    },
+    {
+      "en": "SHOPPING MALL",
+      "ar": ""
+    },
+    {
+      "en": "MOTORISED SEAWATER BODY",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [
-      "https://www.youtube.com/watch?v=7XG0Z6lH5_0"
-    ],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "developerID": "sobha",
-  "location": {
-    "country": {
-      "ar": "",
-      "en": ""
-    },
-    "city": {
-      "ar": "",
-      "en": ""
-    },
-    "area": {
-      "ar": "",
-      "en": ""
-    },
-    "poiDistances": {}
-  },
-  "auto_translated": true,
-  "id": "pearlside-marina-residence",
-  "projectName": {
-    "en": "Pearlside Marina Residence",
-    "ar": "Pearlside Marina Residence"
-  },
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "At Pearlside Marina Residences, life flows with clarity and purpose. Positioned at the water’s edge, this new cluster is designed for seamless connectivity, elevated comfort, and an enhanced marina lifestyle. This cluster offers a collection of refined 1 to 3-bedroom residences with direct access to the canal that opens to the Arabian Sea. Enjoy prime location with a dedicated footbridge connecting directly to the main Marina Residences community ensuring effortless access to retail, dining, and leisure zones. A wide podium filled with landscaped areas invites calm strolls, quiet gatherings, and open-air moments. Surrounded by water, greenery, and smooth connections, Pearlside Marina Residences is where everyday living feels open, balanced, and beautifully in tune with its island setting.",
+  "description_ar": "في مساكن بيرلسايد مارينا، تتدفق الحياة بوضوح وهدف. يقع هذا التجمع الجديد على حافة الماء، وهو مصمم لتوفير اتصال سلس وراحة فائقة ونمط حياة بحري راقٍ. يقدم هذا التجمع مجموعة من المساكن الفاخرة المكونة من غرفة نوم واحدة إلى ثلاث غرف نوم مع وصول مباشر إلى القناة التي تفتح على بحر العرب. استمتع بموقع متميز مع جسر للمشاة مخصص يربط مباشرة بمجتمع مساكن المارينا الرئيسي، مما يضمن سهولة الوصول إلى مناطق البيع بالتجزئة وتناول الطعام والترفيه. تدعو منصة واسعة مليئة بالمناطق الطبيعية إلى نزهات هادئة وتجمعات هادئة ولحظات في الهواء الطلق. تحيط بها المياه والخضرة والروابط السلسة، مساكن بيرلسايد مارينا هي المكان الذي تشعر فيه الحياة اليومية بالانفتاح والتوازن والانسجام الجميل مع بيئتها الجزيرة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": null,
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/pearlside-marina-residence/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  },
-  "amenities": []
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.025780Z"
 }

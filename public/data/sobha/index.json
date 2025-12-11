@@ -1,88 +1,456 @@
 {
-  "provider": "sobha",
+  "developer": "SOBHA",
+  "total_communities": 16,
+  "total_projects": 61,
   "communities": [
-    "bayfront-marina-residences",
-    "bayside-marina-residences",
-    "creek-vistas-heights",
-    "delphine-beach-residences",
-    "hartland-estates",
-    "meydan",
-    "mohammed-bin-rashid-city",
-    "motor-city",
-    "one-park-avenue",
-    "sobha-central",
-    "sobha-coraline",
-    "sobha-elwood",
-    "sobha-estates",
-    "sobha-hartland",
-    "sobha-hartland-ii",
-    "sobha-orbis",
-    "sobha-privy-collection",
-    "sobha-reserve",
-    "sobha-seahaven",
-    "sobha-selene",
-    "sobha-skyparks",
-    "sobha-solis",
-    "the-s",
-    "verde-by-sobha"
+    {
+      "slug": "delphine-beach-residences",
+      "name_en": "Delphine Beach Residences",
+      "name_ar": "ديلفين بيتش ريزيدنسز"
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name_en": "Jumeirah Lake Towers",
+      "name_ar": "أبراج بحيرات الجميرا"
+    },
+    {
+      "slug": "meydan",
+      "name_en": "Meydan",
+      "name_ar": "ميدان"
+    },
+    {
+      "slug": "mohammed-bin-rashid-city",
+      "name_en": "Mohammed Bin Rashid City",
+      "name_ar": "مدينة محمد بن راشد"
+    },
+    {
+      "slug": "motor-city",
+      "name_en": "Motor City",
+      "name_ar": "موتور سيتي"
+    },
+    {
+      "slug": "sobha-central",
+      "name_en": "Sobha Central",
+      "name_ar": "شوبا سنترال"
+    },
+    {
+      "slug": "sobha-coraline",
+      "name_en": "Sobha Coraline",
+      "name_ar": "شوبا كورالين"
+    },
+    {
+      "slug": "sobha-elwood",
+      "name_en": "Sobha Elwood",
+      "name_ar": "شوبا إلوود"
+    },
+    {
+      "slug": "hartland",
+      "name_en": "Sobha Hartland",
+      "name_ar": "شوبا هارتلاند"
+    },
+    {
+      "slug": "sobha-hartland-2",
+      "name_en": "",
+      "name_ar": ""
+    },
+    {
+      "slug": "hartland-ii",
+      "name_en": "Sobha Hartland II",
+      "name_ar": "شوبا هارتلاند 2"
+    },
+    {
+      "slug": "sobha-orbis",
+      "name_en": "Sobha Orbis",
+      "name_ar": "شوبا أوربيس"
+    },
+    {
+      "slug": "sobha-privy-collection",
+      "name_en": "Sobha Privy Collection",
+      "name_ar": "شوبا بريفي كوليكشن"
+    },
+    {
+      "slug": "sobha-reserve",
+      "name_en": "Sobha Reserve",
+      "name_ar": "شوبا ريزيرف"
+    },
+    {
+      "slug": "sobha-selene",
+      "name_en": "Sobha Selene",
+      "name_ar": "شوبا سيلين"
+    },
+    {
+      "slug": "the-s",
+      "name_en": "The S",
+      "name_ar": "ذا إس"
+    }
   ],
   "projects": [
-    "aquamarine-residences",
-    "aquamont",
-    "aura",
-    "avenue",
-    "canalside-marina-residences",
-    "central",
-    "coral-beach-villas",
-    "creek-vistas",
-    "creek-vistas-grande",
-    "creek-vistas-reserve",
-    "crest-grande",
-    "downtown-uaq-sobha-realty",
-    "elwood",
-    "florine-beach-residences",
-    "forest-villas",
-    "garden-house",
-    "garden-houses",
-    "golf-ridges",
-    "golf-ridges-at-sobha-one",
-    "hartland-2-villas",
-    "hartland-forest-villas",
-    "hartland-greens",
-    "hartland-greens-apartment",
-    "hartland-ii",
-    "hartland-quad-homes",
-    "hartland-townhouses",
-    "hartland-waterfront-villas",
-    "jumeirah-lake-towers",
-    "one",
-    "orbis",
-    "palm-grove-villas",
-    "pearlside-marina-residence",
-    "pearlside-marina-residences",
-    "pierside-marina-residences",
-    "pristine-beach-residences",
-    "reserve",
-    "serene",
-    "siniya-island",
-    "skyscape-altius",
-    "skyscape-aura",
-    "skyscape-avenue",
-    "skyvue",
-    "skyvue-solair",
-    "skyvue-spectra",
-    "skyvue-stellar",
-    "sobha-aquacrest",
-    "sobha-gardenia-villas",
-    "sobha-verde",
-    "the-element-at-sobha-one",
-    "waves-grande"
-  ],
-  "meta": {
-    "generatedAt": "2025-11-28T16:04:24Z",
-    "counts": {
-      "communities": 24,
-      "projects": 50
+    {
+      "slug": "aquamarine-residences",
+      "name_en": "Aquamarine-Residences",
+      "name_ar": "Aquamarine-Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "aquamont",
+      "name_en": "Sobha Aquamont",
+      "name_ar": "سوبها أكوامونت",
+      "community_slug": ""
+    },
+    {
+      "slug": "aura",
+      "name_en": "Aura",
+      "name_ar": "Aura",
+      "community_slug": ""
+    },
+    {
+      "slug": "avenue",
+      "name_en": "Avenue",
+      "name_ar": "Avenue",
+      "community_slug": ""
+    },
+    {
+      "slug": "bayfront-marina-residences",
+      "name_en": "Bayfront Marina Residences",
+      "name_ar": "Bayfront Marina Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "bayside-marina-residences",
+      "name_en": "Bayside Marina Residences",
+      "name_ar": "Bayside Marina Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "canalside-marina-residences",
+      "name_en": "Canalside Marina Residences",
+      "name_ar": "مسكن كانالسايد مارينا",
+      "community_slug": ""
+    },
+    {
+      "slug": "central",
+      "name_en": "Sobha Central",
+      "name_ar": "Sobha Central",
+      "community_slug": ""
+    },
+    {
+      "slug": "coral-beach-villas",
+      "name_en": "Coral Beach Villas",
+      "name_ar": "فلل شاطئ المرجان",
+      "community_slug": ""
+    },
+    {
+      "slug": "creek-vistas",
+      "name_en": "Sobha Creek Vistas",
+      "name_ar": "Sobha Creek Vistas",
+      "community_slug": ""
+    },
+    {
+      "slug": "creek-vistas-grande",
+      "name_en": "Creek Vistas Grande",
+      "name_ar": "كريك فيستاس جراندي",
+      "community_slug": ""
+    },
+    {
+      "slug": "creek-vistas-heights",
+      "name_en": "Creek Vistas Heights",
+      "name_ar": "مرتفعات فيستا كريك",
+      "community_slug": ""
+    },
+    {
+      "slug": "creek-vistas-reserve",
+      "name_en": "Creek-Vistas-Reserve",
+      "name_ar": "Creek-Vistas-Reserve",
+      "community_slug": ""
+    },
+    {
+      "slug": "crest-grande",
+      "name_en": "Crest Grande",
+      "name_ar": "كريست غراند",
+      "community_slug": ""
+    },
+    {
+      "slug": "delphine-beach-residences",
+      "name_en": "Delphine-Beach-Residences",
+      "name_ar": "Delphine-Beach-Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "downtown-uaq-sobha-realty",
+      "name_en": "Downtown UAQ | Sobha Realty",
+      "name_ar": "Downtown UAQ | Sobha Realty",
+      "community_slug": ""
+    },
+    {
+      "slug": "elwood",
+      "name_en": "Sobha Elwood",
+      "name_ar": "Sobha Elwood",
+      "community_slug": ""
+    },
+    {
+      "slug": "florine-beach-residences",
+      "name_en": "Florine-Beach-Residences",
+      "name_ar": "Florine-Beach-Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "forest-villas",
+      "name_en": "Forest-Villas",
+      "name_ar": "Forest-Villas",
+      "community_slug": ""
+    },
+    {
+      "slug": "garden-house",
+      "name_en": "Garden-House",
+      "name_ar": "Garden-House",
+      "community_slug": ""
+    },
+    {
+      "slug": "garden-houses",
+      "name_en": "Sobha Garden Houses",
+      "name_ar": "Sobha Garden Houses",
+      "community_slug": ""
+    },
+    {
+      "slug": "golf-ridges",
+      "name_en": "Golf Ridges",
+      "name_ar": "جولف ريدجز",
+      "community_slug": ""
+    },
+    {
+      "slug": "golf-ridges-at-sobha-one",
+      "name_en": "Golf Ridges at Sobha One",
+      "name_ar": "Golf Ridges at Sobha One",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-2-villas",
+      "name_en": "Hartland-2-Villas",
+      "name_ar": "Hartland-2-Villas",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-estates",
+      "name_en": "Hartland-Estates",
+      "name_ar": "Hartland-Estates",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-forest-villas",
+      "name_en": "Sobha Hartland Forest Villas",
+      "name_ar": "Sobha Hartland Forest Villas",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-greens",
+      "name_en": "Sobha Hartland Greens",
+      "name_ar": "Sobha Hartland Greens",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-greens-apartment",
+      "name_en": "Hartland-Greens-Apartment",
+      "name_ar": "Hartland-Greens-Apartment",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-ii",
+      "name_en": "Sobha Hartland II",
+      "name_ar": "Sobha Hartland II",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-quad-homes",
+      "name_en": "Hartland-Quad-Homes",
+      "name_ar": "Hartland-Quad-Homes",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-townhouses",
+      "name_en": "Sobha Hartland Townhouses",
+      "name_ar": "Sobha Hartland Townhouses",
+      "community_slug": ""
+    },
+    {
+      "slug": "hartland-waterfront-villas",
+      "name_en": "Hartland-Waterfront-Villas",
+      "name_ar": "Hartland-Waterfront-Villas",
+      "community_slug": ""
+    },
+    {
+      "slug": "one",
+      "name_en": "Sobha One",
+      "name_ar": "Sobha One",
+      "community_slug": ""
+    },
+    {
+      "slug": "one-park-avenue",
+      "name_en": "One Park Avenue",
+      "name_ar": "ون بارك أفينيو",
+      "community_slug": ""
+    },
+    {
+      "slug": "orbis",
+      "name_en": "Sobha Orbis",
+      "name_ar": "Sobha Orbis",
+      "community_slug": ""
+    },
+    {
+      "slug": "palm-grove-villas",
+      "name_en": "Palm Grove Villas",
+      "name_ar": "Palm Grove Villas",
+      "community_slug": ""
+    },
+    {
+      "slug": "pearlside-marina-residence",
+      "name_en": "Pearlside Marina Residence",
+      "name_ar": "Pearlside Marina Residence",
+      "community_slug": ""
+    },
+    {
+      "slug": "pearlside-marina-residences",
+      "name_en": "Pearlside Marina Residences",
+      "name_ar": "Pearlside Marina Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "pierside-marina-residences",
+      "name_en": "Pierside Marina Residences",
+      "name_ar": "Pierside Marina Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "pristine-beach-residences",
+      "name_en": "Pristine Beach Residences",
+      "name_ar": "Pristine Beach Residences",
+      "community_slug": ""
+    },
+    {
+      "slug": "reserve",
+      "name_en": "Sobha Reserve",
+      "name_ar": "Sobha Reserve",
+      "community_slug": ""
+    },
+    {
+      "slug": "serene",
+      "name_en": "Serene",
+      "name_ar": "Serene",
+      "community_slug": ""
+    },
+    {
+      "slug": "siniya-island",
+      "name_en": "Sobha Siniya Island",
+      "name_ar": "Sobha Siniya Island",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyscape-altius",
+      "name_en": "Skyscape Altius",
+      "name_ar": "Skyscape Altius",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyscape-aura",
+      "name_en": "Skyscape Aura",
+      "name_ar": "Skyscape Aura",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyscape-avenue",
+      "name_en": "Skyscape Avenue",
+      "name_ar": "Skyscape Avenue",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyvue",
+      "name_en": "Skyvue",
+      "name_ar": "Skyvue",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyvue-solair",
+      "name_en": "Skyvue Solair",
+      "name_ar": "Skyvue Solair",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyvue-spectra",
+      "name_en": "Skyvue Spectra",
+      "name_ar": "Skyvue Spectra",
+      "community_slug": ""
+    },
+    {
+      "slug": "skyvue-stellar",
+      "name_en": "Skyvue Stellar",
+      "name_ar": "Skyvue Stellar",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-aquacrest",
+      "name_en": "Sobha AquaCrest",
+      "name_ar": "Sobha AquaCrest",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-estates",
+      "name_en": "Sobha Estates",
+      "name_ar": "سوبها إستيتس",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-gardenia-villas",
+      "name_en": "Sobha Gardenia Villas",
+      "name_ar": "فلل سوبها جاردينيا",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-hartland",
+      "name_en": "Sobha Hartland",
+      "name_ar": "Sobha Hartland",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-seahaven",
+      "name_en": "Sobha SeaHaven",
+      "name_ar": "صبحة سيهافن",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-skyparks",
+      "name_en": "Sobha SkyParks",
+      "name_ar": "Sobha SkyParks",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-solis",
+      "name_en": "Sobha Solis",
+      "name_ar": "Sobha Solis",
+      "community_slug": ""
+    },
+    {
+      "slug": "sobha-verde",
+      "name_en": "Sobha Verde",
+      "name_ar": "Sobha Verde",
+      "community_slug": ""
+    },
+    {
+      "slug": "the-element-at-sobha-one",
+      "name_en": "The Element at Sobha One",
+      "name_ar": "The Element at Sobha One",
+      "community_slug": ""
+    },
+    {
+      "slug": "verde-by-sobha",
+      "name_en": "Verde by Sobha",
+      "name_ar": "Verde by Sobha",
+      "community_slug": ""
+    },
+    {
+      "slug": "waves-grande",
+      "name_en": "Waves Grande",
+      "name_ar": "موجات جراند",
+      "community_slug": ""
     }
-  }
+  ],
+  "updated_at": "2025-11-30T19:55:10.061697Z"
 }

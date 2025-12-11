@@ -1,354 +1,124 @@
 {
-  "projectName": {
-    "en": "Palm Grove Villas",
-    "ar": "Palm Grove Villas"
+  "slug": "palm-grove-villas",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Palm Grove Villas",
+  "name_ar": "Palm Grove Villas",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.6122681,
+    "lng": 55.6327981
   },
-  "description": {
-    "en": "Set on the shimmering shores of Sobha Siniya Island, Palm Grove Villas offer a lifestyle of unmatched elegance. These 4-bedroom beach homes provide direct access to the sand and sea, creating a seamless connection to nature.",
-    "ar": "Set on the shimmering shores of Sobha Siniya Island, Palm Grove Villas offer a lifestyle of unmatched elegance. These 4-bedroom beach homes provide direct access to the sand and sea, creating a seamless connection to nature."
-  },
-  "amenities": [
-    {
-      "name": {
-        "en": "Ecological park",
-        "ar": ""
-      },
-      "description": {
-        "en": "Ecological park",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Yacht club",
-        "ar": ""
-      },
-      "description": {
-        "en": "Yacht club",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Helicopter and Air Taxi Landing Pad",
-        "ar": ""
-      },
-      "description": {
-        "en": "Helicopter and Air Taxi Landing Pad",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Lagoon beachfront",
-        "ar": ""
-      },
-      "description": {
-        "en": "Lagoon beachfront",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Library Lounge",
-        "ar": ""
-      },
-      "description": {
-        "en": "Library Lounge",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Play zones",
-        "ar": ""
-      },
-      "description": {
-        "en": "Play zones",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Water activities",
-        "ar": ""
-      },
-      "description": {
-        "en": "Water activities",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Al Fresco dining",
-        "ar": ""
-      },
-      "description": {
-        "en": "Al Fresco dining",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Retail Mall",
-        "ar": ""
-      },
-      "description": {
-        "en": "Retail Mall",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Executive Business Lounge",
-        "ar": ""
-      },
-      "description": {
-        "en": "Executive Business Lounge",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Health Club",
-        "ar": ""
-      },
-      "description": {
-        "en": "Health Club",
-        "ar": ""
-      }
-    }
-  ],
-  "area": {
-    "en": "Siniya Island",
-    "ar": ""
-  },
-  "bedrooms": [
-    4
-  ],
-  "brand": "Sobha Realty",
-  "city": "Dubai",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "country": "United Arab Emirates",
-  "deliveryDate": "2027-12-01",
-  "goldenVisaEligible": false,
-  "latitude": 25.6122681,
-  "launchDate": null,
-  "location": {
-    "en": "Your Sanctuary by The Sea",
-    "ar": "Your Sanctuary by The Sea",
-    "country": {
-      "en": "UAE",
-      "ar": ""
-    },
-    "city": {
-      "en": "Umm Al Quwain",
-      "ar": ""
-    },
-    "area": {
-      "en": "Siniya Island",
-      "ar": ""
-    },
-    "poiDistances": {}
-  },
-  "longitude": 55.6327981,
-  "mapDescription": {
-    "en": "Explore nearby points of interest around Siniya Island Villas.",
-    "ar": ""
-  },
-  "mapPointsOfInterest": [
-    {
-      "name": {
-        "en": "MARJAN ISLAND",
-        "ar": "MARJAN ISLAND"
-      },
-      "distance": {
-        "en": "10 km",
-        "ar": "10 km"
-      },
-      "category": {
-        "en": "Nearby Destination",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "SHARJAH",
-        "ar": "SHARJAH"
-      },
-      "distance": {
-        "en": "30 km",
-        "ar": "30 km"
-      },
-      "category": {
-        "en": "Nearby Destination",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "DUBAI",
-        "ar": "DUBAI"
-      },
-      "distance": {
-        "en": "50 km",
-        "ar": "50 km"
-      },
-      "category": {
-        "en": "Nearby Destination",
-        "ar": ""
-      }
-    }
-  ],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 12060000,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 10610000,
-  "paymentPlan": {
-    "en": "",
-    "ar": ""
-  },
-  "projectID": "429",
-  "projectPageLink": "https://sobharealty.com/properties-in-dubai/palm-grove-villas/",
-  "projectStatus": {
-    "en": "Off-plan",
-    "ar": "Off-plan"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Villas",
       "ar": "Villas"
     }
   ],
-  "sellable": true,
-  "views": [],
-  "slug": "palm-grove-villas",
-  "developer": "Sobha Realty",
-  "developerID": "sobha",
-  "status": "active",
-  "lastUpdated": "2025-11-02T06:07:05.745803",
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/siniya-island-villas.jpg.webp?itok=dXdRy08H",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Palm.jpg.webp?itok=-19y4r4g"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Palm%20Grove.jpg.webp?itok=mVnaEFIS"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Palm%20Villas.jpg.webp?itok=sOdKeUxV"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-12/Villa.jpg.webp?itok=Xte6H4kM"
-      }
-    ],
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
+  "bedrooms": [
+    1,
+    2
+  ],
+  "units_count": null,
+  "area_sqm_min": 4,
+  "area_sqm_max": null,
+  "area_sqft_min": 48,
+  "area_sqft_max": null,
+  "price_aed_min": 10610000,
+  "price_aed_max": 12060000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "projectCategory": "Project",
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 10610000,
-    "maxPriceAED": 12060000,
-    "currency": "AED"
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Palm Grove Villas",
-    "ar": "Palm Grove Villas"
-  },
-  "auto_translated": true,
-  "id": "palm-grove-villas",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Set on the shimmering shores of Sobha Siniya Island, Palm Grove Villas offer a lifestyle of unmatched elegance. These 4-bedroom beach homes provide direct access to the sand and sea, creating a seamless connection to nature.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": "the-s",
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/properties-in-dubai/palm-grove-villas/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.040238Z"
 }

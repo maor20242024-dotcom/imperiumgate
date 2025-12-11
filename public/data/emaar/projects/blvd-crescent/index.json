@@ -1,198 +1,124 @@
 {
   "slug": "blvd-crescent",
-  "id": "11607",
   "developer": "Emaar",
-  "brand": "Emaar",
-  "country": {
-    "ar": null,
-    "en": "UAE"
+  "community_slug": "",
+  "name_en": "BLVD Crescent",
+  "name_ar": "BLVD Crescent",
+  "website": "https://properties.emaar.com/en/properties/blvd-crescent",
+  "canonical_url": "https://properties.emaar.com/en/properties/blvd-crescent",
+  "logo": "",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/HARBOUR_GATE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HILLCREST_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/CEDAR_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/DHE_PF_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/SAVANNA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/RIVANA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/ELVIRA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/01_HERO_EMERALD_HILLS.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/09/PALACE_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/CREEK_RISE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/PALACE_RESIDENCES_NORTH_DCH_WEBSITE_MAIN_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_HORIZON.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/11/THE_COVE_DCH_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DCR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/eden_hero_banner.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/LANDING_PAGE_HERO_16200x832-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1933096,
+    "lng": 55.2809187
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Downtown Dubai"
-  },
-  "location": {
-    "ar": null,
-    "en": "Downtown Dubai, Dubai, UAE"
-  },
-  "latitude": null,
-  "longitude": null,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": "Apartments",
-  "projectName": {
-    "ar": "BLVD Crescent",
-    "en": "BLVD Crescent"
-  },
-  "summary": {
-    "ar": null,
-    "en": "Discover BLVD Crescent in Downtown Dubai & enjoy modern apartments with stunning views, entertainment, & iconic attractions. Visit us online for more info."
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Discover BLVD Crescent in Downtown Dubai & enjoy modern apartments with stunning views, entertainment, & iconic attractions. Visit us online for more info."
-  },
-  "propertyTypes": [
+  "address_en": "Downtown Dubai, Dubai, UAE",
+  "address_ar": "",
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status": "",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartments"
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Apartments",
+      "ar": "شقق"
     }
   ],
   "bedrooms": [],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": null
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": null,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "minAreaSqft": 0,
-  "maxAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "maxAreaSqmt": 0,
-  "minPriceAED": 0,
-  "maxPriceAED": null,
-  "deliveryDate": null,
-  "launchDate": null,
-  "projectStatus": {
-    "ar": null,
-    "en": null
-  },
-  "views": [],
-  "goldenVisaEligible": false,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": null
-  },
-  "videoLink": null,
-  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BOULVARD_CRESCENT_HERO.jpg",
-  "galleryImages": [],
-  "amenities": [],
-  "highlights": [],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "sellable": false,
-  "projectPageLink": "https://properties.emaar.com/en/properties/blvd-crescent",
-  "contact": {
-    "phone": null,
-    "whatsapp": null,
-    "email": null
-  },
-  "meta": {
-    "title": "BLVD Crescent | Downtown Dubai | Emaar Properties",
-    "description": "Discover BLVD Crescent in Downtown Dubai & enjoy modern apartments with stunning views, entertainment, & iconic attractions. Visit us online for more info.",
-    "keywords": null,
-    "og_type": "article",
-    "og_title": "BLVD Crescent | Downtown Dubai | Emaar Properties",
-    "og_url": "https://properties.emaar.com/en/properties/blvd-crescent/",
-    "og_site_name": "Emaar Properties",
-    "og_description": "Discover BLVD Crescent in Downtown Dubai & enjoy modern apartments with stunning views, entertainment, & iconic attractions. Visit us online for more info.",
-    "og_image": "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PALACE-RH__DHE_HOMEPAGE_BANNER_1920x1080.jpg",
-    "twitter_card": "summary_large_image",
-    "twitter_site": "@emaardubai",
-    "canonical_url": "https://properties.emaar.com/en/properties/blvd-crescent/",
-    "last_modified": "2024-03-21T12:29:32+00:00",
-    "fetchedAt": "2025-11-09T10:30:21.060Z",
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "assets": {
-    "images": [
-      "https://cdn.properties.emaar.com/wp-content/uploads/2025/04/COMMUNITY_FEATURED_IMG_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/04/DHE_COMMUNITY_HERO-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/11/COMMUNITY_FEATURED_320X415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_320-x-415.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360-1.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/THE-HEIGHT-_320X415.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Emirates-Hills-HR.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/REEM_COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/THE_GREEN_COMMUNITY.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BOULVARD_CRESCENT_HERO.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BLVD_CRESCENT_LIVING_ROOM.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_BEDROOM.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BLVD_CRESCENT_VIEWS.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/SMB_BOULEVARD.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BOULVARD_CRESCENT_BEDROOM.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_POOL.jpg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize-scaled.jpeg",
-      "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DOWNTOWN_DUBAI_EN.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-left.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/arrow-right.png",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/loading.gif",
-      "https://properties.emaar.com/wp-content/themes/emaar/inc/assets/images/emaar-logo.svg",
-      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_BEDROOM.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2020/07/BLVD_CRESCENT_VIEWS.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2020/07/SMB_BOULEVARD.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2020/07/BOULVARD_CRESCENT_BEDROOM.jpg",
-      "https://properties.emaar.com/wp-content/uploads/2020/06/ADDRESS_DUBAI_OPERA_POOL.jpg"
-    ],
-    "videos": [],
-    "pdfs": [],
-    "iframes": [
-      "https://www.googletagmanager.com/ns.html?id=${gtm_key}",
-      "https://www.googletagmanager.com/ns.html?id=GTM-KCHN85",
-      "about:blank"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "auto_translated": true,
-  "fromCommunity": null,
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Park",
+      "ar": "حديقة"
     }
-  }
+  ],
+  "features": [],
+  "description_en": "Discover BLVD Crescent in Downtown Dubai & enjoy modern apartments with stunning views, entertainment, & iconic attractions. Visit us online for more info.",
+  "description_ar": "",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": false,
+  "golden_visa_eligible": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/en/properties/blvd-crescent"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T10:30:21.060Z",
+  "updated_at": "2025-11-30T18:54:15.721Z"
 }

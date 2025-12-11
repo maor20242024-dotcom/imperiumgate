@@ -1,0 +1,105 @@
+{
+  "slug": "binghatti-hillside",
+  "developer": "Binghatti",
+  "community_slug": "",
+  "name_en": "Binghatti Hillside",
+  "name_ar": "Binghatti Hillside",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/binghatti-hillside-amenties-1.webp",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/binghatti-hillside-amenties-1.webp"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.056914324387193,
+    "lng": 55.15989386916235
+  },
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Dubai Science Park",
+  "location_ar": "",
+  "district_en": "Dubai Science Park",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "Q2 2026",
+  "property_types": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "bedrooms": [
+    0,
+    1
+  ],
+  "units_count": null,
+  "area_sqm_min": 33,
+  "area_sqm_max": 33,
+  "area_sqft_min": 359,
+  "area_sqft_max": 359,
+  "price_aed_min": 774999,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "payment plan:",
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Modern Gym",
+      "ar": ""
+    },
+    {
+      "en": "Landscaped Gardens",
+      "ar": "حدائق طبيعية"
+    },
+    {
+      "en": "Family-oriented Recreational Areas",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Experinece Binghatti Hillside, Dubai Science Park. A premium residential project offering modern living in a prime family-friendly location.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillside-assets/binghatti-hillside-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-hillside"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.744Z"
+}

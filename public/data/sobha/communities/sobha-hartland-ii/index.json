@@ -1,144 +1,89 @@
 {
-  "communityID": "sobha-hartland-ii",
-  "developerID": "sobha",
-  "name": {
-    "ar": "شوبا هارتلاند 2",
-    "en": "Sobha Hartland II"
+  "slug": "hartland-ii",
+  "developer": "Sobha",
+  "name_en": "Sobha Hartland II",
+  "name_ar": "شوبا هارتلاند 2",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.178544844567,
+    "lng": 55.31178837911
   },
-  "description": {
-    "ar": "امتداد لشوبا هارتلاند مع مشاريع فاخرة إضافية.",
-    "en": "An extension of Sobha Hartland with additional luxury projects."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "Wilton Park Residences II",
+  "master_location_ar": "ويلتون بارك ريزيدنسزII",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "An extension of Sobha Hartland with additional luxury projects.",
+  "description_ar": "امتداد لشوبا هارتلاند مع مشاريع فاخرة إضافية.",
+  "amenities": [
     {
-      "projectID": "330-riverside-crest",
-      "name": {
-        "ar": "330 ريفرسايد كريست",
-        "en": "330 Riverside Crest"
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
     {
-      "projectID": "the-sails",
-      "name": {
-        "ar": "ذا سيلز",
-        "en": "The Sails"
-      }
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
     {
-      "projectID": "skyscape-aura",
-      "name": {
-        "ar": "سكاي سكيب أورا",
-        "en": "Skyscape Aura"
-      }
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
     {
-      "projectID": "sobha-verde",
-      "name": {
-        "ar": "شوبا فيردي",
-        "en": "Sobha Verde"
-      }
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
     },
     {
-      "projectID": "sobha-waves",
-      "name": {
-        "ar": "شوبا وايفز",
-        "en": "Sobha Waves"
-      }
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
     },
     {
-      "projectID": "riverside-crescent",
-      "name": {
-        "ar": "ريفرسايد كريسنت",
-        "en": "Riverside Crescent"
-      }
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
     },
     {
-      "projectID": "skyscape",
-      "name": {
-        "ar": "سكاي سكيب",
-        "en": "Skyscape"
-      }
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
     },
     {
-      "projectID": "skyvue",
-      "name": {
-        "ar": "سكاي فيو",
-        "en": "Skyvue"
-      }
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
     },
     {
-      "projectID": "aura",
-      "name": {
-        "ar": "أورا",
-        "en": "Aura"
-      }
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
     },
     {
-      "projectID": "altius",
-      "name": {
-        "ar": "ألتيوس",
-        "en": "Altius"
-      }
-    },
-    {
-      "projectID": "avenue",
-      "name": {
-        "ar": "أفينيو",
-        "en": "Avenue"
-      }
-    },
-    {
-      "projectID": "320-riverside-crescent",
-      "name": {
-        "ar": "320 ريفرسايد كريسنت",
-        "en": "320 Riverside Crescent"
-      }
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
     }
   ],
-  "developer": "sobha",
-  "lastUpdated": "2025-11-01T18:48:01.385652",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "auto_translated": false,
-  "slug": "hartland-ii",
-  "contact_points": {
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.010258Z"
 }

@@ -32,10 +32,10 @@ export default function AdminMapsPage() {
   const loadMapData = async () => {
     try {
       setLoading(true);
-      
+
       const response = await fetch('/api/admin/maps/stats');
       const data = await response.json();
-      
+
       if (data.success) {
         setStats(data.stats);
         setProjects(data.projects);
@@ -68,7 +68,7 @@ export default function AdminMapsPage() {
   // تصدير التقرير
   const exportReport = () => {
     if (!stats) return;
-    
+
     const report = {
       timestamp: new Date().toISOString(),
       summary: {
@@ -153,11 +153,10 @@ export default function AdminMapsPage() {
                 <button
                   key={tab.id}
                   onClick={() => setSelectedTab(tab.id as any)}
-                  className={`flex items-center gap-2 py-2 px-1 border-b-2 font-medium text-sm ${
-                    selectedTab === tab.id
-                      ? 'border-blue-500 text-blue-600'
-                      : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
-                  }`}
+                  className={`flex items-center gap-2 py-2 px-1 border-b-2 font-medium text-sm ${selectedTab === tab.id
+                    ? 'border-blue-500 text-blue-600'
+                    : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                    }`}
                 >
                   <tab.icon className="w-4 h-4" />
                   {tab.label}
@@ -241,7 +240,7 @@ export default function AdminMapsPage() {
                       <span className="text-sm text-gray-600">{developer}</span>
                       <div className="flex items-center gap-2">
                         <div className="w-20 bg-gray-200 rounded-full h-2">
-                          <div 
+                          <div
                             className="bg-blue-600 h-2 rounded-full"
                             style={{ width: `${(count / stats.total) * 100}%` }}
                           />
@@ -262,7 +261,7 @@ export default function AdminMapsPage() {
                       <span className="text-sm text-gray-600">{status}</span>
                       <div className="flex items-center gap-2">
                         <div className="w-20 bg-gray-200 rounded-full h-2">
-                          <div 
+                          <div
                             className="bg-green-600 h-2 rounded-full"
                             style={{ width: `${(count / stats.total) * 100}%` }}
                           />
@@ -305,18 +304,18 @@ export default function AdminMapsPage() {
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
                   {projects.slice(0, 50).map((project, index) => {
-                    const hasCoords = project.latitude && project.longitude && 
-                                    project.latitude !== 0 && project.longitude !== 0;
-                    const hasPOIs = project.mapPointsOfInterest && 
-                                  Object.keys(project.mapPointsOfInterest).length > 0;
-                    
+                    const hasCoords = project.latitude && project.longitude &&
+                      project.latitude !== 0 && project.longitude !== 0;
+                    const hasPOIs = project.mapPointsOfInterest &&
+                      Object.keys(project.mapPointsOfInterest).length > 0;
+
                     return (
                       <tr key={index} className="hover:bg-gray-50">
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="text-sm font-medium text-gray-900">
-                            {typeof project.projectName === 'string' 
-                              ? project.projectName 
-                              : project.projectName?.ar || project.projectName?.en || 'Unknown'
+                            {typeof project.projectName === 'string'
+                              ? project.projectName
+                              : (project.projectName as any)?.ar || (project.projectName as any)?.en || 'Unknown'
                             }
                           </div>
                         </td>
@@ -346,9 +345,9 @@ export default function AdminMapsPage() {
                           )}
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                          {typeof project.projectStatus === 'string' 
-                            ? project.projectStatus 
-                            : project.projectStatus?.ar || project.projectStatus?.en || 'Unknown'
+                          {typeof project.projectStatus === 'string'
+                            ? project.projectStatus
+                            : (project.projectStatus as any)?.ar || (project.projectStatus as any)?.en || 'Unknown'
                           }
                         </td>
                       </tr>

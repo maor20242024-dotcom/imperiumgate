@@ -1,245 +1,105 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-skyhall",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Skyhall",
+  "name_ar": "Binghatti Skyhall",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/skyhall_gym.webp",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/skyhall_gym.webp"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.186863412721724,
+    "lng": 55.281570513864935
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Business Bay"
-  },
-  "location": {
-    "ar": null,
-    "en": "Business Bay",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "Business Bay"
-    }
-  },
-  "latitude": 25.186863412721724,
-  "longitude": 55.281570513864935,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Skyhall",
-    "en": "Binghatti Skyhall",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Discover Binghatti Skyhall's modern architecture and panoramic views. Premium studios and 1-bedroom apartments with world-class amenities."
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "Business Bay",
+  "location_ar": "",
+  "district_en": "Business Bay",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "2026",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
     0,
     1
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "payment plan structure goes as follows:"
-  },
-  "minAreaSqft": 402,
-  "maxAreaSqft": 835,
-  "minAreaSqmt": 37,
-  "maxAreaSqmt": 78,
-  "minPriceAED": 985000,
-  "maxPriceAED": null,
-  "deliveryDate": "2026",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "تحت الإنشاء",
-    "en": "Under Construction"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyhall-assets/binghatti-skyhall-brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=DwBk6wGQx88",
-  "heroImage": "https://binghattiweb.imgix.net/skyhall_gym.webp",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/skyhall_gym.webp",
-    "https://binghattiweb.imgix.net/skyhall_layout_studio.webp",
-    "https://binghattiweb.imgix.net/skyhall_layout_bedroom_a.webp",
-    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
-    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
-    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-    "https://binghattiweb.imgix.net/bedroom-img.webp",
-    "https://binghattiweb.imgix.net/skyhall_footer_horizontal.jpg"
-  ],
+  "units_count": null,
+  "area_sqm_min": 37,
+  "area_sqm_max": 78,
+  "area_sqft_min": 402,
+  "area_sqft_max": 835,
+  "price_aed_min": 985000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "payment plan structure goes as follows:",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Swimming Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Swimming Pool",
+      "ar": "مسبح"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Fitness Center"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Fitness Center",
+      "ar": ""
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Landscaped Gardens"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Landscaped Gardens",
+      "ar": "حدائق طبيعية"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Family-friendly Spaces"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Family-friendly Spaces",
+      "ar": ""
     }
   ],
-  "highlights": [
-    {
-      "ar": null,
-      "en": "Modern architecture"
-    },
-    {
-      "ar": null,
-      "en": "Panoramic views"
-    },
-    {
-      "ar": null,
-      "en": "World-class amenities"
-    },
-    {
-      "ar": null,
-      "en": "Convenient access to major roads, shopping centers, and city landmarks"
-    }
-  ],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-skyhall",
+  "features": [],
+  "description_en": "Discover Binghatti Skyhall's modern architecture and panoramic views. Premium studios and 1-bedroom apartments with world-class amenities.",
+  "description_ar": "",
+  "brochure_url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyhall-assets/binghatti-skyhall-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:16:10.330Z",
-    "title": "Binghatti Skyhall Business Bay – Studio & 1 Bedroom Apartments",
-    "description": "Discover Binghatti Skyhall’s modern architecture and panoramic views. Premium studios and 1-bedroom apartments with world-class amenities.",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-skyhall",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-skyhall"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/skyhall_gym.webp",
-      "https://binghattiweb.imgix.net/skyhall_layout_studio.webp",
-      "https://binghattiweb.imgix.net/skyhall_layout_bedroom_a.webp",
-      "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/bedroom-img.webp",
-      "https://binghattiweb.imgix.net/skyhall_footer_horizontal.jpg"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyhall-assets/binghatti-skyhall-brochure.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyhall-assets/binghatti-skyhall-project-facts.pdf",
-      "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-skyhall-assets/binghatti-skyhall-floor-plan.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51465.22186840251!2d55.281570513864935!3d25.186863412721724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6986ebbcd9ff%3A0x2891654083cdb30e!2sBinghatti%20Skyhall!5e0!3m2!1sen!2sae!4v1746263810137!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/DwBk6wGQx88?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "business-bay",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.747Z"
 }

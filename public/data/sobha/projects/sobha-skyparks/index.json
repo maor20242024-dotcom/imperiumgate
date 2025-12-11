@@ -1,0 +1,169 @@
+{
+  "slug": "sobha-skyparks",
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Sobha SkyParks",
+  "name_ar": "Sobha SkyParks",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2025-10/1440%20x%20618%202x_0.png",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2025-10/1440%20x%20618%202x_0.png",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2081.jpg.webp?itok=tfQbd95z",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2082.jpg.webp?itok=tcA8tCxI",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2083.jpg.webp?itok=Ta-SLRG7",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2084.jpg.webp?itok=yPTjzUbi",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2085.jpg.webp?itok=1XJNuyWK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2086.jpg.webp?itok=W2hVHdfV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2087.jpg.webp?itok=QmsOnGz_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2099.jpg.webp?itok=nsJF4KsF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%20100.jpg.webp?itok=jQJ3q0gz"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+  "address_en": "",
+  "address_ar": "",
+  "status": "under-construction",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 64,
+  "area_sqm_max": 211,
+  "area_sqft_min": 685,
+  "area_sqft_max": 2272,
+  "price_aed_min": 2860000,
+  "price_aed_max": 9880000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
+  },
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Padel Court",
+      "ar": ""
+    },
+    {
+      "en": "INFINITY POOL",
+      "ar": ""
+    },
+    {
+      "en": "Yoga Zone & Meditation Deck",
+      "ar": ""
+    },
+    {
+      "en": "Calisthenics Zones",
+      "ar": ""
+    },
+    {
+      "en": "Floating Decks",
+      "ar": ""
+    },
+    {
+      "en": "ZEN GARDEN",
+      "ar": ""
+    },
+    {
+      "en": "KIDS PLAY AREA",
+      "ar": ""
+    },
+    {
+      "en": "RoofTop Lounge",
+      "ar": ""
+    }
+  ],
+  "features": [],
+  "description_en": "Rising over Sheikh Zayed Road, Sobha SkyParks is a 450-metre vertical masterpiece that reimagines luxury living in Dubai’s most coveted address. This iconic tower places you at the centre of the city’s most powerful axis, surrounded by business districts, fine dining, designer retail, cultural landmarks, and seamless connectivity all within minutes. With 1–3-bedroom residences and exclusive duplexes offering breathtaking views of the Arabian Sea, Downtown skyline, and the endless horizon, Sobha SkyParks delivers a lifestyle where motion meets calm, elevation meets openness, and every day unfolds above the clouds.",
+  "description_ar": "اكتشف باي فيو من أدريس ريزورتس في إعمار بيتشفرونت، واستمتع بالإطلالات البانورامية والتصميمات الداخلية الفاخرة ووسائل الراحة. تفضل بزيارة موقعنا الإلكتروني للمزيد من المعلومات. تتزين الواجهات المصممة بأناقة بأمواج أثيرية تعكس مياه الخليج العربي المتلألئة. مفردات فاخرة مستوحاة من روعة وسحر دبي، مترجمة بأدق التفاصيل، من الداخل والخارج. مرافق رائعة مستوحاة من براعة إعمار في الحياة الراقية في شقق وبنتهاوس تحمل علامة تجارية، مفروشة بفخامة ومصممة خصيصًا لتلبية احتياجاتك. يحمل منتجع باي فيو من أدريس في إعمار بيتشفرونت المستقبل في تفاصيله ويعد بحياة ستحقق أحلامك بالعيش الفاخر بجانب البحر ورفاهية عصرية لا مثيل لها؛ فرصة فريدة من نوعها للاحتفال بحياة دبي في أكثر المشاريع الساحلية تميزًا في المدينة. البنتهاوس هي الإنجازات المتوجة لحياة غنية ومجزية. تقع في قمة الأبراج المصممة بأناقة، ستجد أعلى مستويات أسلوب حياة إعمار بيتشفرونت. تُعد بنتهاوس باي فيو من أدريس ريزورتس المكونة من 5 غرف نوم مثالاً للحياة الفاخرة في السماء، لوحة من الرفاهية المبهرة على أفق الخليج العربي. أربع وحدات بنتهاوس فريدة تتجاوز كل التوقعات بإطلالات 360 درجة وتصميمات عقارات شاطئية معاصرة. تمتزج أرقى التصميمات الداخلية والمواد بسلاسة مع التصميم الأنيق، لخلق ملاذ للرفاهية المطلقة في الوجهة المطلقة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2025-10/Brochure%20-%20Sobha%20SkyParks.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://sobharealty.com/our-communities/sobha-skyparks/",
+    "https://sobharealty.com/properties-in-dubai/sobha-skyparks/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.029339Z"
+}

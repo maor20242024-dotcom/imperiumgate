@@ -1,157 +1,115 @@
 {
   "slug": "palm-beach-towers",
-  "id": "nakheel-Palm_Beach_Towers",
-  "projectName": {
-    "ar": "أبراج بالم بيتش",
-    "en": "Palm Beach Towers"
+  "developer": "Nakheel",
+  "community_slug": "",
+  "name_en": "Palm Beach Towers",
+  "name_ar": "أبراج بالم بيتش",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/palm-beach-towers_banner.jpg?sfvrsn=5fae2987_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/palm-beach-towers_banner.jpg?sfvrsn=5fae2987_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-1-palm-beach-towers.jpg?sfvrsn=3299eb91_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-2-palm-beach-towers.jpg?sfvrsn=1d9aa465_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-3-palm-beach-tower.jpg?sfvrsn=fb915938_1"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.11301848650939,
+    "lng": 55.13827556710548
   },
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "description": {
-    "ar": "أبراج بالم بيتش على نخلة جميرا",
-    "en": "Palm Beach Towers on Palm Jumeirah offering luxury beachfront living"
-  },
-  "amenities": [],
-  "area": {
-    "ar": "نخلة جميرا",
-    "en": "Palm Jumeirah"
-  },
-  "bedrooms": [],
-  "brand": "Nakheel",
-  "contact": {
-    "phone": "971556628972",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
-  },
-  "deliveryDate": null,
-  "developer": {
-    "ar": "نخيل العقارية",
-    "en": "Nakheel Properties"
-  },
-  "goldenVisaEligible": false,
-  "heroImage": "",
-  "latitude": 0,
-  "launchDate": null,
-  "location": {
-    "ar": "نخلة جميرا، دبي",
-    "en": "Palm Jumeirah, Dubai",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": "نخلة جميرا",
-      "en": "Palm Jumeirah"
-    },
-    "poiDistances": {}
-  },
-  "longitude": 0,
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "projectCategory": "Building",
-  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/palm-beach-towers",
-  "projectStatus": {
-    "ar": "جاهز",
-    "en": "Ready"
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "completed",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
       "en": "Apartment",
       "ar": "شقة"
     }
   ],
-  "sellable": true,
-  "summary": {
-    "en": "Palm Beach Towers offers premium living experience on Palm Jumeirah",
-    "ar": "أبراج بالم بيتش تقدم تجربة معيشية راقية في نخلة جميرا"
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 24,
+  "area_sqm_max": null,
+  "area_sqft_min": 255,
+  "area_sqft_max": null,
+  "price_aed_min": 3800000,
+  "price_aed_max": 8999999,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "views": [],
-  "media": {
-    "heroImage": "",
-    "galleryImages": [],
-    "videoLink": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Infinity Swimming Pool",
+      "ar": "مسبح لا متناهي"
     },
-    "floorPlans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Private Beach Access",
+      "ar": ""
     },
-    "masterplans": {
-      "en": [],
-      "ar": []
+    {
+      "en": "Children's Play Area",
+      "ar": ""
+    },
+    {
+      "en": "Outdoor Yoga Area",
+      "ar": ""
+    },
+    {
+      "en": "Sky Lounge",
+      "ar": ""
+    },
+    {
+      "en": "Fully Equipped Multipurpose Gymnasium",
+      "ar": ""
     }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "name": {
-    "ar": "أبراج بالم بيتش",
-    "en": "Palm Beach Towers"
-  },
-  "auto_translated": false,
-  "fromCommunity": "palm-jumeirah",
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Discover exceptional living at Palm Beach Towers on Palm Jumeirah. Embrace a vibrant lifestyle with unrivaled location and inspiring amenities. Palm Beach Towers is an amalgam of style and luxury that inspires a fresh perspective, where each day is a life immersed in the best the city has to offer. Located at the gateway of Palm Jumeirah, it features fully furnished residences with stunning views and state of the art amenities, to complement ultra modern contemporary living.",
+  "description_ar": "أبراج بالم بيتش على نخلة جميرا",
+  "brochure_url": "https://nakheel.com/docs/nakheelcorporatelibraries/default-document-library/palm-beach-towers.pdf?sfvrsn=69fb0a86_1",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/palm-beach-towers",
+    "https://www.nakheel.com/en/construction-progress/palm-beach-towers"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.999112Z"
 }

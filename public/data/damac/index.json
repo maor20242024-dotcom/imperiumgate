@@ -1,36 +1,130 @@
 {
-  "provider": "damac",
+  "developer": "DAMAC",
+  "total_communities": 6,
+  "total_projects": 15,
   "communities": [
-    "akoya-oxygen",
-    "aykon-city",
-    "bay-by-cavalli",
-    "damac-bay",
-    "damac-hills",
-    "damac-hills-2",
-    "damac-islands",
-    "damac-lagoons",
-    "damac-riverside",
-    "dubai-maritime-city",
-    "heights",
-    "islands",
-    "sun-city"
+    {
+      "slug": "akoya-oxygen",
+      "name_en": "Akoya Oxygen",
+      "name_ar": "أكويا أوكسجين"
+    },
+    {
+      "slug": "damac-hills",
+      "name_en": "DAMAC Hills",
+      "name_ar": "داماك هيلز"
+    },
+    {
+      "slug": "damac-hills-2",
+      "name_en": "DAMAC Hills 2",
+      "name_ar": "داماك هيلز 2"
+    },
+    {
+      "slug": "damac-islands",
+      "name_en": "DAMAC Islands",
+      "name_ar": "داماك آيلاندز"
+    },
+    {
+      "slug": "damac-lagoons",
+      "name_en": "DAMAC Lagoons",
+      "name_ar": "داماك لاجونز"
+    },
+    {
+      "slug": "damac-riverside",
+      "name_en": "DAMAC Riverside",
+      "name_ar": "داماك ريفرسايد"
+    }
   ],
   "projects": [
-    "casa",
-    "district",
-    "majestine",
-    "residenze",
-    "riverside",
-    "riverside-views-marine-3",
-    "safa-two",
-    "seacrest",
-    "volta"
-  ],
-  "meta": {
-    "generatedAt": "2025-11-28T16:04:23Z",
-    "counts": {
-      "communities": 13,
-      "projects": 9
+    {
+      "slug": "aykon-city",
+      "name_en": "DAMAC Aykon City",
+      "name_ar": "أيكون سيتي البرج B",
+      "community_slug": ""
+    },
+    {
+      "slug": "bay-by-cavalli",
+      "name_en": "DAMAC Bay by Cavalli",
+      "name_ar": "داماك باي بتوقيع كافالي",
+      "community_slug": ""
+    },
+    {
+      "slug": "casa",
+      "name_en": "DAMAC Casa",
+      "name_ar": "",
+      "community_slug": ""
+    },
+    {
+      "slug": "damac-bay",
+      "name_en": "DAMAC Bay",
+      "name_ar": "داماك باي",
+      "community_slug": ""
+    },
+    {
+      "slug": "district",
+      "name_en": "DAMAC District",
+      "name_ar": "داماك ديستريكت",
+      "community_slug": ""
+    },
+    {
+      "slug": "heights",
+      "name_en": "DAMAC Heights",
+      "name_ar": "",
+      "community_slug": ""
+    },
+    {
+      "slug": "islands",
+      "name_en": "",
+      "name_ar": "باي فيو من أدريس ريزورتس في إعمار بيتشفرونت",
+      "community_slug": ""
+    },
+    {
+      "slug": "majestine",
+      "name_en": "DAMAC Majestine",
+      "name_ar": "داماك ماجستين",
+      "community_slug": ""
+    },
+    {
+      "slug": "residenze",
+      "name_en": "DAMAC Residenze",
+      "name_ar": "داماك ريزيدنزيه",
+      "community_slug": ""
+    },
+    {
+      "slug": "riverside",
+      "name_en": "DAMAC Riverside",
+      "name_ar": "داماك ريفرسايد",
+      "community_slug": ""
+    },
+    {
+      "slug": "riverside-views-marine-3",
+      "name_en": "",
+      "name_ar": "",
+      "community_slug": ""
+    },
+    {
+      "slug": "safa-two",
+      "name_en": "Safa Two de GRISOGONO",
+      "name_ar": "صفا تو دي جريسوغونو",
+      "community_slug": ""
+    },
+    {
+      "slug": "seacrest",
+      "name_en": "",
+      "name_ar": "",
+      "community_slug": ""
+    },
+    {
+      "slug": "sun-city",
+      "name_en": "DAMAC Sun City",
+      "name_ar": "",
+      "community_slug": ""
+    },
+    {
+      "slug": "volta",
+      "name_en": "DAMAC Volta Tower",
+      "name_ar": "داماك فولتا تاور",
+      "community_slug": ""
     }
-  }
+  ],
+  "updated_at": "2025-11-30T19:55:10.051295Z"
 }

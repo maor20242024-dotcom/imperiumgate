@@ -1,72 +1,39 @@
 {
-  "page_type": "project_details",
   "slug": "binghatti-dawn",
-  "id": null,
   "developer": "Binghatti",
-  "brand": null,
-  "country": {
-    "ar": "الإمارات العربية المتحدة",
-    "en": "United Arab Emirates"
+  "community_slug": "",
+  "name_en": "Binghatti Dawn",
+  "name_ar": "Binghatti Dawn",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://binghattiweb.imgix.net/dawn_swimming-pool.jpg",
+  "images_gallery": [
+    "https://binghattiweb.imgix.net/dawn_swimming-pool.jpg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.082397814561432,
+    "lng": 55.154505408748804
   },
-  "city": {
-    "ar": null,
-    "en": "Dubai"
-  },
-  "area": {
-    "ar": null,
-    "en": "Jumeirah Village Circle"
-  },
-  "location": {
-    "ar": null,
-    "en": "JVC",
-    "country": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة"
-    },
-    "city": {
-      "en": "Dubai",
-      "ar": "دبي"
-    },
-    "area": {
-      "ar": null,
-      "en": "Jumeirah Village Circle"
-    }
-  },
-  "latitude": 25.082397814561432,
-  "longitude": 55.154505408748804,
-  "mapDescription": {
-    "ar": null,
-    "en": null
-  },
-  "mapPointsOfInterest": [],
-  "projectCategory": null,
-  "projectName": {
-    "ar": "Binghatti Dawn",
-    "en": "Binghatti Dawn",
-    "auto_translated": true
-  },
-  "summary": {
-    "ar": null,
-    "en": null
-  },
-  "heroCopy": {
-    "ar": {
-      "title": null,
-      "subtitle": null
-    },
-    "en": {
-      "title": null,
-      "subtitle": null
-    }
-  },
-  "description": {
-    "ar": null,
-    "en": "Dawn by Binghatti is one of those projects that capture the essence of a new day with its sophisticated collection of luxury residences and unique architectural design. The concept behind Dawn by Binghatti is to create a serene residential environment where residents can escape the hustle and bustle of the city while still being connected to Dubai's dynamic lifestyle."
-  },
-  "propertyTypes": [
+  "address_en": "",
+  "address_ar": "",
+  "location_en": "JVC",
+  "location_ar": "",
+  "district_en": "JVC",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "Ready to move",
+  "property_types": [
     {
-      "ar": null,
-      "en": "Apartment"
+      "en": "Apartment",
+      "ar": "شقة"
     }
   ],
   "bedrooms": [
@@ -74,163 +41,58 @@
     1,
     2
   ],
-  "propertyTypeLinks": [],
-  "paymentPlan": {
-    "ar": null,
-    "en": "20% down payment, 50% during construction, 30% on completion"
-  },
-  "minAreaSqft": null,
-  "maxAreaSqft": null,
-  "minAreaSqmt": null,
-  "maxAreaSqmt": null,
-  "minPriceAED": 749000,
-  "maxPriceAED": null,
-  "deliveryDate": "Ready to move",
-  "launchDate": null,
-  "projectStatus": {
-    "ar": "جاهز للسكن",
-    "en": "Ready"
-  },
-  "views": [],
-  "goldenVisaEligible": null,
-  "3D_TourLink": null,
-  "brochurePdfLink": {
-    "ar": null,
-    "en": "../assets/upload/Dawn-by-Binghatti-Digital-Brochure.pdf"
-  },
-  "videoLink": "https://www.youtube.com/watch?v=sUifOqGrnD4",
-  "heroImage": "https://binghattiweb.imgix.net/dawn_swimming-pool.jpg",
-  "galleryImages": [
-    "https://binghattiweb.imgix.net/dawn_swimming-pool.jpg",
-    "https://binghattiweb.imgix.net/dawn-swimming-pool-deck.jpg",
-    "https://binghattiweb.imgix.net/grove_private-pool.jpg",
-    "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
-    "https://binghattiweb.imgix.net/dawn_2D-layout-studio.jpg",
-    "https://binghattiweb.imgix.net/dawn_layout-1-bedroom.jpg",
-    "https://binghattiweb.imgix.net/dawn_layout-2-bedroom.jpg",
-    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
-    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-    "https://binghattiweb.imgix.net/dawn_footer-horizontal.jpg"
-  ],
+  "units_count": null,
+  "area_sqm_min": null,
+  "area_sqm_max": null,
+  "area_sqft_min": null,
+  "area_sqft_max": null,
+  "price_aed_min": 749000,
+  "price_aed_max": null,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": "20% down payment, 50% during construction, 30% on completion",
+  "service_charge_aed_sqft": null,
   "amenities": [
     {
-      "name": {
-        "ar": null,
-        "en": "Spa"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Spa",
+      "ar": "سبا"
     },
     {
-      "name": {
-        "ar": null,
-        "en": "Infinity Pool"
-      },
-      "description": {
-        "ar": null,
-        "en": null
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح لا متناهي"
     }
   ],
-  "highlights": [
-    {
-      "ar": null,
-      "en": "95 residences with various layouts"
-    },
-    {
-      "ar": null,
-      "en": "2 basement floors, 4 residential floors, and a roof"
-    },
-    {
-      "ar": null,
-      "en": "Prime location in JVC"
-    },
-    {
-      "ar": null,
-      "en": "Close to nature concept"
-    },
-    {
-      "ar": null,
-      "en": "World class amenities"
-    },
-    {
-      "ar": null,
-      "en": "Both furnished and unfurnished apartments available"
-    }
-  ],
-  "insights": {
-    "ar": null,
-    "en": null
-  },
-  "projectPageLink": "https://www.binghatti.com/en/projects/binghatti-dawn",
+  "features": [],
+  "description_en": "Dawn by Binghatti is one of those projects that capture the essence of a new day with its sophisticated collection of luxury residences and unique architectural design. The concept behind Dawn by Binghatti is to create a serene residential environment where residents can escape the hustle and bustle of the city while still being connected to Dubai's dynamic lifestyle.",
+  "description_ar": "",
+  "brochure_url": "../assets/upload/Dawn-by-Binghatti-Digital-Brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "nearby_landmarks": [],
+  "transport": [],
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "golden_visa_eligible": false,
+  "developer_rating": null,
+  "tags": [],
   "contact": {
-    "phone": "+97180015",
-    "whatsapp": "+97180015",
-    "email": "SALES@BINGHATTI.COM"
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
   },
-  "meta": {
-    "sourceAnalyzed": "RAW_HTML_PROVIDED",
-    "fetchedAt": "2025-11-09T18:03:26.126Z",
-    "title": "Binghatti Dawn JVC – Studio, 1 & 2 Bedroom Apartments for Sale",
-    "description": "Dawn by Binghatti offers studio apartments and 1-bedroom suites starting from AED 749K. Experience a symphony of design that mirrors the beauty of dawn in Dubai.",
-    "canonical": "https://www.binghatti.com/en/projects/binghatti-dawn",
-    "updatedAt": "2025-11-28T16:04:24Z"
+  "source_urls": [
+    "https://www.binghatti.com/en/projects/binghatti-dawn"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "assets": {
-    "images": [
-      "https://binghattiweb.imgix.net/dawn_swimming-pool.jpg",
-      "https://binghattiweb.imgix.net/dawn-swimming-pool-deck.jpg",
-      "https://binghattiweb.imgix.net/grove_private-pool.jpg",
-      "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
-      "https://binghattiweb.imgix.net/dawn_2D-layout-studio.jpg",
-      "https://binghattiweb.imgix.net/dawn_layout-1-bedroom.jpg",
-      "https://binghattiweb.imgix.net/dawn_layout-2-bedroom.jpg",
-      "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
-      "https://binghattiweb.imgix.net/dawn_footer-horizontal.jpg"
-    ],
-    "videos": [],
-    "pdfs": [
-      "https://www.binghatti.com/en/assets/upload/Dawn-by-Binghatti-Digital-Brochure.pdf"
-    ],
-    "iframes": [
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57817.19633253582!2d55.154505408748804!3d25.082397814561432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6d000ed0b4ef%3A0x973f5a77afd242db!2sDawn%20by%20Binghatti!5e0!3m2!1sen!2sae!4v1745590875253!5m2!1sen!2sae",
-      "https://www.youtube.com/embed/sUifOqGrnD4?controls=0&rel=0&autoplay=0&enablejsapi=1"
-    ]
-  },
-  "contact_points": {
-    "phone": null,
-    "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
-  },
-  "fromCommunity": "jumeirah-village-circle",
-  "name": {
-    "en": "",
-    "ar": ""
-  },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "media": {
-    "images": [],
-    "videos": [],
-    "tours": []
-  },
-  "community": "",
-  "status": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T18:54:15.741Z"
 }

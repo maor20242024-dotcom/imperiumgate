@@ -1,356 +1,155 @@
 {
-  "projectID": "waves-grande",
-  "developerID": "sobha",
   "slug": "waves-grande",
-  "projectName": {
-    "en": "Waves Grande",
-    "ar": "موجات جراند"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Waves Grande",
+  "name_ar": "موجات جراند",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "https://sobharealty.com/sites/default/files/2024-11/Waves%20grande.jpg",
+  "images_gallery": [
+    "https://sobharealty.com/sites/default/files/2024-11/Waves%20grande.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-ROUNDABOUT-DAY-02-02%20_ENTRANCE.jpg.webp?itok=fdFoITdX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-03-04_3D%20RENDER%20copy.jpg.webp?itok=Xn-4TJR3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Render_1_Tower_Option_2B.jpg.webp?itok=AigGgCqe",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-ROUNDABOUT-DAY-02-03.jpg.webp?itok=rgKIYfVg"
+  ],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.1788,
+    "lng": 55.2818
   },
-  "description": {
-    "ar": "انغمس في أسلوب حياة جميل سماوي في \"شوبا ويفز جراند\". بُني هذا الملاذ السكني على حافة واحدة من أكثر العقارات المرغوبة في دبي، وهو يتمتع بخصوصية فريدة مع بقائه قريبًا من منطقة وسط المدينة. بأناقة حافية القدمين في أبهى صورها، توفر هذه الشقق المطلة على الواجهة البحرية إطلالات تخطف الأنفاس في كل مرة.",
-    "en": "Step into an ethereally beautiful way of life at Sobha Waves Grande. Built along the edge of one of the most coveted pieces of real estate in Dubai, this residential retreat is uniquely private while remaining close to the Downtown area. Barefoot elegance at its best, these waterfront apartments offer views that leave you speechless every time."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "710.96 - 1957.96 قدم مربع",
-      "en": "710.96 - 1957.96 sqft"
-    },
-    "en": "Mohammed Bin Rashid City",
-    "ar": "Mohammed Bin Rashid City",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "currency": "AED",
-    "maxPriceAED": 5000000
-  },
-  "media": {
-    "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Waves%20grande.jpg",
-    "galleryImages": [
-      {
-        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015404.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015382_3.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015380_3.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015381_3.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015405.jpg"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-ROUNDABOUT-DAY-02-02%20_ENTRANCE.jpg.webp?itok=fdFoITdX"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-03-04_3D%20RENDER%20copy.jpg.webp?itok=Xn-4TJR3"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Render_1_Tower_Option_2B.jpg.webp?itok=AigGgCqe"
-      },
-      {
-        "src": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-ROUNDABOUT-DAY-02-03.jpg.webp?itok=rgKIYfVg"
-      }
-    ],
-    "videoLink": "https://sobharealty.com/null",
-    "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/sobha-waves-grande-brochure.pdf",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
-    }
-  },
-  "amenities": [
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [
     {
-      "name": {
-        "en": "POOL & CABANAS",
-        "ar": ""
-      },
-      "description": {
-        "en": "POOL & CABANAS",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "BARBECUE AREA",
-        "ar": ""
-      },
-      "description": {
-        "en": "BARBECUE AREA",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "OUTDOOR CINEMA",
-        "ar": ""
-      },
-      "description": {
-        "en": "OUTDOOR CINEMA",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "ZEN GARDEN",
-        "ar": ""
-      },
-      "description": {
-        "en": "ZEN GARDEN",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Cycling Track",
-        "ar": ""
-      },
-      "description": {
-        "en": "Cycling Track",
-        "ar": ""
-      }
-    },
-    {
-      "name": {
-        "en": "Sports Arena",
-        "ar": ""
-      },
-      "description": {
-        "en": "Sports Arena",
-        "ar": ""
-      }
+      "en": "Apartments",
+      "ar": ""
     }
   ],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "فارغ",
-    "en": "Empty"
-  },
-  "completionDate": "",
-  "sourceUrl": "https://sobharealty.com/apartments-for-sale-in-dubai/waves-grande/",
-  "lastUpdated": "2025-11-02T06:07:05.765690",
-  "deliveryDate": "null",
-  "contact": {
-    "phone": "+971 800 999 999",
-    "whatsapp": "+97180076242"
-  },
-  "area": {
-    "ar": "710.96 - 1957.96 قدم مربع",
-    "en": "710.96 - 1957.96 sqft"
-  },
   "bedrooms": [
     1,
     2,
     3
   ],
-  "brand": "Sobha Realty",
-  "developer": "Sobha Realty",
-  "id": "sobha-waves-grande",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "goldenVisaEligible": false,
-  "launchDate": "null",
-  "longitude": 55.2818,
-  "latitude": 25.1788,
-  "mapDescription": {
-    "ar": "فارغ",
-    "en": "Empty"
+  "units_count": null,
+  "area_sqm_min": 66,
+  "area_sqm_max": 181,
+  "area_sqft_min": 710,
+  "area_sqft_max": 1957,
+  "price_aed_min": 1950000,
+  "price_aed_max": 6500000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "mapPointsOfInterest": [
+  "service_charge_aed_sqft": null,
+  "amenities": [
     {
-      "name": {
-        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
-        "ar": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
-      },
-      "distance": {
-        "en": "4 km",
-        "ar": "4 km"
-      },
-      "category": {
-        "en": "Education",
-        "ar": ""
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
     {
-      "name": {
-        "en": "DUBAI INTERNATIONAL AIRPORT",
-        "ar": "DUBAI INTERNATIONAL AIRPORT"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Airport",
-        "ar": "مطار"
-      }
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
     {
-      "name": {
-        "en": "THE DUBAI MALL",
-        "ar": "THE DUBAI MALL"
-      },
-      "distance": {
-        "en": "15 km",
-        "ar": "15 km"
-      },
-      "category": {
-        "en": "Shopping",
-        "ar": ""
-      }
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
     {
-      "name": {
-        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
-        "ar": "BURJ KHALIFA & DOWNTOWN DUBAI"
-      },
-      "distance": {
-        "en": "16 km",
-        "ar": "16 km"
-      },
-      "category": {
-        "en": "Attraction",
-        "ar": ""
-      }
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
     },
     {
-      "name": {
-        "en": "PALM JUMEIRAH",
-        "ar": "PALM JUMEIRAH"
-      },
-      "distance": {
-        "en": "28 km",
-        "ar": "28 km"
-      },
-      "category": {
-        "en": "Attraction",
-        "ar": ""
-      }
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "POOL & CABANAS",
+      "ar": ""
+    },
+    {
+      "en": "BARBECUE AREA",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR CINEMA",
+      "ar": ""
+    },
+    {
+      "en": "ZEN GARDEN",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
     }
   ],
-  "maxAreaSqft": 1957,
-  "maxAreaSqmt": 181,
-  "maxPriceAED": 5000000,
-  "minAreaSqft": 710,
-  "minAreaSqmt": 66,
-  "minPriceAED": 0,
-  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/waves-grande/",
-  "projectStatus": {
-    "ar": "فارغ",
-    "en": "Empty"
-  },
-  "propertyTypes": [
-    {
-      "en": "Apartments",
-      "ar": "Apartments"
-    }
-  ],
-  "sellable": true,
-  "views": [
-    "Waterfront Views"
-  ],
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "highlights": [],
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "projectCategory": "Project",
-  "status": "active",
-  "documents": {
-    "brochure": {
-      "en": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-03/sobha-waves-grande-brochure.pdf",
-          "title": "Project Brochure"
-        }
-      ],
-      "ar": [
-        {
-          "url": "https://sobharealty.com/sites/default/files/2024-03/sobha-waves-grande-brochure.pdf",
-          "title": "كتيب المشروع"
-        }
-      ]
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Waves Grande",
-    "ar": "موجات جراند"
-  },
-  "auto_translated": true,
-  "contact_points": {
+  "features": [],
+  "description_en": "Step into an ethereally beautiful way of life at Sobha Waves Grande. Built along the edge of one of the most coveted pieces of real estate in Dubai, this residential retreat is uniquely private while remaining close to the Downtown area. Barefoot elegance at its best, these waterfront apartments offer views that leave you speechless every time.",
+  "description_ar": "انغمس في أسلوب حياة جميل سماوي في \"شوبا ويفز جراند\". بُني هذا الملاذ السكني على حافة واحدة من أكثر العقارات المرغوبة في دبي، وهو يتمتع بخصوصية فريدة مع بقائه قريبًا من منطقة وسط المدينة. بأناقة حافية القدمين في أبهى صورها، توفر هذه الشقق المطلة على الواجهة البحرية إطلالات تخطف الأنفاس في كل مرة.",
+  "brochure_url": "https://sobharealty.com/sites/default/files/2024-03/sobha-waves-grande-brochure.pdf",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "fromCommunity": "mohammed-bin-rashid-city",
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [
+    "https://sobharealty.com/apartments-for-sale-in-dubai/waves-grande/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "community": "",
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.015357Z"
 }

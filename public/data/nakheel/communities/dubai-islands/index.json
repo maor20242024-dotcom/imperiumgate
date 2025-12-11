@@ -1,88 +1,162 @@
 {
-  "communityID": "dubai-islands",
-  "developerID": "nakheel",
-  "name": {
-    "ar": "جزر دبي",
-    "en": "Dubai Islands"
+  "slug": "dubai-islands",
+  "developer": "Nakheel",
+  "name_en": "Dubai Islands",
+  "name_ar": "جزر دبي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.297636331164,
+    "lng": 55.309845368058
   },
-  "description": {
-    "ar": "جزر صناعية سابقاً ديرة آيلاندز مع فلل شاطئية.",
-    "en": "Man-made islands formerly Deira Islands with beachfront villas."
-  },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
-    },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
-    },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
-    },
-    "poiDistances": {}
-  },
-  "projects": [
+  "master_location_en": "Coastal Haven",
+  "master_location_ar": "كوستال هافين",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Bay Villas is the first step in sophisticated, connected living on Island B, combining natural beauty and prestigious amenities to create exceptional luxury in the heart of Dubai Islands. Select your contemporary design from five villa typologies in different locations. Bay Villas integrates these majestic properties with private gardens and well-designed parks and community spaces to complete an enriched lifestyle.",
+  "description_ar": "جزر صناعية سابقاً ديرة آيلاندز مع فلل شاطئية.",
+  "amenities": [
     {
-      "projectID": "bay-villas",
-      "name": {
-        "ar": "باي فلل",
-        "en": "Bay Villas"
-      }
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
     },
     {
-      "projectID": "bay-grove-residences",
-      "name": {
-        "ar": "باي غروف ريزيدنسز",
-        "en": "Bay Grove Residences"
-      }
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
     },
     {
-      "projectID": "bay-grove-residences-phase-4",
-      "name": {
-        "ar": "باي غروف ريزيدنسز المرحلة 4",
-        "en": "Bay Grove Residences Phase 4"
-      }
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
     },
     {
-      "projectID": "rixos-beach-residences-phase-2",
-      "name": {
-        "ar": "ريكسوس بيتش ريزيدنسز المرحلة 2",
-        "en": "Rixos Beach Residences Phase 2"
-      }
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Beaches",
+      "ar": ""
+    },
+    {
+      "en": "Entertainment Hubs",
+      "ar": ""
+    },
+    {
+      "en": "Golf Courses",
+      "ar": ""
+    },
+    {
+      "en": "Hotels & Resorts",
+      "ar": ""
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Restaurants & Cafés",
+      "ar": ""
+    },
+    {
+      "en": "Shopping Centres",
+      "ar": ""
+    },
+    {
+      "en": "Souk Al Marfa",
+      "ar": ""
+    },
+    {
+      "en": "Wellness Facilities",
+      "ar": ""
     }
   ],
-  "developer": "nakheel",
-  "lastUpdated": "2025-11-01T18:44:09.998940",
-  "media": {
-    "heroImage": "",
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+  "nearby_landmarks": [
+    {
+      "name_en": "Gold Souq Metro Station",
+      "name_ar": "",
+      "distance": "10 minutes from Gold Souq Metro Station",
+      "category": "Metro Station"
+    },
+    {
+      "name_en": "Dubai International Airport",
+      "name_ar": "",
+      "distance": "20 minutes from Dubai International Airport",
+      "category": "Airport"
+    },
+    {
+      "name_en": "The Dubai Frame",
+      "name_ar": "",
+      "distance": "22 minutes from The Dubai Frame",
+      "category": "Dubai Frame"
+    },
+    {
+      "name_en": "Dubai World Trade Centre",
+      "name_ar": "",
+      "distance": "24 minutes from Dubai World Trade Centre",
+      "category": "World Trade Centre"
+    },
+    {
+      "name_en": "Downtown Dubai",
+      "name_ar": "",
+      "distance": "24 minutes from Downtown Dubai",
+      "category": "Downtown"
+    },
+    {
+      "name_en": "Business Bay",
+      "name_ar": "",
+      "distance": "33 minutes from Business Bay",
+      "category": "Business Bay"
     }
-  },
-  "auto_translated": false,
-  "slug": "dubai-islands",
-  "contact_points": {
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "summary": {
-    "en": "",
-    "ar": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
-  },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:23Z"
-  },
-  "masterplan": {}
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.952931Z"
 }

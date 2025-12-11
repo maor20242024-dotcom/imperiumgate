@@ -10,8 +10,8 @@ export async function POST(request: NextRequest) {
   try {
     // Verify the secret token
     const authHeader = request.headers.get('authorization');
-    const providedSecret = authHeader?.replace('Bearer ', '') || 
-                          request.nextUrl.searchParams.get('secret');
+    const providedSecret = authHeader?.replace('Bearer ', '') ||
+      request.nextUrl.searchParams.get('secret');
 
     if (providedSecret !== REVALIDATE_SECRET) {
       return NextResponse.json(
@@ -30,10 +30,10 @@ export async function POST(request: NextRequest) {
         // Revalidate all project-related caches
         try {
           await Promise.all([
-            revalidateTag(PROJECT_CACHE_TAGS.ALL_PROJECTS, 'max'),
-            revalidateTag(PROJECT_CACHE_TAGS.DEVELOPERS, 'max'),
-            revalidateTag(PROJECT_CACHE_TAGS.PROJECT_BY_SLUG, 'max'),
-            revalidateTag(PROJECT_CACHE_TAGS.PROJECTS_BY_DEVELOPER, 'max')
+            revalidateTag(PROJECT_CACHE_TAGS.ALL_PROJECTS),
+            revalidateTag(PROJECT_CACHE_TAGS.DEVELOPERS),
+            revalidateTag(PROJECT_CACHE_TAGS.PROJECT_BY_SLUG),
+            revalidateTag(PROJECT_CACHE_TAGS.PROJECTS_BY_DEVELOPER)
           ]);
           revalidated = ['all-projects', 'developers', 'project-by-slug', 'projects-by-developer'];
         } catch (error) {
@@ -45,7 +45,7 @@ export async function POST(request: NextRequest) {
       case 'projects':
         // Revalidate all projects cache
         try {
-          await revalidateTag(PROJECT_CACHE_TAGS.ALL_PROJECTS, 'max');
+          await revalidateTag(PROJECT_CACHE_TAGS.ALL_PROJECTS);
           revalidated = ['all-projects'];
         } catch (error) {
           console.error('Error revalidating projects:', error);
@@ -56,7 +56,7 @@ export async function POST(request: NextRequest) {
       case 'developers':
         // Revalidate developers cache
         try {
-          await revalidateTag(PROJECT_CACHE_TAGS.DEVELOPERS, 'max');
+          await revalidateTag(PROJECT_CACHE_TAGS.DEVELOPERS);
           revalidated = ['developers'];
         } catch (error) {
           console.error('Error revalidating developers:', error);
@@ -69,8 +69,8 @@ export async function POST(request: NextRequest) {
         if (developer && slug) {
           try {
             await Promise.all([
-              revalidateTag(PROJECT_CACHE_TAGS.PROJECT_BY_SLUG, 'max'),
-              revalidateTag(PROJECT_CACHE_TAGS.PROJECTS_BY_DEVELOPER, 'max')
+              revalidateTag(PROJECT_CACHE_TAGS.PROJECT_BY_SLUG),
+              revalidateTag(PROJECT_CACHE_TAGS.PROJECTS_BY_DEVELOPER)
             ]);
             revalidatePath(`/ar/projects/${developer}/${slug}`);
             revalidatePath(`/en/projects/${developer}/${slug}`);
@@ -91,7 +91,7 @@ export async function POST(request: NextRequest) {
         // Revalidate specific developer's projects
         if (developer) {
           try {
-            await revalidateTag(PROJECT_CACHE_TAGS.PROJECTS_BY_DEVELOPER, 'max');
+            await revalidateTag(PROJECT_CACHE_TAGS.PROJECTS_BY_DEVELOPER);
             revalidatePath(`/ar/projects`);
             revalidatePath(`/en/projects`);
             revalidated = [`developer-${developer}`];
@@ -124,12 +124,12 @@ export async function POST(request: NextRequest) {
         // Revalidate specific tag
         if (tag) {
           try {
-          await revalidateTag(tag, 'max');
-          revalidated = [tag];
-        } catch (error) {
-          console.error('Error revalidating tag:', error);
-          revalidated = ['error-revalidating-tag'];
-        }
+            await revalidateTag(tag);
+            revalidated = [tag];
+          } catch (error) {
+            console.error('Error revalidating tag:', error);
+            revalidated = ['error-revalidating-tag'];
+          }
         } else {
           return NextResponse.json(
             { error: 'Tag required for tag revalidation' },

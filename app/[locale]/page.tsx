@@ -62,6 +62,34 @@ export default async function HomePage({ params }: { params: Promise<{ locale?: 
     developer: (p as any).developer,
   }));
 
+
+  // 3) Diversify featured projects (Round Robin)
+  const developers = Array.from(new Set(all.map((p) => (p as any).developer)));
+  const projectsByDev: Record<string, any[]> = {};
+
+  developers.forEach(dev => {
+    projectsByDev[dev] = all.filter(p => (p as any).developer === dev);
+  });
+
+  const featured: any[] = [];
+  const limit = 12;
+  let index = 0;
+
+  while (featured.length < limit) {
+    let addedInThisRound = false;
+    for (const dev of developers) {
+      if (featured.length >= limit) break;
+      const proj = projectsByDev[dev][index];
+      if (proj) {
+        featured.push(proj);
+        addedInThisRound = true;
+      }
+    }
+    if (!addedInThisRound) break; // No more projects left
+    index++;
+  }
+
+  // 4) Render
   return (
     <div className="w-full flex flex-col">
       {/* 1) HERO must be first and full viewport height */}
@@ -88,16 +116,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale?: 
       <section className="mx-auto w-full max-w-7xl px-6 py-16 mt-12 md:mt-16">
         <div className="text-center mb-12">
           <h2
-            className={`luxury-title text-3xl md:text-4xl lg:text-5xl font-bold gold-gradient-static luxury-text-shadow ${
-              locale === 'ar' ? 'font-display' : 'font-display'
-            }`}
+            className={`luxury-title text-3xl md:text-4xl lg:text-5xl font-bold gold-gradient-static luxury-text-shadow ${locale === 'ar' ? 'font-display' : 'font-display'
+              }`}
           >
             {locale === 'ar' ? 'مشاريع مختارة' : 'Featured Projects'}
           </h2>
           <p
-            className={`luxury-subtitle mt-4 text-white/80 text-lg md:text-xl max-w-2xl mx-auto ${
-              locale === 'ar' ? 'font-arabic' : 'font-sans'
-            }`}
+            className={`luxury-subtitle mt-4 text-white/80 text-lg md:text-xl max-w-2xl mx-auto ${locale === 'ar' ? 'font-arabic' : 'font-sans'
+              }`}
           >
             {locale === 'ar'
               ? 'اكتشف مجموعة منتقاة من أفخم العقارات في دبي'
@@ -106,11 +132,12 @@ export default async function HomePage({ params }: { params: Promise<{ locale?: 
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 mt-12">
-          {all.slice(0, 12).map((p: any) => (
+          {featured.map((p: any) => (
             <ProjectCard key={p?.slug ?? p?.id} project={p} />
           ))}
         </div>
       </section>
     </div>
   );
+
 }

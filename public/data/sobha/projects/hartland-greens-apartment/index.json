@@ -1,166 +1,158 @@
 {
-  "projectID": "hartland-greens-apartment",
-  "developerID": "sobha",
   "slug": "hartland-greens-apartment",
-  "projectName": {
-    "en": "Hartland-Greens-Apartment",
-    "ar": "Hartland-Greens-Apartment"
+  "developer": "Sobha",
+  "community_slug": "",
+  "name_en": "Hartland-Greens-Apartment",
+  "name_ar": "Hartland-Greens-Apartment",
+  "website": "",
+  "canonical_url": "",
+  "logo": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "tour_3d_url": "",
+  "coordinates": {
+    "lat": 25.024769324449,
+    "lng": 55.359007938377
   },
-  "description": {
-    "ar": "وصف غير متوفر",
-    "en": "Description not available"
+  "address_en": "",
+  "address_ar": "",
+  "status": "unknown",
+  "status_label_en": "",
+  "status_label_ar": "",
+  "handover_date": "",
+  "launch_date": "",
+  "property_types": [],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "units_count": null,
+  "area_sqm_min": 6,
+  "area_sqm_max": null,
+  "area_sqft_min": 63,
+  "area_sqft_max": null,
+  "price_aed_min": 890000,
+  "price_aed_max": 3500000,
+  "price_note_en": "",
+  "price_note_ar": "",
+  "payment_plan": {
+    "on_booking_percent": null,
+    "during_construction_percent": null,
+    "on_handover_percent": null,
+    "post_handover_years": null,
+    "installments": []
   },
-  "location": {
-    "country": {
-      "ar": "الإمارات العربية المتحدة",
-      "en": "United Arab Emirates"
+  "service_charge_aed_sqft": null,
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
     },
-    "city": {
-      "ar": "دبي",
-      "en": "Dubai"
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
     },
-    "area": {
-      "ar": "منطقة غير محددة",
-      "en": "Unspecified Area"
+    {
+      "en": "First Aid Medical Center",
+      "ar": "مركز للإسعافات الأولية"
     },
-    "en": "",
-    "ar": "",
-    "poiDistances": {}
-  },
-  "pricing": {
-    "minPrice": 0,
-    "maxPrice": 0,
-    "minPriceAED": 0,
-    "maxPriceAED": 0,
-    "currency": "AED"
-  },
-  "media": {
-    "heroImage": "",
-    "brochurePdfLink": "",
-    "3D_TourLink": null,
-    "gallery": [],
-    "brochure": {
-      "ar": "",
-      "en": ""
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Prayer Room",
+      "ar": "غرفة صلاة"
+    },
+    {
+      "en": "Laundry Room",
+      "ar": "غرفة غسيل"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "ATM Facility",
+      "ar": "توفر أجهزة السحب الآلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Steam Room",
+      "ar": "غرفة بخار"
+    },
+    {
+      "en": "Laundry Facility",
+      "ar": "خدمة غسيل ملابس"
     }
-  },
-  "amenities": [],
-  "unitTypes": [],
-  "paymentPlan": {
-    "ar": "",
-    "en": ""
-  },
-  "completionDate": "",
-  "developer": "Sobha Realty",
-  "community": "sobha-hartland",
-  "communityName": {
-    "en": "Sobha-Hartland",
-    "ar": "Sobha-Hartland"
-  },
-  "status": "active",
-  "createdAt": "2025-11-01T18:48:01.332766",
-  "lastUpdated": "2025-11-01T18:48:01.332767",
-  "projectCategory": "Project",
-  "country": "United Arab Emirates",
-  "city": "Dubai",
-  "area": {
-    "en": "",
-    "ar": ""
-  },
-  "mapDescription": {
-    "en": "",
-    "ar": ""
-  },
-  "projectStatus": {
-    "en": "",
-    "ar": ""
-  },
-  "summary": {
-    "en": "",
-    "ar": ""
-  },
-  "insights": {
-    "en": "",
-    "ar": ""
-  },
-  "heroCopy": {
-    "en": {
-      "title": "",
-      "subtitle": ""
-    },
-    "ar": {
-      "title": "",
-      "subtitle": ""
-    }
-  },
-  "mapPointsOfInterest": [],
-  "propertyTypes": [],
-  "maxAreaSqft": 0,
-  "maxAreaSqmt": 0,
-  "maxPriceAED": 0,
-  "minAreaSqft": 0,
-  "minAreaSqmt": 0,
-  "minPriceAED": 0,
-  "goldenVisaEligible": false,
-  "sellable": false,
-  "latitude": null,
-  "longitude": null,
-  "documents": {
-    "brochure": {
-      "en": [],
-      "ar": []
-    },
-    "floorPlans": {
-      "en": [],
-      "ar": []
-    },
-    "masterplans": {
-      "en": [],
-      "ar": []
-    }
-  },
-  "videosLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "galleryLocalized": {
-    "en": [],
-    "ar": []
-  },
-  "heroImageLocalized": {
-    "en": "",
-    "ar": ""
-  },
-  "videoLink": "",
-  "name": {
-    "en": "Hartland Greens Apartment",
-    "ar": "هارتلاند غرينز أبارتمنت"
-  },
-  "auto_translated": false,
-  "id": "hartland-greens-apartment",
-  "fromCommunity": null,
-  "contact_points": {
+  ],
+  "features": [],
+  "description_en": "Description not available",
+  "description_ar": "وصف غير متوفر",
+  "brochure_url": "",
+  "floorplans": [],
+  "masterplan_url": "",
+  "price_list_url": "",
+  "spec_sheet_url": "",
+  "rera_permit_no": "",
+  "rera_project_no": "",
+  "construction_updates": [],
+  "mortgage_available": null,
+  "developer_rating": null,
+  "tags": [],
+  "contact": {
     "phone": null,
     "email": null,
-    "whatsapp": null,
-    "register_interest_url": null
+    "whatsapp": null
   },
-  "links": {
-    "official": "",
-    "map": "",
-    "brochure": ""
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
   },
-  "meta": {
-    "updatedAt": "2025-11-28T16:04:24Z"
-  },
-  "handover": "",
-  "units": {
-    "minPriceAED": null,
-    "maxPriceAED": null,
-    "bedrooms": [],
-    "areaSqft": {
-      "min": null,
-      "max": null
-    }
-  }
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.035755Z"
 }
