@@ -94,6 +94,8 @@ function isAllowedUrl(url: any): boolean {
   const lower = url.toLowerCase();
   // User requested to remove any link that resolves to 'bayut-production'
   if (lower.includes('bayut-production')) return false;
+  // Strictly remove ANY link containing "bayut"
+  if (lower.includes('bayut')) return false;
   // Block invalid placeholder images (e.g. Binghatti currency symbol)
   if (lower.includes('uae_dirham_symbol')) return false;
   return true;
@@ -239,6 +241,15 @@ function validateAndNormalizeProject(rawProject: any, filename: string, develope
       mapPointsOfInterest: [],
       news: Array.isArray(rawProject.news) ? rawProject.news : [],
       contact: typeof rawProject.contact === 'object' ? rawProject.contact : undefined,
+
+      // Standardized Arrays - Ensure they exist even if empty
+      paymentPlan: Array.isArray(rawProject.paymentPlan) ? rawProject.paymentPlan :
+                  (Array.isArray(rawProject.payment_plan?.installments) ? rawProject.payment_plan.installments :
+                   (typeof rawProject.payment_plan === 'string' ? [{ title: { en: rawProject.payment_plan, ar: rawProject.payment_plan } }] : [])),
+
+      nearbyLandmarks: Array.isArray(rawProject.nearbyLandmarks) ? rawProject.nearbyLandmarks : [],
+      transport: Array.isArray(rawProject.transport) ? rawProject.transport : [],
+      features: Array.isArray(rawProject.features) ? rawProject.features : [],
 
       // Additional fields
       projectPageLink: typeof rawProject.projectPageLink === 'string' ? rawProject.projectPageLink.trim() || undefined : undefined,
