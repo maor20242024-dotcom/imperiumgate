@@ -36,10 +36,6 @@ const SKIP_DOMAINS = [
   'youtu.be',
   'player.vimeo.com',
 
-  // Google Maps Embed
-  'www.google.com',
-  'maps.google.com',
-
   // Document Hosts
   'dubaiholding.box.com',
   'www.scribd.com',
