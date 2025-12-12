@@ -9,6 +9,9 @@ report/
 archive/
 public/developers/
 
+# Vercel
+.vercel
+
 # Security
 .env
 .env.local

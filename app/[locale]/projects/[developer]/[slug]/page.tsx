@@ -64,13 +64,15 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
   }
 
   // Map Unified Data to Legacy Project Interface for backward compatibility with components
-  // unifiedProject.extra contains the fields from the original JSON (amenities, etc)
+  // Spread order: extra first (for legacy fields), then unified (for common fields), then explicit values (for guaranteed correctness)
   const legacyProject: Project = {
-    ...unifiedProject.extra, // Spread extra first - this is vital for legacy fields!
+    ...unifiedProject.extra, // Legacy fields from original JSON (amenities, etc)
+    ...unifiedProject, // Common fields from unified data
+    // Explicit values below take final precedence
     slug: unifiedProject.slug,
     developer: unifiedProject.developer,
     developerKey: developer, // important for links
-    projectName: unifiedProject.name,
+    projectName: unifiedProject.name || '',
     // Map media to legacy fields
     heroImage: (unifiedProject.media && unifiedProject.media.length > 0) ? unifiedProject.media[0] : unifiedProject.extra?.heroImage,
     galleryImages: unifiedProject.media || unifiedProject.extra?.galleryImages || [],
@@ -78,8 +80,6 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
     description: unifiedProject.description || unifiedProject.extra?.description,
     // Location
     location: unifiedProject.location || unifiedProject.extra?.location,
-    // Pass other fields
-    ...unifiedProject // spread unified properties to ensure they are available
   };
 
   // Derive helpers

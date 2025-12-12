@@ -153,10 +153,6 @@ const SKIP_DIRECT_HOSTS = [
   'youtu.be',
   'player.vimeo.com',
 
-  // خرائط
-  'www.google.com',
-  'maps.google.com',
-
   // مستضيفات وثائق
   'dubaiholding.box.com',
   'www.scribd.com',

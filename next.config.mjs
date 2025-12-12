@@ -32,7 +32,6 @@ const nextConfig = {
       { protocol: 'https', hostname: 'videos.ctfassets.net' },
       { protocol: 'https', hostname: 'assets.ctfassets.net' },
       { protocol: 'https', hostname: 'zoq5l15g49wj.cdn.contentful.com' },
-      { protocol: 'https', hostname: 'maps.googleapis.com' },
       // Developer and CDN domains for new data files
       { protocol: 'https', hostname: 'cdn.properties.emaar.com' },
       { protocol: 'https', hostname: 'properties.emaar.com' },
@@ -52,7 +51,6 @@ const nextConfig = {
       { protocol: 'https', hostname: 'cdn.damacproperties.com' },
       // Image CDNs
       { protocol: 'https', hostname: 'res.cloudinary.com', pathname: '/**' },
-      { protocol: 'https', hostname: 'storage.googleapis.com', pathname: '/**' },
       { protocol: 'https', hostname: 'i.ytimg.com', pathname: '/**' },
       { protocol: 'https', hostname: 'img.youtube.com', pathname: '/**' },
       // CloudFront CDNs
@@ -64,20 +62,22 @@ const nextConfig = {
       { protocol: 'https', hostname: 'storagecdn.propvr.tech' },
       { protocol: 'https', hostname: 'cdn.propvr.tech' },
       { protocol: 'https', hostname: 'propvr-in-31420.appspot.com' },
-      { protocol: 'https', hostname: 'firebasestorage.googleapis.com' },
       { protocol: 'https', hostname: 'storagecdn.propvr.ai' },
       { protocol: 'https', hostname: 'my.matterport.com' },
       { protocol: 'https', hostname: 'static.matterport.com' },
       { protocol: 'https', hostname: 'cdn.pannellum.org' },
       { protocol: 'https', hostname: 'cdn.jsdelivr.net' },
-      { protocol: 'https', hostname: 'ajax.googleapis.com' },
+      // OpenStreetMap for maps
+      { protocol: 'https', hostname: 'tile.openstreetmap.org', pathname: '/**' },
+      { protocol: 'https', hostname: 'a.tile.openstreetmap.org', pathname: '/**' },
+      { protocol: 'https', hostname: 'b.tile.openstreetmap.org', pathname: '/**' },
+      { protocol: 'https', hostname: 'c.tile.openstreetmap.org', pathname: '/**' },
+      // Analytics (if needed - can be removed if not using)
       { protocol: 'https', hostname: 'www.googletagmanager.com' },
       { protocol: 'https', hostname: 'www.google-analytics.com' },
       { protocol: 'https', hostname: '*.google-analytics.com' },
       { protocol: 'https', hostname: '*.analytics.google.com' },
       { protocol: 'https', hostname: '*.googletagmanager.com' },
-      { protocol: 'https', hostname: '*.google.com' },
-      { protocol: 'https', hostname: '*.google.co.in' },
       { protocol: 'https', hostname: '*.clarity.ms' },
       { protocol: 'https', hostname: 'scripts.clarity.ms' },
       { protocol: 'https', hostname: 'www.clarity.ms' },
@@ -99,14 +99,14 @@ const nextConfig = {
       "default-src 'self'",
       // Allow inline scripts only in development, otherwise strict
       isDev
-        ? "script-src 'self' 'unsafe-eval' 'unsafe-inline' https://maps.googleapis.com https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms"
-        : "script-src 'self' https://maps.googleapis.com https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms",
-      "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+        ? "script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms"
+        : "script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://*.clarity.ms",
+      "style-src 'self' 'unsafe-inline'",
       "img-src 'self' data: blob: https:",
-      "font-src 'self' data: https: https://fonts.gstatic.com",
-      "connect-src 'self' https://maps.googleapis.com https://api.matterport.com https://www.google-analytics.com https://*.analytics.google.com",
+      "font-src 'self' data: https:",
+      "connect-src 'self' https://tile.openstreetmap.org https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org https://api.matterport.com https://www.google-analytics.com https://*.analytics.google.com",
       "media-src 'self' https: blob:",
-      "frame-src https://www.youtube.com https://player.vimeo.com https://my.matterport.com https://view.propvr.tech https://www.google.com https://maps.google.com",
+      "frame-src https://www.youtube.com https://player.vimeo.com https://my.matterport.com https://view.propvr.tech",
       "worker-src 'self' blob:",
       "child-src 'self' blob:",
     ].join('; ');

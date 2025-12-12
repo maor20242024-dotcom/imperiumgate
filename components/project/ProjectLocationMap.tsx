@@ -1,6 +1,7 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useRef } from "react";
+import type { Map, Marker } from 'leaflet';
 
 type Props = {
   latitude?: number | null;
@@ -23,6 +24,10 @@ export default function ProjectLocationMap({
   height = "400px",
   className,
 }: Props) {
+  const mapRef = useRef<HTMLDivElement>(null);
+  const mapInstanceRef = useRef<Map | null>(null);
+  const markerRef = useRef<Marker | null>(null);
+
   const hasLatLon =
     isValidCoordinate(latitude) &&
     isValidCoordinate(longitude) &&
@@ -30,11 +35,63 @@ export default function ProjectLocationMap({
     Math.abs(latitude as number) > 0.0001 &&
     Math.abs(longitude as number) > 0.0001;
 
-  // عند توفر الإحداثيات: استخدم تضمين خرائط Google لعرض موقع المشروع فقط
-  if (hasLatLon) {
+  // عند توفر الإحداثيات: استخدم Leaflet مع OpenStreetMap
+  useEffect(() => {
+    if (!hasLatLon || !mapRef.current) return;
+
     const lat = latitude as number;
     const lon = longitude as number;
-    const src = `https://maps.google.com/maps?q=${lat},${lon}&t=&z=15&ie=UTF8&iwloc=&output=embed`;
+
+    // تحميل Leaflet ديناميكياً لتجنب مشاكل SSR
+    import('leaflet').then((L) => {
+      // تنظيف الخريطة السابقة إذا كانت موجودة
+      if (mapInstanceRef.current) {
+        mapInstanceRef.current.remove();
+      }
+
+      // إنشاء الخريطة
+      const map = L.default.map(mapRef.current!, {
+        center: [lat, lon],
+        zoom: 15,
+        zoomControl: true,
+        scrollWheelZoom: false,
+        attributionControl: true
+      });
+
+      // إضافة طبقة OpenStreetMap
+      L.default.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 19
+      }).addTo(map);
+
+      // إضافة علامة الموقع
+      const marker = L.default.marker([lat, lon]).addTo(map);
+      
+      // إضافة نافذة معلومات
+      const popupContent = title || locationText || 'موقع المشروع';
+      marker.bindPopup(popupContent);
+
+      // حفظ نسخة من الخريطة للتنظيف
+      mapInstanceRef.current = map;
+      markerRef.current = marker;
+
+      // إعادة ضبط الخريطة بعد التحميل
+      setTimeout(() => {
+        map.invalidateSize();
+      }, 100);
+    });
+
+    // تنظيف الخريطة عند إلغاء التحميل
+    return () => {
+      if (mapInstanceRef.current) {
+        mapInstanceRef.current.remove();
+        mapInstanceRef.current = null;
+        markerRef.current = null;
+      }
+    };
+  }, [latitude, longitude, title, locationText, hasLatLon]);
+
+  if (hasLatLon) {
     return (
       <div
         className={
@@ -43,47 +100,26 @@ export default function ProjectLocationMap({
         }
         style={{ height }}
       >
-        <iframe
-          title={title ?? "Project Location Map"}
-          src={src}
-          width="100%"
-          height="100%"
-          loading="lazy"
-          style={{ border: 0 }}
-          referrerPolicy="no-referrer-when-downgrade"
-          allowFullScreen
-        />
+        <div 
+          ref={mapRef}
+          className="w-full h-full"
+          style={{ height: '100%' }}
+        >
+          {/* رسالة تحميل */}
+          <div className="w-full h-full flex items-center justify-center bg-gray-100">
+            <div className="text-center">
+              <div className="text-4xl mb-4 animate-pulse">🗺️</div>
+              <p className="text-gray-700 font-medium">
+                جاري تحميل الخريطة...
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     );
   }
 
-  // Fallback: Google Maps embed using location text if provided.
-  const q = (locationText ?? title ?? "").trim();
-  if (q.length > 0) {
-    const src = `https://maps.google.com/maps?q=${encodeURIComponent(q)}&t=&z=13&ie=UTF8&iwloc=&output=embed`;
-    return (
-      <div
-        className={
-          "rounded-lg overflow-hidden border border-[var(--gold)] shadow-[0_0_0_1px_rgba(var(--gold-rgb),0.25)] " +
-          (className ?? "")
-        }
-        style={{ height }}
-      >
-        <iframe
-          title={title ?? "Project Location Map"}
-          src={src}
-          width="100%"
-          height="100%"
-          loading="lazy"
-          style={{ border: 0 }}
-          referrerPolicy="no-referrer-when-downgrade"
-          allowFullScreen
-        />
-      </div>
-    );
-  }
-
-  // No coordinates and no location text available.
+  // No coordinates available
   return (
     <div
       className={
