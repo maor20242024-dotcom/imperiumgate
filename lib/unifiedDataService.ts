@@ -94,6 +94,8 @@ function isAllowedUrl(url: any): boolean {
   const lower = url.toLowerCase();
   // User requested to remove any link that resolves to 'bayut-production'
   if (lower.includes('bayut-production')) return false;
+  // Strictly remove ANY link containing "bayut"
+  if (lower.includes('bayut')) return false;
   // Block invalid placeholder images (e.g. Binghatti currency symbol)
   if (lower.includes('uae_dirham_symbol')) return false;
   return true;
@@ -122,8 +124,17 @@ function validateAndNormalizeProject(rawProject: any, filename: string, develope
       // Apply fallback to all localized fields
       country: applyLanguageFallback(rawProject.country || rawProject.extra?.country),
       city: applyLanguageFallback(rawProject.city || rawProject.extra?.city),
-      area: applyLanguageFallback(rawProject.area || rawProject.extra?.area),
-      location: applyLanguageFallback(rawProject.location || rawProject.extra?.location),
+      area: applyLanguageFallback(
+        rawProject.area ||
+        rawProject.extra?.area ||
+        // Fallbacks for missing area field:
+        // 1. Try community slug (often indicates the area)
+        (rawProject.community_slug ? { en: titleCase(rawProject.community_slug), ar: titleCase(rawProject.community_slug) } : undefined) ||
+        // 2. Try location/district fields (Binghatti uses location_en/district_en)
+        (rawProject.location_en ? { en: rawProject.location_en, ar: rawProject.location_ar || rawProject.location_en } : undefined) ||
+        (rawProject.district_en ? { en: rawProject.district_en, ar: rawProject.district_ar || rawProject.district_en } : undefined)
+      ),
+      location: applyLanguageFallback(rawProject.location || rawProject.location_en || rawProject.extra?.location),
       description: applyLanguageFallback(rawProject.description || rawProject.extra?.description || { en: rawProject.description_en, ar: rawProject.description_ar }),
       summary: applyLanguageFallback(rawProject.summary || rawProject.extra?.summary),
       insights: applyLanguageFallback(rawProject.insights || rawProject.extra?.insights),
@@ -216,7 +227,11 @@ function validateAndNormalizeProject(rawProject: any, filename: string, develope
       amenities: Array.isArray(rawProject.amenities) ?
         rawProject.amenities.map((amenity: any) => {
           // Normalize amenity input (string or object)
-          const nameInput = typeof amenity === 'string' ? amenity : amenity.name || amenity.en;
+          // Fix for amenities that are objects without a 'name' property but have localized fields
+          const nameInput = typeof amenity === 'string' ? amenity :
+                            (amenity.name ? amenity.name :
+                             (amenity.en || amenity.ar ? amenity : undefined));
+
           return {
             name: applyLanguageFallback(nameInput, 'amenity') || { en: 'Amenity', ar: 'مرفق' },
             description: applyLanguageFallback(amenity.description)
@@ -226,6 +241,15 @@ function validateAndNormalizeProject(rawProject: any, filename: string, develope
       mapPointsOfInterest: [],
       news: Array.isArray(rawProject.news) ? rawProject.news : [],
       contact: typeof rawProject.contact === 'object' ? rawProject.contact : undefined,
+
+      // Standardized Arrays - Ensure they exist even if empty
+      paymentPlan: Array.isArray(rawProject.paymentPlan) ? rawProject.paymentPlan :
+                  (Array.isArray(rawProject.payment_plan?.installments) ? rawProject.payment_plan.installments :
+                   (typeof rawProject.payment_plan === 'string' ? [{ title: { en: rawProject.payment_plan, ar: rawProject.payment_plan } }] : [])),
+
+      nearbyLandmarks: Array.isArray(rawProject.nearbyLandmarks) ? rawProject.nearbyLandmarks : [],
+      transport: Array.isArray(rawProject.transport) ? rawProject.transport : [],
+      features: Array.isArray(rawProject.features) ? rawProject.features : [],
 
       // Additional fields
       projectPageLink: typeof rawProject.projectPageLink === 'string' ? rawProject.projectPageLink.trim() || undefined : undefined,

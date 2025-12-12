@@ -111,5 +111,11 @@ export interface Project {
   news?: NewsItem[];
   contact?: Contact;
 
+  // Standardized Arrays (Ensured to exist, even if empty)
+  paymentPlan?: any[]; // Array of installment details
+  nearbyLandmarks?: MapPOI[]; // Array of nearby places
+  transport?: MapPOI[]; // Array of transport options
+  features?: LocalizedString[]; // Distinct from amenities if needed
+
   [k: string]: any;
 }

@@ -6,7 +6,7 @@ const developerProfiles = {
   damac: {
     slug: 'damac',
     name: 'DAMAC Properties',
-    logo: '/media/damac-logo-white.png',
+    logo: '/media/logo/damac-logo-white.png',
     description: 'DAMAC Properties is a leading luxury real estate developer in the Middle East, delivering world-class residential, commercial, and leisure properties since 2002.',
     founded: '2002',
     headquarters: 'Dubai, UAE',
@@ -14,7 +14,7 @@ const developerProfiles = {
   emaar: {
     slug: 'emaar',
     name: 'Emaar Properties',
-    logo: '/media/emaar-logo-white.png',
+    logo: '/media/logo/emaar-logo-white.png',
     description: 'Emaar Properties is a global property developer and provider of premium lifestyles, with a significant presence across the Middle East, North Africa, and Asia since 1997.',
     founded: '1997',
     headquarters: 'Dubai, UAE',
@@ -22,7 +22,7 @@ const developerProfiles = {
   nakheel: {
     slug: 'nakheel',
     name: 'Nakheel Properties',
-    logo: '/media/nakheel-logo-white.png',
+    logo: '/media/logo/nakheel-logo-white.png',
     description: 'Nakheel is a world-leading master developer whose innovative, landmark projects form an iconic portfolio of master communities and retail, hospitality, and leisure developments.',
     founded: '2000',
     headquarters: 'Dubai, UAE',
@@ -30,7 +30,7 @@ const developerProfiles = {
   sobha: {
     slug: 'sobha',
     name: 'Sobha Realty',
-    logo: '/media/Sobha-logo-white.png',
+    logo: '/media/logo/sobha-logo-white.png',
     description: 'Sobha Realty is a leading international property developer committed to redefining residential and commercial luxury in Dubai and beyond.',
     founded: '2003',
     headquarters: 'Dubai, UAE',
@@ -38,7 +38,7 @@ const developerProfiles = {
   binghatti: {
     slug: 'binghatti',
     name: 'Binghatti Developers',
-    logo: '/media/binghatti-logo-white.png',
+    logo: '/media/logo/binghatti-logo-white.png',
     description: 'Binghatti is the UAE\'s leading property development company, renowned for innovative architectural designs and luxurious residential communities.',
     founded: '2008',
     headquarters: 'Dubai, UAE',

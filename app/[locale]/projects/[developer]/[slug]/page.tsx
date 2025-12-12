@@ -14,6 +14,8 @@ import SectionNav from '@/components/project/SectionNav';
 import ProjectLocationMapWrapper from '@/components/project/ProjectLocationMapWrapper';
 import ThreeDTourButton from '@/components/project/3DTourButton';
 import VideoBlock from '@/components/project/VideoBlock';
+import PaymentPlan from '@/components/project/PaymentPlan';
+import NearbyLandmarks from '@/components/project/NearbyLandmarks';
 import ROICalculator from '@/components/ui/ROICalculator';
 import { deriveProjectLatLon } from '@/lib/geo';
 import { type Locale } from '@/lib/i18n-utils';
@@ -101,6 +103,10 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
   const hasInsights = !!legacyProject.insights;
   const hasNews = Array.isArray(legacyProject.news) && legacyProject.news.length > 0;
   const hasContact = !!legacyProject.contact;
+
+  // New Standardized Arrays
+  const hasPaymentPlan = Array.isArray(legacyProject.paymentPlan) && legacyProject.paymentPlan.length > 0;
+  const hasNearby = Array.isArray(legacyProject.nearbyLandmarks) && legacyProject.nearbyLandmarks.length > 0;
 
   // We are missing 'related' logic with new pipeline. 
   // We can just show other projects from same developer for now?
@@ -202,6 +208,14 @@ export default async function ProjectDetail({ params }: { params: Promise<{ loca
       {hasAmenities && (
         <div id="amenities" className="max-w-6xl mx-auto px-6 py-16">
           <AmenitiesGrid amenities={legacyProject.amenities!} locale={locale} />
+        </div>
+      )}
+
+      {/* New Payment Plan & Nearby Landmarks Sections */}
+      {(hasPaymentPlan || hasNearby) && (
+        <div id="details" className="max-w-6xl mx-auto px-6 py-8">
+           {hasPaymentPlan && <PaymentPlan plan={legacyProject.paymentPlan!} locale={locale} />}
+           {hasNearby && <NearbyLandmarks landmarks={legacyProject.nearbyLandmarks!} locale={locale} />}
         </div>
       )}
 
